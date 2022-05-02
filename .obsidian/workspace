@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IT/Programmierung/Iteratoren.md",
+            "file": "IT/Programmierung/Object Ownership.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Programmierung/Iteratoren.md",
+                "file": "IT/Programmierung/Object Ownership.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,8 @@
   },
   "active": "68b7f067a87d269d",
   "lastOpenFiles": [
+    "IT/Programmierung/Object Ownership.md",
+    "Smart Pointer.md",
     "IT/Programmierung/Iteratoren.md",
     "IT/Programmierung/C++/Templates/Function Templates.md",
     "IT/Programmierung/C++/Templates/Class Templates.md",
@@ -121,8 +123,6 @@
     "IT/Programmierung/C++/Templates/Template Argument Deduction.md",
     "IT/Programmierung/C++/Templates/Template Specialization.md",
     "IT/Programmierung/C++/Container/Sequentielle Container.md",
-    "IT/Programmierung/C++/Container/vector.md",
-    "Container.md",
-    "IT/Google.md"
+    "IT/Programmierung/C++/Container/vector.md"
   ]
 }
