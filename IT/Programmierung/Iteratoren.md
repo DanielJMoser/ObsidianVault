@@ -4,7 +4,7 @@ Werden für den Zugriff auf **Daten** (in z.B. Listen, Arrays, Containern,...) v
 Im Bereich der ==Datenbanken== wird dieser auch **Cursor** genannt.
 
 ### Bei [[Daten-Container|Containern]] in C++
-g
+
 Iteratoren sind **abstrakte Objekte**, die eine **einheitliche Schnittstelle** bieten.
 
 - Einheitlicher Zugriff auf Inhalt verschiedener Container-Implementierungen
