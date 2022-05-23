@@ -22,5 +22,4 @@ vec.size(); // Gibt aktuelle Groesse zurueck
 
 vec.clear(); //Entfernt alle Elemente
 
-```
 

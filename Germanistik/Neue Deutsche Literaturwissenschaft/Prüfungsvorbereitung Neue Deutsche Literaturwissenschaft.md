@@ -12,3 +12,4 @@ Themenfindung einer Hausarbeit. Ausarbeitung selbiger, drei Bulletpoints!
 Einordnung in Literaturepoche. 
 
 
+
