@@ -4,21 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "68b7f067a87d269d",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "juggl_view",
-          "state": {},
-          "pinned": true
-        }
-      },
-      {
         "id": "12175f37bee1480c",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "IT/Programmierung/C++/Container/map.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -75,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IT/Programmierung/C++/Container/map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,14 +79,6 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "2137ec8e7006904d",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           },
           {
@@ -125,15 +113,15 @@
   },
   "active": "12175f37bee1480c",
   "lastOpenFiles": [
+    "IT/Programmierung/C++/Container/map.md",
+    "IT/Programmierung/C++/Container/Daten-Container.md",
+    "IT/Programmierung/C++/Container/Assoziative Container.md",
+    "IT/Hacking/OSINT/EXIF Data.md",
     "IT/Hacking/OSINT/Search Engine Operators.md",
     "IT/Hacking/OSINT/Reverse Image Searching.md",
     "IT/Hacking/OSINT/Physical Location OSINT.md",
-    "IT/Programmierung/C++/Container/map.md",
-    "IT/Hacking/OSINT/EXIF Data.md",
     "Day Planners/Day Planner-20220503.md",
     "Germanistik/Dani als ungebetener Gast/Prüfungsvorbereitung.md",
-    "Germanistik/Dani als ungebetener Gast/Proseminar NDL?.md",
-    "Germanistik/Vormärz.md",
-    "Germanistik/Realismus.md"
+    "Germanistik/Dani als ungebetener Gast/Proseminar NDL?.md"
   ]
 }
