@@ -104,8 +104,17 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "88e61ebe59544569",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -114,6 +123,7 @@
   "active": "697f9bc0a41a9a86",
   "lastOpenFiles": [
     "Germanistik/Dani als ungebetener Gast/Geschlossenes Drama.md",
+    "Germanistik/Dani als ungebetener Gast/Unterschiede Offenes und Geschlossenes Drama.md",
     "Germanistik/Dani als ungebetener Gast/Proseminar NDL?.md",
     "IT/Programmierung/C++/Container/map.md",
     "IT/Programmierung/C++/Container/Daten-Container.md",
@@ -121,7 +131,6 @@
     "IT/Hacking/OSINT/EXIF Data.md",
     "IT/Hacking/OSINT/Search Engine Operators.md",
     "IT/Hacking/OSINT/Reverse Image Searching.md",
-    "IT/Hacking/OSINT/Physical Location OSINT.md",
-    "Day Planners/Day Planner-20220503.md"
+    "IT/Hacking/OSINT/Physical Location OSINT.md"
   ]
 }
