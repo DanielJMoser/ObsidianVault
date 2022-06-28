@@ -4,3 +4,6 @@
 
 **Stilistik:** Stilmerkmale eines Textes soll beschrieben werden (Abweichungen der Alltagssprache im Satzbau, Metaphorik, Metonymie, Allegorie,...)
 
+
+
+

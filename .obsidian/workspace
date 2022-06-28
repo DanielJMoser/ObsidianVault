@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rhetorik, Stilistik, Poetik.md",
+            "file": "Rhetorik.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rhetorik, Stilistik, Poetik.md",
+                "file": "Rhetorik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -121,6 +122,7 @@
   },
   "active": "697f9bc0a41a9a86",
   "lastOpenFiles": [
+    "Rhetorik.md",
     "Rhetorik, Stilistik, Poetik.md",
     "Germanistik/Dani als ungebetener Gast/Geschlossenes Drama.md",
     "Germanistik/Dani als ungebetener Gast/Unterschiede Offenes und Geschlossenes Drama.md",
@@ -129,7 +131,6 @@
     "IT/Programmierung/C++/Container/Daten-Container.md",
     "IT/Programmierung/C++/Container/Assoziative Container.md",
     "IT/Hacking/OSINT/EXIF Data.md",
-    "IT/Hacking/OSINT/Search Engine Operators.md",
-    "IT/Hacking/OSINT/Reverse Image Searching.md"
+    "IT/Hacking/OSINT/Search Engine Operators.md"
   ]
 }
