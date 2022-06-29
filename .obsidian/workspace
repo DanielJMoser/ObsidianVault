@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rhetorik.md",
+            "file": "IT/Embedded Systems/Embedded Systems.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rhetorik.md",
+                "file": "IT/Embedded Systems/Embedded Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +122,7 @@
   },
   "active": "697f9bc0a41a9a86",
   "lastOpenFiles": [
+    "IT/Embedded Systems/Embedded Systems.md",
     "Rhetorik.md",
     "Rhetorik, Stilistik, Poetik.md",
     "Germanistik/Dani als ungebetener Gast/Geschlossenes Drama.md",
@@ -130,7 +131,6 @@
     "IT/Programmierung/C++/Container/map.md",
     "IT/Programmierung/C++/Container/Daten-Container.md",
     "IT/Programmierung/C++/Container/Assoziative Container.md",
-    "IT/Hacking/OSINT/EXIF Data.md",
-    "IT/Hacking/OSINT/Search Engine Operators.md"
+    "IT/Hacking/OSINT/EXIF Data.md"
   ]
 }
