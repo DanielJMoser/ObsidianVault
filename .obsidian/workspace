@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IT/Embedded Systems/Embedded Systems.md",
+            "file": "Excalidraw/Drawing 2022-06-29 04.47.35.excalidraw.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -54,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 176.5083885192871
+    "width": 260.5014476776123
   },
   "right": {
     "id": "22b70099ee710ea1",
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Embedded Systems/Embedded Systems.md",
+                "file": "Excalidraw/Drawing 2022-06-29 04.47.35.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +113,17 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 296.1495666503906,
+    "collapsed": true
   },
   "active": "697f9bc0a41a9a86",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2022-06-29 04.47.35.excalidraw.md",
+    "Technische Systeme.md",
     "IT/Embedded Systems/Embedded Systems.md",
     "Rhetorik.md",
     "Rhetorik, Stilistik, Poetik.md",
@@ -129,8 +131,6 @@
     "Germanistik/Dani als ungebetener Gast/Unterschiede Offenes und Geschlossenes Drama.md",
     "Germanistik/Dani als ungebetener Gast/Proseminar NDL?.md",
     "IT/Programmierung/C++/Container/map.md",
-    "IT/Programmierung/C++/Container/Daten-Container.md",
-    "IT/Programmierung/C++/Container/Assoziative Container.md",
-    "IT/Hacking/OSINT/EXIF Data.md"
+    "IT/Programmierung/C++/Container/Daten-Container.md"
   ]
 }
