@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "697f9bc0a41a9a86",
+        "id": "5f053101ba80e42a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Excalidraw/Drawing 2022-06-29 04.47.35.excalidraw.md",
+            "file": "Germanistik/Realismus.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2022-06-29 04.47.35.excalidraw.md",
+                "file": "Germanistik/Realismus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,20 +117,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.1495666503906,
-    "collapsed": true
+    "width": 296.1495666503906
   },
-  "active": "697f9bc0a41a9a86",
+  "active": "5f053101ba80e42a",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2022-06-29 04.47.35.excalidraw.md",
-    "Technische Systeme.md",
-    "IT/Embedded Systems/Embedded Systems.md",
-    "Rhetorik.md",
-    "Rhetorik, Stilistik, Poetik.md",
-    "Germanistik/Dani als ungebetener Gast/Geschlossenes Drama.md",
+    "Germanistik/Realismus.md",
+    "Germanistik/Vormärz.md",
+    "Germanistik/Neue Deutsche Literaturwissenschaft/Taktmetrik.md",
+    "Germanistik/Neue Deutsche Literaturwissenschaft/Prüfungsvorbereitung Neue Deutsche Literaturwissenschaft.md",
     "Germanistik/Dani als ungebetener Gast/Unterschiede Offenes und Geschlossenes Drama.md",
+    "Germanistik/Dani als ungebetener Gast/Geschlossenes Drama.md",
     "Germanistik/Dani als ungebetener Gast/Proseminar NDL?.md",
-    "IT/Programmierung/C++/Container/map.md",
-    "IT/Programmierung/C++/Container/Daten-Container.md"
+    "IT/Embedded Systems/Technische Systeme.md",
+    "IT/Embedded Systems/_Embedded Systems.md",
+    "IT/Programmierung/C++/Templates/Class Templates.md"
   ]
 }
