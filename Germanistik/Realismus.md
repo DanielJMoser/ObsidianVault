@@ -6,4 +6,4 @@ Erzähler objektiv, nicht sichtbar.
 
 
 
-#ProseminarNeueDeutscheLiteraturwissenschaften 
+[[ProseminarNeueDeutscheLiteraturwissenschaften]] 

@@ -4,7 +4,7 @@ Um gezielt nach gwissem Content zu suchen, können sogenannte **Search Engine Op
 
 Wir suchen nach *OSINT*, eine Anfrage, welche wir genau so in unser Suchfenster eingeben könnten.
 
-<mark style="background: #FFB8EBA6;">Alternativ zum Folgenden: Google Advanced Search</mark> 
+<mark style="background: [[FFB8EBA6]];">Alternativ zum Folgenden: Google Advanced Search</mark> 
 
 
 - **Wollen wir aber *nur* Suchergebnisse auf Reddit, so geben wir ein:**

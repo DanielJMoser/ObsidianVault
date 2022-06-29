@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Germanistik/Realismus.md",
+            "file": "IT/Embedded Systems/Eingebettete Software.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Germanistik/Realismus.md",
+                "file": "IT/Embedded Systems/Eingebettete Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,23 +113,25 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 296.1495666503906
+    "width": 296.1495666503906,
+    "collapsed": true
   },
   "active": "5f053101ba80e42a",
   "lastOpenFiles": [
-    "Germanistik/Realismus.md",
-    "Germanistik/Vormärz.md",
-    "Germanistik/Neue Deutsche Literaturwissenschaft/Taktmetrik.md",
-    "Germanistik/Neue Deutsche Literaturwissenschaft/Prüfungsvorbereitung Neue Deutsche Literaturwissenschaft.md",
-    "Germanistik/Dani als ungebetener Gast/Unterschiede Offenes und Geschlossenes Drama.md",
-    "Germanistik/Dani als ungebetener Gast/Geschlossenes Drama.md",
-    "Germanistik/Dani als ungebetener Gast/Proseminar NDL?.md",
+    "IT/Embedded Systems/Eingebettete Software.md",
     "IT/Embedded Systems/Technische Systeme.md",
+    "IT/Embedded Systems/Mikrocontroller.md",
+    "IT/Embedded Systems/Arduino.md",
     "IT/Embedded Systems/_Embedded Systems.md",
-    "IT/Programmierung/C++/Templates/Class Templates.md"
+    "IT/Programmierung/C++/Templates/Function Templates.md",
+    "IT/Programmierung/C++/Templates/Class Templates.md",
+    "IT/Programmierung/C++/Templates/_Templates.md",
+    "IT/Programmierung/C++/Templates/Template Argument Deduction.md",
+    "IT/Programmierung/C++/Templates/Template Specialization.md"
   ]
 }

@@ -88,9 +88,9 @@ Wir unterscheiden zwischen folgenden Arten von Templates:
 
 Oftmals können die spitzen Klammern auch weggelassen werden: [[Template Argument Deduction]]
 
-Code-Generierung funktioniert **on-demand**, stößt der Compiler also auf ein Template, wird dieses erst relevant, wenn explizit aufgerufen. Da jede cpp-Datei eine eigenständige **Compilation Unit** bildet, also unabhängig voneinander übersetzt wird, können Templates ebenfalls nicht einfach vorkompiliert und in mehreren Files eingesetzt werden. ( #on-demand )
+Code-Generierung funktioniert **on-demand**, stößt der Compiler also auf ein Template, wird dieses erst relevant, wenn explizit aufgerufen. Da jede cpp-Datei eine eigenständige **Compilation Unit** bildet, also unabhängig voneinander übersetzt wird, können Templates ebenfalls nicht einfach vorkompiliert und in mehreren Files eingesetzt werden. ( [[on-demand]] )
 
-<mark style="background: #FFB8EBA6;">Zum Einsatz in mehreren Compilation Units</mark> -> Alle Bestandteile des Templates ins jeweilige **Header-File!**
+<mark style="background: [[FFB8EBA6]];">Zum Einsatz in mehreren Compilation Units</mark> -> Alle Bestandteile des Templates ins jeweilige **Header-File!**
 
 
 Obige *sum*-Funktion kann nur für Datentypen eingesetzt werden, für die der **"+="-Operator** definiert ist. Um das zu umgehen: [[Template Specialization]].
@@ -110,6 +110,6 @@ Fortgeschrittene Features brauchen viel Hintergrundwissen!
   - Statische Codeanalyse in IDEs wird dadurch erschwert.
 
 - **_Keine Saubere Trennung von Deklaration und Definition 
-  - Siehe: oben ( #on-demand )
+  - Siehe: oben ( [[on-demand]] )
 
 

@@ -4,8 +4,12 @@
 
 Auf diesem sind alle wesentlichen Bauteile verhanden, er muss nur noch mit Strom versorgt werden.
 
+--------------------------------------------------------
+
+## System-on-a-Chip
 
 Solche Systeme werden auch **"System-on-a-Chip"** genannt!
+
 
 * Nicht jedes SoC ist dabei ein Mikrocontroller!
 * Auch wenn mehrere, aber nicht alle Komponenten auf besagtem Chip zu finden sind, spricht man von einem SoC. Dies ist etwa bei Einplatinenrechnern der Fall.

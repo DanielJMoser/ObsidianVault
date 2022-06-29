@@ -3,13 +3,13 @@
 ### std::map
 
 Inkludiert via **#include < map >**
-ooo
+
 
 ```cpp
 
-#include <map>
+[[include]] <map>
 
-std::map<std::string, int> map; // Erzeugt Container
+std==map<std==string, int> map; // Erzeugt Container
 
 map["key1"] = 42; // Speichert Key−Value Paar
 
