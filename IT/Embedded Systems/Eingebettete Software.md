@@ -40,5 +40,6 @@ Dieser soll möglichst niedrig sein, bei Batteriebetriebenen Systemen oft im Mil
 "Verbrauchte" Energie wird als **Wärme** wieder abgeführt.
 Hitzeableitsysteme sind bei [[Mikrocontroller#System-on-a-Chip|SoC]]s oft schwierig oder unmöglich zu realisieren. Daher oft **höhere Betriebstemperaturen** als bei anderen Computersystemen.
 
+
 -----------------------------------------------------------
 

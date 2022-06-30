@@ -19,6 +19,8 @@ Dabei nimmt dieser entweder **Überwachungs-, Steuerungs- oder Regelfunktionen**
 ## Inhaltsverzeichnis:
 
 * [[Arduino]]
+* [[Eingebettete Software]]
+* [[Mikrocontroller]]
 * [[Technische Systeme]]
 
 
