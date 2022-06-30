@@ -22,7 +22,7 @@
 
 -----------------------------------------------------
 
-## Ressourcenverbrauch
+## Herstellung
 
 Niedrige Hardwarekosten durch **Massenproduktion**.
 Es gilt:
@@ -32,13 +32,6 @@ Es gilt:
 Kosten für Hardware allerdings **direkt!**
 Daher wird ein **höherer Entwicklungsaufwand** in Kauf genommen, um schlankere und hardwareoptimierte Software zu bauen.
 
-
-#### Energieverbrauch
-
-Dieser soll möglichst niedrig sein, bei Batteriebetriebenen Systemen oft im Milliwattbereich. 
-
-"Verbrauchte" Energie wird als **Wärme** wieder abgeführt.
-Hitzeableitsysteme sind bei [[_Mikrocontroller#System-on-a-Chip|SoC]]s oft schwierig oder unmöglich zu realisieren. Daher oft **höhere Betriebstemperaturen** als bei anderen Computersystemen.
 
 
 -----------------------------------------------------------

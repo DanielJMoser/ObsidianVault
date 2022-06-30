@@ -18,7 +18,7 @@ Diese wird durch einen **Parameter dieser Größe kodiert** (z.B. Amplitude, Pha
 
 ---------------------------------------------------
 
-Ein [[_Mikrocontroller]] kann nur **Zeit- und Wertdiskrete** Signale verarbeiten.
+Ein [[_Mikrocontroller|Mikrocontroller]] kann nur **Zeit- und Wertdiskrete** Signale verarbeiten.
 
 Kontinuierliche Signale weden daher ***diskretisiert*.**
 

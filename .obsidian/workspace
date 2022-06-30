@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IT/Embedded Systems/Signale/Rückführung.md",
+            "file": "IT/Embedded Systems/_Embedded Systems.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Embedded Systems/Signale/Rückführung.md",
+                "file": "IT/Embedded Systems/_Embedded Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,15 +122,15 @@
   },
   "active": "2c37abd52b8ae103",
   "lastOpenFiles": [
-    "IT/Embedded Systems/Signale/Rückführung.md",
-    "IT/Embedded Systems/Signale/_Signale.md",
-    "IT/Embedded Systems/Signale/Amplitudenquantisierung.md",
-    "IT/Embedded Systems/Signale/Abtastung.md",
-    "IT/Embedded Systems/Signale/Analog-Digital-Wandler.md",
-    "IT/Embedded Systems/Mikrocontroller/_Mikrocontroller.md",
-    "IT/Embedded Systems/Mikrocontroller/Arduino.md",
-    "IT/Embedded Systems/Eingebettete Software.md",
+    "IT/Embedded Systems/_Embedded Systems.md",
+    "IT/Embedded Systems/Eingebettete Software/Entwicklung von ES.md",
+    "IT/Embedded Systems/Eingebettete Software/Eigenschaften ES.md",
+    "IT/Embedded Systems/Eingebettete Software/_Eingebettete Software.md",
+    "IT/Embedded Systems/Eingebettete Software/Aufbau ES.md",
+    "IT/Embedded Systems/Bussysteme.md",
     "IT/Embedded Systems/Technische Systeme.md",
-    "Germanistik/Untitled.md"
+    "IT/Embedded Systems/Signale/Rückführung.md",
+    "IT/Embedded Systems/Signale/Analog-Digital-Wandler.md",
+    "IT/Embedded Systems/Signale/Abtastung.md"
   ]
 }

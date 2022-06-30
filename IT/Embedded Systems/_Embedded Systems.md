@@ -10,7 +10,7 @@ Dabei nimmt dieser entweder **Überwachungs-, Steuerungs- oder Regelfunktionen**
 
 ***Eingesetzt werden:***
 
- * [[_Mikrocontroller]]
+ * [[_Mikrocontroller|Mikrocontroller]]
  * Einplatinenrechner
  * x86-Computer
 
@@ -19,7 +19,7 @@ Dabei nimmt dieser entweder **Überwachungs-, Steuerungs- oder Regelfunktionen**
 ## Inhaltsverzeichnis:
 
 * [[Arduino]]
-* [[Eingebettete Software]]
+* [[_Eingebettete Software]]
 * [[_Mikrocontroller]]
 * [[Technische Systeme]]
 
