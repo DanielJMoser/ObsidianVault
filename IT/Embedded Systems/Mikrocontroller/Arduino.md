@@ -1,6 +1,6 @@
 # Arduino
 
--> [[Mikrocontroller]] der Firma *Arduino LLC.*
+-> [[_Mikrocontroller|Mikrocontroller]] der Firma *Arduino LLC.*
 
 Da die Schaltpläne unter Open-Source Lizenz verfügbar sind, finden sich viele (oft gleich- oder hochwertigere) Klone anderer Hersteller im Netz.
 

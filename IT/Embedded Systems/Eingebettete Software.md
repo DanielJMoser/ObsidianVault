@@ -38,7 +38,7 @@ Daher wird ein **höherer Entwicklungsaufwand** in Kauf genommen, um schlankere 
 Dieser soll möglichst niedrig sein, bei Batteriebetriebenen Systemen oft im Milliwattbereich. 
 
 "Verbrauchte" Energie wird als **Wärme** wieder abgeführt.
-Hitzeableitsysteme sind bei [[Mikrocontroller#System-on-a-Chip|SoC]]s oft schwierig oder unmöglich zu realisieren. Daher oft **höhere Betriebstemperaturen** als bei anderen Computersystemen.
+Hitzeableitsysteme sind bei [[_Mikrocontroller#System-on-a-Chip|SoC]]s oft schwierig oder unmöglich zu realisieren. Daher oft **höhere Betriebstemperaturen** als bei anderen Computersystemen.
 
 
 -----------------------------------------------------------

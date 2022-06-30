@@ -2,7 +2,7 @@
 
 **-> Ein-Chip-Computersysteme**
 
-Auf diesem sind alle wesentlichen Bauteile verhanden, er muss nur noch mit Strom versorgt werden. Ein Mikrocontroller kann nur **Zeit- und Wertdiskrete** [[_Signale]] verarbeiten.
+Auf diesem sind alle wesentlichen Bauteile verhanden, er muss nur noch mit Strom versorgt werden. Ein Mikrocontroller kann nur **Zeit- und Wertdiskrete** [[_Signale|Signale]] verarbeiten.
 
 --------------------------------------------------------
 

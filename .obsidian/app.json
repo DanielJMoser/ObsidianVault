@@ -4,5 +4,6 @@
   "readableLineLength": true,
   "trashOption": "local",
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "attachmentFolderPath": "IT/Embedded Systems/Drawings"
 }
