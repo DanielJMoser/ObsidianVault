@@ -1,4 +1,6 @@
 # Analog-Digital-Wander
+#embeddedsystems 
+
 -> auch: *A/D-Wandler, ADC*
 
 Dieser wandelt ein **anliegendes Spannungssignal** in einen **numerischen Wert** um.

@@ -1,4 +1,5 @@
 # Aufbau
+#embeddedsystems
 
 ***Zwei grobe Unterteilungen:***
 
@@ -19,7 +20,7 @@
 
 -> Oftmals bestehend aus **mehreren Teilsystemen!**
 
-Diese werden **Steuergeräte** oder **Electronic Control Unit** (ECU) genannt und sind durch ein **Kommunikationsnetzwerk** (i.d.R. [[Bussysteme]]) verbunden.
+Diese werden **Steuergeräte** oder **Electronic Control Unit** (ECU) genannt und sind durch ein **Kommunikationsnetzwerk** (i.d.R. [[Bus-Systeme]]) verbunden.
 
 Zwischen den, oftmals von **unterschiedlichen Entwicklerteams** ins Leben gerufenen, Teilsystemen existieren **eindeutig definierte Schnittstellen** nach dem *Teile-und-Herrsche*-Prinzip.
 

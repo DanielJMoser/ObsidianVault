@@ -1,4 +1,6 @@
 # Eigenschaften
+#embeddedsystems
+
 -> Drei Kerneigenschaften:
 
 * **niedriger Energieverbrauch

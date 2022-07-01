@@ -1,4 +1,5 @@
 # Technische Systeme
+#embeddedsystems
 
 -> (mathematisches) Modell, welches die Abbildung von **Eingangssignalen auf Ausgangssignale** (auch ***Transformationsfunktion*** genannt) beschreibt.
 
