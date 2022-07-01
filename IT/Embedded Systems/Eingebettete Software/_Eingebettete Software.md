@@ -18,7 +18,7 @@
 * Hohe Anforderungen an **Verfügbarkeit, Zuverlässigkeit und Betriebssicherheit**!
   * Reaktion in Echtzeit!
   * Menschenleben (je nach Einsatzgebiet) schnell in Gefahr!
-  * Wartung oft nicht einfach möglich!
+  * Wartung oft **nicht einfach möglich** und äußerst langwierig!
 
 -----------------------------------------------------
 
@@ -31,8 +31,6 @@ Es gilt:
 
 Kosten für Hardware allerdings **direkt!**
 Daher wird ein **höherer Entwicklungsaufwand** in Kauf genommen, um schlankere und hardwareoptimierte Software zu bauen.
-
-
 
 -----------------------------------------------------------
 

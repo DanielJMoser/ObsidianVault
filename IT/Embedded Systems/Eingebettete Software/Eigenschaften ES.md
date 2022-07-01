@@ -35,7 +35,8 @@ $$Verfügbarkeit = \frac{Gesamtzeit - Ausfallzeit} {Gesamtzeit}$$
 * Andere Risiken (etwa Verletzungsrisiken) **auf ein akzeptierbares Maß reduziert** werden.
 $$Risikomaß = Eintrittswahrscheinlichkeit * Kosten$$
 
-## Echtzeit
+## [[Echtzeitsysteme|Echtzeitfähigkeit bei Embedded Systems]]
+
 -> der Betrieb eines Rechnersystems, bei dem Programme zur Verarbeitung anfallender Daten **selbstständig bereit** sind, derart, dass die Verarbeitungsergebnisse **innerhalb einer vorgegebenen Zeitspanne verfügbar** sind.
 
 Oftmals strikte Vorgaben bei [[_Embedded Systems|Embedded Systems]], da Sicherheitsrisiken entstehen könnten.
