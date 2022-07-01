@@ -42,7 +42,6 @@ int float (float array[], int n) {
 ^b78a07
 
 
-
 Diese sind bis auf die Datentypen Ident! Ein [[Metaprogramm]] kann hier helfen, unnötigen Code zu vermeiden und die Datentypen auszutauschen:
 
 ```cpp
@@ -90,7 +89,7 @@ Oftmals können die spitzen Klammern auch weggelassen werden: [[Template Argumen
 
 Code-Generierung funktioniert **on-demand**, stößt der Compiler also auf ein Template, wird dieses erst relevant, wenn explizit aufgerufen. Da jede cpp-Datei eine eigenständige **Compilation Unit** bildet, also unabhängig voneinander übersetzt wird, können Templates ebenfalls nicht einfach vorkompiliert und in mehreren Files eingesetzt werden. ( [[on-demand]] )
 
-<mark style="background: [[FFB8EBA6]];">Zum Einsatz in mehreren Compilation Units</mark> -> Alle Bestandteile des Templates ins jeweilige **Header-File!**
+***Zum Einsatz in mehreren Compilation Units*** -> Alle Bestandteile des Templates ins jeweilige **Header-File!**
 
 
 Obige *sum*-Funktion kann nur für Datentypen eingesetzt werden, für die der **"+="-Operator** definiert ist. Um das zu umgehen: [[Template Specialization]].

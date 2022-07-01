@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IT/Programmierung/C++/Templates/_Templates.md",
+            "file": "on-demand.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Programmierung/C++/Templates/_Templates.md",
+                "file": "on-demand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,15 +123,15 @@
   },
   "active": "2c37abd52b8ae103",
   "lastOpenFiles": [
+    "on-demand.md",
     "IT/Programmierung/C++/Templates/_Templates.md",
-    "IT/Systeme/Übertragung/Kommunikationsnetzwerke/_Kommunikationsnetzwerke.md",
-    "IT/Systeme/Übertragung/Kommunikationsnetzwerke/Bus-Systeme.md",
-    "IT/Systeme/Übertragung/Kommunikationsnetzwerke/I²C.md",
-    "IT/Systeme/Übertragung/Kommunikationsnetzwerke/Punkt-zu-Punkt Verbindung.md",
-    "IT/Systeme/Übertragung/Kommunikationsnetzwerke/Serielle Schnittstelle.md",
-    "IT/Systeme/Übertragung/Kommunikationsnetzwerke/CAN-Bus.md",
-    "IT/Systeme/Embedded Systems/Übertragung/Untitled.md",
-    "Controller/Controller-Target-Prinzip.md",
-    "IT/Systeme/Übertragung/Signale/Rückführung.md"
+    "IT/Programmierung/übergreifendes.../Metaprogramm.md",
+    "IT/Systeme/Echtzeitsysteme.md",
+    "Germanistik/Poetik, Rhetorik/Taktmetrik.md",
+    "Germanistik/Poetik, Rhetorik/Rhetorik, Stilistik, Poetik.md",
+    "Germanistik/Poetik, Rhetorik/Rhetorik.md",
+    "IT/Systeme/Übertragung/Signale/Abtastung.md",
+    "IT/Systeme/Übertragung/Signale/_Signale.md",
+    "IT/Systeme/Embedded Systems/Eingebettete Software/Entwicklung von ES.md"
   ]
 }
