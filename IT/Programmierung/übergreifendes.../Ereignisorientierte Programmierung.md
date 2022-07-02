@@ -1,4 +1,6 @@
 # Ereignisorientierte Programmierung
+#embeddedsystems 
+#paradigmen 
 
 Oft bei [[_Embedded Systems|Embedded Systems]] zu finden!
 
