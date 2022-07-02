@@ -3,6 +3,9 @@
 
 Da seine [[Laufzeitkomplexität]] recht hoch ist, eignet er sich nicht besonders gut für größere Datensätze.
 
+-----------------------
+
+
 ```python
 
 # Python program for implementation of Bubble Sort
