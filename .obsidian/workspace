@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IT/Systeme/Soziotechnische Systeme.md",
+            "file": "IT/Systeme/Aufbau von Computersystemen/CPU.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -44,7 +44,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Systeme/Soziotechnische Systeme.md",
+                "file": "IT/Systeme/Aufbau von Computersystemen/CPU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,15 +123,15 @@
   },
   "active": "68941c86436f5571",
   "lastOpenFiles": [
-    "IT/Systeme/Soziotechnische Systeme.md",
-    "IT/Systeme/Untitled.md",
-    "IT/Systeme/Übertragung/Signale/Amplitudenquantisierung.md",
-    "IT/Systeme/Übertragung/Signale/Abtastung.md",
-    "Controller/Controller-Target-Prinzip.md",
-    "IT/Systeme/Übertragung/Kommunikationsnetzwerke/I²C.md",
-    "IT/Programmierung/übergreifendes.../Exception Handling.md",
-    "IT/Programmierung/übergreifendes.../Iteratoren.md",
-    "IT/Programmierung/übergreifendes.../Ereignisorientierte Programmierung.md",
-    "Germanistik/Epochen/Vormärz.md"
+    "IT/Systeme/Aufbau von Computersystemen/CPU.md",
+    "IT/Systeme/Aufbau von Computersystemen/Untitled.md",
+    "IT/Systeme/Aufbau von Computersystemen/Von-Neumann-Architektur.md",
+    "IT/Systeme/Übertragung/Kommunikationsnetzwerke/Bus-Systeme.md",
+    "IT/Systeme/Embedded Systems/Eingebettete Software/Aufbau ES.md",
+    "IT/Systeme/Übertragung/Kommunikationsnetzwerke/_Kommunikationsnetzwerke.md",
+    "Excalidraw/Drawing 2022-07-02 11.07.54.excalidraw.md",
+    "Logik-Gatter.md",
+    "IT/Systeme/Aufbau von Computersystemen/_Der Computer.md",
+    "IT/Systeme/_Drawings/Drawing Abstraktionsschichten.png"
   ]
 }
