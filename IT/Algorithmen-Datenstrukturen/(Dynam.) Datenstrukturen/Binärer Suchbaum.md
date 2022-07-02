@@ -1,11 +1,7 @@
 # Binärer Suchbaum
 -> _BST_
 
-Ein binärer Suchbaum ist ein binärer Baum, wenn für alle Knoten im Baum gilt,
-dass alle Knoten im linken Unterbaum einen kleineren Schlüssel und alle Knoten
-im rechten Unterbaum einen größeren Schlüssel als die (Unter)Wurzel besitzen.
-
--> ein [[Binäre Baumstrukturen|binärer Baum]] für den gilt, dass alle Knoten im
+-> ein [[(Binäre) Baumstrukturen|binärer Baum]] für den gilt, dass alle Knoten im
 
 - <mark style="background: #FF5582A6;">linken Unterbaum</mark> einen <mark style="background: #FF5582A6;">kleineren Schlüssel</mark>
 - <mark style="background: #ADCCFFA6;">rechten Unterbaum</mark> einen <mark style="background: #ADCCFFA6;">größeren Schlüssel </mark>
@@ -42,7 +38,23 @@ id8((19)) --> id12((21));
 * find(Key k)
 * print(Tree)
 
-Im **worst-case** haben _insert/delete/find_ eine Laufzeit von
+Im **worst-case** haben _insert/delete/find_ eine Laufzeit von $$\mathcal{O(n)}$$
 
-$$\begin$$
+-----------------
+
+#### ***Pseudocode** zum Einfügen einer Node:
+
+***Gegeben***: ein **BST T** und ==einzusortierendes== **Element x**
+***Rückgabe***: Der **BST T** mit ==einsortiertem== **Element x**
+
+**Function BSTinsert(T,x)**
+_if_ ==T.root=NULL== _then_
+T.root=Node(x);
+_else if_ ==x>T.root.data== _then_
+T.root.right -> <mark style="background: #CACFD9A6;">BSTinsert</mark> (T.root.right,x);
+_else_
+T.root.left -> <mark style="background: #CACFD9A6;">BSTinsert</mark> (T.root.left,x);
+_return_ root;
+
+------------------------
 
