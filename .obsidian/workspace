@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5014476776123
+    "width": 260.5014476776123,
+    "collapsed": true
   },
   "right": {
     "id": "22b70099ee710ea1",
@@ -124,14 +125,14 @@
   "active": "68941c86436f5571",
   "lastOpenFiles": [
     "IT/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Binärer Suchbaum.md",
+    "IT/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Binäre Baumstrukturen.md",
+    "IT/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/_Datenstrukturen.md",
     "IT/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Doppelt Verkettete Listen.md",
     "Excalidraw/Drawing 2022-07-02 16.49.01.excalidraw.md",
     "Excalidraw/Drawing 2022-07-02 11.07.54.excalidraw.md",
     "Excalidraw/Drawing 2022-06-29 05.03.36.excalidraw.md",
     "Excalidraw/Drawing 2022-06-29 16.54.46.excalidraw.md",
     "IT/Algorithmen-Datenstrukturen/_Drawings/Drawing LinkedList.png",
-    "IT/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Verkettete Listen.md",
-    "IT/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/_Datenstrukturen.md",
-    "IT/Programmierung/übergreifendes.../Datentypen.md"
+    "IT/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Verkettete Listen.md"
   ]
 }
