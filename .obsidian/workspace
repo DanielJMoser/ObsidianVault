@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2c37abd52b8ae103",
+        "id": "68941c86436f5571",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IT/Systeme/Übertragung/Signale/Amplitudenquantisierung.md",
+            "file": "IT/Systeme/Soziotechnische Systeme.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Systeme/Übertragung/Signale/Amplitudenquantisierung.md",
+                "file": "IT/Systeme/Soziotechnische Systeme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,8 +121,10 @@
     "width": 296.1495666503906,
     "collapsed": true
   },
-  "active": "2c37abd52b8ae103",
+  "active": "68941c86436f5571",
   "lastOpenFiles": [
+    "IT/Systeme/Soziotechnische Systeme.md",
+    "IT/Systeme/Untitled.md",
     "IT/Systeme/Übertragung/Signale/Amplitudenquantisierung.md",
     "IT/Systeme/Übertragung/Signale/Abtastung.md",
     "Controller/Controller-Target-Prinzip.md",
@@ -130,8 +132,6 @@
     "IT/Programmierung/übergreifendes.../Exception Handling.md",
     "IT/Programmierung/übergreifendes.../Iteratoren.md",
     "IT/Programmierung/übergreifendes.../Ereignisorientierte Programmierung.md",
-    "Germanistik/Epochen/Vormärz.md",
-    "on-demand.md",
-    "IT/Programmierung/C++/Templates/_Templates.md"
+    "Germanistik/Epochen/Vormärz.md"
   ]
 }
