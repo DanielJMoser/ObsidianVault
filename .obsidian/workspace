@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IT/Algorithmen-Datenstrukturen/Sortieralgorithmen/3_Merge Sort.md",
+            "file": "IT/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Suchalgorithmen/Binäre Suche.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Algorithmen-Datenstrukturen/Sortieralgorithmen/3_Merge Sort.md",
+                "file": "IT/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Suchalgorithmen/Binäre Suche.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,15 +123,15 @@
   },
   "active": "68941c86436f5571",
   "lastOpenFiles": [
-    "IT/Algorithmen-Datenstrukturen/Sortieralgorithmen/3_Merge Sort.md",
-    "IT/Algorithmen-Datenstrukturen/Sortieralgorithmen/2_Bubble Sort.md",
+    "IT/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Suchalgorithmen/Binäre Suche.md",
+    "IT/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Suchalgorithmen/AVL-Bäume.md",
     "IT/Algorithmen-Datenstrukturen/Sortieralgorithmen/1_Insertion Sort.md",
-    "IT/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Balancierte Bäume.md",
-    "IT/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/(Binäre) Baumstrukturen.md",
-    "IT/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/_Datenstrukturen.md",
-    "IT/Algorithmen-Datenstrukturen/_Drawings/Drawing LinkedList.png",
-    "IT/Hacking/OSINT/Reverse Image Searching.md",
-    "on-demand.md",
-    "Rotation.md"
+    "IT/Algorithmen-Datenstrukturen/Sortieralgorithmen/2_Bubble Sort.md",
+    "IT/Algorithmen-Datenstrukturen/Sortieralgorithmen/3_Merge Sort.md",
+    "IT/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Suchalgorithmen/(Binäre) Baumstrukturen.md",
+    "IT/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Suchalgorithmen/Doppelt Verkettete Listen.md",
+    "IT/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Suchalgorithmen/Verkettete Listen.md",
+    "IT/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Binärer Suchbaum.md",
+    "IT/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Balancierte Bäume.md"
   ]
 }

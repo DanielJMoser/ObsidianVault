@@ -6,7 +6,7 @@
 - <mark style="background: #FF5582A6;">linken Unterbaum</mark> einen <mark style="background: #FF5582A6;">kleineren Schlüssel</mark>
 - <mark style="background: #ADCCFFA6;">rechten Unterbaum</mark> einen <mark style="background: #ADCCFFA6;">größeren Schlüssel </mark>
 
-als die **(Unter)Wurzel** besitzen.
+als die **(Unter)Wurzel** besitzen. Nach dem Prinzip der [[Binäre Suche|binären Suche]].
 
 Der Schlüssel wird hier im Knoten gespeichert! Vereinfacht kann man **Key = Data** annehmen, wobei der Key eindeutig sein muss.
 
