@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IT/Programmierung/Assembler/_Assembler.md",
+            "file": "IT/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Suchalgorithmen/Greedy-Algorithmen/Rucksackproblem.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Programmierung/Assembler/_Assembler.md",
+                "file": "IT/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Suchalgorithmen/Greedy-Algorithmen/Rucksackproblem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,15 +123,15 @@
   },
   "active": "68941c86436f5571",
   "lastOpenFiles": [
+    "IT/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Suchalgorithmen/Greedy-Algorithmen/Rucksackproblem.md",
+    "IT/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Suchalgorithmen/Greedy-Algorithmen/Problem d. Handlungsreisenden.md",
+    "IT/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Suchalgorithmen/Greedy-Algorithmen/_Greedy.md",
     "IT/Programmierung/Assembler/_Assembler.md",
     "IT/Programmierung/übergreifendes.../Maschinensprache.md",
     "IT/Systeme/Aufbau von Computersystemen/CPU.md",
     "IT/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Suchalgorithmen/Binäre Suche.md",
     "IT/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Suchalgorithmen/AVL-Bäume.md",
     "IT/Algorithmen-Datenstrukturen/Sortieralgorithmen/1_Insertion Sort.md",
-    "IT/Algorithmen-Datenstrukturen/Sortieralgorithmen/2_Bubble Sort.md",
-    "IT/Algorithmen-Datenstrukturen/Sortieralgorithmen/3_Merge Sort.md",
-    "IT/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Suchalgorithmen/(Binäre) Baumstrukturen.md",
-    "IT/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Suchalgorithmen/Doppelt Verkettete Listen.md"
+    "IT/Algorithmen-Datenstrukturen/Sortieralgorithmen/2_Bubble Sort.md"
   ]
 }
