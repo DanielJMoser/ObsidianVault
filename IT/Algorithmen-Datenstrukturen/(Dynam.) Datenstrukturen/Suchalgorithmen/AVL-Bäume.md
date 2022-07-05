@@ -22,7 +22,6 @@ Vier verschiedene Arten von [[Rotation|Rotationen]], welche sich nach dem **Einf
 - Gehe nun rückwärts (rekursiv) zur Wurzel, aktualisiere die **Höhen und Höhendifferenzen** und falls nötig **rotiere den (Unter)Baum.
 - Falls Höhendifferenz ±2 ist, ist entweder **Einfach- oder Doppelrotation** erforderlich.
 
-
 -----------------------------
 
 ## Delete bei AVL-Bäumen
