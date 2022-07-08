@@ -4,3 +4,4 @@
 [[Maschinensprache]] zählt zu den Programmiersprachen der 2. Generation und folgt der **nicht-strukturierten Programmierung.**
 
 
+

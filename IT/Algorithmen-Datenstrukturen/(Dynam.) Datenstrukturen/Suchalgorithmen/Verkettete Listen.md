@@ -1,5 +1,5 @@
-# Verkettete Listen
 
+# Verkettete Listen
 -> Eine **dynamische Datenstruktur**, deren Elemente **linear** angeordnet sind. Jedes Element besteht aus:
 
 - Key
