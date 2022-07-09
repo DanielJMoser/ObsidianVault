@@ -28,8 +28,8 @@ Eine **For-Schleife** eines [[vector]] würde so aussehen:
 
 [[include]] <vector>
 std::vector vec1;
-for (std==vector<int>==iterator it = vec1.begin();
+for (std::vector<int>::iterator it = vec1.begin();
 	it != vec1.end(); it++) {
-		std==cout << *it << std==endl;
+		std::cout << *it << std::endl;
 }
 ```
