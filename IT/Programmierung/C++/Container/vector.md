@@ -1,4 +1,4 @@
-# mector
+# vector
 
 ### std::vector
 

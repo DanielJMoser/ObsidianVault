@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IT/Systeme/Sonstige Systeme/Echtzeitsysteme.md",
+            "file": "IT/Programmierung/C++/Container/vector.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ereignisges",
+                "query": "vec",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Systeme/Sonstige Systeme/Echtzeitsysteme.md",
+                "file": "IT/Programmierung/C++/Container/vector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +124,15 @@
   },
   "active": "68941c86436f5571",
   "lastOpenFiles": [
+    "IT/Programmierung/C++/Container/Assoziative Container.md",
+    "IT/Programmierung/C++/Container/vector.md",
+    "IT/Programmierung/C++/Container/Sequentielle Container.md",
+    "IT/Programmierung/übergreifendes.../Iteratoren.md",
     "IT/Systeme/Sonstige Systeme/Echtzeitsysteme.md",
     "IT/Programmierung/Assembler/_Assembler.md",
     "IT/Systeme/Aufbau von Computersystemen/CPU.md",
     "IT/Systeme/Übertragung/Signale/Abtastung.md",
     "IT/Systeme/Übertragung/Signale/_Signale.md",
-    "IT/Systeme/Embedded Systems/Eingebettete Software/Entwicklung von ES.md",
-    "IT/Systeme/Embedded Systems/Eingebettete Software/_Eingebettete Software.md",
-    "IT/Systeme/Embedded Systems/Eingebettete Software/Eigenschaften ES.md",
-    "IT/Systeme/Übertragung/Kommunikationsnetzwerke/_Kommunikationsnetzwerke.md",
-    "IT/Systeme/Übertragung/Signale/Analog-Digital-Wandler.md"
+    "IT/Systeme/Embedded Systems/Eingebettete Software/Entwicklung von ES.md"
   ]
 }
