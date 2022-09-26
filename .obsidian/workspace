@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IT/Algorithmen-Datenstrukturen/Sortieralgorithmen/3_Merge Sort.md",
+            "file": "IT/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Suchalgorithmen/AVL-Bäume.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "quic",
+                "query": "avl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Algorithmen-Datenstrukturen/Sortieralgorithmen/3_Merge Sort.md",
+                "file": "IT/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Suchalgorithmen/AVL-Bäume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +124,8 @@
   },
   "active": "68941c86436f5571",
   "lastOpenFiles": [
+    "IT/Rotation.md",
+    "IT/Algorithmen-Datenstrukturen/Sortieralgorithmen/3_Merge Sort.md",
     "IT/Algorithmen-Datenstrukturen/Laufzeitkomplexität.md",
     "IT/Algorithmen-Datenstrukturen/Sortieralgorithmen/2_Bubble Sort.md",
     "IT/Programmierung/übergreifendes.../Iteratoren.md",
@@ -131,8 +133,6 @@
     "IT/Programmierung/C++/Container/Assoziative Container.md",
     "IT/Programmierung/C++/Container/Sequentielle Container.md",
     "IT/Systeme/Sonstige Systeme/Echtzeitsysteme.md",
-    "IT/Programmierung/Assembler/_Assembler.md",
-    "IT/Systeme/Aufbau von Computersystemen/CPU.md",
-    "IT/Systeme/Übertragung/Signale/Abtastung.md"
+    "IT/Programmierung/Assembler/_Assembler.md"
   ]
 }
