@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IT/Betriebssysteme/Speicherabstraktion/Segmentierung.md",
+            "file": "IT/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Paging.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Betriebssysteme/Speicherabstraktion/Segmentierung.md",
+                "file": "IT/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Paging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,15 +123,15 @@
   },
   "active": "68941c86436f5571",
   "lastOpenFiles": [
-    "IT/Betriebssysteme/Prozesssynchronisatio/Deadlock.md",
-    "Livelock.md",
-    "Dining Philosophers Problem.md",
-    "Petri-Netze.md",
-    "IT/Betriebssysteme/Prozesssynchronisatio/Modellierung & Implementierung.md",
-    "IT/Betriebssysteme/Prozesssynchronisatio/_Prozesssynchronisation.md",
     "IT/Kryptografie/Symmetrische Verschlüsselung.md",
-    "Germanistik/Drama/Unterschiede Offenes und Geschlossenes Drama.md",
-    "Germanistik/Drama/Geschlossenes Drama.md",
-    "IT/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Suchalgorithmen/AVL-Bäume.md"
+    "IT/Kryptografie/Asymmetrische Verschlüsselung.md",
+    "IT/Kryptografie/_Kryptografie.md",
+    "Dining Philosophers Problem.md",
+    "Hashfunktion.md",
+    "Petri-Netze.md",
+    "IT/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Paging.md",
+    "IT/Betriebssysteme/Speicherabstraktion/Adressraum.md",
+    "IT/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Multitasking-Systeme.md",
+    "IT/Betriebssysteme/Speicherabstraktion/Systeme ohne Speicherabstraktion/Relokationsproblem.md"
   ]
 }
