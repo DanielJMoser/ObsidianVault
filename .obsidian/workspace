@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IT/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Suchalgorithmen/AVL-Bäume.md",
+            "file": "IT/Betriebssysteme/Prozesssynchronisatio/Deadlock.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,8 +41,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "avl",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -50,12 +50,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 260.5014476776123
+    "width": 154.00680351257324
   },
   "right": {
     "id": "22b70099ee710ea1",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Suchalgorithmen/AVL-Bäume.md",
+                "file": "IT/Betriebssysteme/Prozesssynchronisatio/Deadlock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +123,15 @@
   },
   "active": "68941c86436f5571",
   "lastOpenFiles": [
-    "IT/Rotation.md",
-    "IT/Algorithmen-Datenstrukturen/Sortieralgorithmen/3_Merge Sort.md",
-    "IT/Algorithmen-Datenstrukturen/Laufzeitkomplexität.md",
-    "IT/Algorithmen-Datenstrukturen/Sortieralgorithmen/2_Bubble Sort.md",
-    "IT/Programmierung/übergreifendes.../Iteratoren.md",
-    "IT/Programmierung/C++/Container/vector.md",
-    "IT/Programmierung/C++/Container/Assoziative Container.md",
-    "IT/Programmierung/C++/Container/Sequentielle Container.md",
-    "IT/Systeme/Sonstige Systeme/Echtzeitsysteme.md",
-    "IT/Programmierung/Assembler/_Assembler.md"
+    "Livelock.md",
+    "IT/Betriebssysteme/Prozesssynchronisatio/Deadlock.md",
+    "Dining Philosophers Problem.md",
+    "Petri-Netze.md",
+    "IT/Betriebssysteme/Prozesssynchronisatio/Modellierung & Implementierung.md",
+    "IT/Betriebssysteme/Prozesssynchronisatio/_Prozesssynchronisation.md",
+    "IT/Kryptografie/Symmetrische Verschlüsselung.md",
+    "Germanistik/Drama/Unterschiede Offenes und Geschlossenes Drama.md",
+    "Germanistik/Drama/Geschlossenes Drama.md",
+    "IT/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Suchalgorithmen/AVL-Bäume.md"
   ]
 }

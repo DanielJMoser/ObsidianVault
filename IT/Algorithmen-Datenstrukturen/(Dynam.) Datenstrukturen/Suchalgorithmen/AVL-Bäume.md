@@ -1,4 +1,4 @@
-# AVL-Bäume
+								# AVL-Bäume
 -> nach  Georgy **A**delson-**V**elsky und Evgenii **L**andis (1962)
 
 Die Höhe jedes Knotens muss **im Knoten gespeichert** werden!
