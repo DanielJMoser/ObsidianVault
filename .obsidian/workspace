@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IT/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Paging.md",
+            "file": "Germanistik/Sprache/Einführung.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Paging.md",
+                "file": "Germanistik/Sprache/Einführung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,8 +123,8 @@
   },
   "active": "68941c86436f5571",
   "lastOpenFiles": [
-    "Petri-Netze.md",
     "IT/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Paging.md",
+    "Petri-Netze.md",
     "IT/Kryptografie/Symmetrische Verschlüsselung.md",
     "IT/Kryptografie/Asymmetrische Verschlüsselung.md",
     "IT/Kryptografie/_Kryptografie.md",
