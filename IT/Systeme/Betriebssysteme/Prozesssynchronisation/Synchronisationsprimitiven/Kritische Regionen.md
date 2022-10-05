@@ -11,6 +11,8 @@ Auf diese sollen andrer Prozesse bzw. [[Thread|Threads]] natürlich keinen Zugri
 
 Dieses Konzept wird auch ***Mutual Exclution*** genannt.
 
+___
+
 ## Anschauungsbeispiel
 
 ```c
@@ -78,11 +80,31 @@ int main() {
 
 Die Idee wäre hier, 10 000x eine 1 zu addieren. Tatsächlich sind die Ergebnisse beim Ausführen aber ziemlich **zufällig** -> fair bit of [[Race Conditions]]
 
-### ***Aber warum?***
+____
+
+## ***Aber warum?***
 
 Die kritische Region besteht im Code nur aus einer Zeile (nämlich *"*mydata += 1;*"), tatsächlich aber aus drei Schritten:
 
-1. Variable wird vom Hauptspeicher ins Register *a* geladen.
+1. Variable *s* wird vom Hauptspeicher ins Register *a* geladen. -> a = s
 2. Dort wird die Eins addiert
 3. Der neue Wert wird in den Hauptspeicher zurückgespeichert. (vgl. [[CPU#Load-Store Architektur|Load-Store Architektur bei CPUs]])
+
+
+Paralell dazu wird 
+1. die Variable *s* ins Register *b* geladen. -> b = s
+2. Dort wird die Eins addiert
+3. Der neue Wert wird in den Hauptspeicher zurückgespeichert.
+
+
+### Korrekte Routine
+Richtiger Weise sollte dies **nacheinander** passieren, *s* also erst ins Register *b* geladen werden, nachdem die Variable aus dem Register *a* wieder in den Hauptspeicher rückgespeichert wurde.
+Gilt ursprünglich **s = 0**, so gilt nun **s = 2**.
+
+
+### Inkorrekte Routine
+Der erste Thread wird **nach Schritt 2** unterbrochen, Thread Zwei ladet *s* aus dem Hauptspeicher und fährt normal fort. Erst zum Schluss werden beide Werte zurückgespeichert.
+Gilt ursprünglich **s = 0**, so gilt nun fälschlicher Weise **s = 1**.
+
+
 
