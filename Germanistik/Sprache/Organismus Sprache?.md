@@ -6,7 +6,7 @@ Ebenso können sie **bedroht sein** und letztlich auch **sterben**.
 Sprachen sind **verwandt**
 
 -> Deuten darauf hin, dass Sprache als **Organismus zu sehen ist**!
-
+lll
 ***ABER***:ff
 
 * ***Eigenleben?
