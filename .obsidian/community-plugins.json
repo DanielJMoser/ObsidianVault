@@ -1,8 +1,8 @@
 [
-  "highlightr-plugin",
-  "cm-editor-syntax-highlight-obsidian",
   "juggl",
   "obsidian-git",
   "table-editor-obsidian",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "cm-editor-syntax-highlight-obsidian",
+  "highlightr-plugin"
 ]
