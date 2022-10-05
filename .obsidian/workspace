@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Germanistik/Sprache/Einführung.md",
+            "file": "Germanistik/Sprache/Organismus Sprache?.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -60,12 +60,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 154.00680351257324,
-    "collapsed": true
+    "width": 154.00680351257324
   },
   "right": {
     "id": "22b70099ee710ea1",
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Germanistik/Sprache/Einführung.md",
+                "file": "Germanistik/Sprache/Organismus Sprache?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,15 +134,15 @@
   },
   "active": "1c153fa0cd7a24a0",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2022-10-04 14.20.51.excalidraw.md",
+    "Germanistik/Sprache/Zeichensystem Sprache?.md",
+    "Germanistik/Sprache/Organismus Sprache?.md",
     "Germanistik/Sprache/Einführung.md",
+    "Excalidraw/Drawing 2022-10-04 14.20.51.excalidraw.md",
     "Excalidraw/Drawing 2022-10-04 14.21.09.excalidraw.md",
     "Excalidraw/Drawing 2022-10-04 14.21.08.excalidraw.md",
     "Excalidraw/Drawing 2022-10-04 14.20.50.excalidraw.md",
     "IT/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Paging.md",
     "Petri-Netze.md",
-    "IT/Kryptografie/Symmetrische Verschlüsselung.md",
-    "IT/Kryptografie/Asymmetrische Verschlüsselung.md",
-    "IT/Kryptografie/_Kryptografie.md"
+    "IT/Kryptografie/Symmetrische Verschlüsselung.md"
   ]
 }
