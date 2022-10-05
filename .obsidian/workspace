@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IT/Betriebssysteme/Prozesssynchronisatio/Kein korrekter Prozessauflauf/Dining Philosophers Problem.md",
+            "file": "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Synchronisationsprimitiven/Kritische Regionen.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,8 +41,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "register",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -63,7 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.00680351257324
+    "width": 347.00680351257324
   },
   "right": {
     "id": "22b70099ee710ea1",
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Betriebssysteme/Prozesssynchronisatio/Kein korrekter Prozessauflauf/Dining Philosophers Problem.md",
+                "file": "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Synchronisationsprimitiven/Kritische Regionen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +124,15 @@
   },
   "active": "902fd77265f1b2b4",
   "lastOpenFiles": [
-    "IT/Betriebssysteme/Prozesssynchronisatio/Kein korrekter Prozessauflauf/Starvations.md",
-    "IT/Betriebssysteme/Prozesssynchronisatio/Kein korrekter Prozessauflauf/Dining Philosophers Problem.md",
-    "IT/Betriebssysteme/Prozesssynchronisatio/Modellierung & Implementierung.md",
-    "IT/Betriebssysteme/Prozesssynchronisatio/_Prozesssynchronisation.md",
-    "IT/Betriebssysteme/Prozesssynchronisatio/Kein korrekter Prozessauflauf/Livelock.md",
-    "IT/Betriebssysteme/Prozesssynchronisatio/Kein korrekter Prozessauflauf/Deadlock/Deadlock Recovery.md",
-    "IT/Betriebssysteme/Prozesssynchronisatio/Kein korrekter Prozessauflauf/Deadlock/Sichere Zustände.md",
-    "IT/Betriebssysteme/Prozesssynchronisatio/Kein korrekter Prozessauflauf/Race Conditions.md",
-    "Untitled.md",
-    "Thread.md"
+    "IT/Systeme/Aufbau von Computersystemen/CPU.md",
+    "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Synchronisationsprimitiven/Kritische Regionen.md",
+    "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Synchronisationsprimitiven/_Synchronisationsprimitiven.md",
+    "IT/Systeme/Betriebssysteme/Prozesssynchronisation/_Prozesssynchronisation.md",
+    "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Petri-Netze.md",
+    "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Modellierung & Implementierung.md",
+    "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Busy Waiting.md",
+    "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Starvations.md",
+    "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Race Conditions.md",
+    "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Livelock.md"
   ]
 }

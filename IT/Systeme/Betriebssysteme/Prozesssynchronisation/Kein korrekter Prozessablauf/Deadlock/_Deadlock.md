@@ -1,6 +1,7 @@
 # Deadlock
 
-
+#prozesssynchronisation
+#deadlock
 
 siehe -> [[Dining Philosophers Problem]]
 
@@ -16,7 +17,7 @@ ________
 ##### Mutual Exclution:
 Der Zugriff auf Betriebsmittel ist exklusiv (Zugriff nur einer Partei gestattet!)
 
-##### Hold and Wait:
+##### Hold and Wait
 Die Prozesse fordern Betriebsmittel an, behalten aber gleichzeitig den Zugriff auf andere
 
 ##### No Preemption
@@ -35,7 +36,3 @@ ___
 Sollte ein Deadlock dennoch eintreten:
 -> [[Deadlock Recovery]]
 
-
-
-#prozesssynchronisation 
-#deadlock
