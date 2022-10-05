@@ -4,7 +4,7 @@
 Zeichnet sich durch seine abgeschlossene Handlung aus!
 
 Im 19. JH. wieder aufgegriffen von **Gustav Freytag**.
--> <mark style="background: [[CACFD9A6]];">Fünf Akte:</mark> 
+-> <mark style="background: [[CACFD9A6]];">Fünf Akte:</mark>  
 
 <mark style="background: [[D2B3FFA6]];">1) Exposition</mark> 
 <mark style="background: [[ADCCFFA6]];">2) Steigende Handlung mit erregendem Moment</mark> 
