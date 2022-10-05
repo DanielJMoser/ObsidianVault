@@ -107,4 +107,6 @@ Der erste Thread wird **nach Schritt 2** unterbrochen, Thread Zwei ladet *s* aus
 Gilt ursprünglich **s = 0**, so gilt nun fälschlicher Weise **s = 1**.
 
 
+### Grafik
 
+![[Drawing_CritRegion.png]]
