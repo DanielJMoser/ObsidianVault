@@ -109,14 +109,6 @@
             }
           },
           {
-            "id": "143cd0be04175129",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
             "id": "88e61ebe59544569",
             "type": "leaf",
             "state": {
@@ -125,7 +117,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
