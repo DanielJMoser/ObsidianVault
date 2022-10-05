@@ -7,7 +7,7 @@ Sprachen sind **verwandt**
 
 -> Deuten darauf hin, dass Sprache als **Organismus zu sehen ist**!
 
-***ABER***:
+***ABER***:ff
 
 * ***Eigenleben?
 * ***Existenz außerhalb der Nutzer_innen?***
