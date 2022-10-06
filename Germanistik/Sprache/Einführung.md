@@ -37,6 +37,17 @@ Dabei sind Menschen nicht mehr in der Lage, **ihre Gedanken sprachlich zum Ausdr
 
 Eine weitere Form der Aphasie stellt eine Schädigung am für die **Sprachrezeption** zuständige Areal (*Wernicke-Areal*) dar.
 
+___
+
+In der **Genetik** wurde das Gen **FOXP2** gefunden, sowohl beim Menschen als auch bei anderen Tieren.  Wird dieses etwa bei Vögeln zerstört -> Gesang
+
+Weiters wichtig für **Motorik, höhre kognitive Fähigkeiten, Gehirnentwicklung**.
+
+Bereits Neanderthaler verfügten über FOXP2, weshalb angenommen wird, dass auch sie schon über Sprache verfügten.
 
 
+* **Kognitive Linguistik** -> Software
+* **Neurolinguistik** -> Hardware
+
+Interessant für beide Disziplinen -> **Versprecher** bei gesunden Sprecher:innen. Zeigen sich **Muster**.
 
