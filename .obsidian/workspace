@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Synchronisationsprimitiven/Zustandsvariable.md",
+            "file": "Germanistik/Sprache/Einführung.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Synchronisationsprimitiven/Zustandsvariable.md",
+                "file": "Germanistik/Sprache/Einführung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +124,15 @@
   },
   "active": "902fd77265f1b2b4",
   "lastOpenFiles": [
+    "Germanistik/Sprache/Organismus Sprache?.md",
+    "Germanistik/Sprache/Einführung.md",
+    "Germanistik/Sprache/Sprache und Sprechen.md",
+    "Germanistik/Sprache/Teilbereiche.md",
+    "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Synchronisationsprimitiven/Zustandsvariable.md",
     "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Synchronisationsprimitiven/Mutex.md",
     "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Synchronisationsprimitiven/Semaphor.md",
     "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Synchronisationsprimitiven/Kritische Regionen.md",
     "Excalidraw/Drawing 2022-10-04 14.21.08.excalidraw.md",
-    "Excalidraw/Drawing 2022-10-04 14.21.09.excalidraw.md",
-    "Excalidraw/zzDrawing_Signal.md",
-    "Excalidraw/zzDrawing_Race-Condition.md",
-    "Excalidraw/zzDrawing_Linked-List.md",
-    "Excalidraw/zzDrawing_Hardware-Software.md",
-    "Excalidraw/zzDrawing_CritRegion.md"
+    "Excalidraw/Drawing 2022-10-04 14.21.09.excalidraw.md"
   ]
 }

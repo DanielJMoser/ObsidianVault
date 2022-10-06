@@ -13,14 +13,29 @@ ____
 * ***Linguistiker_innen***:
   * Stuktur
   * Handlungscharakter
-  * Neurologische Proesse
+  * Neurologische Proesse ^8ca4dc
   * Soziale Relevanz
 
 * ***Soziolog_innen***
 * ***Neurobiolog_innen***
-* ***Biolog_innen***
+* ***Biolog_innen*** ^496ebc
 
 ___
+
+## Sprache in [[Einführung#^496ebc|Biologie]] und [[Einführung#^8ca4dc|Neurobiologie]]
+
+-> **Franz Joseph Gall** (obsolet)
+
+Gibt es ein **Sprachorgan**? Unterschied [[Sprache und Sprechen]]!
+
+Im 20. Jahrhundert -> Fokus gen Neurobiologie.
+
+### Aphasie
+
+-> Sprachstörung, derer eine **Schädigung des Gehirns** am *Broca-Areal* (nach Pierre Paul Broca) zugrunde liegt.
+Dabei sind Menschen nicht mehr in der Lage, **ihre Gedanken sprachlich zum Ausdruck zu bringen.**
+
+Eine weitere Form der Aphasie stellt eine Schädigung am für die **Sprachrezeption** zuständige Areal (*Wernicke-Areal*) dar.
 
 
 
