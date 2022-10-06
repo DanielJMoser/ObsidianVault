@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Synchronisationsprimitiven/Mutex.md",
+            "file": "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Synchronisationsprimitiven/Zustandsvariable.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Synchronisationsprimitiven/Mutex.md",
+                "file": "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Synchronisationsprimitiven/Zustandsvariable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,8 +124,8 @@
   },
   "active": "902fd77265f1b2b4",
   "lastOpenFiles": [
-    "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Synchronisationsprimitiven/Semaphor.md",
     "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Synchronisationsprimitiven/Mutex.md",
+    "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Synchronisationsprimitiven/Semaphor.md",
     "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Synchronisationsprimitiven/Kritische Regionen.md",
     "Excalidraw/Drawing 2022-10-04 14.21.08.excalidraw.md",
     "Excalidraw/Drawing 2022-10-04 14.21.09.excalidraw.md",
