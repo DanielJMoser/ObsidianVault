@@ -51,3 +51,5 @@ Bereits Neanderthaler verfügten über FOXP2, weshalb angenommen wird, dass auch
 
 Interessant für beide Disziplinen -> **Versprecher** bei gesunden Sprecher:innen. Zeigen sich **Muster**.
 
+___
+
