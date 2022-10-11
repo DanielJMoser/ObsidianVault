@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Synchronisationsprimitiven/Semaphor.md",
+            "file": "IT/Datenbanken/Database Management System.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sema",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Synchronisationsprimitiven/Semaphor.md",
+                "file": "IT/Datenbanken/Database Management System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,17 +122,17 @@
     "width": 296.1495666503906,
     "collapsed": true
   },
-  "active": "902fd77265f1b2b4",
+  "active": "d0e94e9d4cc09748",
   "lastOpenFiles": [
-    "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Synchronisationsprimitiven/Mutex.md",
-    "Germanistik/Sprache/Einführung.md",
-    "Germanistik/Sprache/Organismus Sprache?.md",
-    "Germanistik/Sprache/Sprache und Sprechen.md",
-    "Germanistik/Sprache/Teilbereiche.md",
-    "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Synchronisationsprimitiven/Zustandsvariable.md",
-    "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Synchronisationsprimitiven/Semaphor.md",
-    "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Synchronisationsprimitiven/Kritische Regionen.md",
-    "Excalidraw/Drawing 2022-10-04 14.21.08.excalidraw.md",
+    "IT/Datenbanken/Systemarchitektur.md",
+    "IT/Datenbanken/Relationale Datenbanken.md",
+    "IT/Datenbanken/Data Dictionary.md",
+    "Untitled.md",
+    "9 Regeln.md",
+    "13 Regeln.md",
+    "IT/Datenbanken/_Datenbanken.md",
+    "IT/Datenbanken/CAP-Theorem.md",
+    "IT/Datenbanken/_Drawings/zDrawing_CAP.md",
     "Excalidraw/Drawing 2022-10-04 14.21.09.excalidraw.md"
   ]
 }
