@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Germanistik/Sprache/Einführung.md",
+            "file": "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Synchronisationsprimitiven/Semaphor.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "register",
+                "query": "sema",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Germanistik/Sprache/Einführung.md",
+                "file": "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Synchronisationsprimitiven/Semaphor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,12 +124,12 @@
   },
   "active": "902fd77265f1b2b4",
   "lastOpenFiles": [
-    "Germanistik/Sprache/Organismus Sprache?.md",
+    "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Synchronisationsprimitiven/Mutex.md",
     "Germanistik/Sprache/Einführung.md",
+    "Germanistik/Sprache/Organismus Sprache?.md",
     "Germanistik/Sprache/Sprache und Sprechen.md",
     "Germanistik/Sprache/Teilbereiche.md",
     "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Synchronisationsprimitiven/Zustandsvariable.md",
-    "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Synchronisationsprimitiven/Mutex.md",
     "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Synchronisationsprimitiven/Semaphor.md",
     "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Synchronisationsprimitiven/Kritische Regionen.md",
     "Excalidraw/Drawing 2022-10-04 14.21.08.excalidraw.md",
