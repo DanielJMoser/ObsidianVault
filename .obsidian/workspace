@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IT/Datenbanken/Database Management System.md",
+            "file": "IT/Datenbanken/Relational Model/_Relational Model.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Datenbanken/Database Management System.md",
+                "file": "IT/Datenbanken/Relational Model/_Relational Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +124,15 @@
   },
   "active": "d0e94e9d4cc09748",
   "lastOpenFiles": [
-    "IT/Datenbanken/Systemarchitektur.md",
-    "IT/Datenbanken/Relationale Datenbanken.md",
-    "IT/Datenbanken/Data Dictionary.md",
-    "Untitled.md",
-    "9 Regeln.md",
-    "13 Regeln.md",
     "IT/Datenbanken/_Datenbanken.md",
+    "IT/Datenbanken/Relational Model/_Relational Model.md",
+    "IT/Datenbanken/Relational Model/Tuple_DB.md",
+    "IT/Datenbanken/Relationale Datenbanken.md",
+    "IT/Datenbanken/Systemarchitektur.md",
+    "IT/Datenbanken/Data Dictionary.md",
     "IT/Datenbanken/CAP-Theorem.md",
-    "IT/Datenbanken/_Drawings/zDrawing_CAP.md",
-    "Excalidraw/Drawing 2022-10-04 14.21.09.excalidraw.md"
+    "IT/Datenbanken/Attribute.md",
+    "IT/Datenbanken/9 Regeln von Codd.md",
+    "IT/Datenbanken/13 Regeln.md"
   ]
 }
