@@ -9,7 +9,10 @@ Zeicheninhalt = Bedeutung = Vorstellung
 
 Zeichenausdruck = Form = Lautbild
 
-_____
-
 Abhängig von **Zeichenbenuter:innen**! Siehe: Japanisch, Chinesisch "–"
 
+_____
+
+## Wo beginnt ein Wort?
+
+-> Abgrenzung der einzelnen Worte durch **Leertasten**.

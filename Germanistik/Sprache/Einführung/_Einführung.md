@@ -6,6 +6,8 @@ Mittel der **Kommunikation & des Ausdrucks** der eigenen *Gefühls- und Gedanken
 
 Sprache -> Kanten eines Spinnennetzes, welche Knotenpunkte verbindet.
 
+Wurzeln der modernen (Historisch-vergleichenden) Sprachwissenschaft bereits im **19. Jahrhundert**. Ferdinand de Saussure gilt als Begründer selbiger.
+
 
 ____
 
@@ -23,7 +25,7 @@ ____
 
 ___
 
-## Sprache in [[Einführung#^496ebc|Biologie]] und [[Einführung#^8ca4dc|Neurobiologie]]
+## Sprache in [[_Einführung#^496ebc|Biologie]] und [[_Einführung#^8ca4dc|Neurobiologie]]
 
 -> **Franz Joseph Gall** (obsolet)
 
@@ -53,4 +55,14 @@ Bereits Neanderthaler verfügten über FOXP2, weshalb angenommen wird, dass auch
 Interessant für beide Disziplinen -> **Versprecher** bei gesunden Sprecher:innen. Zeigen sich **Muster**.
 
 ___
+
+## Fokusgruppen
+
+Die Germanistik verfolgt eine **deskriptive** (im Gegensatz zur präskriptiven) Grundhaltung. 
+
+- Eine Sprache wird erst **gesprochen**, bevor sie aufgeschrieben wird!
+- Sprachwissenschaft ist prinzipiell **geisteswissenschaftlich** orientiert.
+- diachron -synchron
+- einzelsprachorientiert - sprachvergleichend - typologisch
+
 
