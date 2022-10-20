@@ -1,0 +1,1 @@
+**Im Sinne der Phonetik** ist die **mittlere Sprechstimmlage gemeint**, die Melodik.

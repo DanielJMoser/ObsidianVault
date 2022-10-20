@@ -10,17 +10,33 @@
           {
             "id": "30fab6624407d53c",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Germanistik/Sprache/Einführung/Sprache und Sprechen.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "07a51fef94a3d3d5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "154d8d2cf74b60d1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -87,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Germanistik/Sprache/Einführung/Sprache und Sprechen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,23 +150,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.1495666503906,
-    "collapsed": true
+    "width": 347
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "30fab6624407d53c",
+  "active": "154d8d2cf74b60d1",
   "lastOpenFiles": [
     "Germanistik/Sprache/Einführung/_Einführung.md",
     "Germanistik/Sprache/Einführung/Organismus Sprache?.md",
-    "Germanistik/Sprache/Einführung/Sprache und Sprechen.md",
-    "IT/Datenbanken/Entity.md",
-    "IT/Datenbanken/Attribute.md",
-    "IT/Datenbanken/Relational Model/_Relational Model.md",
-    "IT/Datenbanken/Relational Model/Tuple_DB.md",
-    "Germanistik/Sprache/Einführung/Teilbereiche.md",
-    "Germanistik/Sprache/Einführung/Zeichensystem Sprache?.md",
-    "Germanistik/Epochen/Realismus.md"
+    "Germanistik/Epochen/Realismus.md",
+    "Germanistik/Epochen/Vormärz.md",
+    "Germanistik/Sprache/Paraverbal.md",
+    "Germanistik/Sprache/Nonverbal.md",
+    "Germanistik/Sprache/IT/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Hashfunktion.md",
+    "Germanistik/Sprache/IT/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Binärer Suchbaum.md",
+    "Germanistik/Sprache/IT/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Balancierte Bäume.md",
+    "Germanistik/Sprache/IT/Hacking/Social Engineering/_Social Engineering.md"
   ]
 }

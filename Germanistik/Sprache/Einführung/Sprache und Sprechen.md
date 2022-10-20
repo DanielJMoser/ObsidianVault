@@ -1,5 +1,7 @@
 
 
+Siehe auch: -> [[Stimme]]
+
 ## Systembezogene Betrachtung 
 
 
@@ -11,6 +13,8 @@ Sprache besteht aus:
 - **Satz** (geschrieben) und **Äußerungseinheit/Intonationsphrase** (gesprochen)
  
 Die deutsche Sprache verfügt über etwa **40** verschiedene Laute, einer rieseigen Anzahl an Morphemen, einer kaum angebbaren Anzahl der Anzahl an Worten und (nach dem **Rekursivitätsprinzip**) unendlicher Anzahl an Worten und Sätzen!
+
+Kommunikation kann über verschiedene [[Medien der Kommunikation]] passieren! Verbal -> Sprache
 
 
 ## Handlungsbezogene Betrachtung
@@ -26,6 +30,4 @@ Die deutsche Sprache verfügt über etwa **40** verschiedene Laute, einer riesei
 
 
 - Soziolinguistik (z.B. Jugendsprache)
-
-
 
