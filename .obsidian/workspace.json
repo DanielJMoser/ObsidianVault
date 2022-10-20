@@ -31,8 +31,13 @@
             "id": "154d8d2cf74b60d1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Germanistik/Sprache/Einführung/Sprache und Sprechen.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -103,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Germanistik/Sprache/Einführung/Sprache und Sprechen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,15 +163,15 @@
   },
   "active": "154d8d2cf74b60d1",
   "lastOpenFiles": [
+    "Germanistik/Sprache/Einführung/Teilbereiche.md",
+    "Germanistik/Sprache/Einführung/Zeichensystem Sprache?.md",
+    "Germanistik/Sprache/Phonetik/Stimme.md",
     "Germanistik/Sprache/Einführung/_Einführung.md",
     "Germanistik/Sprache/Einführung/Organismus Sprache?.md",
     "Germanistik/Epochen/Realismus.md",
     "Germanistik/Epochen/Vormärz.md",
     "Germanistik/Sprache/Paraverbal.md",
     "Germanistik/Sprache/Nonverbal.md",
-    "Germanistik/Sprache/IT/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Hashfunktion.md",
-    "Germanistik/Sprache/IT/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Binärer Suchbaum.md",
-    "Germanistik/Sprache/IT/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Balancierte Bäume.md",
-    "Germanistik/Sprache/IT/Hacking/Social Engineering/_Social Engineering.md"
+    "IT/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Hashfunktion.md"
   ]
 }
