@@ -1,5 +1,4 @@
 
-
 Siehe auch: -> [[Stimme]]
 
 ## Systembezogene Betrachtung 

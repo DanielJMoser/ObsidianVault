@@ -18,16 +18,6 @@
             }
           },
           {
-            "id": "07a51fef94a3d3d5",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "juggl_view",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
             "id": "154d8d2cf74b60d1",
             "type": "leaf",
             "state": {
@@ -41,7 +31,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331
+    "width": 200
   },
   "right": {
     "id": "22b70099ee710ea1",
@@ -161,17 +151,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "154d8d2cf74b60d1",
+  "active": "0a5719f8fa3f9482",
   "lastOpenFiles": [
     "Germanistik/Sprache/Einführung/Teilbereiche.md",
     "Germanistik/Sprache/Einführung/Zeichensystem Sprache?.md",
     "Germanistik/Sprache/Phonetik/Stimme.md",
+    "Germanistik/Sprache/Einführung/Sprache und Sprechen.md",
     "Germanistik/Sprache/Einführung/_Einführung.md",
     "Germanistik/Sprache/Einführung/Organismus Sprache?.md",
     "Germanistik/Epochen/Realismus.md",
     "Germanistik/Epochen/Vormärz.md",
     "Germanistik/Sprache/Paraverbal.md",
-    "Germanistik/Sprache/Nonverbal.md",
-    "IT/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Hashfunktion.md"
+    "Germanistik/Sprache/Nonverbal.md"
   ]
 }
