@@ -141,17 +141,17 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 347
+    "width": 347,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "0a5719f8fa3f9482",
+  "active": "942ae100bc3331d6",
   "lastOpenFiles": [
     "Germanistik/Sprache/Einführung/Teilbereiche.md",
     "Germanistik/Sprache/Einführung/Zeichensystem Sprache?.md",
