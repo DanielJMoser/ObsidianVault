@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "30fab6624407d53c",
+            "id": "154d8d2cf74b60d1",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -18,12 +18,35 @@
             }
           },
           {
-            "id": "154d8d2cf74b60d1",
+            "id": "304ed41e29ccf00d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "cfc746fc8005b571",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Germanistik/Sprache/Einführung/Sprache und Sprechen.md",
+                "file": "Germanistik/Sprache/Phonetik/Prozesstypen.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "979402c964cd6599",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Germanistik/Sprache/Graphematik/Graphematik.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -31,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Germanistik/Sprache/Einführung/Sprache und Sprechen.md",
+                "file": "Germanistik/Sprache/Graphematik/Graphematik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,17 +171,17 @@
     "width": 347,
     "collapsed": true
   },
-  "active": "154d8d2cf74b60d1",
+  "active": "979402c964cd6599",
   "lastOpenFiles": [
-    "Germanistik/Sprache/Einführung/Teilbereiche.md",
-    "Germanistik/Sprache/Einführung/Zeichensystem Sprache?.md",
+    "Germanistik/Sprache/Phonetik/Prozesstypen.md",
+    "Germanistik/Poetik, Rhetorik/Rhetorik, Stilistik, Poetik.md",
+    "Germanistik/Poetik, Rhetorik/Rhetorik.md",
+    "Untitled.md",
+    "Germanistik/Sprache/Phonetik/Phonetik.md",
+    "Germanistik/Sprache/Phonetik/Minimalpaaranalyse.md",
     "Germanistik/Sprache/Phonetik/Stimme.md",
-    "Germanistik/Sprache/Einführung/Sprache und Sprechen.md",
     "Germanistik/Sprache/Einführung/_Einführung.md",
     "Germanistik/Sprache/Einführung/Organismus Sprache?.md",
-    "Germanistik/Epochen/Realismus.md",
-    "Germanistik/Epochen/Vormärz.md",
-    "Germanistik/Sprache/Paraverbal.md",
-    "Germanistik/Sprache/Nonverbal.md"
+    "Germanistik/Sprache/Einführung/Zeichensystem Sprache?.md"
   ]
 }
