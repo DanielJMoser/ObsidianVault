@@ -1,5 +1,5 @@
 
-siehe: [[Phonetik]]
+siehe: [[_Phonetik und Phonologie]]
 
 - zwei Wörter, dis sich nur in **einem Phon** unterscheiden
 - durch Austausch dieses Phons ergibt sich ein **Bedeutungsunterschied**

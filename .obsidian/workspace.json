@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Germanistik/Sprache/Phonetik/Prozesstypen.md",
+                "file": "Germanistik/Sprache/Phonetik und Phonologie/Prozesstypen.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,7 +46,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Germanistik/Sprache/Graphematik/Graphematik.md",
+                "file": "Germanistik/Sprache/Phonetik und Phonologie/_Phonetik und Phonologie.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Germanistik/Sprache/Graphematik/Graphematik.md",
+                "file": "Germanistik/Sprache/Phonetik und Phonologie/_Phonetik und Phonologie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,17 +171,17 @@
     "width": 347,
     "collapsed": true
   },
-  "active": "979402c964cd6599",
+  "active": "d0e94e9d4cc09748",
   "lastOpenFiles": [
-    "Germanistik/Sprache/Phonetik/Prozesstypen.md",
+    "Korrektur AB 1 -> SW.md",
+    "Germanistik/Sprache/Einführung/_Einführung.md",
+    "Germanistik/Sprache/Graphematik/Graphematik.md",
+    "Germanistik/Sprache/Phonetik und Phonologie/Prozesstypen.md",
     "Germanistik/Poetik, Rhetorik/Rhetorik, Stilistik, Poetik.md",
     "Germanistik/Poetik, Rhetorik/Rhetorik.md",
-    "Untitled.md",
-    "Germanistik/Sprache/Phonetik/Phonetik.md",
-    "Germanistik/Sprache/Phonetik/Minimalpaaranalyse.md",
-    "Germanistik/Sprache/Phonetik/Stimme.md",
-    "Germanistik/Sprache/Einführung/_Einführung.md",
-    "Germanistik/Sprache/Einführung/Organismus Sprache?.md",
-    "Germanistik/Sprache/Einführung/Zeichensystem Sprache?.md"
+    "Germanistik/Sprache/Phonetik und Phonologie/_Phonetik und Phonologie.md",
+    "Germanistik/Sprache/Phonetik und Phonologie/Minimalpaaranalyse.md",
+    "Germanistik/Sprache/Phonetik und Phonologie/Stimme.md",
+    "Germanistik/Sprache/Einführung/Organismus Sprache?.md"
   ]
 }
