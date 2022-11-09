@@ -1,0 +1,1 @@
+-> verwendet **UDP** als Transportprotokoll

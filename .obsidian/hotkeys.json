@@ -38,22 +38,5 @@
       ],
       "key": "L"
     }
-  ],
-  "highlightr-plugin:Blue": [],
-  "highlightr-plugin:unhighlight": [
-    {
-      "modifiers": [
-        "Shift"
-      ],
-      "key": "Backspace"
-    }
-  ],
-  "highlightr-plugin:highlighter-plugin-menu": [
-    {
-      "modifiers": [
-        "Shift"
-      ],
-      "key": "="
-    }
   ]
 }

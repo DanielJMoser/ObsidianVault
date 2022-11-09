@@ -8,32 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "154d8d2cf74b60d1",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "juggl_view",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "304ed41e29ccf00d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "juggl_view",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "cfc746fc8005b571",
+            "id": "8513012db1218efa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Germanistik/Sprache/Phonetik und Phonologie/Prozesstypen.md",
+                "file": "IT/Datennetze/_Datennetze.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -41,12 +21,38 @@
             }
           },
           {
-            "id": "979402c964cd6599",
+            "id": "dcea241f0edf0af5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Germanistik/Sprache/Phonetik und Phonologie/_Phonetik und Phonologie.md",
+                "file": "IT/Datennetze/Sockets/Socket.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a259cd24a65b4e2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Datennetze/Sockets/Client-Socket.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "542018647d6b9db5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Datennetze/Ports.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Germanistik/Sprache/Phonetik und Phonologie/_Phonetik und Phonologie.md",
+                "file": "IT/Datennetze/Ports.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,17 +177,17 @@
     "width": 347,
     "collapsed": true
   },
-  "active": "d0e94e9d4cc09748",
+  "active": "542018647d6b9db5",
   "lastOpenFiles": [
-    "Korrektur AB 1 -> SW.md",
-    "Germanistik/Sprache/Einführung/_Einführung.md",
-    "Germanistik/Sprache/Graphematik/Graphematik.md",
-    "Germanistik/Sprache/Phonetik und Phonologie/Prozesstypen.md",
-    "Germanistik/Poetik, Rhetorik/Rhetorik, Stilistik, Poetik.md",
-    "Germanistik/Poetik, Rhetorik/Rhetorik.md",
-    "Germanistik/Sprache/Phonetik und Phonologie/_Phonetik und Phonologie.md",
-    "Germanistik/Sprache/Phonetik und Phonologie/Minimalpaaranalyse.md",
-    "Germanistik/Sprache/Phonetik und Phonologie/Stimme.md",
-    "Germanistik/Sprache/Einführung/Organismus Sprache?.md"
+    "IT/Datennetze/Sockets/Stream Sockets.md",
+    "IT/Datennetze/Sockets/Server-Socket.md",
+    "IT/Datennetze/Sockets/Socket.md",
+    "IT/Datennetze/Sockets/Client-Socket.md",
+    "IT/Datennetze/Sockets/Datagram Sockets.md",
+    "IT/Datennetze/TCP.md",
+    "IT/Datennetze/Ports.md",
+    "IT/Datennetze/_Datennetze.md",
+    "IT/Datennetze/Transportschicht.md",
+    "Germanistik/Sprache/Paraverbal.md"
   ]
 }

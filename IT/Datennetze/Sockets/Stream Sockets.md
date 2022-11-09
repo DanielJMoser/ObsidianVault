@@ -1,0 +1,1 @@
+-> verwendet **TCP** als Transportprotokoll
