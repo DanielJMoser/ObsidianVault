@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8513012db1218efa",
+            "id": "9c402065e9fe42aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Datennetze/_Datennetze.md",
+                "file": "IT/Datennetze/Ports/Standardisierte Ports.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "dcea241f0edf0af5",
+            "id": "0c2d222a5df0bdf3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Datennetze/Sockets/Socket.md",
+                "file": "IT/Datennetze/Transportprotokolle/TCP.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,25 +34,12 @@
             }
           },
           {
-            "id": "a259cd24a65b4e2b",
+            "id": "3e3e60c788cf7a70",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Datennetze/Sockets/Client-Socket.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "542018647d6b9db5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Datennetze/Ports.md",
+                "file": "IT/Datennetze/Transportprotokolle/TCP.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,8 +64,10 @@
             "id": "b84914adc70a4abe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/zzDrawing_Sequenznummern.md"
+              }
             }
           },
           {
@@ -105,13 +94,23 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "542018647d6b9db5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/zzDrawing_Netzwerkschnittstellen_und_Ports.md"
+              }
+            }
           }
         ],
         "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 474.5
   },
   "right": {
     "id": "22b70099ee710ea1",
@@ -127,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Datennetze/Ports.md",
+                "file": "IT/Datennetze/Transportprotokolle/TCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,17 +176,17 @@
     "width": 347,
     "collapsed": true
   },
-  "active": "542018647d6b9db5",
+  "active": "3e3e60c788cf7a70",
   "lastOpenFiles": [
-    "IT/Datennetze/Sockets/Stream Sockets.md",
-    "IT/Datennetze/Sockets/Server-Socket.md",
-    "IT/Datennetze/Sockets/Socket.md",
-    "IT/Datennetze/Sockets/Client-Socket.md",
-    "IT/Datennetze/Sockets/Datagram Sockets.md",
-    "IT/Datennetze/TCP.md",
-    "IT/Datennetze/Ports.md",
-    "IT/Datennetze/_Datennetze.md",
-    "IT/Datennetze/Transportschicht.md",
-    "Germanistik/Sprache/Paraverbal.md"
+    "IT/Datennetze/Transportprotokolle/ARQ-Protokolle.md",
+    "IT/Datennetze/Transportprotokolle/TCP.md",
+    "IT/Datennetze/Transportprotokolle/Zuverlässigkeit & Verbindungsorientiertheit.md",
+    "IT/Datennetze/Transportprotokolle/_Transportprotokolle.md",
+    "IT/Datennetze/Transportprotokolle/QUIC.md",
+    "IT/Datennetze/_Drawings/Drawing_Sequenznummern.png",
+    "Excalidraw/zzDrawing_Sequenznummern.md",
+    "Excalidraw/zzDrawing_Netzwerkschnittstellen_und_Ports.md",
+    "IT/Datennetze/Transportprotokolle/UDP.md",
+    "IT/Datennetze/Ports/Standardisierte Ports.md"
   ]
 }
