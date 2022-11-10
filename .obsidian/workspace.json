@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Datennetze/Transportprotokolle/TCP.md",
+                "file": "Germanistik/Sprache/Graphematik/_Graphematik.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "487763fa8ac36bea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Germanistik/Sprache/Graphematik/Kurrentschrift » Fraktur.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Datennetze/Transportprotokolle/TCP.md",
+                "file": "Germanistik/Sprache/Graphematik/Kurrentschrift » Fraktur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,17 +163,17 @@
     "width": 347,
     "collapsed": true
   },
-  "active": "3e3e60c788cf7a70",
+  "active": "487763fa8ac36bea",
   "lastOpenFiles": [
-    "IT/Datennetze/Transportprotokolle/ARQ-Protokolle.md",
+    "Germanistik/Sprache/Graphematik/_Graphematik.md",
+    "Germanistik/Sprache/Phonetik und Phonologie/_Phonetik und Phonologie.md",
+    "Germanistik/Sprache/Phonetik und Phonologie/Prozesstypen.md",
+    "Germanistik/Sprache/Phonetik und Phonologie/Minimalpaaranalyse.md",
     "IT/Datennetze/Transportprotokolle/TCP.md",
+    "IT/Datennetze/Transportprotokolle/ARQ-Protokolle.md",
     "IT/Datennetze/Transportprotokolle/Zuverlässigkeit & Verbindungsorientiertheit.md",
     "IT/Datennetze/Transportprotokolle/_Transportprotokolle.md",
     "IT/Datennetze/Transportprotokolle/QUIC.md",
-    "IT/Datennetze/_Drawings/Drawing_Sequenznummern.png",
-    "Excalidraw/zzDrawing_Sequenznummern.md",
-    "Excalidraw/zzDrawing_Netzwerkschnittstellen_und_Ports.md",
-    "IT/Datennetze/Transportprotokolle/UDP.md",
-    "IT/Datennetze/Ports/Standardisierte Ports.md"
+    "IT/Datennetze/_Drawings/Drawing_Sequenznummern.png"
   ]
 }
