@@ -1,6 +1,6 @@
 #Datennetze 
 
--> **Automatic Repeat reQuest**
+-> **Automatic Repeat reQuest** ^a2f277
 
 Dabei bestätigt der Empfänger den **fehlerfreien Erhalt der Daten.**
 Erhält der Sender keine solche Bestätigung -> **retransmission.**

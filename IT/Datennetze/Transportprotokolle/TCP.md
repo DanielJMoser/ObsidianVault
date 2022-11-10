@@ -59,4 +59,16 @@ Durch **aufsteigendes Sortieren** kann die Reihenfolge der Datenpakete ermittelt
 
 -> Es gibt eine Lücke von 50 Bytes zwischen <mark style="background: #D2B3FFA6;">P1</mark> und <mark style="background: #FFB8EBA6;">P2</mark>. Das obige <mark style="background: #FFB8EBA6;">Paket 2</mark> ist eigentlich das <mark style="background: #BBFABBA6;">Paket 3</mark>! <mark style="background: #FFB8EBA6;">P2</mark> ging unterwegs verloren.
 
+___
+
+### Garantie eines zuverlässigen Datentransports
+
 Da die darunterliegenden Schichten unzuverlässig sind, passiert das immer wieder. Ein zuverlässigen Datentransport kann durch [[ARQ-Protokolle]] gewährleistet werden. TCP verwendet dabei das [[ARQ-Protokolle#Go-back-N|Go-back-N-Verfahren]].
+
+[[ARQ-Protokolle#^a2f277|Retransmission Timeout]] wird ständig **dynamisch** an die konkreten Gegebenheiten angepasst. Dazu wird die **Rount-Trip-Time** gemessen und anhand derer die RTO neu berechnet.
+Ebenso: -> **Fenstergröße**
+
+Um Datenpakete zu bestätigen, sendet der Empfänger ein Paket, in dessen TCP-Header die Sequenznummer des **nächsten erwarteten Pakets** enthalten ist.
+- Falls keine zu sendende Daten -> **leeres Paket**
+
+TCP kennt auch **negative Bestätigungen**. Dazu wird die Bestätigung des **vorherigen** Pakets nocheinmal gesendet. Empfängt der Sender ein Paket mehrfach (sog. **DUP-ACK**), so muss er das nachfolgende Paket nocheinmal senden.
