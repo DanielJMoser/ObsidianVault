@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3e3e60c788cf7a70",
+            "id": "487763fa8ac36bea",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "487763fa8ac36bea",
+            "id": "d1b4fbcb6e7c5bbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Germanistik/Sprache/Graphematik/Kurrentschrift » Fraktur.md",
+                "file": "IT/Datennetze/Transportprotokolle/TCP.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Germanistik/Sprache/Graphematik/Kurrentschrift » Fraktur.md",
+                "file": "IT/Datennetze/Transportprotokolle/TCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,17 +163,17 @@
     "width": 347,
     "collapsed": true
   },
-  "active": "487763fa8ac36bea",
+  "active": "d1b4fbcb6e7c5bbe",
   "lastOpenFiles": [
-    "Germanistik/Sprache/Graphematik/_Graphematik.md",
-    "Germanistik/Sprache/Phonetik und Phonologie/_Phonetik und Phonologie.md",
-    "Germanistik/Sprache/Phonetik und Phonologie/Prozesstypen.md",
-    "Germanistik/Sprache/Phonetik und Phonologie/Minimalpaaranalyse.md",
-    "IT/Datennetze/Transportprotokolle/TCP.md",
-    "IT/Datennetze/Transportprotokolle/ARQ-Protokolle.md",
-    "IT/Datennetze/Transportprotokolle/Zuverlässigkeit & Verbindungsorientiertheit.md",
-    "IT/Datennetze/Transportprotokolle/_Transportprotokolle.md",
     "IT/Datennetze/Transportprotokolle/QUIC.md",
-    "IT/Datennetze/_Drawings/Drawing_Sequenznummern.png"
+    "IT/Datennetze/Transportprotokolle/ARQ-Protokolle.md",
+    "IT/Datennetze/Transportprotokolle/TCP.md",
+    "IT/Datennetze/Transportprotokolle/_Transportprotokolle.md",
+    "Germanistik/Sprache/Graphematik/Stenographie.md",
+    "Germanistik/Sprache/Graphematik/_Graphematik.md",
+    "Germanistik/Sprache/Graphematik/Kurrentschrift » Fraktur.md",
+    "Germanistik/Sprache/Phonetik und Phonologie/_Phonetik und Phonologie.md",
+    "IT/Datenbanken/Systemarchitektur.md",
+    "IT/Datenbanken/Relationale Datenbanken.md"
   ]
 }
