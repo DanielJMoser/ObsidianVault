@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Datennetze/Transportprotokolle/IPv4.md",
+                "file": "IPv6.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Datennetze/Transportprotokolle/IPv4.md",
+                "file": "IPv6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,14 +142,14 @@
   "active": "d0e94e9d4cc09748",
   "lastOpenFiles": [
     "IT/Hacking/OSINT/IP.md",
+    "IP-Header.md",
+    "IT/Datennetze/Sicherungsschicht.md",
+    "IT/Datennetze/Transportprotokolle/IPv4.md",
     "IT/Datennetze/Transportprotokolle/IPoAC.md",
     "IT/Datennetze/Router.md",
     "Da.md",
     "IT/Systeme/Übertragung/Kommunikationsnetzwerke/_Kommunikationsnetzwerke.md",
     "IT/Datennetze/_Drawings/zzDrawing_Router.png",
-    "IT/Datennetze/_Drawings/zzDrawing_Sequenznummern.png",
-    "Excalidraw/zzDrawing_Sequenznummern.md",
-    "IT/Datennetze/Sicherungsschicht.md",
-    "IT/Datennetze/Schichten/Vermittlungsschicht.md"
+    "IT/Datennetze/_Drawings/zzDrawing_Sequenznummern.png"
   ]
 }
