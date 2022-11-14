@@ -3,7 +3,7 @@
 Um sich bei einer OSINT-Analyse unerkannt im Netz bewegen zu können, werden sogenannte **Sockpuppets** erstellt.
 
 Dabei handelt es sich um **Fake-Accounts einer fiktiven Person**, einem Pseudonym, unter welchem sich Analyst_innen im Netz freier bewegen können.
-Diese sollten unbedingt nicht mit der Analyst_in in Verbindung gebracht werden können, etwa via der Telefonnummer, dem Google-Account, der [[IP-Adresse]].
+Diese sollten unbedingt nicht mit der Analyst_in in Verbindung gebracht werden können, etwa via der Telefonnummer, dem Google-Account, der [[IP]].
 
 **Zwei Arten von Sockpuppets:**
 

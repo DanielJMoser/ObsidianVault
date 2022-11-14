@@ -15,7 +15,7 @@ ___
 
 ## Netzwerkschnittstelle, IP oder Port?
 
-Jeder Socket hat eine eindeutige Portnummer. Der **Client** (links) will sich mit einem **Webserver** (rechts) via der [[Transportschicht]] verbinden. Die Transportschicht dient zum **Austausch von Datenpaketen zwischen den Netzwerkschnittstellen.** Um diese zu adressieren, verwendet man eine [[IP-Adresse]]. Auf den kommunizierenden Computern können unterschiedliche Anwendungen laufen, welche [[Socket|Sockets]] verwenden, die durch die **Portnummer** eindeutig identifiziert werden.
+Jeder Socket hat eine eindeutige Portnummer. Der **Client** (links) will sich mit einem **Webserver** (rechts) via der [[Transportschicht]] verbinden. Die Transportschicht dient zum **Austausch von Datenpaketen zwischen den Netzwerkschnittstellen.** Um diese zu adressieren, verwendet man eine [[IP]]. Auf den kommunizierenden Computern können unterschiedliche Anwendungen laufen, welche [[Socket|Sockets]] verwenden, die durch die **Portnummer** eindeutig identifiziert werden.
 
 
 ![[zzDrawing_Netzwerkschnittstellen_und_Ports.png]]
@@ -24,7 +24,7 @@ Hier zu sehen: Socket mit dem Port <mark style="background: #FFB86CA6;">563</mar
 
 Dazu hängt die dazwischenliegende [[Transportschicht]] einen **Header**, welcher die **Portnummer** beinhaltet, vorne an das Datenpaket. 
 
-Dieses wird dann an die  [[Vermittlungsschicht]] übergeben, welche [[IP-Adresse|IP-Adressen]] zum Zwecke des Routings verwendet. Eben diese IPs wird in den Header geschrieben -> Kombination aus IP und Port von Absender und Empfänger bilden eine **eindeutige Verbindung**.
+Dieses wird dann an die  [[Vermittlungsschicht]] übergeben, welche [[IP|IP-Adressen]] zum Zwecke des Routings verwendet. Eben diese IPs wird in den Header geschrieben -> Kombination aus IP und Port von Absender und Empfänger bilden eine **eindeutige Verbindung**.
 
 Dann empfängt die Netzwerkschnittstelle des Empfängers das Paket, leitet es an die [[Transportschicht]] weiter, welche den Header ausließt und die Daten zum entsprechenden Port weitergibt.
 
