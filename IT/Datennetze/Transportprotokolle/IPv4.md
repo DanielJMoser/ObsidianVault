@@ -39,3 +39,16 @@ Subnetzmaske:   <mark style="background: #FFB86CA6;">255.255</mark>.<mark style=
 
 
 ___
+
+## Spezielle Adressbereiche
+
+Manche Adressblöcke sind für **spezielle Zwecke** reserviert. Eine Auswahl:
+
+- Adressbereiche für **private Netzwerke** (werden nicht im Internet geroutet)
+  - 10.0.0.0/8
+  - 192.168.0.0/16
+ 
+- **Loopback-Adressbereich**: 127.0.0.0/8
+  - nur lokal am selben Rechner erreichbar
+  - z.B. **localhost**-Adresse: 127.0.0.1
+  - Kann auch für **Inter-Process-Communication** verwendet werden (interessant für Anwendungsentwicklung, da kein externer Server benötigt).
