@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Datennetze/Transportprotokolle/TCP.md",
+                "file": "Germanistik/Sprache/Graphematik/_Graphematik.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d53c777d517406e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Germanistik/Sprache/Graphematik/Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Datennetze/Transportprotokolle/TCP.md",
+                "file": "Germanistik/Sprache/Graphematik/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,17 +176,17 @@
     "width": 347,
     "collapsed": true
   },
-  "active": "d1b4fbcb6e7c5bbe",
+  "active": "d53c777d517406e0",
   "lastOpenFiles": [
-    "IT/Datennetze/Transportprotokolle/QUIC.md",
-    "IT/Datennetze/Transportprotokolle/ARQ-Protokolle.md",
-    "IT/Datennetze/Transportprotokolle/TCP.md",
-    "IT/Datennetze/Transportprotokolle/_Transportprotokolle.md",
-    "Germanistik/Sprache/Graphematik/Stenographie.md",
     "Germanistik/Sprache/Graphematik/_Graphematik.md",
-    "Germanistik/Sprache/Graphematik/Kurrentschrift » Fraktur.md",
-    "Germanistik/Sprache/Phonetik und Phonologie/_Phonetik und Phonologie.md",
-    "IT/Datenbanken/Systemarchitektur.md",
-    "IT/Datenbanken/Relationale Datenbanken.md"
+    "IT/Programmierung/C++/Templates/_Templates.md",
+    "IT/Programmierung/C++/Templates/Template Specialization.md",
+    "IT/Programmierung/C++/Templates/Template Argument Deduction.md",
+    "IT/Programmierung/C++/Templates/Function Templates.md",
+    "IT/Kryptografie/_Kryptografie.md",
+    "IT/Kryptografie/Symmetrische Verschlüsselung.md",
+    "IT/Kryptografie/Asymmetrische Verschlüsselung.md",
+    "IT/Datennetze/Vermittlungsschicht.md",
+    "IT/Datennetze/Transportschicht.md"
   ]
 }
