@@ -9,3 +9,32 @@ siehe auch: [[Paging]]
 - Wurde der Rahmen **ausgelagert**, so wird er von der **Auslagerungsdatei** geholt und eingehängt.
 - Ist die Seite tatsächlich ungültig, wird ein **Segmentation Fault** ausgelöst.
   Der "Segmentation Fault" moderner Betriebssysteme ist demnach kein eigentlicher Fehler der [[Segmentierung]], sondern vielmehr ein **Überbleibsel** aus Zeiten der Systeme **ohne Speicherabstraktion**.
+  
+
+___
+
+
+## Seitentabellen
+
+-> Bildet den **gesamten virtuellen Adressraum** ab.
+
+Einstufige Seitentabellen werden i.d.R. **vollständig** im Speicher abgelegt. Solche Tabellen sind bei **großem Arbeitsspeicher ineffizient!**
+
+Effizientere Arten der Organisation sind
+- mehrstuftige Seitentabellen
+- invertierte Seitentabellen
+
+
+### Mehrstufige Seitentabelle
+
+Eine Adresse führt zur **ersten Stufe** einer Tabelle. Jeder derer Slots (jede der virtuellen Seiten) führt zu Tabellen **zweiter Stufe**, usw.
+Dieses Auslagerungsverfahren bietet besondere **flexibilität**.
+
+![[zzDrawing_mehrstufigeSeitentabelle.png]]
+
+
+
+
+## Seitenauslagerung
+
+![[zzDrawing_Seitenauslagerung.png]]

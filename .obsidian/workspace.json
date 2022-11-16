@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Multitasking-Systeme.md",
+                "file": "IT/Datennetze/Transportprotokolle/TCP.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Multitasking-Systeme.md",
+                "file": "IT/Datennetze/Transportprotokolle/TCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,17 +179,17 @@
     "width": 347,
     "collapsed": true
   },
-  "active": "d0e94e9d4cc09748",
+  "active": "acc1af4a21171b87",
   "lastOpenFiles": [
-    "IT/Systeme/Betriebssysteme/Speicherabstraktion/Seitenfehler.md",
+    "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Busy Waiting.md",
+    "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Seitenfehler.md",
     "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Paging.md",
+    "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme ohne Speicherabstraktion/Relokationsproblem.md",
+    "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Multitasking-Systeme.md",
     "IT/Systeme/Betriebssysteme/Speicherabstraktion/Adressraum.md",
     "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme ohne Speicherabstraktion/Multitasking-Systeme.md",
-    "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Multitasking-Systeme.md",
-    "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme ohne Speicherabstraktion/Relokationsproblem.md",
     "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme ohne Speicherabstraktion/Segmentierung.md",
     "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme ohne Speicherabstraktion/Single-Task-Systeme.md",
-    "IPv6.md",
-    "IT/Datennetze/Verfahren/Code Division.md"
+    "IPv6.md"
   ]
 }
