@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Systeme/Betriebssysteme/Speicherabstraktion/Seitenfehler.md",
+                "file": "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Multitasking-Systeme.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 256
   },
   "right": {
     "id": "22b70099ee710ea1",
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Systeme/Betriebssysteme/Speicherabstraktion/Seitenfehler.md",
+                "file": "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Multitasking-Systeme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,10 +179,10 @@
     "width": 347,
     "collapsed": true
   },
-  "active": "acc1af4a21171b87",
+  "active": "d0e94e9d4cc09748",
   "lastOpenFiles": [
-    "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Paging.md",
     "IT/Systeme/Betriebssysteme/Speicherabstraktion/Seitenfehler.md",
+    "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Paging.md",
     "IT/Systeme/Betriebssysteme/Speicherabstraktion/Adressraum.md",
     "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme ohne Speicherabstraktion/Multitasking-Systeme.md",
     "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Multitasking-Systeme.md",
