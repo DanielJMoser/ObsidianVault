@@ -1,6 +1,6 @@
 # Codd'sche Regeln
 
-Gelistet sind die 9 noch immer weitläufig relevanten der ursprünglich 13 Regeln:
+Gelistet sind die **9 noch immer** weitläufig **relevanten** der **ursprünglich 13** Regeln:
 
 * Integration
 * Operations

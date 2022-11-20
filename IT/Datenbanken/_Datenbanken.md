@@ -9,7 +9,7 @@ Ein Mailclient könnte Daten eines Kontaktbuchs über dreierlei Wege erreichen:
 * **Datenbanken** -> Kontakten speichern Daten organisiert mittels eines DB-Tools, Mailserver ließt diese dann wieder.
 
 
-Neben den [[Relationale Datenbanken|Relationalen Datenbanken]] existieren auch noch die [[Nicht-Relationalen Datenbanken]].
+Neben den [[_Relationale Datenbanken|Relationalen Datenbanken]] existieren auch noch die [[Nicht-Relationalen Datenbanken]].
 
 
 ## Ansprüche

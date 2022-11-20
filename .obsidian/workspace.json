@@ -4,206 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d79af08c3ed7c4bc",
+        "id": "ddcc01e98a7e4573",
         "type": "tabs",
         "children": [
           {
-            "id": "150c373d37ac813c",
+            "id": "7feb6707e4181407",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme ohne Speicherabstraktion/Relokationsproblem.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4bd5bf94f305f42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Multitasking-Systeme.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "acc1af4a21171b87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Datennetze/_Datennetze.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3dcfb0c4f4d7003",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Datennetze/Geschichte/Eigenschaften einer Datenverbindung.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "349b0fdc3c78dfc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Datennetze/State.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9fce5b722d160c20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Datennetze/State.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42ee3ff0e741fe90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Systeme/Übertragung/Kommunikationsnetzwerke/Arten von Kommunikationsnetzwerken.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3fca1105cef1b5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Datennetze/Schichten/ISOOSI/ISO-OSI-Referenzmodell.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2e16beeb08dd347",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Datennetze/Schichten/ISOOSI/1. Schicht –> Bitübertragung.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cac0d3e1edc8c72c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Datennetze/Schichten/ISOOSI/2.Schicht -> Sicherung.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a04f5dde4665848a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Datennetze/Schichten/ISOOSI/3. Schicht -> Vermittlung.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dbf70962ebe92a07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Datennetze/Schichten/ISOOSI/4. Schicht -> Transportschicht.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5724f31ec070397",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Datennetze/Schichten/ISOOSI/5. Schicht -> Sitzung.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2e26b967a72f216",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Datennetze/Schichten/ISOOSI/6. Schicht -> Darstellung.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6fd642233a573aa9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Datenbanken/Relational Model/_Relational Model.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 14
+        ]
       }
     ],
     "direction": "vertical"
@@ -272,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Datenbanken/Relational Model/_Relational Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -322,17 +133,17 @@
     "width": 347,
     "collapsed": true
   },
-  "active": "6fd642233a573aa9",
+  "active": "7feb6707e4181407",
   "lastOpenFiles": [
-    "IT/Datenbanken/Systemarchitektur.md",
-    "IT/Datenbanken/Relationship.md",
-    "IT/Datenbanken/EER-Modell.md",
-    "IT/Datenbanken/ER-Modell.md",
-    "IT/Datenbanken/Entity.md",
-    "IT/Datenbanken/Database Management System.md",
-    "IT/Datenbanken/Data Dictionary.md",
-    "IT/Datenbanken/CAP-Theorem.md",
-    "IT/Datenbanken/Attribute.md",
-    "IT/Datenbanken/9 Regeln von Codd.md"
+    "IT/Datenbanken/Relational Databses/Systemarchitektur/_Systemarchitektur, DBS.md",
+    "IT/Datennetze/Schichten/ISOOSI/6. Schicht -> Darstellung.md",
+    "IT/Datennetze/Schichten/ISOOSI/5. Schicht -> Sitzung.md",
+    "IT/Datennetze/Schichten/ISOOSI/4. Schicht -> Transportschicht.md",
+    "IT/Datennetze/Schichten/ISOOSI/3. Schicht -> Vermittlung.md",
+    "IT/Datennetze/Schichten/ISOOSI/2.Schicht -> Sicherung.md",
+    "IT/Datenbanken/Relational Databses/Systemarchitektur/Database Management System.md",
+    "IT/Datenbanken/Relational Databses/Systemarchitektur/Schichten.md",
+    "IT/Datenbanken/Relational Databses/Relational Model/_Relational Model.md",
+    "IT/Datenbanken/Relational Databses/Relational Model/Tuple_DB.md"
   ]
 }
