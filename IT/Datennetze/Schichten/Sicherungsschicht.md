@@ -1,6 +1,6 @@
 #Datennetze 
 
-Schickt Datenpakete mittels [[Router]] entlang dem von der [[Transportschicht]] gefundenen Weg weiter.
+Schickt Datenpakete mittels [[Router]] entlang dem von der [[4. Schicht -> Transportschicht]] gefundenen Weg weiter.
 
 ___
 

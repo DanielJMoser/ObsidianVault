@@ -8,6 +8,8 @@ Auch können Pakete mit dem selben Verbindungsziel **unterschiedliche Routen** n
 
 Ein **expliziter** Verbindungsaufbau am Anfang ist **nicht** notwendig! Ein bekanntes Beispiel ist das **klassische Postsystem.**
 
+___
+
 ### Vorteile:
 
 - **Effiziente** Bandbreitennutzung.
@@ -23,9 +25,14 @@ Ein **expliziter** Verbindungsaufbau am Anfang ist **nicht** notwendig! Ein beka
 - Schwankende und generell höhere [[Eigenschaften einer Datenverbindung#Latenz|Latenzen]].
 - Daten kommen u.U. **nicht in der richtigen Reihenfolge** an.
 
-
 Gemeinsam genutzte Verbindungen bedeuten auch, dass es zu **Engpässen** und **Staus** kommen kann. Besonders gefährdet sind Übergänge von Netzteilen mit hoher Bandbreite zu Netzteilen mit niedriger Bandbreite.
 
 Treten solche Engpässe auf, werden in den Netzknoten Pakete in sog. **Queues** zwischengespeichertm was wiederrum die [[Eigenschaften einer Datenverbindung#Latenz|Latenz]] steigert 
 -> genannt **Queueing Delay**!
 Ist diese warteschlange voll, so gehen neuankommende Pakete verloren!
+
+___
+
+Solche Systeme funktionieren nach dem **Best-Effort-Prinzip**. Durch **zusätzliche Maßnahmen** können manche Eigenschaften (z.B. Fehlerfreiheit oder Vollständigkeit) dennoch garantiert werden. Ein Beispiel dafür ist [[TCP]].
+
+

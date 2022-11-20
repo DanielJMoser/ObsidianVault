@@ -1,1 +1,0 @@
--> Daten werden zwischen zwei sog. [[Socket|Sockets]] transportiert.

@@ -78,7 +78,124 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paketvermittlung.md",
+                "file": "IT/Datennetze/State.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42ee3ff0e741fe90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Systeme/Übertragung/Kommunikationsnetzwerke/Arten von Kommunikationsnetzwerken.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3fca1105cef1b5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Datennetze/Schichten/ISOOSI/ISO-OSI-Referenzmodell.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2e16beeb08dd347",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Datennetze/Schichten/ISOOSI/1. Schicht –> Bitübertragung.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cac0d3e1edc8c72c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Datennetze/Schichten/ISOOSI/2.Schicht -> Sicherung.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a04f5dde4665848a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Datennetze/Schichten/ISOOSI/3. Schicht -> Vermittlung.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbf70962ebe92a07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Datennetze/Schichten/ISOOSI/4. Schicht -> Transportschicht.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5724f31ec070397",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Datennetze/Schichten/ISOOSI/5. Schicht -> Sitzung.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2e26b967a72f216",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Datennetze/Schichten/ISOOSI/6. Schicht -> Darstellung.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6fd642233a573aa9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Datenbanken/Relational Model/_Relational Model.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -105,8 +222,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "kommunika",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -155,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paketvermittlung.md",
+                "file": "IT/Datenbanken/Relational Model/_Relational Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,17 +322,17 @@
     "width": 347,
     "collapsed": true
   },
-  "active": "9fce5b722d160c20",
+  "active": "6fd642233a573aa9",
   "lastOpenFiles": [
-    "IT/Datennetze/Arten von Kommunikationsnetzwerken.md",
-    "IT/Datennetze/Arten von Übertragungsmedien.md",
-    "IT/Datennetze/Leitungsvermittlung.md",
-    "IT/Datennetze/State.md",
-    "IT/Datennetze/Geschichte/Eigenschaften einer Datenverbindung.md",
-    "IT/Datennetze/Verfahren/Multiple Access.md",
-    "IT/Datennetze/Verfahren/Multiplexing.md",
-    "IT/Datennetze/Geschichte/ARPANET.md",
-    "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme ohne Speicherabstraktion/Relokationsproblem.md",
-    "IT/Datennetze/_Drawings/zzDrawing_ARPANET2.png"
+    "IT/Datenbanken/Systemarchitektur.md",
+    "IT/Datenbanken/Relationship.md",
+    "IT/Datenbanken/EER-Modell.md",
+    "IT/Datenbanken/ER-Modell.md",
+    "IT/Datenbanken/Entity.md",
+    "IT/Datenbanken/Database Management System.md",
+    "IT/Datenbanken/Data Dictionary.md",
+    "IT/Datenbanken/CAP-Theorem.md",
+    "IT/Datenbanken/Attribute.md",
+    "IT/Datenbanken/9 Regeln von Codd.md"
   ]
 }
