@@ -34,25 +34,12 @@
             }
           },
           {
-            "id": "57accb0093b600f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Paging.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "acc1af4a21171b87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Datennetze/Transportprotokolle/TCP.md",
+                "file": "IT/Datennetze/Transportprotokolle/Zuverlässigkeit & Verbindungsorientiertheit.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Datennetze/Transportprotokolle/TCP.md",
+                "file": "IT/Datennetze/Transportprotokolle/Zuverlässigkeit & Verbindungsorientiertheit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,15 +168,15 @@
   },
   "active": "acc1af4a21171b87",
   "lastOpenFiles": [
+    "IT/Datennetze/Transportprotokolle/UDP.md",
+    "IT/Datennetze/Transportprotokolle/QUIC.md",
+    "IT/Datennetze/Transportprotokolle/TCP.md",
+    "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Multitasking-Systeme.md",
+    "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Paging.md",
     "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Busy Waiting.md",
     "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Seitenfehler.md",
-    "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Paging.md",
     "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme ohne Speicherabstraktion/Relokationsproblem.md",
-    "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Multitasking-Systeme.md",
     "IT/Systeme/Betriebssysteme/Speicherabstraktion/Adressraum.md",
-    "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme ohne Speicherabstraktion/Multitasking-Systeme.md",
-    "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme ohne Speicherabstraktion/Segmentierung.md",
-    "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme ohne Speicherabstraktion/Single-Task-Systeme.md",
-    "IPv6.md"
+    "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme ohne Speicherabstraktion/Multitasking-Systeme.md"
   ]
 }
