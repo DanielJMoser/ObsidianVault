@@ -39,7 +39,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Datennetze/Transportprotokolle/Zuverlässigkeit & Verbindungsorientiertheit.md",
+                "file": "IT/Datennetze/_Datennetze.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3dcfb0c4f4d7003",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Datennetze/Geschichte/Eigenschaften einer Datenverbindung.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "349b0fdc3c78dfc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Datennetze/State.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9fce5b722d160c20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Paketvermittlung.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -116,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Datennetze/Transportprotokolle/Zuverlässigkeit & Verbindungsorientiertheit.md",
+                "file": "Paketvermittlung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,17 +205,17 @@
     "width": 347,
     "collapsed": true
   },
-  "active": "acc1af4a21171b87",
+  "active": "9fce5b722d160c20",
   "lastOpenFiles": [
-    "IT/Datennetze/Transportprotokolle/UDP.md",
-    "IT/Datennetze/Transportprotokolle/QUIC.md",
-    "IT/Datennetze/Transportprotokolle/TCP.md",
-    "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Multitasking-Systeme.md",
-    "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Paging.md",
-    "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Busy Waiting.md",
-    "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Seitenfehler.md",
+    "IT/Datennetze/Arten von Kommunikationsnetzwerken.md",
+    "IT/Datennetze/Arten von Übertragungsmedien.md",
+    "IT/Datennetze/Leitungsvermittlung.md",
+    "IT/Datennetze/State.md",
+    "IT/Datennetze/Geschichte/Eigenschaften einer Datenverbindung.md",
+    "IT/Datennetze/Verfahren/Multiple Access.md",
+    "IT/Datennetze/Verfahren/Multiplexing.md",
+    "IT/Datennetze/Geschichte/ARPANET.md",
     "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme ohne Speicherabstraktion/Relokationsproblem.md",
-    "IT/Systeme/Betriebssysteme/Speicherabstraktion/Adressraum.md",
-    "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme ohne Speicherabstraktion/Multitasking-Systeme.md"
+    "IT/Datennetze/_Drawings/zzDrawing_ARPANET2.png"
   ]
 }
