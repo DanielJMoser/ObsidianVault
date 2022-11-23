@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Datenbanken/Relational Databses/SQL/Befehle/SQL als Data Manipulation Language.md",
+                "file": "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme ohne Speicherabstraktion/Multitasking-Systeme.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Datenbanken/Relational Databses/SQL/Befehle/SQL als Data Manipulation Language.md",
+                "file": "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme ohne Speicherabstraktion/Multitasking-Systeme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,6 +168,8 @@
   },
   "active": "dffeeb02adacad91",
   "lastOpenFiles": [
+    "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme ohne Speicherabstraktion/Relokationsproblem.md",
+    "IT/Datenbanken/Relational Databses/SQL/Befehle/SQL als Data Manipulation Language.md",
     "IT/Datenbanken/Relational Databses/SQL/_SQL.md",
     "IT/Datenbanken/Relational Databses/Systemarchitektur/_Systemarchitektur, DBS.md",
     "IT/Datenbanken/Relational Databses/Relational Model/Relationship.md",
@@ -175,8 +177,6 @@
     "IT/Datennetze/Schichten/ISOOSI/5. Schicht -> Sitzung.md",
     "IT/Datennetze/Schichten/ISOOSI/4. Schicht -> Transportschicht.md",
     "IT/Datennetze/Schichten/ISOOSI/3. Schicht -> Vermittlung.md",
-    "IT/Datennetze/Schichten/ISOOSI/2.Schicht -> Sicherung.md",
-    "IT/Datenbanken/Relational Databses/Systemarchitektur/Database Management System.md",
-    "IT/Datenbanken/Relational Databses/Systemarchitektur/Schichten.md"
+    "IT/Datennetze/Schichten/ISOOSI/2.Schicht -> Sicherung.md"
   ]
 }
