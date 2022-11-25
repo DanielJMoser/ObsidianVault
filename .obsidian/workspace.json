@@ -4,50 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ddcc01e98a7e4573",
+        "id": "8037a02f673f3ab2",
         "type": "tabs",
         "children": [
           {
-            "id": "7feb6707e4181407",
+            "id": "451f1e89d9a3355f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Datenbanken/Relational Databses/Systemarchitektur/_Systemarchitektur, DBS.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0429277fc2570287",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Datenbanken/Relational Databses/SQL/_SQL.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dffeeb02adacad91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme ohne Speicherabstraktion/Multitasking-Systeme.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme ohne Speicherabstraktion/Multitasking-Systeme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,17 +133,17 @@
     "width": 347,
     "collapsed": true
   },
-  "active": "dffeeb02adacad91",
+  "active": "451f1e89d9a3355f",
   "lastOpenFiles": [
-    "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme ohne Speicherabstraktion/Relokationsproblem.md",
-    "IT/Datenbanken/Relational Databses/SQL/Befehle/SQL als Data Manipulation Language.md",
-    "IT/Datenbanken/Relational Databses/SQL/_SQL.md",
     "IT/Datenbanken/Relational Databses/Systemarchitektur/_Systemarchitektur, DBS.md",
-    "IT/Datenbanken/Relational Databses/Relational Model/Relationship.md",
-    "IT/Datennetze/Schichten/ISOOSI/6. Schicht -> Darstellung.md",
-    "IT/Datennetze/Schichten/ISOOSI/5. Schicht -> Sitzung.md",
-    "IT/Datennetze/Schichten/ISOOSI/4. Schicht -> Transportschicht.md",
-    "IT/Datennetze/Schichten/ISOOSI/3. Schicht -> Vermittlung.md",
-    "IT/Datennetze/Schichten/ISOOSI/2.Schicht -> Sicherung.md"
+    "IT/Datenbanken/Relational Databses/SQL/_SQL.md",
+    "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Synchronisationsprimitiven/_Synchronisationsprimitiven.md",
+    "IT/Datennetze/Verfahren/Frequency Division.md",
+    "IT/Datennetze/Ports/_Ports.md",
+    "IT/Datennetze/Protokolle/Transportprotokolle/QUIC.md",
+    "IT/Datennetze/Sockets/Client-Socket.md",
+    "IT/Datennetze/Sockets/Datagram Sockets.md",
+    "IT/Datennetze/Protokolle/Transportprotokolle/IP.md",
+    "IT/Datennetze/Protokolle/Transportprotokolle/_Transportprotokolle.md"
   ]
 }

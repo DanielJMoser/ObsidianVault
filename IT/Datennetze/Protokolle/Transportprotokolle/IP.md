@@ -1,4 +1,4 @@
-#Datennetze 
+#Datennetze #OSINT
 
 -> **Internet Protocol**, Veröffentlicht 1981.
 -> Implementiert die [[Vermittlungsschicht]] und bildet die **Grundlage des Internets**.
