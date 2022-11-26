@@ -19,7 +19,7 @@ Ende der späten 1950er wurde das sogenannte [[ARPANET]], ein Kommando- und Steu
 ### Soll-Zustand
 
 - Stattdessen soll für die militärische Kommunikation ein hochgradig **dezentrales** und dadurch **fehlertolerantes** Netz verwendet werden
-- Ausfälle einiger weniger Knotensollen vollständig kompensiert werden können
+- Ausfälle einiger weniger Knoten sollen **vollständig** kompensiert werden können
 
 ![[zzDrawing_ARPANET2.png]]
 

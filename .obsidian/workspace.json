@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Systeme/Betriebssysteme/Prozesssynchronisation/_Prozesssynchronisation.md",
+                "file": "IT/Datennetze/Protokolle/Transportprotokolle/IPv4.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Systeme/Betriebssysteme/Prozesssynchronisation/_Prozesssynchronisation.md",
+                "file": "IT/Datennetze/Protokolle/Transportprotokolle/IPv4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,15 +141,15 @@
   },
   "active": "451f1e89d9a3355f",
   "lastOpenFiles": [
+    "IT/Datennetze/Protokolle/Transportprotokolle/IP.md",
+    "IT/Datennetze/Protokolle/Transportprotokolle/ARQ-Protokolle.md",
+    "IT/Datennetze/Ports/_Ports.md",
+    "IT/Datennetze/Geschichte/Eigenschaften einer Datenverbindung.md",
+    "IT/Datennetze/Geschichte/ARPANET.md",
+    "IT/Systeme/Betriebssysteme/Prozesssynchronisation/_Prozesssynchronisation.md",
     "IT/Datenbanken/Relational Databses/Systemarchitektur/_Systemarchitektur, DBS.md",
     "IT/Datenbanken/Relational Databses/SQL/_SQL.md",
     "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Synchronisationsprimitiven/_Synchronisationsprimitiven.md",
-    "IT/Datennetze/Verfahren/Frequency Division.md",
-    "IT/Datennetze/Ports/_Ports.md",
-    "IT/Datennetze/Protokolle/Transportprotokolle/QUIC.md",
-    "IT/Datennetze/Sockets/Client-Socket.md",
-    "IT/Datennetze/Sockets/Datagram Sockets.md",
-    "IT/Datennetze/Protokolle/Transportprotokolle/IP.md",
-    "IT/Datennetze/Protokolle/Transportprotokolle/_Transportprotokolle.md"
+    "IT/Datennetze/Verfahren/Frequency Division.md"
   ]
 }
