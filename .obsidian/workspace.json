@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6754bdbd5376df0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Germanistik/Sprache/Einführung/Semantik.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kommunika",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Datennetze/Protokolle/Transportprotokolle/TCP.md",
+                "file": "Germanistik/Sprache/Einführung/Semantik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,17 +146,17 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 347,
-    "collapsed": true
+    "width": 347
   },
-  "active": "451f1e89d9a3355f",
+  "active": "6754bdbd5376df0e",
   "lastOpenFiles": [
-    "IT/Datennetze/Protokolle/Transportprotokolle/ARQ-Protokolle.md",
     "IT/Datennetze/Protokolle/Transportprotokolle/TCP.md",
+    "IT/Datennetze/Protokolle/Transportprotokolle/ARQ-Protokolle.md",
     "IT/Datennetze/Protokolle/Transportprotokolle/QUIC.md",
     "IT/Datennetze/Protokolle/Transportprotokolle/UDP.md",
     "IT/Datennetze/Protokolle/Prinzipien/Zuverlässigkeit & Verbindungsorientiertheit.md",
