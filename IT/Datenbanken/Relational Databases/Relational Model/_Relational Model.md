@@ -17,17 +17,18 @@
 
 ## Primärkey
 
--> Identifiziert Tuple eindeutig.
+-> Identifiziert Tuple eindeutig. siehe: [[Primärschlüssel]]
 
 Mehrere Attribute können zu einem Primärkey **zusammengefasst** werden. Sein Wert darf nicht NULL sein -> **Entity Integrity**. 
--
+
 Notation: **durchgehend unterstrichen**
 
 
 ## Foreign Keys
 
--> Identifiziert ein Tupel einer **anderen Tabelle**. Kann ein Primärkey in eben dieser anderen Tabelle sein!
-Ein Foreign Key beschreibt ein **Verhältnis** zur referenzierten Entität. Er kann Teil des Primärkeys der anderen Tabelle sein.
+-> Identifiziert ein Tupel einer **anderen Tabelle**. Kann ein Primärkey in dieser anderen Tabelle sein! Siehe: [[Fremdschlüssel]]
+
+Ein Foreign Key beschreibt ein **Verhältnis** zur referenzierten Entität.
 
 Notation: **gestrichelt unterstrichen** oder **doppelt unterstrichen**, falls auch Teil des Primärkeys.
 

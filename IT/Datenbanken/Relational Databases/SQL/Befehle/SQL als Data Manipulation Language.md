@@ -1,5 +1,5 @@
 
-Um **neue Inforamationen** zu unserer Datenbank hinzuzufügen, können wir in SQL folgende Operatoren verwenden:
+Um **neue Informationen** zu unserer Datenbank hinzuzufügen, können wir in SQL folgende Operatoren verwenden:
 
 - Insert
 - Update
