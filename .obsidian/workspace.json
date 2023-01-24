@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chen-Notation.md",
+                "file": "IT/Systeme/Betriebssysteme/Speicherabstraktion/Adressraum.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chen-Notation.md",
+                "file": "IT/Systeme/Betriebssysteme/Speicherabstraktion/Adressraum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,15 +153,15 @@
   },
   "active": "451f1e89d9a3355f",
   "lastOpenFiles": [
-    "IT/Datenbanken/Relational Databases/ER-Modell.md",
-    "IT/Datenbanken/_Datenbanken.md",
-    "IT/Datenbanken/Relational Databases/CAP-Theorem.md",
-    "IT/Datenbanken/Relational Databases/EER-Modell.md",
-    "IT/Datenbanken/Relational Databases/Entity.md",
-    "IT/Datenbanken/Relational Databases/Systemarchitektur/Schichten.md",
-    "IT/Datenbanken/Relational Databases/Systemarchitektur/Data Dictionary.md",
-    "IT/Datenbanken/Relational Databases/Systemarchitektur/Database Management System.md",
-    "IT/Datenbanken/Relational Databases/SQL/Befehle/SQL als Data Manipulation Language.md",
-    "IT/Datenbanken/Relational Databases/Schlüssel/Fremdschlüssel.md"
+    "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Paging.md",
+    "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Seitenfehler.md",
+    "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Multitasking-Systeme.md",
+    "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme ohne Speicherabstraktion/Single-Task-Systeme.md",
+    "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme ohne Speicherabstraktion/Segmentierung.md",
+    "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme ohne Speicherabstraktion/Relokationsproblem.md",
+    "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme ohne Speicherabstraktion/Multitasking-Systeme.md",
+    "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Petri-Netze.md",
+    "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Modellierung & Implementierung.md",
+    "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Busy Waiting.md"
   ]
 }
