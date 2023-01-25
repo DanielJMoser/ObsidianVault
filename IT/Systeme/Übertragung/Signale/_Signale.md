@@ -27,3 +27,7 @@ Kontinuierliche Signale weden daher ***diskretisiert*.**
 Hierzu wird ein Signal in meist **gleichen Abständen** abgetastet und durch einen [[Analog-Digital-Wandler]] in einen **digitalen Wert** umgewandelt. -> Quantisierung
 
 Siehe: [[Abtastung]]
+
+___
+
+Auch in [[_Signale bei Betriebssystemen]] werden Signale zur **Prozesskommunikation** verwendet.
