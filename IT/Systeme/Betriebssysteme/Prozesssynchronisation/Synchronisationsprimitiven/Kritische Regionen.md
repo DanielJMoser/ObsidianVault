@@ -7,7 +7,7 @@ Dabei handelt es sich um **Code-Abschnitte, die nur von einem Prozess bzw. Threa
 
 Sie bestehen meist aus **mehreren Einzelanweiseungen**, deren Zwischenergebnisse **inkonsistente Zustände** darstellen.
 
-Auf diese sollen andrer Prozesse bzw. [[Thread|Threads]] natürlich keinen Zugriff erlangen! Konsistenz kann nur sichergestellt werden, wenn **alle** Einzelanweisungen in **einem Stück** abgearbeitet werden können.
+Auf diese sollen andrer Prozesse bzw. [[Threads|Threads]] natürlich keinen Zugriff erlangen! Konsistenz kann nur sichergestellt werden, wenn **alle** Einzelanweisungen in **einem Stück** abgearbeitet werden können.
 
 Dieses Konzept wird auch ***Mutual Exclution*** genannt.
 

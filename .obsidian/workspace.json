@@ -19,48 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f892e1731f528070",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Systeme/Übertragung/Signale/Signale bei Betriebssystemen/_Signale bei Betriebssystemen.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2bf5783195e9db49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Systeme/Übertragung/Signale/Signale bei Betriebssystemen/Graceful Shutdown.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe4a7f930a2e5de8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Systeme/Übertragung/Signale/Signale bei Betriebssystemen/Alarm.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "signal",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Systeme/Übertragung/Signale/Signale bei Betriebssystemen/Alarm.md",
+                "file": "IT/Datenbanken/Relational Databases/9 Regeln von Codd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,17 +152,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "fe4a7f930a2e5de8",
+  "active": "d0e94e9d4cc09748",
   "lastOpenFiles": [
-    "IT/Systeme/Übertragung/Signale/_Signale.md",
-    "IT/Systeme/Übertragung/Signale/Signale bei Betriebssystemen/Alarm.md",
-    "IT/Systeme/Übertragung/Signale/Signale bei Betriebssystemen/Graceful Shutdown.md",
-    "IT/Systeme/Übertragung/Signale/Signale bei Betriebssystemen/_Signale bei Betriebssystemen.md",
-    "IT/Systeme/Übertragung/Kommunikationsnetzwerke/_Kommunikationsnetzwerke.md",
-    "Excalidraw/zzDrawing_Signal.md",
-    "IT/Systeme/Übertragung/Signale/Abtastung.md",
-    "IT/Systeme/Betriebssysteme/Speicherabstraktion/Adressraum.md",
-    "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Paging.md",
-    "IT/Systeme/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Seitenfehler.md"
+    "IT/Datenbanken/Relational Databases/_Relationale Datenbanken.md",
+    "IT/Datenbanken/Relational Databases/Entity.md",
+    "IT/Datenbanken/Relational Databases/CAP-Theorem.md",
+    "IT/Datenbanken/Relational Databases/Darstellungsmodelle/Chen-Notation.md",
+    "IT/Datenbanken/Relational Databases/Darstellungsmodelle/EER-Modell.md",
+    "IT/Datenbanken/Relational Databases/Darstellungsmodelle/_Modelle.md",
+    "IT/Datenbanken/Relational Databases/Relational Model/_Relational Model.md",
+    "UML-Notation.md",
+    "Drawing_Race-Condition.png.md",
+    "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Prozess.md"
   ]
 }

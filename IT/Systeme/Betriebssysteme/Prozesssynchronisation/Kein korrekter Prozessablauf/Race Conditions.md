@@ -8,8 +8,7 @@
 
 Angenommen, es existiert eine **Globale Variable A** und **zwei paralell laufende Threads**, welche jeweils **unterschiedliche Werte** in A speichern.
 
-![[Drawing_Race-Condition.png]]
-
+![[zzDrawing_Race-Condition.png]]
 
 
 
@@ -18,7 +17,7 @@ Angenommen, es existiert eine **Globale Variable A** und **zwei paralell laufend
 -> Der **zuletzt gespeicherte** bzw. der **langsamere** Wert!
 -> Unterschiedliches zeitliches Verhalten sorgt für unterschiedliche Ergebnisse.
 
-Da die [[Thread|Threads]] parallel ausgeführt werden, ist ihre Reihenfolge nicht deterministisch, ergo zufällig! So wird beim einen Mal Thread 1 schneller, mal Thread 2 schneller sein.
+Da die [[Threads|Threads]] parallel ausgeführt werden, ist ihre Reihenfolge nicht deterministisch, ergo zufällig! So wird beim einen Mal Thread 1 schneller, mal Thread 2 schneller sein.
 
 Aufgrund **zunehmender Parallelisierung**[^1] tritt eine solche Situation immer häufiger auf, was sich unter Umständen schwerwiegend auf das System einwirkt.
 
