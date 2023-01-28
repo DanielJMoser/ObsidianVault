@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Systeme/Übertragung/Kommunikationsnetzwerke/_Kommunikationsnetzwerke.md",
+                "file": "IT/Datenbanken/Relational Databases/Schlüssel/Fremdschlüssel.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256
+    "width": 301
   },
   "right": {
     "id": "22b70099ee710ea1",
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Datenbanken/Relational Databases/9 Regeln von Codd.md",
+                "file": "IT/Datenbanken/Relational Databases/Schlüssel/Fremdschlüssel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,17 +152,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d0e94e9d4cc09748",
+  "active": "451f1e89d9a3355f",
   "lastOpenFiles": [
-    "IT/Datenbanken/Relational Databases/_Relationale Datenbanken.md",
+    "IT/Datenbanken/Relational Databases/Schlüssel/Primärschlüssel.md",
+    "IT/Datenbanken/Relational Databases/Schlüssel/Fremdschlüssel.md",
     "IT/Datenbanken/Relational Databases/Entity.md",
+    "IT/Datenbanken/Relational Databases/9 Regeln von Codd.md",
+    "IT/Systeme/Übertragung/Kommunikationsnetzwerke/_Kommunikationsnetzwerke.md",
+    "IT/Datenbanken/Relational Databases/_Relationale Datenbanken.md",
     "IT/Datenbanken/Relational Databases/CAP-Theorem.md",
     "IT/Datenbanken/Relational Databases/Darstellungsmodelle/Chen-Notation.md",
     "IT/Datenbanken/Relational Databases/Darstellungsmodelle/EER-Modell.md",
-    "IT/Datenbanken/Relational Databases/Darstellungsmodelle/_Modelle.md",
-    "IT/Datenbanken/Relational Databases/Relational Model/_Relational Model.md",
-    "UML-Notation.md",
-    "Drawing_Race-Condition.png.md",
-    "IT/Systeme/Betriebssysteme/Prozesssynchronisation/Prozess.md"
+    "IT/Datenbanken/Relational Databases/Darstellungsmodelle/_Modelle.md"
   ]
 }
