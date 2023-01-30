@@ -12,7 +12,7 @@ Datenpakete ^N842sVzE
 
 
 # Embedded files
-68783d670ea63a82cc4af37e462fd2dbede830e1: [[IT/Algorithmen-Datenstrukturen/_Drawings/Pasted Image 20221109192810_488.png]]
+68783d670ea63a82cc4af37e462fd2dbede830e1: [[Pasted Image 20221109192810_488.png]]
 
 %%
 # Drawing

@@ -11,8 +11,13 @@
             "id": "934c1286e59e1c53",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "IT/Systeme/Aufbau von Computersystemen/Von-Neumann-Architektur.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -84,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IT/Systeme/Aufbau von Computersystemen/Von-Neumann-Architektur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,15 +154,15 @@
   },
   "active": "934c1286e59e1c53",
   "lastOpenFiles": [
-    "IT/Datenbanken/Relational Databases/Schlüssel/Fremdschlüssel.md",
-    "IT/Datenbanken/Relational Databases/Schlüssel/Primärschlüssel.md",
-    "IT/Datenbanken/Relational Databases/Entity.md",
-    "IT/Datenbanken/Relational Databases/9 Regeln von Codd.md",
-    "IT/Systeme/Übertragung/Kommunikationsnetzwerke/_Kommunikationsnetzwerke.md",
-    "IT/Datenbanken/Relational Databases/_Relationale Datenbanken.md",
-    "IT/Datenbanken/Relational Databases/CAP-Theorem.md",
-    "IT/Datenbanken/Relational Databases/Darstellungsmodelle/Chen-Notation.md",
-    "IT/Datenbanken/Relational Databases/Darstellungsmodelle/EER-Modell.md",
-    "IT/Datenbanken/Relational Databases/Darstellungsmodelle/_Modelle.md"
+    "IT/Systeme/Aufbau von Computersystemen/CPU.md",
+    "IT/Systeme/ERP-Systeme/Enterprise Software.md",
+    "IT/Daten/Datenbanken/Relational Databases/Entity.md",
+    "IT/Daten/Datenbanken/Relational Databases/CAP-Theorem.md",
+    "Excalidraw/Drawing 2022-10-04 14.21.08.excalidraw.md",
+    "IT/Daten/Datenbanken/_Drawings/zDrawing_CAP.md",
+    "Excalidraw/zzDrawing_Signal.md",
+    "Excalidraw/zzDrawing_Hardware-Software.md",
+    "Excalidraw/zzDrawing_CritRegion.md",
+    "Excalidraw/zzDrawing_Bus.md"
   ]
 }
