@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Systeme/Aufbau von Computersystemen/Von-Neumann-Architektur.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00783aa7814f7162",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Programmierung/JavaScript/Websites/React/_React.md",
+                "file": "IT/Systeme/Soziotechnische Systeme/_Soziotechnische Systeme.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Programmierung/JavaScript/Websites/React/_React.md",
+                "file": "IT/Systeme/Soziotechnische Systeme/_Soziotechnische Systeme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +109,7 @@
             }
           },
           {
-            "id": "15fe0d1772ee2a2a",
+            "id": "0276d16b89ce32ef",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -131,7 +117,7 @@
             }
           },
           {
-            "id": "26fca412e0f5a7f2",
+            "id": "0133fb962f708cab",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
@@ -139,7 +125,7 @@
             }
           },
           {
-            "id": "12085903c5164ec6",
+            "id": "60d3da8b7c01d6bd",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -166,9 +152,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "00783aa7814f7162",
+  "active": "d0e94e9d4cc09748",
   "lastOpenFiles": [
+    "IT/Systeme/Soziotechnische Systeme/Informationssysteme",
+    "IT/Systeme/Embedded Systems/_Embedded Systems.md",
+    "IT/Systeme/Soziotechnische Systeme/Überbegriffe",
+    "IT/Systeme/Embedded Systems/Mikrocontroller/Arduino.md",
+    "IT/Systeme/Embedded Systems/Mikrocontroller/_Mikrocontroller.md",
+    "IT/Systeme/Embedded Systems/Eingebettete Software/Entwicklung von ES.md",
+    "IT/Systeme/Embedded Systems/Eingebettete Software/Eigenschaften ES.md",
+    "IT/Systeme/Embedded Systems/Eingebettete Software/Aufbau ES.md",
+    "IT/Systeme/Embedded Systems/Eingebettete Software/_Eingebettete Software.md",
+    "IT/Systeme/Sonstige Systeme/Echtzeitsysteme.md",
+    "IT/Systeme/Sonstige Systeme/Ereignisgesteuerte Systeme.md",
+    "IT/Systeme/Sonstige Systeme/Zeitgesteuerte Systeme.md",
+    "IT/Systeme/Sonstige Systeme/Technische Systeme.md",
+    "IT/Systeme/Sonstige Systeme/Prozessbasierte Systeme.md",
+    "Drawing VNA.png.md",
     "IT/Systeme/Aufbau von Computersystemen/Von-Neumann-Architektur.md",
+    "Untitled.canvas",
     "IT/Programmierung/JavaScript/Websites/React/_React.md",
     "IT/Programmierung/JavaScript/Websites/DOM.md",
     "IT/Systeme/Aufbau von Computersystemen/CPU.md",
