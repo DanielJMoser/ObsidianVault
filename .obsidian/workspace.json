@@ -115,22 +115,6 @@
             }
           },
           {
-            "id": "df9d830a6ec43da2",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {}
-            }
-          },
-          {
-            "id": "a19c5b0e7d765096",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {}
-            }
-          },
-          {
             "id": "88e61ebe59544569",
             "type": "leaf",
             "state": {
@@ -139,7 +123,23 @@
             }
           },
           {
-            "id": "0a5719f8fa3f9482",
+            "id": "15fe0d1772ee2a2a",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "26fca412e0f5a7f2",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          },
+          {
+            "id": "12085903c5164ec6",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -147,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -163,14 +163,14 @@
       "markdown-importer:Open format converter": false,
       "juggl:Juggl global graph": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "00783aa7814f7162",
   "lastOpenFiles": [
-    "IT/Programmierung/JavaScript/Websites/DOM.md",
-    "IT/Programmierung/JavaScript/Websites/React/_React.md",
     "IT/Systeme/Aufbau von Computersystemen/Von-Neumann-Architektur.md",
+    "IT/Programmierung/JavaScript/Websites/React/_React.md",
+    "IT/Programmierung/JavaScript/Websites/DOM.md",
     "IT/Systeme/Aufbau von Computersystemen/CPU.md",
     "IT/Systeme/ERP-Systeme/Enterprise Software.md",
     "IT/Daten/Datenbanken/Relational Databases/Entity.md",

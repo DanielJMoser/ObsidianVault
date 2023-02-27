@@ -1,4 +1,4 @@
--> **JavaScript-Bibliothek** zur Erstellung von Benutzeroberflächen. 
+^-> **JavaScript-Bibliothek** zur Erstellung von Benutzeroberflächen. 
 
 Sie wurde von **Facebook** entwickelt und wird von ihm gepflegt. 
 Sie wird häufig für die Erstellung von **Webanwendungen** und **mobilen Apps** verwendet. React ermöglicht es Entwicklern, **wiederverwendbare UI-Komponenten** zu erstellen und den **Zustand ihrer Anwendungen** effizient zu verwalten. 
