@@ -129,7 +129,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen/Parallele Systeme/Parallele Systeme bei Supercomputern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,11 +191,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6fbab75272b9642c",
+  "active": "d0e94e9d4cc09748",
   "lastOpenFiles": [
+    "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen/Parallele Systeme/Parallele Systeme bei Supercomputern.md",
+    "Excalidraw/Drawing 2023-03-13 14.22.35.excalidraw.md",
     "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen/Supercomputer/_Supercomputer.md",
     "Pa.md",
-    "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen/Parallele Systeme/Parallele Systeme bei Supercomputern.md",
     "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen/zzDrawings/zzDrawing_SupComp 1.png",
     "Excalidraw/zzDrawing_SupComp.md",
     "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen/zzDrawings.md",
@@ -227,7 +227,6 @@
     "IT/Programmierung/JavaScript/Websites/React/_React.md",
     "IT/Programmierung/JavaScript/Websites/DOM.md",
     "IT/Systeme/Aufbau von Computersystemen/CPU.md",
-    "IT/Systeme/ERP-Systeme/Enterprise Software.md",
-    "IT/Daten/Datenbanken/Relational Databases/Entity.md"
+    "IT/Systeme/ERP-Systeme/Enterprise Software.md"
   ]
 }
