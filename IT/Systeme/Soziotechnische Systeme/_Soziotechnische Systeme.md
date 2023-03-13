@@ -10,4 +10,3 @@ Seit [[Digitalisierung]]: Neue Möglichkeiten im Bereich obig erwähnter verknü
 
 * [[Prozessorientiertes Arbeiten]]
 * [[Funktionale Arbeitsteilung]]
-sds
