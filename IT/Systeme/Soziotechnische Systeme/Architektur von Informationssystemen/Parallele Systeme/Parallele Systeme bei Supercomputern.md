@@ -17,7 +17,7 @@ Mehrere **gleichartige Recheneinheiten** werden zum System hinzugefügt.
 Die Kommunikation untereinander und zum Speicher erfolgt über **denselben Bus**.
 Solche Systeme bezeichnet man auch als **Mehr-Prozessor-System**.
 
-### Zur Unterscheidung: Mehr-Kern-Systemfd
+### Zur Unterscheidung: Mehr-Kern-System
 Ein Mehr-Kern-System und ein Mehr-Prozessor-System sind zwei Arten von Computersystemen, die in Supercomputern eingesetzt werden. Obwohl sie beide mehrere Verarbeitungseinheiten haben, unterscheiden sie sich in einigen wichtigen Aspekten.
 
 Ein Mehr-Kern-System ist ein Computersystem, das mehrere Prozessorkerne auf einem einzigen Chip vereint. Jeder Kern ist eine separate Verarbeitungseinheit, die in der Lage ist, Befehle unabhängig voneinander auszuführen. Ein Mehr-Kern-System kann mehrere Aufgaben gleichzeitig ausführen, indem es sie auf verschiedene Kerne verteilt. Der Vorteil von Mehr-Kern-Systemen besteht darin, dass sie kostengünstiger und energieeffizienter sind als Mehr-Prozessor-Systeme, da sie weniger Platz benötigen und weniger **Strom** verbrauchen.

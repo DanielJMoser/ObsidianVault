@@ -32,35 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6caa2f90a1c1507f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen/Supercomputer/_Supercomputer.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6fbab75272b9642c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen/Parallele Systeme/Parallele Systeme bei Supercomputern.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen/Parallele Systeme/Parallele Systeme bei Supercomputern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,10 +165,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6fbab75272b9642c",
+  "active": "d0e94e9d4cc09748",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-03-13 14.32.36.excalidraw.md",
     "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen/Parallele Systeme/Parallele Systeme bei Supercomputern.md",
+    "IT/Systeme/Soziotechnische Systeme/_Soziotechnische Systeme.md",
+    "Excalidraw/Drawing 2023-03-13 14.32.36.excalidraw.md",
     "Excalidraw/Drawing 2023-03-13 14.22.35.excalidraw.md",
     "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen/Supercomputer/_Supercomputer.md",
     "Pa.md",
@@ -207,7 +181,6 @@
     "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen/Supercomputer",
     "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen/Parallele Systeme",
     "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen/Untitled 1.md",
-    "IT/Systeme/Soziotechnische Systeme/_Soziotechnische Systeme.md",
     "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen",
     "IT/Systeme/Soziotechnische Systeme/Informationssysteme",
     "IT/Systeme/Embedded Systems/_Embedded Systems.md",
