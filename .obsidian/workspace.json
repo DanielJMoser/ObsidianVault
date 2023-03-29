@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "95ac3d687352b41e",
+        "id": "70ab5c91c4461b0f",
         "type": "tabs",
         "children": [
           {
-            "id": "934c1286e59e1c53",
+            "id": "a7ce7a08083cd654",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Systeme/Soziotechnische Systeme/_Soziotechnische Systeme.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82d1148eae70c885",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen/Supercomputer/_Supercomputer.md",
+                "file": "Diverses/Informationsrecht/Gesellschaftsrecht/GmbH.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301
+    "width": 263.5
   },
   "right": {
     "id": "22b70099ee710ea1",
@@ -103,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Diverses/Informationsrecht/Gesellschaftsrecht/GmbH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,8 +132,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -162,45 +148,50 @@
       "markdown-importer:Open format converter": false,
       "juggl:Juggl global graph": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "d0e94e9d4cc09748",
+  "active": "a7ce7a08083cd654",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Diverses/Informationsrecht/Gesellschaftsrecht/_Gesellschaftsrecht.md",
+    "Excalidraw/zzDrawing_Netzwerkschnittstellen_und_Ports.md",
+    "IT/Programmierung/übergreifendes.../Datentypen.md",
+    "IT/Programmierung/C++/Templates/_Templates.md",
+    "Diverses/Informationsrecht/Gesellschaftsrecht/GmbH.md",
+    "Diverses/Informationsrecht/Gesellschaftsrecht/KG.md",
+    "Diverses/Informationsrecht/Gesellschaftsrecht/OG.md",
+    "Diverses/Informationsrecht/Unternehmensrecht/Firma.md",
+    "Diverses/Informationsrecht/Gesellschaftsrecht",
+    "Diverses/Informationsrecht/Unternehmensrecht/Unternehmer kraft Eintragung („Scheinunternehmer“).md",
+    "Diverses/Informationsrecht/Unternehmensrecht/Unternehmer kraft tatsächlichen Betriebeseines Unternehmens.md",
+    "Diverses/Informationsrecht/Unternehmensrecht/_Unternehmensrecht.md",
+    "Diverses/Informationsrecht/Unternehmensrecht/Unternehmer kraft Rechtsform.md",
+    "Untitled 1.md",
+    "Diverses/Informationsrecht/Unternehmensrecht",
+    "IT/Systeme/Aufbau von Computersystemen/IPv6.md",
+    "Diverses/Untitled.md",
+    "Diverses/Informationsrecht",
+    "Diverses",
+    "IT/Systeme/Aufbau von Computersystemen/CPU.md",
     "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen/Parallele Systeme/Parallele Systeme bei Supercomputern.md",
+    "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen/Untitled 1.md",
+    "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen/Memory-Systeme/Shared-Memory Computer/_Shared-Memory Computer.md",
+    "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen/Distributed-Memory Computer/_Distributed-Memory Computer.md",
+    "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen/Memory-Systeme/Shared-Memory Computer",
+    "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen/Memory-Systeme",
+    "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen/Distributed-Memory Computer",
+    "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen/Supercomputer/_Supercomputer.md",
     "IT/Systeme/Soziotechnische Systeme/_Soziotechnische Systeme.md",
+    "Pa.md",
     "Excalidraw/Drawing 2023-03-13 14.32.36.excalidraw.md",
     "Excalidraw/Drawing 2023-03-13 14.22.35.excalidraw.md",
-    "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen/Supercomputer/_Supercomputer.md",
-    "Pa.md",
     "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen/zzDrawings/zzDrawing_SupComp 1.png",
-    "Excalidraw/zzDrawing_SupComp.md",
-    "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen/zzDrawings.md",
     "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen/zzDrawings",
     "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen/zzDrawings/zzDrawing_SupComp.png",
     "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen/Supercomputer",
     "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen/Parallele Systeme",
-    "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen/Untitled 1.md",
-    "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen",
-    "IT/Systeme/Soziotechnische Systeme/Informationssysteme",
-    "IT/Systeme/Embedded Systems/_Embedded Systems.md",
-    "IT/Systeme/Soziotechnische Systeme/Überbegriffe",
-    "IT/Systeme/Embedded Systems/Mikrocontroller/Arduino.md",
-    "IT/Systeme/Embedded Systems/Mikrocontroller/_Mikrocontroller.md",
-    "IT/Systeme/Embedded Systems/Eingebettete Software/Entwicklung von ES.md",
-    "IT/Systeme/Embedded Systems/Eingebettete Software/Eigenschaften ES.md",
-    "IT/Systeme/Embedded Systems/Eingebettete Software/Aufbau ES.md",
-    "IT/Systeme/Embedded Systems/Eingebettete Software/_Eingebettete Software.md",
-    "IT/Systeme/Sonstige Systeme/Echtzeitsysteme.md",
-    "IT/Systeme/Sonstige Systeme/Ereignisgesteuerte Systeme.md",
-    "IT/Systeme/Sonstige Systeme/Zeitgesteuerte Systeme.md",
-    "IT/Systeme/Sonstige Systeme/Technische Systeme.md",
-    "IT/Systeme/Sonstige Systeme/Prozessbasierte Systeme.md",
-    "Drawing VNA.png.md",
-    "IT/Systeme/Aufbau von Computersystemen/Von-Neumann-Architektur.md",
-    "Untitled.canvas",
-    "IT/Programmierung/JavaScript/Websites/React/_React.md",
-    "IT/Programmierung/JavaScript/Websites/DOM.md",
-    "IT/Systeme/Aufbau von Computersystemen/CPU.md"
+    "Untitled.canvas"
   ]
 }

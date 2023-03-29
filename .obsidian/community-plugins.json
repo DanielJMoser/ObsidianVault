@@ -5,6 +5,9 @@
   "highlightr-plugin",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-checklist-plugin",
+  "chatgpt-md",
   "obsidian-style-settings",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-minimal-settings",
+  "obsidian-statusbar-pomo"
 ]
