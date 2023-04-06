@@ -23,3 +23,4 @@ Da viele funktionale Konzepte die Implementierung großer **parallelen** und **g
 
 
 
+

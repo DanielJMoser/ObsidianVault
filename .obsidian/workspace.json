@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Programmierung/übergreifendes.../Anweisung.md",
+                "file": "Verzweigungen.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Programmierung/übergreifendes.../Anweisung.md",
+                "file": "Verzweigungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,6 +205,11 @@
   },
   "active": "57c5be3469cc97aa",
   "lastOpenFiles": [
+    "IT/Programmierung/Funktionale Programmierung/Sprachelemente der Funktionalen Programmierung.md",
+    "Verzweigungen.md",
+    "IT/Programmierung/Funktionale Programmierung/_Funktionale Programmierung.md",
+    "IT/Programmierung/Funktionale Programmierung/Funktionen.md",
+    "IT/Programmierung/übergreifendes.../Anweisung.md",
     "IT/Programmierung/Funktionale Programmierung/Ausdruck.md",
     "IT/Programmierung/C++/Container/map.md",
     "IT/Programmierung/C++/Container/Daten-Container.md",
@@ -214,9 +219,6 @@
     "IT/Programmierung/übergreifendes.../Metaprogramm.md",
     "IT/Programmierung/übergreifendes.../Maschinensprache.md",
     "IT/Programmierung/übergreifendes.../Iteratoren.md",
-    "IT/Programmierung/übergreifendes.../Anweisung.md",
-    "IT/Programmierung/Funktionale Programmierung/Sprachelemente der Funktionalen Programmierung.md",
-    "IT/Programmierung/Funktionale Programmierung/_Funktionale Programmierung.md",
     "Diverses/Informationsrecht/Steuerrecht/Kapitalertragssteuer.md",
     "IT/Programmierung/Funktionale Programmierung",
     "Diverses/Informationsrecht/Gesellschaftsrecht/OG.md",
@@ -232,8 +234,6 @@
     "Diverses/Informationsrecht/Steuerrecht",
     "IT/Systeme/Embedded Systems/_Embedded Systems.md",
     "IT/Systeme/Sonstige Systeme/Technische Systeme.md",
-    "IT/Programmierung/übergreifendes.../Ereignisorientierte Programmierung.md",
-    "IT/Programmierung/übergreifendes.../Arrays.md",
     "Diverses/Informationsrecht/Gesellschaftsrecht",
     "Diverses/Informationsrecht/Unternehmensrecht",
     "Diverses/Informationsrecht",
