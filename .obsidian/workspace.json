@@ -45,22 +45,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9b52db23af3bdb19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Musik/Lyrics/_Finals.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Musik/Lyrics/_Finals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,11 +189,11 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "9b52db23af3bdb19",
+  "active": "d0e94e9d4cc09748",
   "lastOpenFiles": [
+    "Musik/Lyrics/_Finals.md",
     "Musik/Lyrics/DownUnderSky/_Down Under Sky.md",
     "Musik/Lyrics/DownUnderSky/Down Under Sky_Ideas.md",
-    "Musik/Lyrics/_Finals.md",
     "Musik/Lyrics/DownUnderSky/Down Under Sky_Base.md",
     "Musik/Lyrics/DownUnderSky",
     "Musik/Lyrics/Untitled.canvas",
