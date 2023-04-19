@@ -1,4 +1,4 @@
-# Search Engine Operators
+
 
 Um gezielt nach gwissem Content zu suchen, können sogenannte **Search Engine Operators** verwendet werden. Die angeführten Operatoren funktionieren auf [[Google]], können aber zu vielen anderen Suchmaschinen transferiert werden.
 

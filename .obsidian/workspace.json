@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "24bb9a79300762cd",
+        "id": "c825320958113597",
         "type": "tabs",
         "children": [
           {
-            "id": "15d8c559a0b7abd2",
+            "id": "7583c1d948d6a6df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diverses/Informationsrecht/Steuerrecht/Kapitalertragssteuer.md",
+                "file": "Musik/Lyrics/DownUnderSky/Down Under Sky_Base.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "9da9fbbe657a69cf",
+            "id": "6d405f4a683d5d66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Programmierung/Funktionale Programmierung/_Funktionale Programmierung.md",
+                "file": "Musik/Lyrics/DownUnderSky/Down Under Sky_Ideas.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "640fc8f12ded7d19",
+            "id": "6cd12dbd7b2a1b91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Programmierung/Funktionale Programmierung/Sprachelemente der Funktionalen Programmierung.md",
+                "file": "Musik/Lyrics/DownUnderSky/Down Under Sky_Ideas.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "57c5be3469cc97aa",
+            "id": "9b52db23af3bdb19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verzweigungen.md",
+                "file": "Musik/Lyrics/_Finals.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verzweigungen.md",
+                "file": "Musik/Lyrics/_Finals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,10 +203,21 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "57c5be3469cc97aa",
+  "active": "9b52db23af3bdb19",
   "lastOpenFiles": [
+    "Musik/Lyrics/DownUnderSky/_Down Under Sky.md",
+    "Musik/Lyrics/DownUnderSky/Down Under Sky_Ideas.md",
+    "Musik/Lyrics/_Finals.md",
+    "Musik/Lyrics/DownUnderSky/Down Under Sky_Base.md",
+    "Musik/Lyrics/DownUnderSky",
+    "Musik/Lyrics/Untitled.canvas",
+    "Musik/Lyrics/_Finals",
     "IT/Programmierung/Funktionale Programmierung/Sprachelemente der Funktionalen Programmierung.md",
-    "Verzweigungen.md",
+    "Musik/Lyrics",
+    "Musik",
+    "IT/Programmierung/Funktionale Programmierung/Verzweigungen.md",
+    "IT/IT Security/OSINT/EXIF Data.md",
+    "IT/IT Security/OSINT/Search Engine Operators.md",
     "IT/Programmierung/Funktionale Programmierung/_Funktionale Programmierung.md",
     "IT/Programmierung/Funktionale Programmierung/Funktionen.md",
     "IT/Programmierung/übergreifendes.../Anweisung.md",
@@ -227,22 +238,12 @@
     "Diverses/Informationsrecht/Unternehmensrecht/Unternehmer kraft Eintragung („Scheinunternehmer“).md",
     "Diverses/Informationsrecht/Steuerrecht/Einkommenssteuer und Körperschaftssteuer.md",
     "Diverses/Informationsrecht/Gesellschaftsrecht/KG.md",
-    "Diverses/Informationsrecht/Gesellschaftsrecht/GmbH.md",
-    "Diverses/Informationsrecht/Unternehmensrecht/Firma.md",
-    "Diverses/Informationsrecht/Steuerrecht/Umsatzsteuer.md",
-    "Diverses/Informationsrecht/Gesellschaftsrecht/_Gesellschaftsrecht.md",
     "Diverses/Informationsrecht/Steuerrecht",
-    "IT/Systeme/Embedded Systems/_Embedded Systems.md",
-    "IT/Systeme/Sonstige Systeme/Technische Systeme.md",
     "Diverses/Informationsrecht/Gesellschaftsrecht",
     "Diverses/Informationsrecht/Unternehmensrecht",
     "Diverses/Informationsrecht",
     "Diverses",
-    "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen/Memory-Systeme/Shared-Memory Computer",
-    "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen/Memory-Systeme",
-    "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen/Distributed-Memory Computer",
     "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen/zzDrawings/zzDrawing_SupComp 1.png",
-    "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen/zzDrawings",
     "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen/zzDrawings/zzDrawing_SupComp.png"
   ]
 }
