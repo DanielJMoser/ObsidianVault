@@ -4,50 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "c825320958113597",
+        "id": "1fc2d7ee5be47459",
         "type": "tabs",
         "children": [
           {
-            "id": "7583c1d948d6a6df",
+            "id": "4a53f81dee002205",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Musik/Lyrics/DownUnderSky/Down Under Sky_Base.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d405f4a683d5d66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Musik/Lyrics/DownUnderSky/Down Under Sky_Ideas.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6cd12dbd7b2a1b91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Musik/Lyrics/DownUnderSky/Down Under Sky_Ideas.md",
+                "file": "IT/Daten/Algorithmen-Datenstrukturen/Sortieralgorithmen/1_Insertion Sort.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +67,14 @@
                 "file": "Excalidraw/zzDrawing_Netzwerkschnittstellen_und_Ports.md"
               }
             }
+          },
+          {
+            "id": "24fc617ec9b89887",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -116,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IT/Daten/Algorithmen-Datenstrukturen/Sortieralgorithmen/1_Insertion Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +147,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           }
@@ -173,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371,
+    "width": 316.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -189,46 +171,49 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "d0e94e9d4cc09748",
+  "active": "4a53f81dee002205",
   "lastOpenFiles": [
-    "Musik/Lyrics/_Finals.md",
-    "Musik/Lyrics/DownUnderSky/_Down Under Sky.md",
-    "Musik/Lyrics/DownUnderSky/Down Under Sky_Ideas.md",
-    "Musik/Lyrics/DownUnderSky/Down Under Sky_Base.md",
-    "Musik/Lyrics/DownUnderSky",
-    "Musik/Lyrics/Untitled.canvas",
-    "Musik/Lyrics/_Finals",
-    "IT/Programmierung/Funktionale Programmierung/Sprachelemente der Funktionalen Programmierung.md",
-    "Musik/Lyrics",
-    "Musik",
-    "IT/Programmierung/Funktionale Programmierung/Verzweigungen.md",
-    "IT/IT Security/OSINT/EXIF Data.md",
-    "IT/IT Security/OSINT/Search Engine Operators.md",
-    "IT/Programmierung/Funktionale Programmierung/_Funktionale Programmierung.md",
-    "IT/Programmierung/Funktionale Programmierung/Funktionen.md",
-    "IT/Programmierung/übergreifendes.../Anweisung.md",
-    "IT/Programmierung/Funktionale Programmierung/Ausdruck.md",
-    "IT/Programmierung/C++/Container/map.md",
-    "IT/Programmierung/C++/Container/Daten-Container.md",
-    "IT/Programmierung/JavaScript/Websites/React/_React.md",
-    "IT/Programmierung/übergreifendes.../Smart Pointer.md",
-    "IT/Programmierung/übergreifendes.../Object Ownership.md",
-    "IT/Programmierung/übergreifendes.../Metaprogramm.md",
+    "IT/Daten/Algorithmen-Datenstrukturen/Sortieralgorithmen/3_Merge Sort.md",
+    "IT/Daten/Algorithmen-Datenstrukturen/Sortieralgorithmen/2_Bubble Sort.md",
+    "IT/Daten/Algorithmen-Datenstrukturen/Algorithmus.md",
+    "IT/Daten/Algorithmen-Datenstrukturen/Laufzeitkomplexität.md",
+    "IT/Daten/Algorithmen-Datenstrukturen/Sortieralgorithmen/1_Insertion Sort.md",
+    "IT/Daten/Algorithmen-Datenstrukturen/Suchalgorithmen/Breadth-First Search.md",
+    "IT/Daten/Algorithmen-Datenstrukturen/Suchalgorithmen/Depth-First Search.md",
+    "IT/Daten/Algorithmen-Datenstrukturen/Suchalgorithmen/Traversierung.md",
+    "IT/Daten/Datenbanken/NoSQL Databases/ACID.md",
+    "IT/Daten/Datenbanken/NoSQL Databases/Neo4j/Patterns/Nodes.md",
+    "IT/Daten/Datenbanken/NoSQL Databases/Neo4j/Patterns/Relationships.md",
+    "Excalidraw/zzDrawing_Netzwerkschnittstellen_und_Ports.md",
+    "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Deadlock/_Deadlock.md",
     "IT/Programmierung/übergreifendes.../Maschinensprache.md",
-    "IT/Programmierung/übergreifendes.../Iteratoren.md",
-    "Diverses/Informationsrecht/Steuerrecht/Kapitalertragssteuer.md",
-    "IT/Programmierung/Funktionale Programmierung",
-    "Diverses/Informationsrecht/Gesellschaftsrecht/OG.md",
-    "Diverses/Informationsrecht/Unternehmensrecht/Unternehmer kraft Rechtsform.md",
+    "IT/Machine Learning/Clustering/K-Means.md",
+    "IT/Machine Learning/Convolutional Neural Network.md",
+    "IT/Daten/Datenbanken/NoSQL Databases/Neo4j/Cypher.md",
+    "IT/Daten/Datenbanken/NoSQL Databases/Neo4j/Patterns",
+    "IT/Daten/Datenbanken/NoSQL Databases/Neo4j",
+    "IT/Daten/Datenbanken/NoSQL Databases/Neo4j/Neo4j.md",
+    "IT/Daten/Algorithmen-Datenstrukturen/Suchalgorithmen",
+    "IT/Machine Learning/2d/Principal Component Analysis.md",
+    "IT/Machine Learning/Clustering",
+    "IT/Machine Learning/2d/Kovarianz.md",
+    "IT/Machine Learning/2d",
+    "IT/Daten/Datenbanken/Big Data/Stream-Based/Stream Analytics.md",
+    "IT/Daten/Datenbanken/Big Data/Stream-Based/Stream Operations.md",
+    "IT/Daten/Datenbanken/Big Data/Batch-based data processing.md",
+    "IT/Daten/Datenbanken/Big Data/_Big Data.md",
+    "IT/Daten/Datenbanken/Big Data/Stream-Based",
+    "IT/Daten/Datenbanken/Big Data/Variety.md",
+    "IT/Daten/Datenbanken/Big Data/Stream-Based/Stream-based data processing.md",
+    "ChatGPT_MD/templates",
+    "ChatGPT_MD/chats",
+    "ChatGPT_MD",
+    "IT/Daten/Datenbanken/Big Data",
+    "IT/Machine Learning/zzDrawings/zzDrawing_TradProgramm.png",
+    "IT/Machine Learning/zzDrawings/zzDrawing_MachProgramm.png",
+    "Excalidraw/Drawing 2023-04-21 19.24.32.excalidraw.svg",
+    "Musik/Lyrics/Untitled.canvas",
     "Untitled.canvas",
-    "Diverses/Informationsrecht/Unternehmensrecht/Unternehmer kraft Eintragung („Scheinunternehmer“).md",
-    "Diverses/Informationsrecht/Steuerrecht/Einkommenssteuer und Körperschaftssteuer.md",
-    "Diverses/Informationsrecht/Gesellschaftsrecht/KG.md",
-    "Diverses/Informationsrecht/Steuerrecht",
-    "Diverses/Informationsrecht/Gesellschaftsrecht",
-    "Diverses/Informationsrecht/Unternehmensrecht",
-    "Diverses/Informationsrecht",
-    "Diverses",
     "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen/zzDrawings/zzDrawing_SupComp 1.png",
     "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen/zzDrawings/zzDrawing_SupComp.png"
   ]

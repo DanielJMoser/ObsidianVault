@@ -1,4 +1,4 @@
-# Bubble Sort
+
 -> Simpelster Algorithmus, welcher auf Basis **wiederholtem Plätzetauschens** basiert.
 
 Da seine [[Laufzeitkomplexität]] recht hoch ist, eignet er sich nicht besonders gut für größere Datensätze.

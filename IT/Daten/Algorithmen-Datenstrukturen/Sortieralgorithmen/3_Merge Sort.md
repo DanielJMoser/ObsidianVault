@@ -1,4 +1,4 @@
-# Merge Sort
+
 -> basiert auf dem Prinzip von [[Teile-und-Herrsche-Prinzip|Divide-and-Conquer]]!
 
 ## Funktionsweise

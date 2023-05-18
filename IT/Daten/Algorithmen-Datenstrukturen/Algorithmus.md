@@ -1,4 +1,4 @@
-# Algorithmus
+
 
 <mark style="background: #D2B3FFA6;">Definition nach H. Kübe:</mark> 
 > Ein Algorithmus ist eine in der Beschreibung und Ausführung **endliche, deterministische** und **effektive** Vorschrift zur Lösung eines Problems, die **effizient** sein sollte.
