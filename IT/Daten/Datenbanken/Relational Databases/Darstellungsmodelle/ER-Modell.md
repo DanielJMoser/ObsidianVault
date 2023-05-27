@@ -1,4 +1,4 @@
-# ER-Modell
+
 
 Das **Entity-Relationship-Model** wird benutzt, um **relevante Sektionen** der echten Welt zu **definieren und bschreiben**. Diese sind:
 

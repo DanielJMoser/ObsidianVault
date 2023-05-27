@@ -31,14 +31,7 @@
       "key": "ArrowUp"
     }
   ],
-  "app:toggle-left-sidebar": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "L"
-    }
-  ],
+  "app:toggle-left-sidebar": [],
   "window:reset-zoom": [
     {
       "modifiers": [
@@ -61,6 +54,43 @@
         "Mod"
       ],
       "key": "PrintScreen"
+    }
+  ],
+  "editor:set-heading-1": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "1"
+    }
+  ],
+  "editor:toggle-code": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "C"
+    }
+  ],
+  "editor:set-heading": [],
+  "editor:open-search-replace": [],
+  "obsidian-excalidraw-plugin:save": [],
+  "editor:save-file": [],
+  "editor:toggle-blockquote": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ],
+  "editor:toggle-bullet-list": [],
+  "backlink:toggle-backlinks-in-document": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "."
     }
   ]
 }

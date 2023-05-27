@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1fc2d7ee5be47459",
+        "id": "0fa4b644fb05d5f1",
         "type": "tabs",
         "children": [
           {
-            "id": "4a53f81dee002205",
+            "id": "497aad4aa2d58b78",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Daten/Algorithmen-Datenstrukturen/Sortieralgorithmen/1_Insertion Sort.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -39,7 +34,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "liste",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Daten/Algorithmen-Datenstrukturen/Sortieralgorithmen/1_Insertion Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,12 +145,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 316.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,40 +165,41 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "4a53f81dee002205",
+  "active": "d0e94e9d4cc09748",
   "lastOpenFiles": [
+    "Drawing LinkedList.png.md",
+    "IT/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Suchalgorithmen/Verkettete Listen.md",
+    "IT/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Balancierte Bäume.md",
+    "IT/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Hashfunktion.md",
+    "IT/Daten/Datenbanken/Relational Databases/9 Regeln von Codd.md",
+    "IT/Daten/Datenbanken/Relational Databases/_Relationale Datenbanken.md",
+    "IT/Daten/Datenbanken/Relational Databases/Darstellungsmodelle/EER-Modell.md",
+    "IT/Daten/Datenbanken/Relational Databases/Darstellungsmodelle/ER-Modell.md",
+    "IT/Daten/Datenbanken/Relational Databases/Darstellungsmodelle/Chen-Notation.md",
+    "IT/Daten/Datenbanken/Relational Databases/Entity.md",
+    "IT/Daten/Datenbanken/NoSQL Databases/Neo4j/Neo4j.md",
+    "IT/Daten/Datenbanken/NoSQL Databases/Neo4j/Cypher.md",
+    "IT/Programmierung/übergreifendes.../Datentypen.md",
+    "IT/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/_Datenstrukturen.md",
+    "Untitled.canvas",
+    "Excalidraw/Drawing 2023-05-19 14.09.22.excalidraw.md",
+    "IT/Daten/Algorithmen-Datenstrukturen/Sortieralgorithmen/1_Insertion Sort.md",
     "IT/Daten/Algorithmen-Datenstrukturen/Sortieralgorithmen/3_Merge Sort.md",
     "IT/Daten/Algorithmen-Datenstrukturen/Sortieralgorithmen/2_Bubble Sort.md",
     "IT/Daten/Algorithmen-Datenstrukturen/Algorithmus.md",
     "IT/Daten/Algorithmen-Datenstrukturen/Laufzeitkomplexität.md",
-    "IT/Daten/Algorithmen-Datenstrukturen/Sortieralgorithmen/1_Insertion Sort.md",
     "IT/Daten/Algorithmen-Datenstrukturen/Suchalgorithmen/Breadth-First Search.md",
     "IT/Daten/Algorithmen-Datenstrukturen/Suchalgorithmen/Depth-First Search.md",
     "IT/Daten/Algorithmen-Datenstrukturen/Suchalgorithmen/Traversierung.md",
     "IT/Daten/Datenbanken/NoSQL Databases/ACID.md",
     "IT/Daten/Datenbanken/NoSQL Databases/Neo4j/Patterns/Nodes.md",
     "IT/Daten/Datenbanken/NoSQL Databases/Neo4j/Patterns/Relationships.md",
-    "Excalidraw/zzDrawing_Netzwerkschnittstellen_und_Ports.md",
-    "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Deadlock/_Deadlock.md",
-    "IT/Programmierung/übergreifendes.../Maschinensprache.md",
-    "IT/Machine Learning/Clustering/K-Means.md",
-    "IT/Machine Learning/Convolutional Neural Network.md",
-    "IT/Daten/Datenbanken/NoSQL Databases/Neo4j/Cypher.md",
     "IT/Daten/Datenbanken/NoSQL Databases/Neo4j/Patterns",
     "IT/Daten/Datenbanken/NoSQL Databases/Neo4j",
-    "IT/Daten/Datenbanken/NoSQL Databases/Neo4j/Neo4j.md",
     "IT/Daten/Algorithmen-Datenstrukturen/Suchalgorithmen",
-    "IT/Machine Learning/2d/Principal Component Analysis.md",
     "IT/Machine Learning/Clustering",
-    "IT/Machine Learning/2d/Kovarianz.md",
     "IT/Machine Learning/2d",
-    "IT/Daten/Datenbanken/Big Data/Stream-Based/Stream Analytics.md",
-    "IT/Daten/Datenbanken/Big Data/Stream-Based/Stream Operations.md",
-    "IT/Daten/Datenbanken/Big Data/Batch-based data processing.md",
-    "IT/Daten/Datenbanken/Big Data/_Big Data.md",
     "IT/Daten/Datenbanken/Big Data/Stream-Based",
-    "IT/Daten/Datenbanken/Big Data/Variety.md",
-    "IT/Daten/Datenbanken/Big Data/Stream-Based/Stream-based data processing.md",
     "ChatGPT_MD/templates",
     "ChatGPT_MD/chats",
     "ChatGPT_MD",
@@ -213,7 +208,6 @@
     "IT/Machine Learning/zzDrawings/zzDrawing_MachProgramm.png",
     "Excalidraw/Drawing 2023-04-21 19.24.32.excalidraw.svg",
     "Musik/Lyrics/Untitled.canvas",
-    "Untitled.canvas",
     "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen/zzDrawings/zzDrawing_SupComp 1.png",
     "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen/zzDrawings/zzDrawing_SupComp.png"
   ]
