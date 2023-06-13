@@ -14,8 +14,22 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "68e5201bb03a1498",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Musik/Lyrics/Nature's Vendetta/Nature's Vendetta.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Musik/Lyrics/Nature's Vendetta/Nature's Vendetta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,8 +180,16 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "d0e94e9d4cc09748",
+  "active": "68e5201bb03a1498",
   "lastOpenFiles": [
+    "Diverses/IT-Strategie/Enterprise Governance.md",
+    "Excalidraw/Drawing 2023-05-30 18.09.48.excalidraw.md",
+    "Musik/Lyrics/Nature's Vendetta/Nature's Vendetta.md",
+    "Diverses/IT-Strategie",
+    "Musik/Lyrics/Coffee And Cigarettes/Coffee and Cigarettes.md",
+    "Musik/Lyrics/Nature's Vendetta",
+    "Musik/Lyrics/Coffee And Cigarettes",
+    "Musik/Lyrics/Untitled.md",
     "Drawing LinkedList.png.md",
     "IT/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Suchalgorithmen/Verkettete Listen.md",
     "IT/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Balancierte Bäume.md",
@@ -189,11 +212,6 @@
     "IT/Daten/Algorithmen-Datenstrukturen/Algorithmus.md",
     "IT/Daten/Algorithmen-Datenstrukturen/Laufzeitkomplexität.md",
     "IT/Daten/Algorithmen-Datenstrukturen/Suchalgorithmen/Breadth-First Search.md",
-    "IT/Daten/Algorithmen-Datenstrukturen/Suchalgorithmen/Depth-First Search.md",
-    "IT/Daten/Algorithmen-Datenstrukturen/Suchalgorithmen/Traversierung.md",
-    "IT/Daten/Datenbanken/NoSQL Databases/ACID.md",
-    "IT/Daten/Datenbanken/NoSQL Databases/Neo4j/Patterns/Nodes.md",
-    "IT/Daten/Datenbanken/NoSQL Databases/Neo4j/Patterns/Relationships.md",
     "IT/Daten/Datenbanken/NoSQL Databases/Neo4j/Patterns",
     "IT/Daten/Datenbanken/NoSQL Databases/Neo4j",
     "IT/Daten/Algorithmen-Datenstrukturen/Suchalgorithmen",
@@ -201,9 +219,6 @@
     "IT/Machine Learning/2d",
     "IT/Daten/Datenbanken/Big Data/Stream-Based",
     "ChatGPT_MD/templates",
-    "ChatGPT_MD/chats",
-    "ChatGPT_MD",
-    "IT/Daten/Datenbanken/Big Data",
     "IT/Machine Learning/zzDrawings/zzDrawing_TradProgramm.png",
     "IT/Machine Learning/zzDrawings/zzDrawing_MachProgramm.png",
     "Excalidraw/Drawing 2023-04-21 19.24.32.excalidraw.svg",
