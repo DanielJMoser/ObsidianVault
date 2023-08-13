@@ -64,15 +64,6 @@
       "key": "1"
     }
   ],
-  "editor:toggle-code": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "C"
-    }
-  ],
-  "editor:set-heading": [],
   "editor:open-search-replace": [],
   "obsidian-excalidraw-plugin:save": [],
   "editor:save-file": [],
@@ -84,13 +75,45 @@
       "key": "Q"
     }
   ],
-  "editor:toggle-bullet-list": [],
+  "editor:toggle-bullet-list": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "-"
+    }
+  ],
   "backlink:toggle-backlinks-in-document": [
     {
       "modifiers": [
         "Mod"
       ],
       "key": "."
+    }
+  ],
+  "obsidian-excalidraw-plugin:insert-link-to-element": [],
+  "editor:set-heading": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "H"
+    }
+  ],
+  "editor:toggle-highlight": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ],
+  "editor:toggle-code": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Y"
     }
   ]
 }
