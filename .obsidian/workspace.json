@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "7bbf4693dc35148e",
+        "id": "833586b0c1334150",
         "type": "tabs",
         "children": [
           {
-            "id": "97f02fd2192e4602",
+            "id": "007199cc5abc7d79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Machine Learning/Learning/Supervised Learning.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2241ada40b10e43e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Machine Learning/2d/Principal Component Analysis.md",
+                "file": "IT/Machine Learning/Artificial Neural Networks/Forward Propagation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Machine Learning/2d/Principal Component Analysis.md",
+                "file": "IT/Machine Learning/Artificial Neural Networks/Forward Propagation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,42 +172,44 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "2241ada40b10e43e",
+  "active": "007199cc5abc7d79",
   "lastOpenFiles": [
+    "IT/Machine Learning/Artificial Neural Networks/Backpropagation.md",
+    "IT/Machine Learning/Artificial Neural Networks/Forward Propagation.md",
+    "IT/Machine Learning/Regression/(Unvariante) Lineare Regression.md",
+    "IT/Machine Learning/Artificial Neural Networks",
+    "IT/Machine Learning/Regression/Logistische Regression.md",
+    "IT/Machine Learning/Regression/Polynomiale Regression.md",
+    "IT/Machine Learning/Overfitting und Underfitting.md",
+    "IT/Machine Learning/AI vs MS.md",
+    "IT/Machine Learning/_Machine Learning.md",
+    "IT/Machine Learning/Convolutional Neural Network.md",
+    "IT/Machine Learning/Learning/Mean-squared Error.md",
+    "IT/Machine Learning/Learning/Unsupervised Learning.md",
+    "Untitled 2.md",
+    "IT/Machine Learning/Learning/Supervised Learning.md",
+    "IT/Machine Learning/Learning/Semi-Supervised Learning.md",
+    "IT/Machine Learning/Learning/Reinforcement Learning.md",
+    "IT/Machine Learning/Clustering/K-Means.md",
+    "IT/Daten/Datenbanken/_Drawings/zDrawing_CAP.md",
+    "Diverses/Dokumentation/neeon-connect/Farbschema Power Pages.md",
+    "Diverses/Dokumentation/neeon-connect/Farbschema Power Apps.md",
     "IT/Machine Learning/2d/Kovarianz.md",
     "IT/Machine Learning/2d/Principal Component Analysis.md",
-    "IT/Machine Learning/Learning/Unsupervised Learning.md",
-    "IT/Machine Learning/Learning/Supervised Learning.md",
+    "IT/Machine Learning/Clustering/Cluster.md",
+    "IT/Machine Learning/Regression",
     "IT/Machine Learning/zzDrawings/zzDrawing_Regression.png",
     "Excalidraw/zzDrawing_Regression.md",
     "Excalidraw/zzDrawing_Classification.excalidraw.md",
     "IT/Machine Learning/zzDrawings/zzDrawing_Classification.png",
     "IT/Machine Learning/zzDrawings/zzDrawing_TradProgramm.png",
     "IT/Machine Learning/zzDrawings/zzDrawing_MachProgramm.png",
-    "IT/Machine Learning/Learning/Reinforcement Learning.md",
-    "IT/Machine Learning/Learning/Semi-Supervised Learning.md",
     "IT/Machine Learning/Learning",
-    "IT/Machine Learning/Clustering/Cluster.md",
-    "IT/Machine Learning/_Machine Learning.md",
-    "IT/Machine Learning/AI vs MS.md",
-    "IT/Machine Learning/Convolutional Neural Network.md",
-    "IT/Machine Learning/Clustering/K-Means.md",
     "Musik/Lyrics/Way Over Yonder (in the minor key)/Way over Yonder (in the minor key).canvas",
     "Musik/Lyrics/Way Over Yonder (in the minor key)/!Way Over Yonder (In The Minor Key).md",
     "Musik/Lyrics/Way Over Yonder (in the minor key)/Media/BaumDerErkenntnis.jpg",
     "IT/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Hashing/Funktionsweise Hashing.md",
-    "IT/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Hashing/Hashfunktion.md",
-    "Musik/Lyrics/_Finals.md",
-    "IT/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Hashing/Hashtabelle.md",
-    "IT/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Arrays.md",
-    "IT/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/_Datenstrukturen.md",
-    "IT/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Suchalgorithmen/Binäre Suche.md",
     "IT/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Hashing",
-    "Musik/Lyrics/Spaceman/Spaceman.md",
-    "Musik/Lyrics/Spaceman/Spaceman-Final.md",
-    "Musik/Lyrics/Way Over Yonder (in the minor key)/Way Over Yonder in the Minor Key.md",
-    "Musik/Lyrics/Way Over Yonder (in the minor key)/Way Over Yonder.md",
-    "Untitled 1.md",
     "Musik/Lyrics/Way Over Yonder (in the minor key)/Media",
     "Musik/Lyrics/Way Over Yonder (in the minor key)",
     "Excalidraw/Untitled.canvas",
@@ -229,9 +217,7 @@
     "Diverses/Dokumentation",
     "Diverses/IT-Strategie",
     "Musik/Lyrics/Nature's Vendetta",
-    "Musik/Lyrics/Coffee And Cigarettes",
     "Untitled.canvas",
-    "IT/Daten/Datenbanken/NoSQL Databases/Neo4j/Patterns",
     "Excalidraw/Drawing 2023-04-21 19.24.32.excalidraw.svg",
     "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen/zzDrawings/zzDrawing_SupComp 1.png",
     "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen/zzDrawings/zzDrawing_SupComp.png"

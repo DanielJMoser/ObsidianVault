@@ -6,8 +6,9 @@
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-checklist-plugin",
   "obsidian-style-settings",
-  "obsidian-git",
   "obsidian-minimal-settings",
   "obsidian-statusbar-pomo",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "obsidian-charts",
+  "obsidian-git"
 ]
