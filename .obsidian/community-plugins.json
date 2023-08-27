@@ -1,14 +1,6 @@
 [
-  "juggl",
-  "table-editor-obsidian",
-  "obsidian-excalidraw-plugin",
-  "highlightr-plugin",
-  "cm-editor-syntax-highlight-obsidian",
-  "obsidian-checklist-plugin",
-  "obsidian-style-settings",
-  "obsidian-minimal-settings",
-  "obsidian-statusbar-pomo",
-  "obsidian-icon-folder",
   "obsidian-charts",
+  "obsidian-minimal-settings",
+  "obsidian-style-settings",
   "obsidian-git"
 ]
