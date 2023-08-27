@@ -13,14 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Machine Learning/Klausurvorbereitung/15_2.md",
+                "file": "IT/Machine Learning/Learning/Support Vector Machines.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "be60374ce3986ae2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/zzDrawing_TradProgramm.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "klassif",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Machine Learning/Klausurvorbereitung/15_2.md",
+                "file": "Excalidraw/zzDrawing_TradProgramm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,11 +176,38 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "juggl:Juggl global graph": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8b7e987968e00a9a",
+  "active": "be60374ce3986ae2",
   "lastOpenFiles": [
+    "Excalidraw/zzDrawing_SVM.md",
+    "Excalidraw/zzDrawing_TradProgramm.md",
+    "Excalidraw/zzDrawing_SupComp.md",
+    "Excalidraw/zzDrawing_Signal.md",
+    "Excalidraw/zzDrawing_Sequenznummern.md",
+    "Excalidraw/zzDrawing_Netzwerkschnittstellen_und_Ports.md",
+    "Excalidraw/zzDrawing_Linked-List.md",
+    "IT/Machine Learning/Learning/Reinforcement Learning.md",
+    "IT/Machine Learning/Learning/Mean-squared Error.md",
+    "IT/Machine Learning/2d/Principal Component Analysis.md",
+    "IT/Machine Learning/2d/Kovarianz.md",
+    "IT/Machine Learning/zzDrawings/zzDrawing_Classification.png",
+    "IT/Machine Learning/zzDrawings/zzDrawing_MachProgramm.png",
+    "IT/Machine Learning/zzDrawings/zzDrawing_Regression.png",
+    "IT/Machine Learning/zzDrawings/zzDrawing_TradProgramm.png",
+    "IT/Machine Learning/zzDrawings/zzDrawing_SVM.png",
+    "IT/Machine Learning/Learning/Supervised Learning.md",
+    "Excalidraw/zzDrawing_Regression.md",
+    "Excalidraw/zzDrawing_MachProgramm.md",
+    "Excalidraw/zzDrawing_MachProgramm.png",
+    "Excalidraw/zzDrawing_Classification.excalidraw.md",
+    "IT/Machine Learning/Learning/Semi-Supervised Learning.md",
+    "IT/Machine Learning/Learning/Support Vector Machines.md",
+    "IT/Machine Learning/Klausurvorbereitung/15_3.md",
+    "IT/Machine Learning/Klausurvorbereitung/15_2.md",
     "IT/Machine Learning/Klausurvorbereitung/15_1.md",
     "IT/Machine Learning/Klausurvorbereitung/_Inhaltsverzeichnung.md",
     "IT/Machine Learning/Clustering/Cluster.md",
@@ -177,32 +215,9 @@
     "IT/Machine Learning/Klausurvorbereitung/15_10.md",
     "IT/Machine Learning/Klausurvorbereitung/15_9.md",
     "IT/Machine Learning/Klausurvorbereitung/15_8.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_7.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_6.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_5.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_4.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_3.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_2.md",
     "IT/Machine Learning/Klausurvorbereitung",
-    "IT/Machine Learning/Artificial Neural Networks/Backpropagation.md",
-    "\"Forward Propagation.md",
-    "IT/Machine Learning/Artificial Neural Networks/Forward Propagation.md",
-    "IT/Machine Learning/Regression/(Unvariante) Lineare Regression.md",
     "IT/Machine Learning/Artificial Neural Networks",
-    "IT/Machine Learning/Regression/Logistische Regression.md",
-    "IT/Machine Learning/Regression/Polynomiale Regression.md",
-    "IT/Machine Learning/Overfitting und Underfitting.md",
-    "IT/Machine Learning/AI vs MS.md",
-    "IT/Machine Learning/_Machine Learning.md",
-    "IT/Machine Learning/Convolutional Neural Network.md",
-    "IT/Machine Learning/Learning/Mean-squared Error.md",
-    "IT/Machine Learning/Learning/Unsupervised Learning.md",
-    "Untitled 2.md",
     "IT/Machine Learning/Regression",
-    "IT/Machine Learning/zzDrawings/zzDrawing_Regression.png",
-    "IT/Machine Learning/zzDrawings/zzDrawing_Classification.png",
-    "IT/Machine Learning/zzDrawings/zzDrawing_TradProgramm.png",
-    "IT/Machine Learning/zzDrawings/zzDrawing_MachProgramm.png",
     "IT/Machine Learning/Learning",
     "Musik/Lyrics/Way Over Yonder (in the minor key)/Way over Yonder (in the minor key).canvas",
     "Musik/Lyrics/Way Over Yonder (in the minor key)/Media/BaumDerErkenntnis.jpg",
@@ -214,8 +229,6 @@
     "Diverses/Dokumentation",
     "Diverses/IT-Strategie",
     "Untitled.canvas",
-    "Excalidraw/Drawing 2023-04-21 19.24.32.excalidraw.svg",
-    "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen/zzDrawings/zzDrawing_SupComp 1.png",
-    "IT/Systeme/Soziotechnische Systeme/Architektur von Informationssystemen/zzDrawings/zzDrawing_SupComp.png"
+    "Excalidraw/Drawing 2023-04-21 19.24.32.excalidraw.svg"
   ]
 }

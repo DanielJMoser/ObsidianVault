@@ -17,60 +17,65 @@ tags: [excalidraw]
 	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.21",
 	"elements": [
 		{
-			"id": "e2Yi78pnL0M49GNXmTIDW",
 			"type": "rectangle",
-			"x": -285.8267822265625,
-			"y": -299.57684326171875,
-			"width": 793.333251953125,
-			"height": 489.16668701171875,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 182,
+			"versionNonce": 1200049452,
+			"isDeleted": false,
+			"id": "e2Yi78pnL0M49GNXmTIDW",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -285.8267822265625,
+			"y": -299.57684326171875,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 793.333251953125,
+			"height": 489.16668701171875,
+			"seed": 930520852,
 			"groupIds": [],
 			"roundness": {
 				"type": 3
 			},
-			"seed": 930520852,
-			"version": 182,
-			"versionNonce": 1200049452,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1691925108503,
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "uFOIQQYuk-ul427EQZ8Hl",
 			"type": "line",
-			"x": -277.49346923828125,
-			"y": 177.08984375,
-			"width": 774.9999389648438,
-			"height": 467.5,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 55,
+			"versionNonce": 431532052,
+			"isDeleted": false,
+			"id": "uFOIQQYuk-ul427EQZ8Hl",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -277.49346923828125,
+			"y": 177.08984375,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 774.9999389648438,
+			"height": 467.5,
+			"seed": 1363176340,
 			"groupIds": [],
 			"roundness": {
 				"type": 2
 			},
-			"seed": 1363176340,
-			"version": 55,
-			"versionNonce": 431532052,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1691925117062,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
 			"points": [
 				[
 					0,
@@ -80,42 +85,42 @@ tags: [excalidraw]
 					774.9999389648438,
 					-467.5
 				]
-			],
-			"lastCommittedPoint": null,
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": null
+			]
 		},
 		{
-			"id": "oJTsx9quob7e_2fGbtLBE",
 			"type": "line",
-			"x": -58.3267822265625,
-			"y": -241.24349975585938,
-			"width": 55,
-			"height": 45.833343505859375,
-			"angle": 0,
-			"strokeColor": "#1864ab",
-			"backgroundColor": "transparent",
+			"version": 32,
+			"versionNonce": 148639508,
+			"isDeleted": false,
+			"id": "oJTsx9quob7e_2fGbtLBE",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -58.3267822265625,
+			"y": -241.24349975585938,
+			"strokeColor": "#1864ab",
+			"backgroundColor": "transparent",
+			"width": 55,
+			"height": 45.833343505859375,
+			"seed": 101877140,
 			"groupIds": [
 				"sZOfmRzA9UBJfhn4RegMq"
 			],
 			"roundness": {
 				"type": 2
 			},
-			"seed": 101877140,
-			"version": 32,
-			"versionNonce": 148639508,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1691925197505,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
 			"points": [
 				[
 					0,
@@ -125,12 +130,7 @@ tags: [excalidraw]
 					-55,
 					45.833343505859375
 				]
-			],
-			"lastCommittedPoint": null,
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": null
+			]
 		},
 		{
 			"type": "line",
@@ -157,7 +157,7 @@ tags: [excalidraw]
 			"roundness": {
 				"type": 2
 			},
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1691925197505,
 			"link": null,
 			"locked": false,
@@ -202,7 +202,7 @@ tags: [excalidraw]
 			"roundness": {
 				"type": 2
 			},
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1691925201735,
 			"link": null,
 			"locked": false,
@@ -247,7 +247,7 @@ tags: [excalidraw]
 			"roundness": {
 				"type": 2
 			},
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1691925201735,
 			"link": null,
 			"locked": false,
@@ -292,7 +292,7 @@ tags: [excalidraw]
 			"roundness": {
 				"type": 2
 			},
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1691925203317,
 			"link": null,
 			"locked": false,
@@ -337,7 +337,7 @@ tags: [excalidraw]
 			"roundness": {
 				"type": 2
 			},
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1691925203317,
 			"link": null,
 			"locked": false,
@@ -382,7 +382,7 @@ tags: [excalidraw]
 			"roundness": {
 				"type": 2
 			},
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1691925204547,
 			"link": null,
 			"locked": false,
@@ -427,7 +427,7 @@ tags: [excalidraw]
 			"roundness": {
 				"type": 2
 			},
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1691925204548,
 			"link": null,
 			"locked": false,
@@ -472,7 +472,7 @@ tags: [excalidraw]
 			"roundness": {
 				"type": 2
 			},
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1691925206473,
 			"link": null,
 			"locked": false,
@@ -517,7 +517,7 @@ tags: [excalidraw]
 			"roundness": {
 				"type": 2
 			},
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1691925206473,
 			"link": null,
 			"locked": false,
@@ -562,7 +562,7 @@ tags: [excalidraw]
 			"roundness": {
 				"type": 2
 			},
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1691925207386,
 			"link": null,
 			"locked": false,
@@ -607,7 +607,7 @@ tags: [excalidraw]
 			"roundness": {
 				"type": 2
 			},
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1691925207386,
 			"link": null,
 			"locked": false,
@@ -652,7 +652,7 @@ tags: [excalidraw]
 			"roundness": {
 				"type": 2
 			},
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1691925208410,
 			"link": null,
 			"locked": false,
@@ -697,7 +697,7 @@ tags: [excalidraw]
 			"roundness": {
 				"type": 2
 			},
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1691925208410,
 			"link": null,
 			"locked": false,
@@ -742,7 +742,7 @@ tags: [excalidraw]
 			"roundness": {
 				"type": 2
 			},
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1691925212101,
 			"link": null,
 			"locked": false,
@@ -787,7 +787,7 @@ tags: [excalidraw]
 			"roundness": {
 				"type": 2
 			},
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1691925212101,
 			"link": null,
 			"locked": false,
@@ -832,7 +832,7 @@ tags: [excalidraw]
 			"roundness": {
 				"type": 2
 			},
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1691925213463,
 			"link": null,
 			"locked": false,
@@ -877,7 +877,7 @@ tags: [excalidraw]
 			"roundness": {
 				"type": 2
 			},
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1691925213463,
 			"link": null,
 			"locked": false,
@@ -922,7 +922,7 @@ tags: [excalidraw]
 			"roundness": {
 				"type": 2
 			},
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1691925214431,
 			"link": null,
 			"locked": false,
@@ -967,7 +967,7 @@ tags: [excalidraw]
 			"roundness": {
 				"type": 2
 			},
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1691925214432,
 			"link": null,
 			"locked": false,
@@ -1012,7 +1012,7 @@ tags: [excalidraw]
 			"roundness": {
 				"type": 2
 			},
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1691925215422,
 			"link": null,
 			"locked": false,
@@ -1057,7 +1057,7 @@ tags: [excalidraw]
 			"roundness": {
 				"type": 2
 			},
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1691925215422,
 			"link": null,
 			"locked": false,
@@ -1078,29 +1078,29 @@ tags: [excalidraw]
 			]
 		},
 		{
-			"id": "tZQPsuHDHl4PAXQh3osQj",
 			"type": "ellipse",
-			"x": 135.006591796875,
-			"y": 15.42315673828125,
-			"width": 77.5,
-			"height": 70,
-			"angle": 0,
-			"strokeColor": "#2b8a3e",
-			"backgroundColor": "transparent",
+			"version": 71,
+			"versionNonce": 1249950996,
+			"isDeleted": false,
+			"id": "tZQPsuHDHl4PAXQh3osQj",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 135.006591796875,
+			"y": 15.42315673828125,
+			"strokeColor": "#2b8a3e",
+			"backgroundColor": "transparent",
+			"width": 77.5,
+			"height": 70,
+			"seed": 151751084,
 			"groupIds": [],
 			"roundness": {
 				"type": 2
 			},
-			"seed": 151751084,
-			"version": 71,
-			"versionNonce": 1249950996,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1691925226827,
 			"link": null,
 			"locked": false
@@ -1128,7 +1128,7 @@ tags: [excalidraw]
 			"roundness": {
 				"type": 2
 			},
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1691925229835,
 			"link": null,
 			"locked": false
@@ -1156,7 +1156,7 @@ tags: [excalidraw]
 			"roundness": {
 				"type": 2
 			},
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1691925230856,
 			"link": null,
 			"locked": false
@@ -1184,7 +1184,7 @@ tags: [excalidraw]
 			"roundness": {
 				"type": 2
 			},
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1691925232001,
 			"link": null,
 			"locked": false
@@ -1212,7 +1212,7 @@ tags: [excalidraw]
 			"roundness": {
 				"type": 2
 			},
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1691925232872,
 			"link": null,
 			"locked": false
@@ -1240,7 +1240,7 @@ tags: [excalidraw]
 			"roundness": {
 				"type": 2
 			},
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1691925233674,
 			"link": null,
 			"locked": false
@@ -1268,7 +1268,7 @@ tags: [excalidraw]
 			"roundness": {
 				"type": 2
 			},
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1691925234406,
 			"link": null,
 			"locked": false
@@ -1296,7 +1296,7 @@ tags: [excalidraw]
 			"roundness": {
 				"type": 2
 			},
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1691925235688,
 			"link": null,
 			"locked": false
@@ -1324,7 +1324,7 @@ tags: [excalidraw]
 			"roundness": {
 				"type": 2
 			},
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1691925236540,
 			"link": null,
 			"locked": false
@@ -1352,7 +1352,7 @@ tags: [excalidraw]
 			"roundness": {
 				"type": 2
 			},
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1691925237729,
 			"link": null,
 			"locked": false
@@ -1380,7 +1380,7 @@ tags: [excalidraw]
 			"roundness": {
 				"type": 2
 			},
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1691925238594,
 			"link": null,
 			"locked": false
@@ -1408,7 +1408,7 @@ tags: [excalidraw]
 			"roundness": {
 				"type": 2
 			},
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1691925239379,
 			"link": null,
 			"locked": false
@@ -1416,7 +1416,7 @@ tags: [excalidraw]
 	],
 	"appState": {
 		"theme": "light",
-		"viewBackgroundColor": "#ffffff",
+		"viewBackgroundColor": "transparent",
 		"currentItemStrokeColor": "#2b8a3e",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
@@ -1429,8 +1429,8 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 834.8502197265625,
-		"scrollY": 531.77734375,
+		"scrollX": 324.41015625,
+		"scrollY": 704.0638122558594,
 		"zoom": {
 			"value": 1
 		},
