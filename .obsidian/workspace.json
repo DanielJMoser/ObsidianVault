@@ -4,34 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "2b550d3a4947d84f",
+        "id": "17b46a656099489a",
         "type": "tabs",
         "children": [
           {
-            "id": "8b7e987968e00a9a",
+            "id": "175a6f3372bac7f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Machine Learning/Learning/Support Vector Machines.md",
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "be60374ce3986ae2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/zzDrawing_TradProgramm.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/zzDrawing_TradProgramm.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,10 +170,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "be60374ce3986ae2",
+  "active": "175a6f3372bac7f6",
   "lastOpenFiles": [
-    "Excalidraw/zzDrawing_SVM.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "IT/Machine Learning/Learning/Support Vector Machines.md",
     "Excalidraw/zzDrawing_TradProgramm.md",
+    "Excalidraw/zzDrawing_SVM.md",
     "Excalidraw/zzDrawing_SupComp.md",
     "Excalidraw/zzDrawing_Signal.md",
     "Excalidraw/zzDrawing_Sequenznummern.md",
@@ -205,7 +197,6 @@
     "Excalidraw/zzDrawing_MachProgramm.png",
     "Excalidraw/zzDrawing_Classification.excalidraw.md",
     "IT/Machine Learning/Learning/Semi-Supervised Learning.md",
-    "IT/Machine Learning/Learning/Support Vector Machines.md",
     "IT/Machine Learning/Klausurvorbereitung/15_3.md",
     "IT/Machine Learning/Klausurvorbereitung/15_2.md",
     "IT/Machine Learning/Klausurvorbereitung/15_1.md",
@@ -213,8 +204,6 @@
     "IT/Machine Learning/Clustering/Cluster.md",
     "IT/Machine Learning/Clustering/K-Means.md",
     "IT/Machine Learning/Klausurvorbereitung/15_10.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_9.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_8.md",
     "IT/Machine Learning/Klausurvorbereitung",
     "IT/Machine Learning/Artificial Neural Networks",
     "IT/Machine Learning/Regression",
