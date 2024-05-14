@@ -11,8 +11,13 @@
             "id": "175a6f3372bac7f6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Diverses/Bachelorarbeit/Chapter 2 (Problem Specification and Research Question)/2.1 Problem Specification.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -92,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Diverses/Bachelorarbeit/Chapter 2 (Problem Specification and Research Question)/2.1 Problem Specification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,22 +113,6 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "0276d16b89ce32ef",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {}
-            }
-          },
-          {
-            "id": "0133fb962f708cab",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
               "state": {}
             }
           },
@@ -144,6 +134,38 @@
                 "useHierarchy": false
               }
             }
+          },
+          {
+            "id": "c0d341ac43333272",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "c6b58e14e33025c6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "65d3866702fbf194",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "52dea448d25dc8c6",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -160,14 +182,33 @@
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
+      "obsidian-day-planner:Timeline": false,
+      "obsidian-statusbar-pomo:Start pomodoro": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "juggl:Juggl global graph": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d0e94e9d4cc09748",
+  "active": "175a6f3372bac7f6",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Diverses/Bachelorarbeit/Chapter 1 (Introduction)/1.2 Problem Statement.md",
+    "Diverses/Bachelorarbeit/Chapter 1 (Introduction)/1.3 Scope and Limitations.md",
+    "Diverses/Bachelorarbeit/Chapter 1 (Introduction)/1.1 Background and Motivation.md",
+    "Diverses/Bachelorarbeit/Chapter 2 (Problem Specification and Research Question)/2.1 Problem Specification.md",
+    "Diverses/Bachelorarbeit/Chapter 1 (Introduction)/1.4 Structure of the Thesis.md",
+    "Diverses/Bachelorarbeit/Chapter 1 (Introduction)/1.5 Significance of the Study.md",
+    "Diverses/Bachelorarbeit/Chapter 2 (Problem Specification and Research Question)/2.2 Research Objectives and Questions.md",
+    "Diverses/Bachelorarbeit/Chapter 2 (Problem Specification and Research Question)/2.3 Research Questions.md",
+    "Diverses/Bachelorarbeit/Chapter 6 (References)",
+    "Diverses/Bachelorarbeit/Chapter 5 (Conclusive Summary, Scope & Limitations, and Possible Further Research)",
+    "Diverses/Bachelorarbeit/Chapter 4 (Approach)",
+    "Diverses/Bachelorarbeit/Chapter 3 (State of the Art)",
+    "Diverses/Bachelorarbeit/Chapter 2 (Problem Specification and Research Question)",
+    "Diverses/Bachelorarbeit/Chapter 1 (Introduction)",
+    "Untitled 2.md",
+    "Diverses/Bachelorarbeit",
     "Untitled 1.md",
+    "Untitled.md",
     "IT/Machine Learning/Learning/Support Vector Machines.md",
     "Excalidraw/zzDrawing_TradProgramm.md",
     "Excalidraw/zzDrawing_SVM.md",
@@ -189,28 +230,12 @@
     "Excalidraw/zzDrawing_Regression.md",
     "Excalidraw/zzDrawing_MachProgramm.md",
     "Excalidraw/zzDrawing_MachProgramm.png",
-    "Excalidraw/zzDrawing_Classification.excalidraw.md",
-    "IT/Machine Learning/Learning/Semi-Supervised Learning.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_3.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_2.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_1.md",
-    "IT/Machine Learning/Klausurvorbereitung/_Inhaltsverzeichnung.md",
-    "IT/Machine Learning/Clustering/Cluster.md",
-    "IT/Machine Learning/Clustering/K-Means.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_10.md",
     "IT/Machine Learning/Klausurvorbereitung",
     "IT/Machine Learning/Artificial Neural Networks",
     "IT/Machine Learning/Regression",
-    "IT/Machine Learning/Learning",
     "Musik/Lyrics/Way Over Yonder (in the minor key)/Way over Yonder (in the minor key).canvas",
     "Musik/Lyrics/Way Over Yonder (in the minor key)/Media/BaumDerErkenntnis.jpg",
-    "IT/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Hashing",
-    "Musik/Lyrics/Way Over Yonder (in the minor key)/Media",
-    "Musik/Lyrics/Way Over Yonder (in the minor key)",
     "Excalidraw/Untitled.canvas",
-    "Diverses/Dokumentation/neeon-connect",
-    "Diverses/Dokumentation",
-    "Diverses/IT-Strategie",
     "Untitled.canvas",
     "Excalidraw/Drawing 2023-04-21 19.24.32.excalidraw.svg"
   ]

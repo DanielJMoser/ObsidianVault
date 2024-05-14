@@ -6,5 +6,11 @@
   "juggl",
   "obsidian-icon-folder",
   "obsidian-excalidraw-plugin",
-  "obsidian-chartsview-plugin"
+  "obsidian-chartsview-plugin",
+  "cmenu-plugin",
+  "obsidian-day-planner",
+  "calendar",
+  "cm-editor-syntax-highlight-obsidian",
+  "table-editor-obsidian",
+  "obsidian-statusbar-pomo"
 ]
