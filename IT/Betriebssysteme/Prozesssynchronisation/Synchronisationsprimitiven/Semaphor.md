@@ -1,4 +1,4 @@
-# Semaphor
+
 #Datenstrukturen 
 #synchronisationsprimitiven 
 #prozesssynchronisation 
