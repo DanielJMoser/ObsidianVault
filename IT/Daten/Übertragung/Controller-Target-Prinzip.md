@@ -1,4 +1,4 @@
-# Controller-Target-Prinzip
+
 -> Früher: **Master/Slave-Prinzip**, im Sinne der diskriminierungsfreien Sprache umbenannt.
 
 
