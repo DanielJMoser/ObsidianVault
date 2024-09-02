@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "154d581d25074e82",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bdcf154d93d62f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "247fed1257f0df38",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e1276f3bee48e7e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4f327f91528d8dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9c51289a0953792",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e9c52b4733e141fa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "40eb757279a41966",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "605a2265e141ac78",
+    "type": "split",
+    "children": [
+      {
+        "id": "2adb068120b4ec50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f712febfec30f14",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1ef203709130dc54",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e2efdd5bb5e1cae5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3fc5feda6c737041",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "7e01e55ccdb800fe",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 533
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "247fed1257f0df38",
+  "lastOpenFiles": [
+    "IT/Daten/Übertragung/Kommunikationsnetzwerke/Komm. bei Embedded Systems/Bus-Systeme.md",
+    "IT/Daten/Übertragung/Kommunikationsnetzwerke/Komm. bei Embedded Systems/I²C.md",
+    "IT/Daten/Übertragung/Controller-Target-Prinzip.md",
+    "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Dining Philosophers Problem.md",
+    "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Deadlock/_Deadlock.md",
+    "IT/Daten/Algorithmen-Datenstrukturen/Sortieralgorithmen/3_Merge Sort.md",
+    "IT/Programmierung/Kontrollstrukturen/_Kontrollstrukturen.md",
+    "IT/Programmierung/Funktionale Programmierung/Ausdruck.md",
+    "IT/Programmierung/Funktionale Programmierung/Sprachelemente der Funktionalen Programmierung.md",
+    "IT/Programmierung/Funktionale Programmierung/Funktionen.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung I.md",
+    "IT/Programmierung/Kontrollstrukturen",
+    "IT/Programmierung/C",
+    "Diverses/Dokumentation/neeon-connect/Farbschema Power Apps.md",
+    "Diverses/Dokumentation/neeon-connect/Farbschema Power Pages.md",
+    "IT/Programmierung/Funktionale Programmierung/_Funktionale Programmierung.md",
+    "IT/Systeme/Sonstige Systeme/IoT-Systeme.md",
+    "IT/Systeme/Sonstige Systeme/Ereignisgesteuerte Systeme.md",
+    "IT/Programmierung/Toolchain/_Toolchain.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten.md",
+    "IT/Programmierung/Toolchain",
+    "IT/Programmierung/Toolchain/_Assembler.md",
+    "IT/Programmierung/Assembler/Untitled.md",
+    "Germanistik/Sprache/Einführung/Semantik.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten",
+    "Musik/Lyrics/Way Over Yonder (in the minor key)/!Way Over Yonder (In The Minor Key).md",
+    "Diverses/Bachelorprüfung",
+    "Musik/Lyrics/Way Over Yonder (in the minor key)/Way Over Yonder.md",
+    "Existing (en-US).md",
+    "MCI/Push-Notifications (Error).md",
+    "MCI"
+  ]
+}
