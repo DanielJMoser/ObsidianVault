@@ -1,5 +1,6 @@
 {
-  "cssTheme": "Catppuccin",
+  "cssTheme": "AnuPpuccin",
   "theme": "obsidian",
-  "monospaceFontFamily": "Source Code Pro"
+  "monospaceFontFamily": "Source Code Pro",
+  "baseFontSize": 20
 }
