@@ -11,8 +11,11 @@
             "id": "247fed1257f0df38",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/plugins/obsidian-icon-folder/data.json",
+                "staged": false
+              }
             }
           }
         ]
@@ -150,9 +153,10 @@
   },
   "active": "247fed1257f0df38",
   "lastOpenFiles": [
+    "IT/Daten/Übertragung/Controller-Target-Prinzip.md",
+    "IT/Daten/Übertragung/Kommunikationsnetzwerke/Arten von Kommunikationsnetzwerken.md",
     "IT/Daten/Übertragung/Kommunikationsnetzwerke/Komm. bei Embedded Systems/Bus-Systeme.md",
     "IT/Daten/Übertragung/Kommunikationsnetzwerke/Komm. bei Embedded Systems/I²C.md",
-    "IT/Daten/Übertragung/Controller-Target-Prinzip.md",
     "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Dining Philosophers Problem.md",
     "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Deadlock/_Deadlock.md",
     "IT/Daten/Algorithmen-Datenstrukturen/Sortieralgorithmen/3_Merge Sort.md",
