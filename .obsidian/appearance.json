@@ -1,3 +1,5 @@
 {
-  "cssTheme": "Catppuccin"
+  "cssTheme": "Catppuccin",
+  "theme": "obsidian",
+  "monospaceFontFamily": "Source Code Pro"
 }
