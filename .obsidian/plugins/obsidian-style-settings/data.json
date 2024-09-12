@@ -11,5 +11,15 @@
   "anuppuccin-theme-settings@@anp-simple-rainbow-collapse-icon-toggle": true,
   "anuppuccin-theme-settings@@anp-simple-rainbow-indentation-toggle": true,
   "anuppuccin-theme-settings@@anp-simple-rainbow-icon-toggle": false,
-  "anuppuccin-theme-settings@@anp-rainbow-subfolder-color-toggle": false
+  "anuppuccin-theme-settings@@anp-rainbow-subfolder-color-toggle": false,
+  "anuppuccin-theme-settings@@anp-color-transition-toggle": true,
+  "anuppuccin-theme-settings@@anp-decoration-toggle": true,
+  "anuppuccin-theme-settings@@anp-bold-custom": "anp-bold-green",
+  "anuppuccin-theme-settings@@anp-italic-custom": "anp-italic-lavender",
+  "anuppuccin-theme-settings@@anp-canvas-dark-bg": true,
+  "anuppuccin-theme-settings@@anp-colorful-frame": true,
+  "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-light": false,
+  "anuppuccin-theme-settings@@anp-custom-vault-toggle": false,
+  "anuppuccin-theme-settings@@anp-pdf-blend-toggle-dark": true,
+  "anuppuccin-theme-settings@@anp-safari-tab-animated": true
 }
