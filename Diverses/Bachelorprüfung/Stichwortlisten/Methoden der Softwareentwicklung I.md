@@ -17,7 +17,4 @@
 - [[Input-Output]]
 
 ## Dynamische Speicherverwaltung
-
-
-
-
+- [[Dynamische Speicherverwaltung]]

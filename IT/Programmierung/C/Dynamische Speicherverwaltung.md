@@ -77,7 +77,7 @@ if (array == NULL) {
 Im folgenden Beispiel wird Speicher für ein Array zur **Laufzeit** reserviert, Werte werden **eingelesen** und **ausgegeben**, und schließlich wird der Speicher ordnungsgemäß **freigegeben**.
 
 ``` C
-#include <stdio.h>
+#include <stdio.h>!
 #include <stdlib.h>
 
 int main() {
