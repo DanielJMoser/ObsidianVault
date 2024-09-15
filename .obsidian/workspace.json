@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/IT Security/Practical Security/Secure Design Patterns.md",
+                "file": "IT/Machine Learning/Klausurvorbereitung/15_4.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Machine Learning/Learning/Supervised Learning.md",
+                "file": "IT/Machine Learning/Klausurvorbereitung/15_4.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Machine Learning/Learning/Supervised Learning.md",
+                "file": "IT/Machine Learning/Klausurvorbereitung/15_4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Machine Learning/Learning/Supervised Learning.md"
+                "file": "IT/Machine Learning/Klausurvorbereitung/15_4.md"
               }
             }
           },
@@ -181,20 +181,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "265f02c9c3928aae",
+  "active": "c98449dfdb9aff69",
   "lastOpenFiles": [
+    "IT/Machine Learning/Klausurvorbereitung/15_3.md",
+    "IT/IT Security/Practical Security/Secure Design Patterns.md",
+    "IT/Machine Learning/Learning/Supervised Learning.md",
     "IT/Machine Learning/Learning/Semi-Supervised Learning.md",
     "IT/Machine Learning/Learning/Reinforcement Learning.md",
     "IT/Machine Learning/Learning/Mean-squared Error.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_3.md",
     "IT/Machine Learning/Artificial Neural Networks/Backpropagation.md",
     "IT/Machine Learning/Klausurvorbereitung/15_1.md",
     "IT/Daten/Datenbanken/Big Data/_Big Data.md",
     "IT/Machine Learning/_Machine Learning.md",
-    "IT/Machine Learning/Learning/Supervised Learning.md",
     "IT/Machine Learning/Learning/Support Vector Machines.md",
     "Diverses/Bachelorprüfung/Stichwortlisten/Smart Systems & Machine Learning.md",
-    "IT/IT Security/Practical Security/Secure Design Patterns.md",
     "IT/Machine Learning/Convolutional Neural Network.md",
     "IT/Machine Learning/AI vs MS.md",
     "IT/Machine Learning/Klausurvorbereitung/15_4.md",
