@@ -10,7 +10,7 @@ Die Algorithmen, die für das Clustering verwendet werden, identifizieren **Ähn
     
 2. **Mustererkennung:** Durch die Bildung von Clustern können verborgene Muster oder Strukturen in den Daten entdeckt werden, die auf andere Weise möglicherweise nicht offensichtlich wären.
     
-3. **Datenverständnis:** Cluster können dazu beitragen, die inhärente Struktur der Daten zu verstehen und Gruppen von Datenpunkten zu identifizieren, die ähnliche Eigenschaften oder Verhaltensweisen aufweisen.
+3. **Datenverständnis:** Cluster können dazu beitragen, die **inhärente Struktur** der Daten zu verstehen und Gruppen von Datenpunkten zu identifizieren, die ähnliche Eigenschaften oder Verhaltensweisen aufweisen.
     
 
 Ein Cluster kann eine Gruppe von Datenpunkten umfassen, die sich **räumlich nahe** befinden, aber es gibt verschiedene Arten von Clustering-Algorithmen, die unterschiedliche Vorstellungen von Ähnlichkeit oder Nähe verwenden können.
