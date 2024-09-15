@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Machine Learning/Klausurvorbereitung/15_3.md",
+                "file": "IT/Machine Learning/Learning/Mean-squared Error.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Machine Learning/Klausurvorbereitung/15_3.md",
+                "file": "IT/Machine Learning/Learning/Mean-squared Error.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Machine Learning/Klausurvorbereitung/15_3.md",
+                "file": "IT/Machine Learning/Learning/Mean-squared Error.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Machine Learning/Klausurvorbereitung/15_3.md"
+                "file": "IT/Machine Learning/Learning/Mean-squared Error.md"
               }
             }
           },
@@ -183,6 +183,7 @@
   },
   "active": "265f02c9c3928aae",
   "lastOpenFiles": [
+    "IT/Machine Learning/Klausurvorbereitung/15_3.md",
     "IT/Machine Learning/Artificial Neural Networks/Backpropagation.md",
     "IT/Machine Learning/Klausurvorbereitung/15_1.md",
     "IT/Daten/Datenbanken/Big Data/_Big Data.md",
@@ -208,7 +209,6 @@
     "Diverses/Bachelorprüfung/Stichwortlisten/Datenbanken 1.md",
     "Diverses/Bachelorprüfung/Stichwortlisten/Betriebssysteme.md",
     "Diverses/Bachelorprüfung/Stichwortlisten/Algorithmen und Datenstrukturen.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Architektur von Informationssystemen.md",
     "IT/IT Security/Practical Security",
     "IT/IT Security/Theoretical Security",
     "IT/IT Security/Theoretical Security/Basics",
