@@ -20,7 +20,7 @@
 
 ## Abfragesprachen und SQL
 
-- Definition Query Language
+- [[_SQL#^2e93ef|Structured Query Language]]
 - [[_SQL|SQL]]
   - Bestandteile
   - DQL, DML, DCL, TCL
@@ -49,3 +49,7 @@
 - Conflict Graph
 - Eigenschaften von Statement Schedules
 - Serialisierungsmethoden im Überblick
+
+
+___
+#Datenbanken 

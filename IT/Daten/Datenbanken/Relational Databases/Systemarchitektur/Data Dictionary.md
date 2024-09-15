@@ -27,3 +27,5 @@ ___
 Datenwörterbücher können auf verschiedene Weise implementiert werden, z.B. als **Tabellen** in einer [[_Relationale Datenbanken|relationalen Datenbank]], als XML-Dateien oder als Teil der [[Metadaten]] eines Data Warehouse. Es gibt auch spezielle Software-Tools, die bei der Erstellung und Pflege von Datenwörterbüchern helfen können.
 
 
+___
+#Datenbanken

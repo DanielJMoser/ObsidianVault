@@ -32,3 +32,6 @@ ___
 ## Zusammenfassung
 
 Zusammenfassend lässt sich sagen, dass ein Primärschlüssel ein **eindeutiger Bezeichner in einer relationalen Datenbanktabelle** ist. Er wird verwendet, um **Datenintegrität** zu erzwingen und doppelte Datensätze zu verhindern, er kann aus **einem oder mehreren Feldern** bestehen und er wird verwendet, um **Beziehungen** zwischen Tabellen herzustellen.
+
+___
+#Datenbanken

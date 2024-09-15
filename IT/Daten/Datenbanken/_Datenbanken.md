@@ -23,3 +23,6 @@ Neben den [[_Relationale Datenbanken|Relationalen Datenbanken]] existieren auch 
 - Nur jene mit Berechtigung sollen Zugang erhalten.
 
 Nach dem [[CAP-Theorem]] sind **nicht alle** dieser Ansprüche zeitgleich implementierbar!
+
+___
+#Datenbanken 

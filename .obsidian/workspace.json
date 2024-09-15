@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Daten/Datenbanken/Relational Databases/SQL/Befehle/SQL als Data Manipulation Language.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e22e8a20fa4d9a2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Daten/Datenbanken/Basics/Konsistenz.md",
+                "file": "Diverses/Bachelorprüfung/Stichwortlisten/IT-Sicherheit.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,13 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diverses/Bachelorprüfung/Stichwortlisten/Datenbanken 1.md",
+                "file": "IT/IT Security/Practical Security/Secure Design Patterns.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "265f02c9c3928aae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/IT Security/Practical Security/Kerberos.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "datenban",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Daten/Datenbanken/Relational Databases/SQL/Befehle/SQL als Data Manipulation Language.md",
+                "file": "IT/IT Security/Practical Security/Secure Design Patterns.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Daten/Datenbanken/Relational Databases/SQL/Befehle/SQL als Data Manipulation Language.md",
+                "file": "IT/IT Security/Practical Security/Secure Design Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Daten/Datenbanken/Relational Databases/SQL/Befehle/SQL als Data Manipulation Language.md"
+                "file": "IT/IT Security/Practical Security/Secure Design Patterns.md"
               }
             }
           },
@@ -180,45 +181,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b9c51289a0953792",
+  "active": "7e01e55ccdb800fe",
   "lastOpenFiles": [
-    "IT/Daten/Datenbanken/Relational Databases/SQL/_SQL.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Datenbanken 1.md",
-    "IT/Daten/Datenbanken/Basics/Konsistenz.md",
-    "IT/Daten/Datenbanken/Relational Databases/Normalformen & Relationale Algebra/Relationale Algebra.md",
-    "IT/Daten/Datenbanken/Relational Databases/SQL/Untitled.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Software Engineering 1.md",
-    "IT/Daten/Datenbanken/Relational Databases/Normalformen & Relationale Algebra/Normalformen.md",
-    "IT/Daten/Datenbanken/Basics/9 Regeln von Codd.md",
-    "IT/Daten/Datenbanken/Relational Databases/Normalformen & Relationale Algebra",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Datenbanken 2 & Big Data.md",
-    "IT/Daten/Datenbanken/Relational Databases/SQL",
-    "IT/Daten/Datenbanken/Basics/Modelldefinition nach Stachowiak.md",
-    "IT/Daten/Datenbanken/Basics/CAP-Theorem.md",
-    "IT/Daten/Datenbanken/Basics/Anomalien.md",
-    "IT/Daten/Datenbanken/Relational Databases/Relational Model/_Relational Model.md",
-    "IT/Daten/Datenbanken/Relational Databases/Relational Model/Tuple_DB.md",
-    "IT/Daten/Datenbanken/Basics/Intension vs. Extension.md",
-    "IT/Daten/Datenbanken/Basics/Integrität.md",
-    "IT/Daten/Datenbanken/Basics/Datenredundanz.md",
-    "IT/Daten/Datenbanken/Basics",
-    "ForeiFremdschlüssel.md",
-    "IT/Daten/Datenbanken/Relational Databases/Systemarchitektur/Database Management System.md",
+    "IT/IT Security/Theoretical Security/Basics/Angreifer_innenmodell.md",
+    "IT/IT Security/Practical Security/Secure Design Patterns.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/IT-Sicherheit.md",
     "IT/Daten/Datenbanken/_Datenbanken.md",
-    "IT/Systeme/ERP-Systeme/Wertschöpfungskette nach Porter.md",
+    "IT/IT Security/Practical Security/Kerberos.md",
+    "IT/Daten/Datenbanken/Relational Databases/SQL/Befehle/SQL als Data Manipulation Language.md",
+    "IT/Daten/Datenbanken/Relational Databases/SQL/_SQL.md",
+    "IT/Daten/Datenbanken/Relational Databases/Systemarchitektur/_Systemarchitektur, DBS.md",
+    "IT/Daten/Datenbanken/Relational Databases/Systemarchitektur/Data Dictionary.md",
+    "IT/Daten/Datenbanken/Relational Databases/Systemarchitektur/Database Management System.md",
+    "IT/Daten/Datenbanken/Relational Databases/Systemarchitektur/Schichten.md",
+    "IT/Daten/Datenbanken/Relational Databases/JDBC/Driver.md",
+    "IT/Daten/Datenbanken/Relational Databases/JDBC/Connection.md",
+    "IT/Daten/Datenbanken/Relational Databases/JDBC/_JDBC.md",
+    "IT/Daten/Datenbanken/Relational Databases/JDBC/Statements/JDBC PreparedStatement.md",
+    "IT/Daten/Datenbanken/Relational Databases/JDBC/Statements/JDBC Execute Statements.md",
+    "IT/Daten/Datenbanken/Relational Databases/JDBC/Statements/_Statement.md",
     "IT/Daten/Datenbanken/Relational Databases/_Relationale Datenbanken.md",
-    "IT/Programmierung/Toolchain/Assembler.md",
-    "IT/Systeme/Architektur von Informationssystemen/Flynn'sche Taxonomie.md",
-    "IT/Systeme/Architektur von Informationssystemen/Parallele vs. Verteilte Systeme.md",
-    "IT/Systeme/Architektur von Informationssystemen/Arten von Parallelismus.md",
+    "IT/Daten/Datenbanken/Relational Databases/Schlüssel/Primärschlüssel.md",
+    "IT/Daten/Datenbanken/Relational Databases/Schlüssel/Fremdschlüssel.md",
+    "IT/Daten/Datenbanken/Relational Databases/Relational Model/Tuple_DB.md",
+    "IT/Daten/Datenbanken/Relational Databases/Relational Model/Relationship.md",
+    "IT/Daten/Datenbanken/Relational Databases/Relational Model/Attribute.md",
+    "IT/Daten/Datenbanken/Relational Databases/Relational Model/_Relational Model.md",
+    "IT/Daten/Datenbanken/Relational Databases/Normalformen & Relationale Algebra/Normalformen.md",
+    "IT/Daten/Datenbanken/Relational Databases/JDBC/Persistence Layer/Domain Model/Rich Domain Model.md",
+    "IT/IT Security/Practical Security",
+    "IT/IT Security/Theoretical Security",
+    "IT/IT Security/Theoretical Security/Basics",
+    "IT/Daten/Datenbanken/Relational Databases/Normalformen & Relationale Algebra",
+    "IT/Daten/Datenbanken/Relational Databases/SQL",
+    "IT/Daten/Datenbanken/Basics",
     "Excalidraw/Scripts/Downloaded/Concatenate lines.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "IT/Systeme/Architektur von Informationssystemen/zzDrawings/zZDrawing_Flynn_SISD.png",
     "IT/Systeme/Architektur von Informationssystemen/zzDrawings",
-    "IT/Systeme/Architektur von Informationssystemen",
-    "IT/Programmierung/C",
-    "IT/Programmierung/Allgemeines",
-    "IT/Programmierung/Allgemeines/Kontrollstrukturen"
+    "IT/Systeme/Architektur von Informationssystemen"
   ]
 }

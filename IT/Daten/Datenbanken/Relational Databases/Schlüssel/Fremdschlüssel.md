@@ -39,4 +39,6 @@ ___
 
 Fremdschlüssel sind ein grundlegendes Konzept in relationalen Datenbanken. Sie ermöglichen die **Verknüpfung von Daten über Tabellen hinweg** und machen Datenbanken **effizienter** und **konsistenter**.
 
+___
 
+#Datenbanken

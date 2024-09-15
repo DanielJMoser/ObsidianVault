@@ -7,3 +7,5 @@ Um eine Verbindung herzustellen, müssen die Anwendungsentwickler in der Regel I
 - das **Passwort** angeben. 
 
 Sobald eine Verbindung hergestellt ist, können Anwendungsentwickler SQL-Abfragen an die Datenbank senden und die Ergebnisse abrufen.
+___
+#Datenbanken 

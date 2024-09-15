@@ -44,3 +44,5 @@ VALUES (2142, 'Aristoteles', 'Philosophy', 3600)
 
 Kann mit oder ohne Liste an attributen verwendet werden. Wir können auch **mehrere** Professoren gleichzeitig einfügen, in dem wir sie "bulken".
 
+___
+#Datenbanken

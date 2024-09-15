@@ -10,3 +10,5 @@
 * **N:1** -> Arbeiter:innen arbeiten für einen Kapitalisten
 * **M:N** -> Studierende lauschen des Professors Worten
 
+___
+#Datenbanken

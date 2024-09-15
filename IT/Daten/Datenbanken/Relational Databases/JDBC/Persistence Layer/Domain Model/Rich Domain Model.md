@@ -25,3 +25,6 @@ Auf diese Weise kann das Domain Model direkt mit der **Benutzeroberfläche** kom
 
 Der Vorteil eines Rich Domain Models liegt darin, dass es die Entwickler in die Lage versetzt, die Geschäftslogik direkt in den Objekten des [[Domain Model]]s zu implementieren. 
 Dadurch wird der Code **schlanker**, **kohärenter** und **leichter verständlich.** Außerdem können Tests einfacher durchgeführt werden, da die Geschäftslogik im Kontext des Domain Models isoliert getestet werden kann.
+
+___
+#Datenbanken

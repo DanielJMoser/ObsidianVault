@@ -14,12 +14,12 @@
 
 ## TCP/IP-Stack
 
-- TCP vs. UDP
-- Routing in einem IP-Netz
+- [[TCP]] vs. [[UDP]]
+- [[Router|Routing]] in einem IP-Netz
 
 ## Netzzugangsschicht
 
-- Multiplexing, Multiple Access und Duplex
+- [[Multiplexing]], [[Multiple Access]] und Duplex
 - Medium Access Control
 
 ## Sicherheit in Datennetzwerken

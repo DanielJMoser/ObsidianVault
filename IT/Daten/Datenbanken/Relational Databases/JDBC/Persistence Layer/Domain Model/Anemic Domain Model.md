@@ -36,3 +36,6 @@ Der Nachteil des Anemic Domain Models ist, dass es zu einer übermäßigen Abhä
 
 Insgesamt wird das Anemic Domain Model von vielen Experten kritisiert, da es zu einer **schlechteren Lesbarkeit, Wartbarkeit und Erweiterbarkeit** des Codes führen kann. 
 Das [[Rich Domain Model]] ist oft die bevorzugte Design-Strategie, da es dazu beiträgt, dass die Geschäftslogik auf eine **strukturierte und leicht verständliche** Weise implementiert wird.
+
+___
+#Datenbanken 

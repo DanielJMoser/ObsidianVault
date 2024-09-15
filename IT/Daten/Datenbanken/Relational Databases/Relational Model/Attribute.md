@@ -9,3 +9,6 @@ Diese können nur einfache [[Datentypen]] (wie int, string, boolean,...) annehme
 Besondere Attribute einer [[Entity]].
 Diese identifizieren ein Objekt **eindeutig**, sind also **einmalig**
 Es darf keine Entität ohne Key existieren!
+
+___
+#Datenbanken

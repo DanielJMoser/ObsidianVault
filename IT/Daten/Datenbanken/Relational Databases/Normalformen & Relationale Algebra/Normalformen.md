@@ -131,3 +131,6 @@ Die Trennung stellt sicher, dass jede Tabelle in der BCNF ist, da `Raum` nun aus
 Sie helfen, [[Datenredundanz|Redundanzen]] zu minimieren, [[Integrität]] zu gewährleisten und [[Anomalien]] zu vermeiden. 
 Während die 1. Normalform auf atomare Werte fokussiert, sorgen die 2. und 3. Normalform sowie die BCNF für eine **strukturierte** und **eindeutige** Beziehung zwischen Schlüsseln und Attributen. 
 Das Verständnis und die Anwendung dieser Normalformen sind entscheidend für die Erstellung robuster Datenbankdesigns.
+
+___
+#Datenbanken 

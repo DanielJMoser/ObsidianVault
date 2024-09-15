@@ -164,3 +164,4 @@ Die relationale Algebra ist ein wesentliches Konzept in der Datenbanktheorie, da
 
 ---
 
+#Datenbanken
