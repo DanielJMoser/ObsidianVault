@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Machine Learning/Klausurvorbereitung/15_4.md",
+                "file": "IT/Machine Learning/Klausurvorbereitung/15_6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f104ecf0d20d51d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Machine Learning/Clustering/K-Means.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Machine Learning/Klausurvorbereitung/15_4.md",
+                "file": "IT/Machine Learning/Clustering/K-Means.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Machine Learning/Klausurvorbereitung/15_4.md",
+                "file": "IT/Machine Learning/Clustering/K-Means.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Machine Learning/Klausurvorbereitung/15_4.md"
+                "file": "IT/Machine Learning/Clustering/K-Means.md"
               }
             }
           },
@@ -181,8 +193,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c98449dfdb9aff69",
+  "active": "f104ecf0d20d51d5",
   "lastOpenFiles": [
+    "IT/Machine Learning/Klausurvorbereitung/15_6.md",
+    "IT/Machine Learning/Klausurvorbereitung/15_5.md",
+    "IT/Machine Learning/Klausurvorbereitung/15_4.md",
     "IT/Machine Learning/Klausurvorbereitung/15_3.md",
     "IT/IT Security/Practical Security/Secure Design Patterns.md",
     "IT/Machine Learning/Learning/Supervised Learning.md",
@@ -197,8 +212,6 @@
     "Diverses/Bachelorprüfung/Stichwortlisten/Smart Systems & Machine Learning.md",
     "IT/Machine Learning/Convolutional Neural Network.md",
     "IT/Machine Learning/AI vs MS.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_4.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_5.md",
     "IT/Machine Learning/Klausurvorbereitung/15_2.md",
     "IT/Machine Learning/Artificial Neural Networks/Forward Propagation.md",
     "Diverses/Bachelorprüfung/Stichwortlisten/Systemplanung.md",
@@ -208,7 +221,6 @@
     "Diverses/Bachelorprüfung/Stichwortlisten/IT-Sicherheit.md",
     "IT/IT Security/Privacy.md",
     "Diverses/Bachelorprüfung/Stichwortlisten/Rechnerstrukturen & Embedded Systems.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Datenbanken 2 & Big Data.md",
     "IT/IT Security/Practical Security",
     "IT/IT Security/Theoretical Security",
     "IT/IT Security/Theoretical Security/Basics",
