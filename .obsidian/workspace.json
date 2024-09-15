@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Machine Learning/Klausurvorbereitung/15_1.md",
+                "file": "IT/Machine Learning/Klausurvorbereitung/15_3.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Machine Learning/Klausurvorbereitung/15_1.md",
+                "file": "IT/Machine Learning/Klausurvorbereitung/15_3.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Machine Learning/Klausurvorbereitung/15_1.md",
+                "file": "IT/Machine Learning/Klausurvorbereitung/15_3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Machine Learning/Klausurvorbereitung/15_1.md"
+                "file": "IT/Machine Learning/Klausurvorbereitung/15_3.md"
               }
             }
           },
@@ -183,6 +183,8 @@
   },
   "active": "265f02c9c3928aae",
   "lastOpenFiles": [
+    "IT/Machine Learning/Artificial Neural Networks/Backpropagation.md",
+    "IT/Machine Learning/Klausurvorbereitung/15_1.md",
     "IT/Daten/Datenbanken/Big Data/_Big Data.md",
     "IT/Machine Learning/_Machine Learning.md",
     "IT/Machine Learning/Learning/Supervised Learning.md",
@@ -196,7 +198,6 @@
     "IT/Machine Learning/Klausurvorbereitung/15_2.md",
     "IT/Machine Learning/Artificial Neural Networks/Forward Propagation.md",
     "Diverses/Bachelorprüfung/Stichwortlisten/Systemplanung.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_1.md",
     "IT/Machine Learning/Klausurvorbereitung/_Inhaltsverzeichnung.md",
     "Diverses/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung 2.md",
     "Diverses/Bachelorprüfung/Stichwortlisten/IT-Strategie.md",
@@ -208,7 +209,6 @@
     "Diverses/Bachelorprüfung/Stichwortlisten/Betriebssysteme.md",
     "Diverses/Bachelorprüfung/Stichwortlisten/Algorithmen und Datenstrukturen.md",
     "Diverses/Bachelorprüfung/Stichwortlisten/Architektur von Informationssystemen.md",
-    "IT/Daten/Datenbanken/Sicherheit von Datenbanken.md",
     "IT/IT Security/Practical Security",
     "IT/IT Security/Theoretical Security",
     "IT/IT Security/Theoretical Security/Basics",
