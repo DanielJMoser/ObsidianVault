@@ -6,7 +6,7 @@ Ein **Angreifer\_innenmodell** (auch **Bedrohungsmodell** genannt) ist ein konze
 
 1. **Angreifer\_innentypen:**
    - **Skriptkiddies:** Unerfahrene Individuen, die vorgefertigte Tools verwenden.
-   - **Insider\_innen:** Mitarbeitende oder Personen mit legitimen Zugriffsrechten, die böswillige Absichten haben.
+   - **Insider\_innen:** Mitarbeitende oder Personen mit legitimen Zugriffsrechten, die böswillige Absichten haben. ^e71cd3
    - **Organisierte Kriminalität:** Professionelle Gruppen mit finanziellen Motiven.
    - **Staatlich gesponserte Angreifer\_innen:** Nationen oder staatliche Akteure mit politischen Zielen.
    - **Hacktivist\_innen:** Gruppen oder Einzelpersonen mit ideologischen Motiven.
@@ -26,7 +26,7 @@ Ein **Angreifer\_innenmodell** (auch **Bedrohungsmodell** genannt) ist ein konze
 
 - **Risikobewertung:** Identifikation und Bewertung potenzieller Bedrohungen für ein System.
 - **Sicherheitsplanung:** Entwicklung von Sicherheitsmaßnahmen, die auf die spezifischen Angreifer\_innen und deren Methoden abgestimmt sind.
-- **Awareness-Schulungen:** Sensibilisierung von Mitarbeitenden für mögliche Angriffe und deren Abwehr.
+- **Awareness-Schulungen:** Sensibilisierung von Mitarbeitenden für mögliche Angriffe und deren Abwehr. ^2bebde
 
 ## Bedeutung
 

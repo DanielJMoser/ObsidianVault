@@ -12,9 +12,9 @@
 - [[SQL-Injections]]
 - [[Cross-Site Scripting XSS]]
 - [[Kerberos]]
-- Secure Design Patterns (Sichere Entwurfsmuster)
+- [[Secure Design Patterns]]
 
 ## Privacy (Privatheit)
 
-- importance (Wichtigkeit)
-- database privacy (Privatheit in Datenbanken)
+- [[Privacy]]
+- [[Sicherheit von Datenbanken]]
