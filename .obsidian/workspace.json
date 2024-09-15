@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Machine Learning/Learning/Mean-squared Error.md",
+                "file": "IT/Machine Learning/Learning/Supervised Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Machine Learning/Learning/Mean-squared Error.md",
+                "file": "IT/Machine Learning/Learning/Supervised Learning.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Machine Learning/Learning/Mean-squared Error.md",
+                "file": "IT/Machine Learning/Learning/Supervised Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Machine Learning/Learning/Mean-squared Error.md"
+                "file": "IT/Machine Learning/Learning/Supervised Learning.md"
               }
             }
           },
@@ -183,6 +183,9 @@
   },
   "active": "265f02c9c3928aae",
   "lastOpenFiles": [
+    "IT/Machine Learning/Learning/Semi-Supervised Learning.md",
+    "IT/Machine Learning/Learning/Reinforcement Learning.md",
+    "IT/Machine Learning/Learning/Mean-squared Error.md",
     "IT/Machine Learning/Klausurvorbereitung/15_3.md",
     "IT/Machine Learning/Artificial Neural Networks/Backpropagation.md",
     "IT/Machine Learning/Klausurvorbereitung/15_1.md",
@@ -206,9 +209,6 @@
     "IT/IT Security/Privacy.md",
     "Diverses/Bachelorprüfung/Stichwortlisten/Rechnerstrukturen & Embedded Systems.md",
     "Diverses/Bachelorprüfung/Stichwortlisten/Datenbanken 2 & Big Data.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Datenbanken 1.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Betriebssysteme.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Algorithmen und Datenstrukturen.md",
     "IT/IT Security/Practical Security",
     "IT/IT Security/Theoretical Security",
     "IT/IT Security/Theoretical Security/Basics",

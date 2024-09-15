@@ -5,7 +5,7 @@ Mit dem **MSE** wird das **Quadrat der durchschnittlichen Fehler**, also der Dur
 
 # Vorgehensweise
 
-1. Finde die Formel der Regressionslinie
+1. Finde die Formel der **Regressionslinie**
    
 $$
 \hat{Y}_i = \beta_0 + \beta_1X_i + \hat{\epsilon}_i

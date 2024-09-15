@@ -8,7 +8,7 @@ Die häufigsten Anwendungsfälle sind
 
 ### Classification
 
-Inputs werden in **zwei oder mehr Klassen** eingeteilt. Der Algorithmus muss unbekannte Inputs in eine oder mehrere dieser Klassen einteilen. Dabei unterscheidet man zwischen **binary** und **multiclass classification**.  -> Vorhersag diskreter Klassen, im Gegensatz zur [[Supervised Learning#Regression|Regression]]
+Inputs werden in **zwei oder mehr Klassen** eingeteilt. Der Algorithmus muss unbekannte Inputs in eine oder mehrere dieser Klassen einteilen. Dabei unterscheidet man zwischen **binary** und **multiclass classification**.  -> Vorhersagung diskreter Klassen, im Gegensatz zur [[Supervised Learning#Regression|Regression]]
 
 ![[zzDrawing_Classification.png]]
 
