@@ -6,8 +6,6 @@ Künstliche Intelligenz (KI) und maschinelles Lernen (ML) sind zwei wichtige Kon
 bezieht sich auf ein breiteres Konzept, bei dem Maschinen und Computern die Fähigkeit verliehen wird, menschenähnliche Intelligenz und kognitive Funktionen auszuführen. 
 Dazu gehören das **Lernen**, **Planen**, **Problemlösung**, **Sprachverstehen** und die **Wahrnehmung von Objekten oder Situatione**n in ihrer Umgebung. KI zielt darauf ab, Systeme zu entwickeln, die **menschenähnliches** Denken und Handeln in vielfältigen Situationen nachahmen können.
 
-
-
 ## Maschinelles Lernen
 
 hingegen ist ein **spezieller Bereich** der Künstlichen Intelligenz.

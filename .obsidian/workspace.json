@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/IT Security/Privacy.md",
+                "file": "IT/Machine Learning/Convolutional Neural Network.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,8 +35,12 @@
             "id": "265f02c9c3928aae",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "IT/Machine Learning/Klausurvorbereitung/15_1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -106,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/IT Security/Privacy.md",
+                "file": "IT/Machine Learning/Klausurvorbereitung/15_1.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/IT Security/Privacy.md",
+                "file": "IT/Machine Learning/Klausurvorbereitung/15_1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/IT Security/Privacy.md"
+                "file": "IT/Machine Learning/Klausurvorbereitung/15_1.md"
               }
             }
           },
@@ -177,34 +181,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b9c51289a0953792",
+  "active": "265f02c9c3928aae",
   "lastOpenFiles": [
-    "IT/Daten/Datenbanken/Sicherheit von Datenbanken.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/IT-Sicherheit.md",
-    "IT/IT Security/Theoretical Security/Basics/Angreifer_innenmodell.md",
+    "IT/Daten/Datenbanken/Big Data/_Big Data.md",
+    "IT/Machine Learning/_Machine Learning.md",
+    "IT/Machine Learning/Learning/Supervised Learning.md",
+    "IT/Machine Learning/Learning/Support Vector Machines.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Smart Systems & Machine Learning.md",
     "IT/IT Security/Practical Security/Secure Design Patterns.md",
-    "IT/IT Security/Practical Security/Kerberos.md",
+    "IT/Machine Learning/Convolutional Neural Network.md",
+    "IT/Machine Learning/AI vs MS.md",
+    "IT/Machine Learning/Klausurvorbereitung/15_4.md",
+    "IT/Machine Learning/Klausurvorbereitung/15_5.md",
+    "IT/Machine Learning/Klausurvorbereitung/15_2.md",
+    "IT/Machine Learning/Artificial Neural Networks/Forward Propagation.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Systemplanung.md",
+    "IT/Machine Learning/Klausurvorbereitung/15_1.md",
+    "IT/Machine Learning/Klausurvorbereitung/_Inhaltsverzeichnung.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung 2.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/IT-Strategie.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/IT-Sicherheit.md",
     "IT/IT Security/Privacy.md",
-    "IT/Daten/Datenbanken/_Datenbanken.md",
-    "IT/Daten/Datenbanken/Relational Databases/SQL/Befehle/SQL als Data Manipulation Language.md",
-    "IT/Daten/Datenbanken/Relational Databases/SQL/_SQL.md",
-    "IT/Daten/Datenbanken/Relational Databases/Systemarchitektur/_Systemarchitektur, DBS.md",
-    "IT/Daten/Datenbanken/Relational Databases/Systemarchitektur/Data Dictionary.md",
-    "IT/Daten/Datenbanken/Relational Databases/Systemarchitektur/Database Management System.md",
-    "IT/Daten/Datenbanken/Relational Databases/Systemarchitektur/Schichten.md",
-    "IT/Daten/Datenbanken/Relational Databases/JDBC/Driver.md",
-    "IT/Daten/Datenbanken/Relational Databases/JDBC/Connection.md",
-    "IT/Daten/Datenbanken/Relational Databases/JDBC/_JDBC.md",
-    "IT/Daten/Datenbanken/Relational Databases/JDBC/Statements/JDBC PreparedStatement.md",
-    "IT/Daten/Datenbanken/Relational Databases/JDBC/Statements/JDBC Execute Statements.md",
-    "IT/Daten/Datenbanken/Relational Databases/JDBC/Statements/_Statement.md",
-    "IT/Daten/Datenbanken/Relational Databases/_Relationale Datenbanken.md",
-    "IT/Daten/Datenbanken/Relational Databases/Schlüssel/Primärschlüssel.md",
-    "IT/Daten/Datenbanken/Relational Databases/Schlüssel/Fremdschlüssel.md",
-    "IT/Daten/Datenbanken/Relational Databases/Relational Model/Tuple_DB.md",
-    "IT/Daten/Datenbanken/Relational Databases/Relational Model/Relationship.md",
-    "IT/Daten/Datenbanken/Relational Databases/Relational Model/Attribute.md",
-    "IT/Daten/Datenbanken/Relational Databases/Relational Model/_Relational Model.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Rechnerstrukturen & Embedded Systems.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Datenbanken 2 & Big Data.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Datenbanken 1.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Betriebssysteme.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Algorithmen und Datenstrukturen.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Architektur von Informationssystemen.md",
+    "IT/Daten/Datenbanken/Sicherheit von Datenbanken.md",
     "IT/IT Security/Practical Security",
     "IT/IT Security/Theoretical Security",
     "IT/IT Security/Theoretical Security/Basics",

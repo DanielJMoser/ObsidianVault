@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "SiLatex",
+      "LiDistributeSpaceHorizontal",
+      "FasP",
+      "SiOracle",
+      "SiCplusplusbuilder"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -14,7 +20,7 @@
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": false,
+    "iconInTabsEnabled": true,
     "iconInTitleEnabled": false,
     "iconInTitlePosition": "above",
     "iconInFrontmatterEnabled": false,
@@ -26,5 +32,28 @@
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
     "debugMode": false
-  }
+  },
+  "Diverses/Bachelorprüfung/Stichwortlisten/Algorithmen und Datenstrukturen.md": "SiDatastax",
+  "Diverses/Bachelorprüfung/Stichwortlisten/Allgemeine Betriebswirtschaftslehre.md": "FasSuitcase",
+  "Diverses/Bachelorprüfung/Stichwortlisten/Architektur von Informationssystemen.md": "SiDwavesystems",
+  "Diverses/Bachelorprüfung/Stichwortlisten/Betriebssysteme.md": "SiLinux",
+  "Diverses/Bachelorprüfung/Stichwortlisten/Business Solutions.md": "SiErpnext",
+  "Diverses/Bachelorprüfung/Stichwortlisten/Datenbanken 1.md": "LiDatabase",
+  "Diverses/Bachelorprüfung/Stichwortlisten/Datenbanken 2 & Big Data.md": "LiDatabase",
+  "Diverses/Bachelorprüfung/Stichwortlisten/Datennetze.md": "LiNetwork",
+  "Diverses/Bachelorprüfung/Stichwortlisten/Digital Business.md": "FasSuitcase",
+  "Diverses/Bachelorprüfung/Stichwortlisten/Digital Ethics.md": "FasE",
+  "Diverses/Bachelorprüfung/Stichwortlisten/IT-Sicherheit.md": "SiSecurityscorecard",
+  "Diverses/Bachelorprüfung/Stichwortlisten/IT-Strategie.md": "FasS",
+  "Diverses/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung 2.md": "SiCplusplus",
+  "Diverses/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung I.md": "SiCplusplusbuilder",
+  "Diverses/Bachelorprüfung/Stichwortlisten/Programmiertechnik.md": "SiPython",
+  "Diverses/Bachelorprüfung/Stichwortlisten/Projekt- & Prozessmanagement.md": "FasP",
+  "Diverses/Bachelorprüfung/Stichwortlisten/Rechnerstrukturen & Embedded Systems.md": "LiSignal",
+  "Diverses/Bachelorprüfung/Stichwortlisten/Smart Systems & Machine Learning.md": "SiOpenai",
+  "Diverses/Bachelorprüfung/Stichwortlisten/Software Engineering 1.md": "SiOracle",
+  "Diverses/Bachelorprüfung/Stichwortlisten/Software Engineering 2.md": "SiOracle",
+  "Diverses/Bachelorprüfung/Stichwortlisten/Systemplanung.md": "FasP",
+  "Diverses/Bachelorprüfung/Stichwortlisten/Verteilte Systeme.md": "LiDistributeSpaceHorizontal",
+  "Diverses/Bachelorprüfung/Stichwortlisten/Wissenschaftliches Arbeiten.md": "SiLatex"
 }

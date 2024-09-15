@@ -1,6 +1,7 @@
 ## Theoretische Grundlagen
 
 - Definitionen
+ - [[AI vs MS]]
 - Annahmen
 - Anwendungsgebiete
 
@@ -12,8 +13,8 @@
 
 ## Klassifikation
 
-- logistische Regression
-- Support Vector Machines
+- [[Logistische Regression]]
+- [[Support Vector Machines]]
 
 ## Neuronale Netze
 
