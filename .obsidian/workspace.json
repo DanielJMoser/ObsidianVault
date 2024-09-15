@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Programmierung/Toolchain/Assembler.md",
+                "file": "IT/Daten/Datenbanken/Relational Databases/SQL/Befehle/SQL als Data Manipulation Language.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Systeme/Architektur von Informationssystemen/Flynn'sche Taxonomie.md",
+                "file": "IT/Daten/Datenbanken/Basics/Konsistenz.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Systeme/ERP-Systeme/Wertschöpfungskette nach Porter.md",
+                "file": "Diverses/Bachelorprüfung/Stichwortlisten/Datenbanken 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "compiler",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Systeme/Architektur von Informationssystemen/Flynn'sche Taxonomie.md",
+                "file": "IT/Daten/Datenbanken/Relational Databases/SQL/Befehle/SQL als Data Manipulation Language.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Systeme/Architektur von Informationssystemen/Flynn'sche Taxonomie.md",
+                "file": "IT/Daten/Datenbanken/Relational Databases/SQL/Befehle/SQL als Data Manipulation Language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Systeme/Architektur von Informationssystemen/Flynn'sche Taxonomie.md"
+                "file": "IT/Daten/Datenbanken/Relational Databases/SQL/Befehle/SQL als Data Manipulation Language.md"
               }
             }
           },
@@ -167,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,45 +180,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e22e8a20fa4d9a2c",
+  "active": "b9c51289a0953792",
   "lastOpenFiles": [
+    "IT/Daten/Datenbanken/Relational Databases/SQL/_SQL.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Datenbanken 1.md",
+    "IT/Daten/Datenbanken/Basics/Konsistenz.md",
+    "IT/Daten/Datenbanken/Relational Databases/Normalformen & Relationale Algebra/Relationale Algebra.md",
+    "IT/Daten/Datenbanken/Relational Databases/SQL/Untitled.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Software Engineering 1.md",
+    "IT/Daten/Datenbanken/Relational Databases/Normalformen & Relationale Algebra/Normalformen.md",
+    "IT/Daten/Datenbanken/Basics/9 Regeln von Codd.md",
+    "IT/Daten/Datenbanken/Relational Databases/Normalformen & Relationale Algebra",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Datenbanken 2 & Big Data.md",
+    "IT/Daten/Datenbanken/Relational Databases/SQL",
+    "IT/Daten/Datenbanken/Basics/Modelldefinition nach Stachowiak.md",
+    "IT/Daten/Datenbanken/Basics/CAP-Theorem.md",
+    "IT/Daten/Datenbanken/Basics/Anomalien.md",
+    "IT/Daten/Datenbanken/Relational Databases/Relational Model/_Relational Model.md",
+    "IT/Daten/Datenbanken/Relational Databases/Relational Model/Tuple_DB.md",
+    "IT/Daten/Datenbanken/Basics/Intension vs. Extension.md",
+    "IT/Daten/Datenbanken/Basics/Integrität.md",
+    "IT/Daten/Datenbanken/Basics/Datenredundanz.md",
+    "IT/Daten/Datenbanken/Basics",
+    "ForeiFremdschlüssel.md",
+    "IT/Daten/Datenbanken/Relational Databases/Systemarchitektur/Database Management System.md",
+    "IT/Daten/Datenbanken/_Datenbanken.md",
+    "IT/Systeme/ERP-Systeme/Wertschöpfungskette nach Porter.md",
+    "IT/Daten/Datenbanken/Relational Databases/_Relationale Datenbanken.md",
+    "IT/Programmierung/Toolchain/Assembler.md",
+    "IT/Systeme/Architektur von Informationssystemen/Flynn'sche Taxonomie.md",
     "IT/Systeme/Architektur von Informationssystemen/Parallele vs. Verteilte Systeme.md",
     "IT/Systeme/Architektur von Informationssystemen/Arten von Parallelismus.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Architektur von Informationssystemen.md",
-    "IT/Systeme/Architektur von Informationssystemen/Flynn'sche Taxonomie.md",
-    "IT/Programmierung/Toolchain/Assembler.md",
-    "IT/Programmierung/Toolchain/_Toolchain.md",
-    "IT/Programmierung/Toolchain/Maschinencode.md",
-    "IT/Programmierung/Toolchain/Interpreter.md",
-    "IT/Programmierung/Toolchain/Compiler.md",
-    "Excalidraw/zZDrawing_Flynn_MIMD.md",
-    "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Race Conditions.md",
-    "IT/Systeme/ERP-Systeme/Wertschöpfungskette nach Porter.md",
     "Excalidraw/Scripts/Downloaded/Concatenate lines.svg",
-    "Excalidraw/Scripts/Downloaded/Concatenate lines.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "Excalidraw/zZDrawing_Flynn_SIMD.md",
-    "Excalidraw/zZDrawing_Flynn_MISD.md",
-    "Excalidraw/zzDrawing_Hardware-Software.md",
-    "Excalidraw/zZDrawing_Flynn_SISD.md",
     "IT/Systeme/Architektur von Informationssystemen/zzDrawings/zZDrawing_Flynn_SISD.png",
     "IT/Systeme/Architektur von Informationssystemen/zzDrawings",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Business Solutions.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Betriebssysteme.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Allgemeine Betriebswirtschaftslehre.md",
-    "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Deadlock/Deadlock Prevention.md",
     "IT/Systeme/Architektur von Informationssystemen",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Algorithmen und Datenstrukturen.md",
-    "IT/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Suchalgorithmen/Greedy-Algorithmen/_Greedy.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung I.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Programmiertechnik.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Systemplanung.md",
     "IT/Programmierung/C",
     "IT/Programmierung/Allgemeines",
-    "IT/Programmierung/Allgemeines/Kontrollstrukturen",
-    "IT/Programmierung/C",
-    "IT/Programmierung/Toolchain",
-    "Diverses/Bachelorprüfung/Stichwortlisten"
+    "IT/Programmierung/Allgemeines/Kontrollstrukturen"
   ]
 }

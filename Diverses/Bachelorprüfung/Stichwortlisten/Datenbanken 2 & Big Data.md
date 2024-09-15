@@ -1,9 +1,9 @@
 ## Datenbankzugriff und Sicherheit
 
-- Prepared Statements
+- [[JDBC PreparedStatement|Prepared Statements]]
 - SQL Injection
 - Stored Procedure/Function
-- DB Zugriff via JDBC
+- DB Zugriff via [[JDBC]]
 - DB Zugriffspatterns: DAO vs. Repository
 - CRUD – Architektur
 - Object-Relational Mapping via Hibernate

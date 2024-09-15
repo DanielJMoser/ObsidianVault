@@ -1,4 +1,4 @@
-# CAP-Theorem
+
 
 Nur **2 der 3** folgenden Punkte auf einem System implementierbar:
 

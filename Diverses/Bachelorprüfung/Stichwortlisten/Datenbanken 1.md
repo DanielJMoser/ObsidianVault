@@ -1,27 +1,27 @@
 ## Grundlagen und Definitionen
 
-- Definition Datenbank
-- CAP Theorem
-- Codd’s 9 rules
-- DB-Systemarchitektur mit Unterscheidung: Database System, Database Management System, Database und Data Dictionary
-- Modeldefinition nach Stachowiak (Mapping, Reduction, Pragmatism)
-- Unterscheidung Schema (Intension) und Data Expression (Extension)
-- Definition: Daten Redundanz, Konsistenz und Integrität
+- [[_Datenbanken|Definition Datenbank]]
+- [[CAP-Theorem]]
+- [[9 Regeln von Codd]]
+- [[_Systemarchitektur, DBS|DB-Systemarchitektur]] mit Unterscheidung: Database System, [[Database Management System]], Database und [[Data Dictionary]]
+- [[Modelldefinition nach Stachowiak]] ([[Modelldefinition nach Stachowiak#^3eb388|Mapping]], [[Modelldefinition nach Stachowiak#^2a0cca|Reduction]], [[Modelldefinition nach Stachowiak#^afa8b4|Pragmatism]])
+- [[Intension vs. Extension|Unterscheidung Schema (Intension) und Data Expression (Extension)]]
+- Definition: [[Datenredundanz]], [[Konsistenz]] und [[Integrität]]
 
 ## Datenbankentwurf und Modellierung
 
 - Database Design Steps
-- ER/EER Diagramme
-- Relationales Model (Schema, Relationen, Attribute, Tupel)
-- Primärschlüssel + künstliche Schlüssel und Fremdschlüssel
-- Anomalien
-- Normalformen (1. NF bis 3.NF + Boyce-Codd NF)
-- Relationale Algebra
+- [[ER-Modell|ER]]/[[EER-Modell|EER]]-Diagramme
+- [[_Relational Model|Relational Model]] (Schema, Relationen, Attribute, [[Tuple_DB]])
+- [[Primärschlüssel]] + künstliche Schlüssel und [[Fremdschlüssel]]
+- [[Anomalien]]
+- [[Normalformen]] (1. NF bis 3.NF + Boyce-Codd NF)
+- [[Relationale Algebra]]
 
 ## Abfragesprachen und SQL
 
 - Definition Query Language
-- SQL
+- [[_SQL|SQL]]
   - Bestandteile
   - DQL, DML, DCL, TCL
   - Operatoren
