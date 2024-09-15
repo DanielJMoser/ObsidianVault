@@ -1,9 +1,9 @@
 [
-  "obsidian-git",
   "obsidian-style-settings",
   "obsidian-excalidraw-plugin",
   "obsidian-icon-folder",
   "obsidian-minimal-settings",
   "css-snippets",
-  "editing-toolbar"
+  "editing-toolbar",
+  "obsidian-git"
 ]
