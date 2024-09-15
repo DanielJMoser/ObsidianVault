@@ -1,7 +1,7 @@
 
 ## Toolchain
 - [[_Toolchain]]
-- [[_Assembler]]
+- [[Assembler]]
 
 ## Elemente der Programmiersprache C
 - [[_Kontrollstrukturen]]

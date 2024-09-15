@@ -6,11 +6,11 @@
 
 ## Programmierung von parallelen und verteilten Systemen
 
-- Programmierung von parallelen und verteilten Systemen
+- [[Parallele vs. Verteilte Systeme#Programmierbarkeit|Programmierung von parallelen und verteilten Systemen]]
 
 ## Parallelisierung
 
-- Arten von Parallelismus
+- [[Arten von Parallelismus]]
 - Skalierbarkeit, Speedup und Efficiency
 - Amdahlsches und Gustafsons Gesetz
 
