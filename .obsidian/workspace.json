@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Machine Learning/Klausurvorbereitung/15_8.md",
+                "file": "IT/Machine Learning/2d/Principal Component Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Machine Learning/Klausurvorbereitung/15_8.md",
+                "file": "IT/Machine Learning/2d/Principal Component Analysis.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Machine Learning/Klausurvorbereitung/15_8.md",
+                "file": "IT/Machine Learning/2d/Principal Component Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Machine Learning/Klausurvorbereitung/15_8.md"
+                "file": "IT/Machine Learning/2d/Principal Component Analysis.md"
               }
             }
           },
@@ -195,8 +195,11 @@
   },
   "active": "f104ecf0d20d51d5",
   "lastOpenFiles": [
-    "IT/Machine Learning/Overfitting und Underfitting.md",
+    "IT/Machine Learning/2d/Kovarianz.md",
+    "IT/Machine Learning/Klausurvorbereitung/15_10.md",
+    "IT/Machine Learning/Klausurvorbereitung/15_9.md",
     "IT/Machine Learning/Klausurvorbereitung/15_8.md",
+    "IT/Machine Learning/Overfitting und Underfitting.md",
     "IT/Machine Learning/Klausurvorbereitung/15_7.md",
     "IT/Machine Learning/Klausurvorbereitung/15_6.md",
     "IT/Machine Learning/Klausurvorbereitung/15_5.md",
@@ -218,9 +221,6 @@
     "IT/Machine Learning/Convolutional Neural Network.md",
     "IT/Machine Learning/AI vs MS.md",
     "IT/Machine Learning/Klausurvorbereitung/15_2.md",
-    "IT/Machine Learning/Artificial Neural Networks/Forward Propagation.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Systemplanung.md",
-    "IT/Machine Learning/Klausurvorbereitung/_Inhaltsverzeichnung.md",
     "IT/IT Security/Practical Security",
     "IT/IT Security/Theoretical Security",
     "IT/IT Security/Theoretical Security/Basics",
