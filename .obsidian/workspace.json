@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Machine Learning/2d/Principal Component Analysis.md",
+                "file": "IT/Machine Learning/Klausurvorbereitung/15_4.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Machine Learning/2d/Principal Component Analysis.md",
+                "file": "IT/Machine Learning/Klausurvorbereitung/15_4.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Machine Learning/2d/Principal Component Analysis.md",
+                "file": "IT/Machine Learning/Klausurvorbereitung/15_4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Machine Learning/2d/Principal Component Analysis.md"
+                "file": "IT/Machine Learning/Klausurvorbereitung/15_4.md"
               }
             }
           },
@@ -195,6 +195,14 @@
   },
   "active": "f104ecf0d20d51d5",
   "lastOpenFiles": [
+    "IT/Machine Learning/Klausurvorbereitung/15_3.md",
+    "IT/Machine Learning/Klausurvorbereitung/15_2.md",
+    "IT/Machine Learning/Klausurvorbereitung/_Inhaltsverzeichnung.md",
+    "IT/Machine Learning/Learning/Support Vector Machines.md",
+    "IT/Machine Learning/Regression/(Unvariante) Lineare Regression.md",
+    "IT/Machine Learning/Learning/Unsupervised Learning.md",
+    "IT/Machine Learning/Artificial Neural Networks/Backpropagation.md",
+    "IT/Machine Learning/2d/Principal Component Analysis.md",
     "IT/Machine Learning/2d/Kovarianz.md",
     "IT/Machine Learning/Klausurvorbereitung/15_10.md",
     "IT/Machine Learning/Klausurvorbereitung/15_9.md",
@@ -206,21 +214,13 @@
     "IT/Machine Learning/Clustering/Cluster.md",
     "IT/Machine Learning/Clustering/K-Means.md",
     "IT/Machine Learning/Klausurvorbereitung/15_4.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_3.md",
     "IT/IT Security/Practical Security/Secure Design Patterns.md",
     "IT/Machine Learning/Learning/Supervised Learning.md",
     "IT/Machine Learning/Learning/Semi-Supervised Learning.md",
     "IT/Machine Learning/Learning/Reinforcement Learning.md",
     "IT/Machine Learning/Learning/Mean-squared Error.md",
-    "IT/Machine Learning/Artificial Neural Networks/Backpropagation.md",
     "IT/Machine Learning/Klausurvorbereitung/15_1.md",
     "IT/Daten/Datenbanken/Big Data/_Big Data.md",
-    "IT/Machine Learning/_Machine Learning.md",
-    "IT/Machine Learning/Learning/Support Vector Machines.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Smart Systems & Machine Learning.md",
-    "IT/Machine Learning/Convolutional Neural Network.md",
-    "IT/Machine Learning/AI vs MS.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_2.md",
     "IT/IT Security/Practical Security",
     "IT/IT Security/Theoretical Security",
     "IT/IT Security/Theoretical Security/Basics",

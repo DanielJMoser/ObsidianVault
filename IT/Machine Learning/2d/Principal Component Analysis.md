@@ -1,4 +1,4 @@
-	-> eine Methode der **multivariaten Datenanalyse**, die verwendet wird, um eine hohe Anzahl von Variablen in wenige **unkorrelierte Variablen**, die als Hauptkomponenten bezeichnet werden, zu reduzieren.
+-> eine Methode der **multivariaten Datenanalyse**, die verwendet wird, um eine hohe Anzahl von Variablen in wenige **unkorrelierte Variablen**, die als Hauptkomponenten bezeichnet werden, zu reduzieren.
 
 Das Ziel von PCA besteht darin, 
 
