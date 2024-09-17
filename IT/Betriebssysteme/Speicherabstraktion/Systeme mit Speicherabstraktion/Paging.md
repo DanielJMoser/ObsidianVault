@@ -1,9 +1,8 @@
-# Paging
 
 -> zum Einsatz kommende Technik bei [[Adressraum#Virtueller Speicher|Virtuellen Speichern]]
 
 Hierbei besteht der 
-* Virtuelle Adressraum aus **Einheiten fester Größe**, sogenannten **Seiten**, und dem
+* Virtuelle Adressraum aus **Einheiten fester Größe**, sogenannten **Seiten,** und dem
 * Physische Adressraum aus **Einheiten fester Größe**, sogenannten **Seitenrahmen**.
 * i.d.R. gleich groß!
 

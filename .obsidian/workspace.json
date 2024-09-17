@@ -32,12 +32,24 @@
             }
           },
           {
+            "id": "7038849f7c067d97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Paging.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f8a265f6d77c6345",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Betriebssysteme/Speicherabstraktion/Systeme ohne Speicherabstraktion/Relokationsproblem.md",
+                "file": "IT/Betriebssysteme/Speicherabstraktion/Systeme ohne Speicherabstraktion/Multitasking-Systeme (keine Speicherabstraktion).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "relokations",
+                "query": "seitentabelle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Betriebssysteme/Speicherabstraktion/Systeme ohne Speicherabstraktion/Relokationsproblem.md",
+                "file": "IT/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Paging.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -140,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Betriebssysteme/Speicherabstraktion/Systeme ohne Speicherabstraktion/Relokationsproblem.md",
+                "file": "IT/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Paging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Betriebssysteme/Speicherabstraktion/Systeme ohne Speicherabstraktion/Relokationsproblem.md"
+                "file": "IT/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Paging.md"
               }
             }
           },
@@ -194,9 +206,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f8a265f6d77c6345",
+  "active": "7038849f7c067d97",
   "lastOpenFiles": [
     "Diverses/Bachelorprüfung/Stichwortlisten/Betriebssysteme.md",
+    "IT/Machine Learning/Learning/Supervised Learning.md",
+    "IT/Betriebssysteme/Speicherabstraktion/Systeme ohne Speicherabstraktion/Multitasking-Systeme (keine Speicherabstraktion).md",
+    "IT/Betriebssysteme/Speicherabstraktion/Systeme ohne Speicherabstraktion/Relokationsproblem.md",
+    "IT/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Multitasking-Systeme (mit Speicherabstraktion).md",
     "Diverses/Bachelorprüfung/Stichwortlisten/Architektur von Informationssystemen.md",
     "Diverses/Bachelorprüfung/Stichwortlisten/Allgemeine Betriebswirtschaftslehre.md",
     "IT/IT Security/OSINT/Metadaten.md",
@@ -219,10 +235,6 @@
     "IT/Machine Learning/Klausurvorbereitung/15_5.md",
     "IT/Machine Learning/Klausurvorbereitung/15_4.md",
     "IT/Machine Learning/Klausurvorbereitung/15_3.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_1.md",
-    "IT/Machine Learning/Regression/(Unvariante) Lineare Regression.md",
-    "IT/Machine Learning/Regression/Polynomiale Regression.md",
-    "IT/Machine Learning/Regression/Logistische Regression.md",
     "IT/IT Security/Practical Security",
     "IT/IT Security/Theoretical Security",
     "IT/IT Security/Theoretical Security/Basics",

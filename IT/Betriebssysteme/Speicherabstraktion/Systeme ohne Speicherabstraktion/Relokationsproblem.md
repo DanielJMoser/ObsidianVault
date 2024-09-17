@@ -1,13 +1,13 @@
 ## Relokationsproblem
 
--> ***Bei Multitasking-Systemen***
+-> ***Bei Multitasking-Systemen*** ([[Multitasking-Systeme (mit Speicherabstraktion)|mit Speicherabstraktion]] und [[Multitasking-Systeme (keine Speicherabstraktion)|ohne Speicherabstraktion]])
 
 Mehr als ein Programm im Speicher -> Problematisch!
 
-* Programme müssen an **mehr als einer** Stelle in den Speicher geladen werden.
-* Sprungadresse stimmt u.U. nicht mehr.
-* Globale Variablen ev. an falscher Stelle.
-* z.B. springt "jmp 28" nun an die falsche Stelle.
+- Programme müssen an **mehr als einer** Stelle in den Speicher geladen werden.
+- Sprungadresse stimmt u.U. nicht mehr.
+- Globale Variablen ev. an falscher Stelle.
+- z.B. springt "jmp 28" nun an die falsche Stelle.
 
 Zum Zeitpunkt des **Kompilierens** bzw. des **Linkens** ist nicht bekannt, an welcher Stelle das Programm geladen wird.
 
