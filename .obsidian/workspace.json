@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "f104ecf0d20d51d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Machine Learning/Klausurvorbereitung/15_4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "265f02c9c3928aae",
             "type": "leaf",
             "state": {
@@ -56,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Machine Learning/Klausurvorbereitung/15_4.md",
+                "file": "IT/Machine Learning/Klausurvorbereitung/15_6.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Machine Learning/Klausurvorbereitung/15_4.md",
+                "file": "IT/Machine Learning/Klausurvorbereitung/15_6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Machine Learning/Klausurvorbereitung/15_4.md"
+                "file": "IT/Machine Learning/Klausurvorbereitung/15_6.md"
               }
             }
           },
@@ -193,13 +181,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f104ecf0d20d51d5",
+  "active": "c98449dfdb9aff69",
   "lastOpenFiles": [
+    "IT/Machine Learning/Klausurvorbereitung/15_5.md",
+    "IT/Machine Learning/Klausurvorbereitung/15_4.md",
     "IT/Machine Learning/Klausurvorbereitung/15_3.md",
+    "IT/Machine Learning/Klausurvorbereitung/15_1.md",
+    "IT/Machine Learning/Regression/(Unvariante) Lineare Regression.md",
+    "IT/Machine Learning/Regression/Polynomiale Regression.md",
+    "IT/Machine Learning/Regression/Logistische Regression.md",
+    "IT/Machine Learning/Klausurvorbereitung/15_6.md",
     "IT/Machine Learning/Klausurvorbereitung/15_2.md",
     "IT/Machine Learning/Klausurvorbereitung/_Inhaltsverzeichnung.md",
     "IT/Machine Learning/Learning/Support Vector Machines.md",
-    "IT/Machine Learning/Regression/(Unvariante) Lineare Regression.md",
     "IT/Machine Learning/Learning/Unsupervised Learning.md",
     "IT/Machine Learning/Artificial Neural Networks/Backpropagation.md",
     "IT/Machine Learning/2d/Principal Component Analysis.md",
@@ -209,18 +203,12 @@
     "IT/Machine Learning/Klausurvorbereitung/15_8.md",
     "IT/Machine Learning/Overfitting und Underfitting.md",
     "IT/Machine Learning/Klausurvorbereitung/15_7.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_6.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_5.md",
     "IT/Machine Learning/Clustering/Cluster.md",
     "IT/Machine Learning/Clustering/K-Means.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_4.md",
     "IT/IT Security/Practical Security/Secure Design Patterns.md",
     "IT/Machine Learning/Learning/Supervised Learning.md",
     "IT/Machine Learning/Learning/Semi-Supervised Learning.md",
     "IT/Machine Learning/Learning/Reinforcement Learning.md",
-    "IT/Machine Learning/Learning/Mean-squared Error.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_1.md",
-    "IT/Daten/Datenbanken/Big Data/_Big Data.md",
     "IT/IT Security/Practical Security",
     "IT/IT Security/Theoretical Security",
     "IT/IT Security/Theoretical Security/Basics",
