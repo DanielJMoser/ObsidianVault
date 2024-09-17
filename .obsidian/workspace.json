@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Machine Learning/Klausurvorbereitung/15_6.md",
+                "file": "IT/IT Security/Theoretical Security/Kryptografie/Asymmetrische Verschlüsselung.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Machine Learning/Klausurvorbereitung/15_6.md",
+                "file": "IT/IT Security/Theoretical Security/Kryptografie/Asymmetrische Verschlüsselung.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Machine Learning/Klausurvorbereitung/15_6.md",
+                "file": "IT/IT Security/Theoretical Security/Kryptografie/Asymmetrische Verschlüsselung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Machine Learning/Klausurvorbereitung/15_6.md"
+                "file": "IT/IT Security/Theoretical Security/Kryptografie/Asymmetrische Verschlüsselung.md"
               }
             }
           },
@@ -183,6 +183,14 @@
   },
   "active": "c98449dfdb9aff69",
   "lastOpenFiles": [
+    "IT/IT Security/Practical Security/Abwehrstrategien/Kerberos.md",
+    "IT/IT Security/Practical Security/Abwehrstrategien",
+    "IT/IT Security/Practical Security/Angriffsstrategien/SQL-Injections.md",
+    "IT/IT Security/Practical Security/Abwehrstrategien/Secure Design Patterns.md",
+    "IT/IT Security/Practical Security/Penetration Testing/_Penetration Testing.md",
+    "IT/IT Security/Practical Security/Angriffsstrategien/Cross-Site Scripting XSS.md",
+    "IT/Machine Learning/Klausurvorbereitung/15_7.md",
+    "IT/Machine Learning/Klausurvorbereitung/15_6.md",
     "IT/Machine Learning/Klausurvorbereitung/15_5.md",
     "IT/Machine Learning/Klausurvorbereitung/15_4.md",
     "IT/Machine Learning/Klausurvorbereitung/15_3.md",
@@ -190,7 +198,6 @@
     "IT/Machine Learning/Regression/(Unvariante) Lineare Regression.md",
     "IT/Machine Learning/Regression/Polynomiale Regression.md",
     "IT/Machine Learning/Regression/Logistische Regression.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_6.md",
     "IT/Machine Learning/Klausurvorbereitung/15_2.md",
     "IT/Machine Learning/Klausurvorbereitung/_Inhaltsverzeichnung.md",
     "IT/Machine Learning/Learning/Support Vector Machines.md",
@@ -202,13 +209,6 @@
     "IT/Machine Learning/Klausurvorbereitung/15_9.md",
     "IT/Machine Learning/Klausurvorbereitung/15_8.md",
     "IT/Machine Learning/Overfitting und Underfitting.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_7.md",
-    "IT/Machine Learning/Clustering/Cluster.md",
-    "IT/Machine Learning/Clustering/K-Means.md",
-    "IT/IT Security/Practical Security/Secure Design Patterns.md",
-    "IT/Machine Learning/Learning/Supervised Learning.md",
-    "IT/Machine Learning/Learning/Semi-Supervised Learning.md",
-    "IT/Machine Learning/Learning/Reinforcement Learning.md",
     "IT/IT Security/Practical Security",
     "IT/IT Security/Theoretical Security",
     "IT/IT Security/Theoretical Security/Basics",
@@ -219,7 +219,6 @@
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "IT/Systeme/Architektur von Informationssystemen/zzDrawings/zZDrawing_Flynn_SISD.png",
-    "IT/Systeme/Architektur von Informationssystemen/zzDrawings",
-    "IT/Systeme/Architektur von Informationssystemen"
+    "IT/Systeme/Architektur von Informationssystemen/zzDrawings"
   ]
 }
