@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/IT Security/Theoretical Security/Kryptografie/Asymmetrische Verschlüsselung.md",
+                "file": "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Verschlüsselung.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/IT Security/Theoretical Security/Kryptografie/Asymmetrische Verschlüsselung.md",
+                "file": "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Verschlüsselung.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/IT Security/Theoretical Security/Kryptografie/Asymmetrische Verschlüsselung.md",
+                "file": "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Verschlüsselung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/IT Security/Theoretical Security/Kryptografie/Asymmetrische Verschlüsselung.md"
+                "file": "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Verschlüsselung.md"
               }
             }
           },
@@ -183,6 +183,10 @@
   },
   "active": "c98449dfdb9aff69",
   "lastOpenFiles": [
+    "IT/IT Security/Theoretical Security/Kryptografie/_Kryptografie.md",
+    "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Verschlüsselung.md",
+    "IT/IT Security/Theoretical Security/Kryptografie/Digitale Signaturen.md",
+    "IT/IT Security/Theoretical Security/Kryptografie/Asymmetrische Verschlüsselung.md",
     "IT/IT Security/Practical Security/Abwehrstrategien/Kerberos.md",
     "IT/IT Security/Practical Security/Abwehrstrategien",
     "IT/IT Security/Practical Security/Angriffsstrategien/SQL-Injections.md",
@@ -206,9 +210,6 @@
     "IT/Machine Learning/2d/Principal Component Analysis.md",
     "IT/Machine Learning/2d/Kovarianz.md",
     "IT/Machine Learning/Klausurvorbereitung/15_10.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_9.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_8.md",
-    "IT/Machine Learning/Overfitting und Underfitting.md",
     "IT/IT Security/Practical Security",
     "IT/IT Security/Theoretical Security",
     "IT/IT Security/Theoretical Security/Basics",

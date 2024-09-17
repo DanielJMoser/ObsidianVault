@@ -4,7 +4,7 @@ Eine **digitale Signatur** ist ein kryptographisches Verfahren, das die **Authen
 
 ## Funktionsweise
 
-Digitale Signaturen basieren auf **asymmetrischer Verschlüsselung** und verwenden ein Schlüsselpaar aus **privatem** und **öffentlichem Schlüssel**:
+Digitale Signaturen basieren auf **[[Asymmetrische Verschlüsselung|asymmetrischer Verschlüsselung]]** und verwenden ein Schlüsselpaar aus **privatem** und **öffentlichem Schlüssel**:
 
 1. **Erstellung der Signatur:**
    - Der Sender erstellt einen **Hashwert** (eine Prüfsumme) der Nachricht mittels einer **Hash-Funktion**.
