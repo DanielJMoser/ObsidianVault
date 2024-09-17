@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Verschlüsselung.md",
+                "file": "Diverses/Bachelorprüfung/Stichwortlisten/Betriebssysteme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8a265f6d77c6345",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Betriebssysteme/Speicherabstraktion/Systeme ohne Speicherabstraktion/Relokationsproblem.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -73,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "relokations",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Verschlüsselung.md",
+                "file": "IT/Betriebssysteme/Speicherabstraktion/Systeme ohne Speicherabstraktion/Relokationsproblem.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Verschlüsselung.md",
+                "file": "IT/Betriebssysteme/Speicherabstraktion/Systeme ohne Speicherabstraktion/Relokationsproblem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Verschlüsselung.md"
+                "file": "IT/Betriebssysteme/Speicherabstraktion/Systeme ohne Speicherabstraktion/Relokationsproblem.md"
               }
             }
           },
@@ -181,10 +194,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c98449dfdb9aff69",
+  "active": "f8a265f6d77c6345",
   "lastOpenFiles": [
-    "IT/IT Security/Theoretical Security/Kryptografie/_Kryptografie.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Betriebssysteme.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Architektur von Informationssystemen.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Allgemeine Betriebswirtschaftslehre.md",
+    "IT/IT Security/OSINT/Metadaten.md",
+    "IT/Daten/Datenbanken/Relational Databases/Systemarchitektur/Data Dictionary.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Algorithmen und Datenstrukturen.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Verteilte Systeme.md",
+    "IT/IT Security/Privacy.md",
     "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Verschlüsselung.md",
+    "IT/IT Security/Theoretical Security/Kryptografie/_Kryptografie.md",
     "IT/IT Security/Theoretical Security/Kryptografie/Digitale Signaturen.md",
     "IT/IT Security/Theoretical Security/Kryptografie/Asymmetrische Verschlüsselung.md",
     "IT/IT Security/Practical Security/Abwehrstrategien/Kerberos.md",
@@ -202,14 +223,6 @@
     "IT/Machine Learning/Regression/(Unvariante) Lineare Regression.md",
     "IT/Machine Learning/Regression/Polynomiale Regression.md",
     "IT/Machine Learning/Regression/Logistische Regression.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_2.md",
-    "IT/Machine Learning/Klausurvorbereitung/_Inhaltsverzeichnung.md",
-    "IT/Machine Learning/Learning/Support Vector Machines.md",
-    "IT/Machine Learning/Learning/Unsupervised Learning.md",
-    "IT/Machine Learning/Artificial Neural Networks/Backpropagation.md",
-    "IT/Machine Learning/2d/Principal Component Analysis.md",
-    "IT/Machine Learning/2d/Kovarianz.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_10.md",
     "IT/IT Security/Practical Security",
     "IT/IT Security/Theoretical Security",
     "IT/IT Security/Theoretical Security/Basics",

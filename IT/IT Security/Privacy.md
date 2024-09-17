@@ -21,11 +21,11 @@ Durch den Schutz sensibler Daten wie Gesundheitsinformationen oder ethnischer He
 
 #### Vertrauen in digitale Dienste
 
-Die Gewährleistung von Privatheit stärkt das **Vertrauen** der Nutzer in digitale Dienste und Technologien. Ohne dieses Vertrauen würden viele Menschen zögern, Online-Dienste zu nutzen oder persönliche Informationen preiszugeben.
+Die Gewährleistung von Privatheit stärkt das **Vertrauen** der Nutzer in digitale Dienste und Technologien. Ohne dieses Vertrauen würden viele Menschen zögern, Online-Dienste zu nutzen oder persönliche Informationen preiszugeben (theoretisch).
 
 #### Einhaltung gesetzlicher Vorschriften
 
-Gesetze wie die **Datenschutz-Grundverordnung (DSGVO)** in der EU setzen hohe Standards für den Schutz personenbezogener Daten. Organisationen müssen die Privatheit respektieren, um **Compliance** sicherzustellen und rechtliche Konsequenzen zu vermeiden.
+Gesetze wie die **Datenschutz-Grundverordnung (DSGVO)** in der EU setzen reeelativ hohe Standards für den Schutz personenbezogener Daten. Organisationen müssen die so definierte Privatheit respektieren, um **Compliance** sicherzustellen und rechtliche Konsequenzen zu vermeiden.
 
 ## Herausforderungen in der modernen Welt
 
