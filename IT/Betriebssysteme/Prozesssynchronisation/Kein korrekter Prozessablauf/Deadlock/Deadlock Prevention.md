@@ -1,4 +1,3 @@
-# Deadlock Prevention
 #prozesssynchronisation
 #deadlock 
 

@@ -18,6 +18,6 @@ Speichersparende Technik! Wenig Overhead zu Beginn, welcher dann mit jedem Aufru
 
 ## Prepaging
 
--> Seiten werden bereits eingehängt, **bevor sie benötigt** weden.
+-> Seiten werden bereits eingehängt, **bevor sie benötigt** werden.
 Neigt zur Speicherverschwendung! Viel Overhead zu Beginn, danach aber kaum.
 

@@ -25,7 +25,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diverses/Bachelorprüfung/Stichwortlisten/Betriebssysteme.md",
+                "file": "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Deadlock/Deadlock Prevention.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c07ddcd7e5aef6e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Deadlock/Deadlock Avoidance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e298c74d23dda79b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Deadlock/Sichere Zustände.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b88888cdbe13d58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Livelock.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Paging.md",
+                "file": "Diverses/Bachelorprüfung/Stichwortlisten/Betriebssysteme.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +103,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +132,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "seitentabelle",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,8 +149,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Paging.md",
+                "file": "IT/Machine Learning/Convolutional Neural Network.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -152,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Paging.md",
+                "file": "IT/Machine Learning/Convolutional Neural Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Paging.md"
+                "file": "IT/Machine Learning/Convolutional Neural Network.md"
               }
             }
           },
@@ -188,7 +222,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -206,9 +240,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7038849f7c067d97",
+  "active": "e2efdd5bb5e1cae5",
   "lastOpenFiles": [
+    "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Deadlock/Sichere Zustände.md",
+    "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Deadlock/Deadlock Avoidance.md",
+    "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Deadlock/Deadlock Prevention.md",
+    "IT/Machine Learning/Convolutional Neural Network.md",
+    "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Deadlock/_Deadlock.md",
+    "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Livelock.md",
     "Diverses/Bachelorprüfung/Stichwortlisten/Betriebssysteme.md",
+    "IT/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Paging.md",
     "IT/Machine Learning/Learning/Supervised Learning.md",
     "IT/Betriebssysteme/Speicherabstraktion/Systeme ohne Speicherabstraktion/Multitasking-Systeme (keine Speicherabstraktion).md",
     "IT/Betriebssysteme/Speicherabstraktion/Systeme ohne Speicherabstraktion/Relokationsproblem.md",
@@ -228,13 +269,6 @@
     "IT/IT Security/Practical Security/Abwehrstrategien",
     "IT/IT Security/Practical Security/Angriffsstrategien/SQL-Injections.md",
     "IT/IT Security/Practical Security/Abwehrstrategien/Secure Design Patterns.md",
-    "IT/IT Security/Practical Security/Penetration Testing/_Penetration Testing.md",
-    "IT/IT Security/Practical Security/Angriffsstrategien/Cross-Site Scripting XSS.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_7.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_6.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_5.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_4.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_3.md",
     "IT/IT Security/Practical Security",
     "IT/IT Security/Theoretical Security",
     "IT/IT Security/Theoretical Security/Basics",
