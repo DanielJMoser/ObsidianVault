@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3534e3938ffdb7ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Machine Learning/Convolutional Neural Network.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c98449dfdb9aff69",
             "type": "leaf",
             "state": {
@@ -80,6 +68,42 @@
             }
           },
           {
+            "id": "1907cc66aa8e17e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Starvations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ad6decfc33a96c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Starvations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cdfb2e218fb7ea65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Betriebssysteme/Prozesssynchronisation/Synchronisationsprimitiven/_Synchronisationsprimitiven.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f8a265f6d77c6345",
             "type": "leaf",
             "state": {
@@ -103,7 +127,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -169,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Machine Learning/Convolutional Neural Network.md",
+                "file": "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Starvations.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -186,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Machine Learning/Convolutional Neural Network.md",
+                "file": "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Starvations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Machine Learning/Convolutional Neural Network.md"
+                "file": "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Starvations.md"
               }
             }
           },
@@ -240,15 +265,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e2efdd5bb5e1cae5",
+  "active": "8ad6decfc33a96c0",
   "lastOpenFiles": [
+    "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Dining Philosophers Problem.md",
+    "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Starvations.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Betriebssysteme.md",
+    "IT/Betriebssysteme/Prozesssynchronisation/Synchronisationsprimitiven/_Synchronisationsprimitiven.md",
     "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Deadlock/Sichere Zustände.md",
+    "IT/Machine Learning/Convolutional Neural Network.md",
     "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Deadlock/Deadlock Avoidance.md",
     "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Deadlock/Deadlock Prevention.md",
-    "IT/Machine Learning/Convolutional Neural Network.md",
     "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Deadlock/_Deadlock.md",
     "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Livelock.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Betriebssysteme.md",
     "IT/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Paging.md",
     "IT/Machine Learning/Learning/Supervised Learning.md",
     "IT/Betriebssysteme/Speicherabstraktion/Systeme ohne Speicherabstraktion/Multitasking-Systeme (keine Speicherabstraktion).md",
@@ -265,10 +293,7 @@
     "IT/IT Security/Theoretical Security/Kryptografie/_Kryptografie.md",
     "IT/IT Security/Theoretical Security/Kryptografie/Digitale Signaturen.md",
     "IT/IT Security/Theoretical Security/Kryptografie/Asymmetrische Verschlüsselung.md",
-    "IT/IT Security/Practical Security/Abwehrstrategien/Kerberos.md",
     "IT/IT Security/Practical Security/Abwehrstrategien",
-    "IT/IT Security/Practical Security/Angriffsstrategien/SQL-Injections.md",
-    "IT/IT Security/Practical Security/Abwehrstrategien/Secure Design Patterns.md",
     "IT/IT Security/Practical Security",
     "IT/IT Security/Theoretical Security",
     "IT/IT Security/Theoretical Security/Basics",

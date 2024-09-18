@@ -1,8 +1,6 @@
-# Starvations
 #prozesssynchronisation 
 
 -> die **Ressourcenaforderung kann nie vollständig erfüllt**, also auch die Aufgabe nicht positiv abgeschlossen werden.
-
 
 So führt jeder [[_Deadlock|Deadlock]] sowie jeder [[Livelock]] zur Starvation der beteiligten Prozesse.
 
@@ -26,7 +24,6 @@ ein und tauscht den Befehl gegen folgendes Kommando aus:
 
 Die Philosophen warten für einen **zufälligen Zeitraum** also wahrscheinlich **unterschiedlich lang**! So ist sichergestellt, dass nicht alle Philosophen gleichzeitig essen wollen -> sonst: [[Livelock]]!
 Ein Deadlock ist nicht mehr möglich, da das [[_Deadlock#Hold and Wait|Hold and Wait]]-Kriterium nicht erfüllt ist.
-
 
 ### Pechvogel: Eine Problematik
 
