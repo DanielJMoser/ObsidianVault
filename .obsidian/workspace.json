@@ -4,132 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "3755bb11c594de41",
+        "id": "42637184de7f73e5",
         "type": "tabs",
         "children": [
           {
-            "id": "c98449dfdb9aff69",
+            "id": "9c728344c2fd70af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Deadlock/Deadlock Prevention.md",
+                "file": "IT/Daten/Algorithmen-Datenstrukturen/Teile-und-Herrsche-Prinzip.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5c2aceea4241eb7c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "c07ddcd7e5aef6e8",
+            "id": "bb203ada033cbf19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Deadlock/Deadlock Avoidance.md",
+                "file": "Diverses/Bachelorprüfung/Stichwortlisten/Software Engineering 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e298c74d23dda79b",
+            "id": "04bef68e69599c65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Deadlock/Sichere Zustände.md",
+                "file": "IT/Systeme/ERP-Systeme/Marktführer und -entwicklungen.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6b88888cdbe13d58",
+            "id": "4790b2d08edebbd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Livelock.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7038849f7c067d97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Systeme/Architektur von Informationssystemen/Flynn'sche Taxonomie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1907cc66aa8e17e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Starvations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ad6decfc33a96c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Starvations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cdfb2e218fb7ea65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Betriebssysteme/Prozesssynchronisation/Synchronisationsprimitiven/_Synchronisationsprimitiven.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8a265f6d77c6345",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Betriebssysteme/Speicherabstraktion/Systeme ohne Speicherabstraktion/Multitasking-Systeme (keine Speicherabstraktion).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "265f02c9c3928aae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Machine Learning/Learning/Supervised Learning.md",
+                "file": "IT/Systeme/ERP-Systeme/_Enterprise Software.md",
                 "mode": "source",
                 "source": false
               }
@@ -165,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "schutzzi",
+                "query": "paralel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -202,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Diverses/Bachelorprüfung/Stichwortlisten/Software Engineering 1.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -218,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Diverses/Bachelorprüfung/Stichwortlisten/Software Engineering 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Diverses/Bachelorprüfung/Stichwortlisten/Software Engineering 1.md"
+              }
             }
           },
           {
@@ -269,34 +193,73 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7e01e55ccdb800fe",
+  "floating": {
+    "id": "7f7c544a5e2347a6",
+    "type": "floating",
+    "children": [
+      {
+        "id": "8d7ac69124c979f9",
+        "type": "window",
+        "children": [
+          {
+            "id": "51b4b89b3abf1a66",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2362211aaa594071",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Diverses/Bachelorprüfung/Stichwortlisten/Business Solutions.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 35,
+        "y": 108,
+        "width": 1233,
+        "height": 1296,
+        "maximize": false,
+        "zoom": 2.5
+      }
+    ]
+  },
+  "active": "bb203ada033cbf19",
   "lastOpenFiles": [
-    "IT/IT Security/Theoretical Security/Basics/Schutzziele.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/IT-Sicherheit.md",
-    "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Deadlock/Deadlock Prevention.md",
-    "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Starvations.md",
-    "IT/Systeme/Architektur von Informationssystemen/Flynn'sche Taxonomie.md",
-    "IT/Systeme/Architektur von Informationssystemen/Arten von Parallelismus.md",
-    "IT/Systeme/Aufbau von Computersystemen/CPU.md",
-    "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Livelock.md",
-    "IT/Daten/Übertragung/Controller-Target-Prinzip.md",
-    "IT/Daten/Übertragung/Kommunikationsnetzwerke/Komm. bei Embedded Systems/I²C.md",
-    "IT/Daten/Übertragung/Kommunikationsnetzwerke/Komm. bei Embedded Systems/Bus-Systeme.md",
-    "IT/Systeme/Embedded Systems/Eingebettete Software/Aufbau ES.md",
-    "IT/Systeme/Embedded Systems/Eingebettete Software/_Eingebettete Software.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Betriebssysteme.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_6.md",
-    "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Deadlock/Deadlock Avoidance.md",
-    "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Deadlock/Sichere Zustände.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_7.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Datennetze.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Datenbanken 2 & Big Data.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Datenbanken 1.md",
     "Diverses/Bachelorprüfung/Stichwortlisten/Business Solutions.md",
-    "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Dining Philosophers Problem.md",
-    "IT/Betriebssysteme/Prozesssynchronisation/Synchronisationsprimitiven/_Synchronisationsprimitiven.md",
-    "IT/Machine Learning/Convolutional Neural Network.md",
-    "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Deadlock/_Deadlock.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Software Engineering 1.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Software Engineering 2.md",
+    "IT/Systeme/Architektur von Informationssystemen/Parallele vs. Verteilte Systeme.md",
+    "IT/Daten/Algorithmen-Datenstrukturen/Teile-und-Herrsche-Prinzip.md",
+    "IT/Daten/Übertragung/Kommunikationsnetzwerke/_Kommunikationsnetzwerke.md",
+    "IT/Systeme/ERP-Systeme/_Enterprise Software.md",
+    "IT/Daten/Algorithmen-Datenstrukturen/Laufzeitkomplexität.md",
+    "IT/Daten/Algorithmen-Datenstrukturen/Teile-und-Herrsche.md",
+    "IT/Daten/Algorithmen-Datenstrukturen/_Algorithmus.md",
+    "IT/Daten/Algorithmen-Datenstrukturen/Sortieralgorithmen/_Wichtige Sortieralgorithmen.md",
+    "IT/Daten/Algorithmen-Datenstrukturen/Sortieralgorithmen/1_Insertion Sort.md",
+    "IT/Systeme/ERP-Systeme/Technische Grundlagen/_Technische Grundlagen.md",
+    "IT/Systeme/ERP-Systeme/Technische Grundlagen/Zweigleisigkeit.md",
+    "IT/Systeme/ERP-Systeme/Technische Grundlagen",
+    "IT/Systeme/ERP-Systeme/Marktführer und -entwicklungen.md",
+    "IT/Systeme/ERP-Systeme/Modularität/Module.md",
+    "IT/Systeme/ERP-Systeme/Modularität/_Modularitätskonzept.md",
+    "IT/Systeme/ERP-Systeme/Modularität",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Datenbanken 1.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Datenbanken 2 & Big Data.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Datennetze.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Digital Business.md",
+    "IT/Systeme/ERP-Systeme/Wertschöpfungskette nach Porter.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Allgemeine Betriebswirtschaftslehre.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Betriebssysteme.md",
+    "IT/Machine Learning/Learning/Supervised Learning.md",
+    "IT/Betriebssysteme/Speicherabstraktion/Systeme ohne Speicherabstraktion/Multitasking-Systeme (keine Speicherabstraktion).md",
     "IT/IT Security/Practical Security/Abwehrstrategien",
     "IT/IT Security/Practical Security",
     "IT/IT Security/Theoretical Security",
@@ -306,8 +269,6 @@
     "IT/Daten/Datenbanken/Basics",
     "Excalidraw/Scripts/Downloaded/Concatenate lines.svg",
     "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
-    "IT/Systeme/Architektur von Informationssystemen/zzDrawings/zZDrawing_Flynn_SISD.png",
-    "IT/Systeme/Architektur von Informationssystemen/zzDrawings"
+    "IT/Systeme/Architektur von Informationssystemen/zzDrawings/zZDrawing_Flynn_SISD.png"
   ]
 }

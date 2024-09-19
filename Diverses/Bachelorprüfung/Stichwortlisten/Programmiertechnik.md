@@ -1,7 +1,7 @@
 ## Der Weg vom Problem zum fertigen Programm
 
 - Problembeschreibung
-- [[Algorithmus]]
+- [[_Algorithmus]]
 
 ## Strukturierte Programmierung
 

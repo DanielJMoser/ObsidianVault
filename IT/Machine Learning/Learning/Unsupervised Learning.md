@@ -17,7 +17,7 @@ Finde die **Verteilung der Inputs** innerhalb eines Raumes.
 
 ### Dimensionality reduction
 
-Inputs sollten **vereinfacht** werden, indem sie in eine **niedere Dimension** gemappt werden Ein Beispiel für einen zu diesem Zwecke eingesetzten [[Algorithmus]] ist [[K-Means]].
+Inputs sollten **vereinfacht** werden, indem sie in eine **niedere Dimension** gemappt werden Ein Beispiel für einen zu diesem Zwecke eingesetzten [[_Algorithmus]] ist [[K-Means]].
 
 ## Beispiele
 - [[Cluster|Clustering]]

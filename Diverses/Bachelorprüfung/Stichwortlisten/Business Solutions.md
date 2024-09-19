@@ -1,20 +1,22 @@
 ## ERP: Definitionen und deren Bedeutung
 
 - ERP: Definitionen und deren Bedeutung
+  - [[_Enterprise Software]]
+  - [[Marktführer und -entwicklungen#Definition|Alternative Definition]]
 
 ## Eingliederung ERP in Unternehmen
 
-- Wertschöpfungskette nach Porter
-- Modularisierungskonzept von ERP-Systemen
-- die wichtigsten Module im Überblick
+- [[Wertschöpfungskette nach Porter]]
+- [[_Modularitätskonzept|Modularisierungskonzept]]
+- [[Module|die wichtigsten Module im Überblick]]
 
 ## Marktübersicht ERP-Systeme und Trends in der Branche
 
-- Marktübersicht ERP-Systeme und Trends in der Branche
+- [[Marktführer und -entwicklungen|Marktübersicht ERP-Systeme und Trends in der Branche]]
 
 ## Zweigleisigkeit von ERP und technische Grundlagen
 
-- Zweigleisigkeit von ERP und technische Grundlagen
+- [[Zweigleisigkeit]] von ERP und [[_Technische Grundlagen|Technische Grundlagen]]
 
 ## ERP-Architektur
 
@@ -22,7 +24,7 @@
 
 ## Standardsoftware vs. Customization
 
-- Standardsoftware vs. Customization
+- [[_Enterprise Software#Warum Standardsoftware?|Standardsoftware vs. Customsoftware]] 
 
 ## Software bzw. IT-Asset Lifecycle
 
