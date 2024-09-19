@@ -19,7 +19,7 @@ Sie dienen als Leitlinien für die Implementierung von Sicherheitsmaßnahmen und
 
 3. **Verfügbarkeit (Availability):**
    - Sicherstellung, dass Informationen und Systeme für autorisierte Nutzer bei Bedarf **zugänglich** sind.
-   - Schutz vor Ausfällen, Unterbrechungen und Angriffen wie DoS (Denial of Service).
+   - Schutz vor Ausfällen, Unterbrechungen und Angriffen wie DoS (Denial of Service)
    - Maßnahmen: **Redundanz**, **Backup-Systeme**, **Notfallpläne**.
 
 ## Erweiterte Schutzziele

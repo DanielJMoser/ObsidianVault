@@ -5,7 +5,7 @@
 ## Geschichte
 
 2017 veröffentlichtes Nachfolgeprotokoll: **I³C!**
-Dieses verfügt über höhere Übertragungsgeschwindigkeit und begrenzter Abwärtskompatibilität zu I²Ĉ.
+Dieses verfügt über höhere Übertragungsgeschwindigkeit und begrenzter Abwärtskompatibilität zu [[I²C]].
 
 
 ## Funktionsweise

@@ -20,6 +20,14 @@
             }
           },
           {
+            "id": "5c2aceea4241eb7c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "c07ddcd7e5aef6e8",
             "type": "leaf",
             "state": {
@@ -61,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diverses/Bachelorprüfung/Stichwortlisten/Betriebssysteme.md",
+                "file": "IT/Systeme/Architektur von Informationssystemen/Flynn'sche Taxonomie.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,7 +165,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "schutzzi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,7 +202,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Starvations.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -211,7 +218,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Starvations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,9 +239,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Starvations.md"
-              }
+              "state": {}
             }
           },
           {
@@ -247,7 +251,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -265,34 +269,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8ad6decfc33a96c0",
+  "active": "7e01e55ccdb800fe",
   "lastOpenFiles": [
-    "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Dining Philosophers Problem.md",
-    "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Starvations.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Betriebssysteme.md",
-    "IT/Betriebssysteme/Prozesssynchronisation/Synchronisationsprimitiven/_Synchronisationsprimitiven.md",
-    "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Deadlock/Sichere Zustände.md",
-    "IT/Machine Learning/Convolutional Neural Network.md",
-    "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Deadlock/Deadlock Avoidance.md",
+    "IT/IT Security/Theoretical Security/Basics/Schutzziele.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/IT-Sicherheit.md",
     "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Deadlock/Deadlock Prevention.md",
-    "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Deadlock/_Deadlock.md",
+    "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Starvations.md",
+    "IT/Systeme/Architektur von Informationssystemen/Flynn'sche Taxonomie.md",
+    "IT/Systeme/Architektur von Informationssystemen/Arten von Parallelismus.md",
+    "IT/Systeme/Aufbau von Computersystemen/CPU.md",
     "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Livelock.md",
-    "IT/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Paging.md",
-    "IT/Machine Learning/Learning/Supervised Learning.md",
-    "IT/Betriebssysteme/Speicherabstraktion/Systeme ohne Speicherabstraktion/Multitasking-Systeme (keine Speicherabstraktion).md",
-    "IT/Betriebssysteme/Speicherabstraktion/Systeme ohne Speicherabstraktion/Relokationsproblem.md",
-    "IT/Betriebssysteme/Speicherabstraktion/Systeme mit Speicherabstraktion/Multitasking-Systeme (mit Speicherabstraktion).md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Architektur von Informationssystemen.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Allgemeine Betriebswirtschaftslehre.md",
-    "IT/IT Security/OSINT/Metadaten.md",
-    "IT/Daten/Datenbanken/Relational Databases/Systemarchitektur/Data Dictionary.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Algorithmen und Datenstrukturen.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Verteilte Systeme.md",
-    "IT/IT Security/Privacy.md",
-    "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Verschlüsselung.md",
-    "IT/IT Security/Theoretical Security/Kryptografie/_Kryptografie.md",
-    "IT/IT Security/Theoretical Security/Kryptografie/Digitale Signaturen.md",
-    "IT/IT Security/Theoretical Security/Kryptografie/Asymmetrische Verschlüsselung.md",
+    "IT/Daten/Übertragung/Controller-Target-Prinzip.md",
+    "IT/Daten/Übertragung/Kommunikationsnetzwerke/Komm. bei Embedded Systems/I²C.md",
+    "IT/Daten/Übertragung/Kommunikationsnetzwerke/Komm. bei Embedded Systems/Bus-Systeme.md",
+    "IT/Systeme/Embedded Systems/Eingebettete Software/Aufbau ES.md",
+    "IT/Systeme/Embedded Systems/Eingebettete Software/_Eingebettete Software.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Betriebssysteme.md",
+    "IT/Machine Learning/Klausurvorbereitung/15_6.md",
+    "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Deadlock/Deadlock Avoidance.md",
+    "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Deadlock/Sichere Zustände.md",
+    "IT/Machine Learning/Klausurvorbereitung/15_7.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Datennetze.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Datenbanken 2 & Big Data.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Datenbanken 1.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Business Solutions.md",
+    "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Dining Philosophers Problem.md",
+    "IT/Betriebssysteme/Prozesssynchronisation/Synchronisationsprimitiven/_Synchronisationsprimitiven.md",
+    "IT/Machine Learning/Convolutional Neural Network.md",
+    "IT/Betriebssysteme/Prozesssynchronisation/Kein korrekter Prozessablauf/Deadlock/_Deadlock.md",
     "IT/IT Security/Practical Security/Abwehrstrategien",
     "IT/IT Security/Practical Security",
     "IT/IT Security/Theoretical Security",

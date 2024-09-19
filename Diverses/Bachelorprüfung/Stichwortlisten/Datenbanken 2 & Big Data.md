@@ -1,7 +1,7 @@
 ## Datenbankzugriff und Sicherheit
 
 - [[JDBC PreparedStatement|Prepared Statements]]
-- SQL Injection
+- [[SQL-Injections]]
 - Stored Procedure/Function
 - DB Zugriff via [[JDBC]]
 - DB Zugriffspatterns: DAO vs. Repository

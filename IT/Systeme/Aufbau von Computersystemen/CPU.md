@@ -1,11 +1,8 @@
-# CPU
 ## Aufbau
 ### Steuerwerk
 -> Ablauf der **Befehlsverarbeitung**!
 -> **Senden u. Empfangen** von Steuersignalen zwischen allen Funktionseinheiten.
 -> [[CPU#Programmzähler|Programmzähler]], [[CPU#Befehlsregister|Befehlsregister]], Befehlsdecoder, Steuerleitungen
-
-
 #### Programmzähler
 -> enthält Speicheraddresse des nächsten auszuführenden Befehls.
 

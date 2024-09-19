@@ -1,5 +1,4 @@
 3
-# Eingebettete Software
 #embeddedsystems
 
 -> Integraler Bestandteil eines [Technischen Systems](/home/danielm/Dokumente/ObsidianVault/IT/Embedded Systems/Technische Systeme.md). Sie ist oft 
