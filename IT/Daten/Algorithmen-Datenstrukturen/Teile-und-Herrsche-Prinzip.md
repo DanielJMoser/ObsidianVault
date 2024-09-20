@@ -19,7 +19,6 @@ Das Teile-und-Herrsche-Prinzip besteht aus drei Hauptschritten:
    - Die Lösungen der Teilprobleme werden kombiniert, um die Lösung des ursprünglichen Problems zu erhalten.
 
 ## Beispiele
-
 ### [[3_Merge Sort|Mergesort]] (Sortieralgorithmus)
 
 - **Teilen:**

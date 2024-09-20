@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Daten/Algorithmen-Datenstrukturen/Teile-und-Herrsche-Prinzip.md",
+                "file": "IT/Systeme/Architektur von Informationssystemen/Parallele vs. Verteilte Systeme.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diverses/Bachelorprüfung/Stichwortlisten/Business Solutions.md",
+                "file": "IT/Systeme/Architektur von Informationssystemen/Parallele vs. Verteilte Systeme.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diverses/Bachelorprüfung/Stichwortlisten/Business Solutions.md",
+                "file": "IT/Systeme/Architektur von Informationssystemen/Parallele vs. Verteilte Systeme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diverses/Bachelorprüfung/Stichwortlisten/Business Solutions.md"
+                "file": "IT/Systeme/Architektur von Informationssystemen/Parallele vs. Verteilte Systeme.md"
               }
             }
           },
@@ -179,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,50 +193,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "7f7c544a5e2347a6",
-    "type": "floating",
-    "children": [
-      {
-        "id": "8d7ac69124c979f9",
-        "type": "window",
-        "children": [
-          {
-            "id": "51b4b89b3abf1a66",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2362211aaa594071",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Diverses/Bachelorprüfung/Stichwortlisten/Business Solutions.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1291,
-        "y": 108,
-        "width": 1233,
-        "height": 1296,
-        "maximize": false,
-        "zoom": 2.5
-      }
-    ]
-  },
-  "active": "2362211aaa594071",
+  "active": "9c728344c2fd70af",
   "lastOpenFiles": [
-    "Diverses/Bachelorprüfung/Stichwortlisten/Software Engineering 1.md",
     "Diverses/Bachelorprüfung/Stichwortlisten/Business Solutions.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Software Engineering 2.md",
     "IT/Systeme/Architektur von Informationssystemen/Parallele vs. Verteilte Systeme.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Architektur von Informationssystemen.md",
     "IT/Daten/Algorithmen-Datenstrukturen/Teile-und-Herrsche-Prinzip.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Software Engineering 1.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Software Engineering 2.md",
     "IT/Daten/Übertragung/Kommunikationsnetzwerke/_Kommunikationsnetzwerke.md",
     "IT/Systeme/ERP-Systeme/_Enterprise Software.md",
     "IT/Daten/Algorithmen-Datenstrukturen/Laufzeitkomplexität.md",
@@ -259,7 +223,6 @@
     "Diverses/Bachelorprüfung/Stichwortlisten/Allgemeine Betriebswirtschaftslehre.md",
     "Diverses/Bachelorprüfung/Stichwortlisten/Betriebssysteme.md",
     "IT/Machine Learning/Learning/Supervised Learning.md",
-    "IT/Betriebssysteme/Speicherabstraktion/Systeme ohne Speicherabstraktion/Multitasking-Systeme (keine Speicherabstraktion).md",
     "IT/IT Security/Practical Security/Abwehrstrategien",
     "IT/IT Security/Practical Security",
     "IT/IT Security/Theoretical Security",
