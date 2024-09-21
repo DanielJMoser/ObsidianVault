@@ -4,7 +4,7 @@
 - [[_Signale|Signal]]verarbeitung 
   - [[_Signale#Kontinuierliches Signal|kontinuierliche]] vs. [[_Signale#Diskretes Signal|diskrete]] Signale 
   - [[Abtastung#Nyquist-Shannon-Theorem|Abtast-Theorem (Nyquist-Shannon)]]
-  - Analog/Digital-Wandlung und auftretende Probleme
+  - [[_Signale|Analog/Digital-Wandlung und auftretende Probleme]]
   - PWM-Signale
 
 ## Messen, Steuern, Regeln

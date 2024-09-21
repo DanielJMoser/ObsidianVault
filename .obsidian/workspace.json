@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nyq",
+                "query": "analog",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Daten/Übertragung/Signale/Abtastung.md",
+                "file": "Diverses/Bachelorprüfung/Stichwortlisten/Rechnerstrukturen & Embedded Systems.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Daten/Übertragung/Signale/Abtastung.md",
+                "file": "Diverses/Bachelorprüfung/Stichwortlisten/Rechnerstrukturen & Embedded Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Daten/Übertragung/Signale/Abtastung.md"
+                "file": "Diverses/Bachelorprüfung/Stichwortlisten/Rechnerstrukturen & Embedded Systems.md"
               }
             }
           },
@@ -206,11 +205,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ade23899a9abb357",
+  "active": "9c728344c2fd70af",
   "lastOpenFiles": [
+    "IT/Daten/Übertragung/Signale/Abtastung.md",
     "Diverses/Bachelorprüfung/Stichwortlisten/Rechnerstrukturen & Embedded Systems.md",
     "IT/Daten/Übertragung/Signale/_Signale.md",
-    "IT/Daten/Übertragung/Signale/Abtastung.md",
     "IT/Systeme/ERP-Systeme/Marktführer und -entwicklungen.md",
     "Diverses/Bachelorprüfung/Stichwortlisten/Smart Systems & Machine Learning.md",
     "Diverses/Bachelorprüfung/Stichwortlisten/Projekt- & Prozessmanagement.md",
