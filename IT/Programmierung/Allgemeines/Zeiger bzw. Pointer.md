@@ -2,7 +2,7 @@
 
 **Zeiger** (englisch: _Pointer_) sind Variablen, die **die Adresse eines anderen Speicherorts speichern**.
 
-Anstatt einen direkten Wert zu halten, referenziert ein Zeiger eine Speicheradresse, an der Daten gespeichert sind. Zeiger sind ein zentrales Konzept in vielen Programmiersprachen, insbesondere in solchen, die direkten Zugriff auf Speicher erlauben, wie z.B. C und C++.
+Anstatt einen direkten Wert zu halten, referenziert ein Zeiger eine Speicheradresse, an der Daten gespeichert sind. Zeiger sind ein zentrales Konzept in vielen Programmiersprachen, insbesondere in solchen, die direkten Zugriff auf Speicher erlauben, wie z.B. C und C++.aa
 
 ## Eigenschaften von Zeigern
 
