@@ -7,7 +7,7 @@ NUMA wird häufig in **Multiprozessor-Systemen** eingesetzt, um die Skalierbarke
 
 #### Speicherlokalität
 
-In einem NUMA-System hat jeder Prozessor einen **lokalen Speicher**, auf den er schneller zugreifen kann, als auf den **entfernten Speicher** anderer Prozessoren. Dieser Unterschied in der Speicherzugriffszeit führt zu einer **nicht-uniformen Speicherzugriffszeit**. Dies liegt daran, dass jener Zugriff über einen gemeinsamen [[Bus-Systeme|Bus]] oder einen **Interconnect** funktioniert. 
+In einem NUMA-System hat jeder Prozessor einen **lokalen Speicher**, auf den er schneller zugreifen kann, als auf den **entfernten Speicher** anderer Prozessoren. Dieser Unterschied in der Speicherzugriffszeit führt zu einer **nicht-uniformen Speicherzugriffszeit**. Dies liegt daran, dass jener Zugriff über einen gemeinsamen [[Bus-Systeme|Bus]] oder einen **Interconnect** funktioniert.
 
 #### NUMA-Nodes
 
