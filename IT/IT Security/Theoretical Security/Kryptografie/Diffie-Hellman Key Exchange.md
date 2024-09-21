@@ -2,7 +2,7 @@ Der Diffie-Hellman Key Exchange ist ein kryptografisches Protokoll, das es zwei 
 
 ## Grundprinzip
 
-Das Protokoll basiert auf der Schwierigkeit des diskreten Logarithmusproblems in endlichen Körpern. Die beiden Parteien, oft als Alice und Bob bezeichnet, einigen sich auf zwei öffentliche Werte:
+Das Protokoll basiert auf der Schwierigkeit des **diskreten Logarithmusproblems in endlichen Körpern**. Die beiden Parteien, oft als **Alice** und **Bob** bezeichnet, einigen sich auf zwei öffentliche Werte:
 
 - Eine große Primzahl $p$
 - Eine Ganzzahl $g$, die als Generator bezeichnet wird und eine primitive Wurzel modulo $p$ ist.
