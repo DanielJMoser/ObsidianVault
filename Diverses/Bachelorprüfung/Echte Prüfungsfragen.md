@@ -17,7 +17,7 @@ Kollisionen wie auflösen?
 Laufzeitkomplexität von Hashtabelle?
 Was ist Laufzeitkomplexität?
 Protection Goals? Genau erklären?
-Welches goal ist wichtig für eienn Hashing Algo?
+Welches goal ist wichtig für eien Hashing Algo?
 Was ist DES?
 Was ist salting bem Hashen?
 Kerckhoffs Prinzzip
