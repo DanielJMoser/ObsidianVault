@@ -2,7 +2,7 @@
 #embeddedsystems 
 
 -> Darstellung einer Information durch eine **zeitveränderliche physikalische**, insbesondere **elektrische Größe** (z.B. Strom, Spannung, Feldstärke,...).
-Diese wird durch einen **Parameter dieser Größe kodiert** (z.B. Amplitude, Phase, Frequenz, Impulsdauer,...).
+Diese wird durch einen **Parameter dieser Größe kodiert** (z.B. Amplitude, Phase, Frequenz, Impulsdauer,...). sdas
 
 --------------------------------------------------
 

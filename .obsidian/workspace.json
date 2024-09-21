@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9c728344c2fd70af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diverses/Bachelorprüfung/Stichwortlisten/Rechnerstrukturen & Embedded Systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ade23899a9abb357",
             "type": "leaf",
             "state": {
@@ -67,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diverses/Bachelorprüfung/Stichwortlisten/Rechnerstrukturen & Embedded Systems.md",
+                "file": "IT/Daten/Übertragung/Signale/Abtastung.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -151,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diverses/Bachelorprüfung/Stichwortlisten/Rechnerstrukturen & Embedded Systems.md",
+                "file": "IT/Daten/Übertragung/Signale/Abtastung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diverses/Bachelorprüfung/Stichwortlisten/Rechnerstrukturen & Embedded Systems.md"
+                "file": "IT/Daten/Übertragung/Signale/Abtastung.md"
               }
             }
           },
@@ -205,11 +194,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c728344c2fd70af",
+  "active": "04bef68e69599c65",
   "lastOpenFiles": [
+    "IT/Daten/Übertragung/Signale/_Signale.md",
     "IT/Daten/Übertragung/Signale/Abtastung.md",
     "Diverses/Bachelorprüfung/Stichwortlisten/Rechnerstrukturen & Embedded Systems.md",
-    "IT/Daten/Übertragung/Signale/_Signale.md",
     "IT/Systeme/ERP-Systeme/Marktführer und -entwicklungen.md",
     "Diverses/Bachelorprüfung/Stichwortlisten/Smart Systems & Machine Learning.md",
     "Diverses/Bachelorprüfung/Stichwortlisten/Projekt- & Prozessmanagement.md",
