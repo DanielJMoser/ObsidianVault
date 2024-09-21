@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Programmierung/OOP/Polymorphismus.md",
+                "file": "Diverses/Bachelorprüfung/Echte Prüfungsfragen.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/IT Security/Kerkhoffs Prinzip.md",
+                "file": "Diverses/Bachelorprüfung/Echte Prüfungsfragen.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/IT Security/Kerkhoffs Prinzip.md",
+                "file": "Diverses/Bachelorprüfung/Echte Prüfungsfragen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/IT Security/Kerkhoffs Prinzip.md"
+                "file": "Diverses/Bachelorprüfung/Echte Prüfungsfragen.md"
               }
             }
           },
@@ -168,44 +169,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "04bef68e69599c65",
+  "active": "4790b2d08edebbd5",
   "lastOpenFiles": [
+    "IT/IT Security/Theoretical Security/Data Encryption Standard (DES).md",
+    "IT/IT Security/Theoretical Security/Symmetrische Algorithmen",
     "Diverses/Bachelorprüfung/Echte Prüfungsfragen.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/IT-Sicherheit.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/IT-Strategie.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung 2.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung I.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Programmiertechnik.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Projekt- & Prozessmanagement.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Smart Systems & Machine Learning.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Software Engineering 1.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Software Engineering 2.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Systemplanung.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Verteilte Systeme.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Digital Business.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Datenbanken 1.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Betriebssysteme.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Business Solutions.md",
+    "IT/Programmierung/OOP/Polymorphismus.md",
     "IT/IT Security/Kerkhoffs Prinzip.md",
     "IT/Programmierung/Allgemeines/Zeiger bzw. Pointer.md",
     "github.pub",
     "github",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung I.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung 2.md",
     "IT/Daten/Übertragung/Signale/Abtastung.md",
-    "IT/Programmierung/OOP/Polymorphismus.md",
     "IT/Der Computer/Prozessor/NUMA.md",
     "IT/Programmierung/OOP/Kapselung.md",
     "IT/Der Computer/Prozessor",
     "IT/Daten/Übertragung/Signale/_Signale.md",
     "Diverses/Bachelorprüfung/Stichwortlisten/Rechnerstrukturen & Embedded Systems.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Datenbanken 2 & Big Data.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Datenbanken 1.md",
-    "IT/Systeme/ERP-Systeme/Marktführer und -entwicklungen.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Smart Systems & Machine Learning.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Projekt- & Prozessmanagement.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Programmiertechnik.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/IT-Sicherheit.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Digital Business.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Datennetze.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/IT-Strategie.md",
-    "IT/Programmierung/OOP/_Objektorientierte Programmierung.md",
-    "IT/Programmierung/OOP/Vererbung, Spezialisierung, Generalisierung.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Allgemeine Betriebswirtschaftslehre.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Architektur von Informationssystemen.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Betriebssysteme.md",
     "IT/Programmierung/OOP",
     "IT/Systeme/ERP-Systeme/Technische Grundlagen",
     "IT/Systeme/ERP-Systeme/Modularität",
     "IT/IT Security/Practical Security/Abwehrstrategien",
     "IT/IT Security/Practical Security",
     "IT/IT Security/Theoretical Security",
-    "IT/IT Security/Theoretical Security/Basics",
     "Excalidraw/Scripts/Downloaded/Concatenate lines.svg",
     "IT/Systeme/Architektur von Informationssystemen/zzDrawings/zZDrawing_Flynn_SISD.png"
   ]
