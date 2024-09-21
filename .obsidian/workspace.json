@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/IT Security/Kerkhoffs Prinzip.md",
+                "file": "IT/IT Security/Theoretical Security/Kryptografie/Diffie-Hellman Key Exchange.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/IT Security/Kerkhoffs Prinzip.md",
+                "file": "IT/IT Security/Theoretical Security/Kryptografie/Diffie-Hellman Key Exchange.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/IT Security/Kerkhoffs Prinzip.md",
+                "file": "IT/IT Security/Theoretical Security/Kryptografie/Diffie-Hellman Key Exchange.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/IT Security/Kerkhoffs Prinzip.md"
+                "file": "IT/IT Security/Theoretical Security/Kryptografie/Diffie-Hellman Key Exchange.md"
               }
             }
           },
@@ -156,8 +156,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b9c51289a0953792",
+  "active": "04bef68e69599c65",
   "lastOpenFiles": [
+    "IT/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Heap.md",
+    "IT/IT Security/Theoretical Security/Kryptografie/Diffie-Hellman Key Exchange.md",
+    "IT/IT Security/Kerkhoffs Prinzip.md",
     "IT/Machine Learning/Klausurvorbereitung/15_2.md",
     "Diverses/Bachelorprüfung/Echte Prüfungsfragen.md",
     "IT/IT Security/Theoretical Security/Data Encryption Standard (DES).md",
@@ -178,7 +181,6 @@
     "Diverses/Bachelorprüfung/Stichwortlisten/Betriebssysteme.md",
     "Diverses/Bachelorprüfung/Stichwortlisten/Business Solutions.md",
     "IT/Programmierung/OOP/Polymorphismus.md",
-    "IT/IT Security/Kerkhoffs Prinzip.md",
     "IT/Programmierung/Allgemeines/Zeiger bzw. Pointer.md",
     "github.pub",
     "github",
@@ -186,8 +188,6 @@
     "IT/Der Computer/Prozessor/NUMA.md",
     "IT/Programmierung/OOP/Kapselung.md",
     "IT/Der Computer/Prozessor",
-    "IT/Daten/Übertragung/Signale/_Signale.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Rechnerstrukturen & Embedded Systems.md",
     "IT/Programmierung/OOP",
     "IT/Systeme/ERP-Systeme/Technische Grundlagen",
     "IT/Systeme/ERP-Systeme/Modularität",
