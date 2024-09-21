@@ -8,7 +8,6 @@ Das Protokoll basiert auf der Schwierigkeit des **diskreten Logarithmusproblems 
 - Eine Ganzzahl $g$, die als Generator bezeichnet wird und eine primitive Wurzel modulo $p$ ist.
 
 Diese Werte sind **öffentlich** und können von jedem gesehen werden, ohne die Sicherheit des Verfahrens zu beeinträchtigen.
-
 ## Schritte des Algorithmus
 
 1. **Wahl der privaten Schlüssel:**
