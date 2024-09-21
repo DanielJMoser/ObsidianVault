@@ -25,7 +25,6 @@ Ein System, das Kerkhoffs Prinzip folgt, sollte so entworfen sein, dass es **ein
 ## Anwendung in der modernen Kryptographie
 
 Viele moderne Kryptosysteme, wie **AES (Advanced Encryption Standard)** oder **RSA**, folgen Kerkhoffs Prinzip. Die Algorithmen sind öffentlich dokumentiert, aber die Sicherheit liegt in der Geheimhaltung der **privaten Schlüssel**.
-Untitled
 ## Zusammenfassung
 
 **Kerkhoffs Prinzip** ist eine zentrale Leitlinie in der Kryptographie, die sicherstellt, dass die **Geheimhaltung des Schlüssels** die einzige Anforderung für die Sicherheit eines Kryptosystems ist. Dies führt zu **sicheren**, **robusten** und **überprüfbaren** Verschlüsselungssystemen, die den Anforderungen moderner Kommunikation und Datensicherheit gerecht werden.
