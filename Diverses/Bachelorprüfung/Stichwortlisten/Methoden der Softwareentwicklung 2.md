@@ -1,8 +1,8 @@
-## Konzepte der objektorientierten Programmierung
+ ## Konzepte der objektorientierten Programmierung
 
 - Abstraktion
-- Kapselung
-- Vererbung, Spezialisierung und Generalisierung
+- [[Kapselung]]
+- [[Vererbung, Spezialisierung, Generalisierung]]
 - [[Polymorphismus]]
 
 ## Exceptions als Fehlerbehandlungsmethode

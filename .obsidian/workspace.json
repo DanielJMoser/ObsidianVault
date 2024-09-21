@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Programmierung/Allgemeines/Polymorphismus.md",
+                "file": "Diverses/Bachelorprüfung/Stichwortlisten/Rechnerstrukturen & Embedded Systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ade23899a9abb357",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Daten/Übertragung/Signale/Abtastung.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diverses/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung 2.md",
+                "file": "IT/Daten/Übertragung/Signale/_Signale.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Systeme/ERP-Systeme/Marktführer und -entwicklungen.md",
+                "file": "IT/Daten/Übertragung/Signale/Abtastung.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Systeme/ERP-Systeme/_Enterprise Software.md",
+                "file": "IT/Programmierung/OOP/Polymorphismus.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "polymor",
+                "query": "nyq",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diverses/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung 2.md",
+                "file": "IT/Daten/Übertragung/Signale/Abtastung.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -140,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diverses/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung 2.md",
+                "file": "IT/Daten/Übertragung/Signale/Abtastung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diverses/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung 2.md"
+                "file": "IT/Daten/Übertragung/Signale/Abtastung.md"
               }
             }
           },
@@ -180,8 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,35 +206,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bb203ada033cbf19",
+  "active": "7e01e55ccdb800fe",
   "lastOpenFiles": [
+    "Diverses/Bachelorprüfung/Stichwortlisten/Rechnerstrukturen & Embedded Systems.md",
+    "IT/Daten/Übertragung/Signale/_Signale.md",
+    "IT/Daten/Übertragung/Signale/Abtastung.md",
+    "IT/Systeme/ERP-Systeme/Marktführer und -entwicklungen.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Smart Systems & Machine Learning.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Projekt- & Prozessmanagement.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Programmiertechnik.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung I.md",
     "Diverses/Bachelorprüfung/Stichwortlisten/IT-Sicherheit.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Digital Ethics.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Business Solutions.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Datenbanken 1.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Digital Business.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Datennetze.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/IT-Strategie.md",
+    "IT/Programmierung/OOP/Kapselung.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung 2.md",
+    "IT/Programmierung/OOP/_Objektorientierte Programmierung.md",
+    "IT/Programmierung/OOP/Polymorphismus.md",
+    "IT/Programmierung/OOP/Vererbung, Spezialisierung, Generalisierung.md",
     "Diverses/Bachelorprüfung/Stichwortlisten/Allgemeine Betriebswirtschaftslehre.md",
     "Diverses/Bachelorprüfung/Stichwortlisten/Architektur von Informationssystemen.md",
     "Diverses/Bachelorprüfung/Stichwortlisten/Betriebssysteme.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Software Engineering 2.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Business Solutions.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Datenbanken 1.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Datenbanken 2 & Big Data.md",
     "Diverses/Bachelorprüfung/Stichwortlisten/Software Engineering 1.md",
-    "IT/Programmierung/Allgemeines/Polymorphismus.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung 2.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Programmiertechnik.md",
-    "IT/Systeme/Architektur von Informationssystemen/Parallele vs. Verteilte Systeme.md",
-    "IT/Daten/Algorithmen-Datenstrukturen/Teile-und-Herrsche-Prinzip.md",
-    "IT/Daten/Übertragung/Kommunikationsnetzwerke/_Kommunikationsnetzwerke.md",
-    "IT/Systeme/ERP-Systeme/_Enterprise Software.md",
-    "IT/Daten/Algorithmen-Datenstrukturen/Laufzeitkomplexität.md",
-    "IT/Daten/Algorithmen-Datenstrukturen/Teile-und-Herrsche.md",
-    "IT/Daten/Algorithmen-Datenstrukturen/_Algorithmus.md",
-    "IT/Daten/Algorithmen-Datenstrukturen/Sortieralgorithmen/_Wichtige Sortieralgorithmen.md",
-    "IT/Daten/Algorithmen-Datenstrukturen/Sortieralgorithmen/1_Insertion Sort.md",
-    "IT/Systeme/ERP-Systeme/Technische Grundlagen/_Technische Grundlagen.md",
-    "IT/Systeme/ERP-Systeme/Technische Grundlagen/Zweigleisigkeit.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Digital Ethics.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten.md",
+    "IT/Programmierung/OOP",
     "IT/Systeme/ERP-Systeme/Technische Grundlagen",
-    "IT/Systeme/ERP-Systeme/Marktführer und -entwicklungen.md",
-    "IT/Systeme/ERP-Systeme/Modularität/Module.md",
-    "IT/Systeme/ERP-Systeme/Modularität/_Modularitätskonzept.md",
     "IT/Systeme/ERP-Systeme/Modularität",
     "IT/IT Security/Practical Security/Abwehrstrategien",
     "IT/IT Security/Practical Security",
@@ -233,7 +245,6 @@
     "IT/Daten/Datenbanken/Relational Databases/SQL",
     "IT/Daten/Datenbanken/Basics",
     "Excalidraw/Scripts/Downloaded/Concatenate lines.svg",
-    "Excalidraw/Scripts/Downloaded",
     "IT/Systeme/Architektur von Informationssystemen/zzDrawings/zZDrawing_Flynn_SISD.png"
   ]
 }

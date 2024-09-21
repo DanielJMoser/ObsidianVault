@@ -2,8 +2,8 @@
 ## Eigenschaften und Bestandteile von eingebetteten Systemen
 
 - [[_Signale|Signal]]verarbeitung 
-  - kontinuierliche vs. diskrete Signale 
-  - Abtast-Theorem (Nyquist-Shannon)
+  - [[_Signale#Kontinuierliches Signal|kontinuierliche]] vs. [[_Signale#Diskretes Signal|diskrete]] Signale 
+  - [[Abtastung#Nyquist-Shannon-Theorem|Abtast-Theorem (Nyquist-Shannon)]]
   - Analog/Digital-Wandlung und auftretende Probleme
   - PWM-Signale
 

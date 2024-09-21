@@ -1,6 +1,6 @@
 ## Definition
 
-**Polymorphismus** ist ein grundlegendes Konzept in der objektorientierten Programmierung (OOP), das die Fähigkeit beschreibt, dass Objekte verschiedener Klassen über eine **einheitliche Schnittstelle** interagieren können. Der Begriff stammt aus dem Griechischen und bedeutet **"Vielgestaltigkeit"**. In der Informatik ermöglicht Polymorphismus, dass eine Methode oder Funktion je nach Kontext unterschiedliche Formen oder Implementierungen annehmen kann.
+**Polymorphismus** ist ein grundlegendes Konzept in der [[_Objektorientierte Programmierung|objektorientierten Programmierung (OOP)]], das die Fähigkeit beschreibt, dass Objekte verschiedener Klassen über eine **einheitliche Schnittstelle** interagieren können. Der Begriff stammt aus dem Griechischen und bedeutet **"Vielgestaltigkeit"**. In der Informatik ermöglicht Polymorphismus, dass eine Methode oder Funktion je nach Kontext unterschiedliche Formen oder Implementierungen annehmen kann.
 
 ## Arten des Polymorphismus
 
@@ -55,4 +55,50 @@ public class Boot extends Fahrzeug {
 }
 ```
 
+#### Verwendung
 
+```java
+public class Hauptprogramm {
+    public static void main(String[] args) {
+        Fahrzeug fahrzeug1 = new Auto();
+        Fahrzeug fahrzeug2 = new Boot();
+
+        fahrzeug1.fahren(); // Ausgabe: Das Auto fährt auf der Straße.
+        fahrzeug2.fahren(); // Ausgabe: Das Boot fährt auf dem Wasser.
+    }
+}
+```
+
+### Beispiel 2: Generika (Parametrischer Polymorphismus)
+```java
+public class Box<T> {
+    private T inhalt;
+
+    public void setInhalt(T inhalt) {
+        this.inhalt = inhalt;
+    }
+
+    public T getInhalt() {
+        return inhalt;
+    }
+}
+```
+
+#### Verwendung
+```java
+Box<String> stringBox = new Box<>();
+stringBox.setInhalt("Hallo Welt");
+System.out.println(stringBox.getInhalt()); // Ausgabe: Hallo Welt
+
+Box<Integer> integerBox = new Box<>();
+integerBox.setInhalt(123);
+System.out.println(integerBox.getInhalt()); // Ausgabe: 123
+```
+
+
+## Zusammenfassung
+
+**Polymorphismus** ist ein zentrales Prinzip der objektorientierten Programmierung, das es ermöglicht, Objekte und Methoden flexibel und erweiterbar zu gestalten. Durch die Fähigkeit, Methoden und Klassen auf unterschiedliche Weise zu verwenden, fördert Polymorphismus die **Modularität**, **Wartbarkeit** und **Wiederverwendbarkeit** von Code.
+
+---
+#OOP

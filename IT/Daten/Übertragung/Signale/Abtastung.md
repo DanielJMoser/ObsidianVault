@@ -4,7 +4,7 @@
 ## Abtastfrequenzen
 
 #### Nyquist-Shannon-Theorem
-> Ein auf **f(max)** banbegrenztes Signal kann aus deiner Folge äquedistanten Abtastwerten **exakt** rekonstruiert werden, wenn die Abtrastfrequenz größer als **2 * f(max)** ist.
+> Ein auf **f(max)** begrenztes Signal kann aus deiner Folge äquedistanten Abtastwerten **exakt** rekonstruiert werden, wenn die Abtrastfrequenz größer als **2 * f(max)** ist.
 
 -> "auf f(max) begenzt": Kein Wert größer als f(max).
 
