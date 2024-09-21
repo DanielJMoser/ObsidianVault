@@ -3,7 +3,7 @@
 - Abstraktion
 - Kapselung
 - Vererbung, Spezialisierung und Generalisierung
-- Polymorphismus
+- [[Polymorphismus]]
 
 ## Exceptions als Fehlerbehandlungsmethode
 

@@ -1,7 +1,7 @@
 ## Der Weg vom Problem zum fertigen Programm
 
 - Problembeschreibung
-- [[_Algorithmus]]
+- [[_Algorithmus|Algorithmus]]
 
 ## Strukturierte Programmierung
 
@@ -10,8 +10,8 @@
 
 ## Ausführungsmodelle
 
-- Kompilierte Ausführung
-- Interpretierte Ausführung
+- [[Compiler|Kompilierte Ausführung]]
+- [[Interpreter|Interpretierte Ausführung]]
 - Hybrider Ansatz
 
 ## Zahlensysteme

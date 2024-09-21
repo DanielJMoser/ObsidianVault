@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Systeme/Architektur von Informationssystemen/Parallele vs. Verteilte Systeme.md",
+                "file": "IT/Programmierung/Allgemeines/Polymorphismus.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diverses/Bachelorprüfung/Stichwortlisten/Software Engineering 1.md",
+                "file": "Diverses/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "paralel",
+                "query": "polymor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -121,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Systeme/Architektur von Informationssystemen/Parallele vs. Verteilte Systeme.md",
+                "file": "Diverses/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung 2.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -138,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Systeme/Architektur von Informationssystemen/Parallele vs. Verteilte Systeme.md",
+                "file": "Diverses/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Systeme/Architektur von Informationssystemen/Parallele vs. Verteilte Systeme.md"
+                "file": "Diverses/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung 2.md"
               }
             }
           },
@@ -193,14 +195,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c728344c2fd70af",
+  "active": "bb203ada033cbf19",
   "lastOpenFiles": [
+    "Diverses/Bachelorprüfung/Stichwortlisten/IT-Sicherheit.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Digital Ethics.md",
     "Diverses/Bachelorprüfung/Stichwortlisten/Business Solutions.md",
-    "IT/Systeme/Architektur von Informationssystemen/Parallele vs. Verteilte Systeme.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Datenbanken 1.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Allgemeine Betriebswirtschaftslehre.md",
     "Diverses/Bachelorprüfung/Stichwortlisten/Architektur von Informationssystemen.md",
-    "IT/Daten/Algorithmen-Datenstrukturen/Teile-und-Herrsche-Prinzip.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Software Engineering 1.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Betriebssysteme.md",
     "Diverses/Bachelorprüfung/Stichwortlisten/Software Engineering 2.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Software Engineering 1.md",
+    "IT/Programmierung/Allgemeines/Polymorphismus.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung 2.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Programmiertechnik.md",
+    "IT/Systeme/Architektur von Informationssystemen/Parallele vs. Verteilte Systeme.md",
+    "IT/Daten/Algorithmen-Datenstrukturen/Teile-und-Herrsche-Prinzip.md",
     "IT/Daten/Übertragung/Kommunikationsnetzwerke/_Kommunikationsnetzwerke.md",
     "IT/Systeme/ERP-Systeme/_Enterprise Software.md",
     "IT/Daten/Algorithmen-Datenstrukturen/Laufzeitkomplexität.md",
@@ -215,14 +225,6 @@
     "IT/Systeme/ERP-Systeme/Modularität/Module.md",
     "IT/Systeme/ERP-Systeme/Modularität/_Modularitätskonzept.md",
     "IT/Systeme/ERP-Systeme/Modularität",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Datenbanken 1.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Datenbanken 2 & Big Data.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Datennetze.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Digital Business.md",
-    "IT/Systeme/ERP-Systeme/Wertschöpfungskette nach Porter.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Allgemeine Betriebswirtschaftslehre.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Betriebssysteme.md",
-    "IT/Machine Learning/Learning/Supervised Learning.md",
     "IT/IT Security/Practical Security/Abwehrstrategien",
     "IT/IT Security/Practical Security",
     "IT/IT Security/Theoretical Security",
