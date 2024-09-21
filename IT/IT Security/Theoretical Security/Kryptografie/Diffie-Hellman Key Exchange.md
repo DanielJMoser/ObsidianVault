@@ -51,4 +51,5 @@ Beide haben denselben gemeinsamen Schlüssel $S = 2$.
 
 ## Man-in-the-Middle-Angriff
 
-Ein Schwachpunkt des Diffie-Hellman-Verfahrens besteht darin, dass es anfällig für einen Man-in-the-Middle-Angriff ist, bei dem ein Angreifer in der Mitte die Kommunikation abfängt und zwei separate Schlüssel mit Alice und Bob aushandelt. Um dies zu verhindern, wird Diffie-Hellman häufig in Kombination mit digitalen Signaturen oder einem Public-Key-Infrastruktursystem (PKI) verwendet, um die Identität der Kommunikationspartner sicherzustellen.
+Ein Schwachpunkt des Diffie-Hellman-Verfahrens besteht darin, dass es anfällig für einen **Man-in-the-Middle-Angriff** ist, bei dem ein Angreifer in der Mitte die Kommunikation abfängt und zwei separate Schlüssel mit Alice und Bob aushandelt. 
+Um dies zu verhindern, wird Diffie-Hellman häufig in Kombination mit [[Digitale Signaturen|digitalen Signaturen]] oder einem **Public-Key-Infrastruktursystem** (PKI) verwendet, um die Identität der Kommunikationspartner sicherzustellen.

@@ -9,7 +9,7 @@ Ein Heap ist ein binärer Baum, der zwei Bedingungen erfüllen muss:
     - **Min-Heap**: In einem Min-Heap ist der Wert jedes Knotens kleiner oder gleich dem Wert seiner Kindknoten. Das Minimum befindet sich an der Wurzel des Baums.
     - **Max-Heap**: In einem Max-Heap ist der Wert jedes Knotens größer oder gleich dem Wert seiner Kindknoten. Das Maximum befindet sich an der Wurzel des Baums.
 
-### Beispiel für einen Min-Heap
+#### Beispiel für einen Min-Heap
 
 ```markdown
         1
@@ -45,7 +45,7 @@ Hier ist 1 der kleinste Wert (die Wurzel), und jeder Elternknoten ist kleiner al
     - Dieser Prozess wird für die restlichen Elemente wiederholt, bis der Heap leer ist. Jedes Mal wird das Maximum (oder Minimum) entfernt und an die entsprechende Stelle in der Liste gesetzt.
 
 
-### Heapsort Pseudocode
+#### Heapsort Pseudocode
 
 ```clike
 Heapsort(A):
