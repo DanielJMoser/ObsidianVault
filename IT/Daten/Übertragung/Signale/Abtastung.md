@@ -1,4 +1,4 @@
-# Abtastung
+
 #embeddedsystems
 
 ## Abtastfrequenzen
