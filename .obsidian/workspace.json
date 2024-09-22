@@ -13,7 +13,67 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Heap.md",
+                "file": "Diverses/Bachelorprüfung/Stichwortlisten/Architektur von Informationssystemen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc9acdba2274083b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Systeme/Architektur von Informationssystemen/Parallele vs. Verteilte Systeme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d2716b5d1a698fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Systeme/Architektur von Informationssystemen/Arten von Parallelismus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c85122543973e3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Systeme/Architektur von Informationssystemen/Parallele vs. Verteilte Systeme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07732818fe7668fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diverses/Bachelorprüfung/Echte Prüfungsfragen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d61c78b8a1d5841",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Systeme/Architektur von Informationssystemen/Arten von Parallelismus.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +129,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "heap",
+                "query": "parallel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +138,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -98,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/IT Security/Kerkhoffs Prinzip.md",
+                "file": "IT/Systeme/Architektur von Informationssystemen/Arten von Parallelismus.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/IT Security/Kerkhoffs Prinzip.md",
+                "file": "IT/Systeme/Architektur von Informationssystemen/Arten von Parallelismus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/IT Security/Kerkhoffs Prinzip.md"
+                "file": "IT/Systeme/Architektur von Informationssystemen/Arten von Parallelismus.md"
               }
             }
           },
@@ -169,16 +230,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "026ec9f09a312dcb",
+  "active": "2d2716b5d1a698fd",
   "lastOpenFiles": [
-    "IT/Daten/Algorithmen-Datenstrukturen/Sortieralgorithmen/_Wichtige Sortieralgorithmen.md",
-    "IT/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Heap.md",
+    "IT/Systeme/Architektur von Informationssystemen/Parallele vs. Verteilte Systeme.md",
+    "IT/Systeme/Architektur von Informationssystemen/Arten von Parallelismus.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Architektur von Informationssystemen.md",
     "Diverses/Bachelorprüfung/Echte Prüfungsfragen.md",
+    "IT/Machine Learning/Learning/Supervised Learning.md",
+    "IT/Machine Learning/Learning/Semi-Supervised Learning.md",
+    "IT/Machine Learning/Learning/Unsupervised Learning.md",
+    "IT/Machine Learning/Learning/Support Vector Machines.md",
+    "IT/Machine Learning/Overfitting und Underfitting.md",
+    "IT/Machine Learning/Convolutional Neural Network.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Allgemeine Betriebswirtschaftslehre.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten/Algorithmen und Datenstrukturen.md",
+    "IT/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Heap.md",
+    "IT/IT Security/Kerkhoffs Prinzip.md",
+    "IT/Daten/Algorithmen-Datenstrukturen/Sortieralgorithmen/_Wichtige Sortieralgorithmen.md",
     "IT/Machine Learning/Klausurvorbereitung/15_4.md",
     "IT/Machine Learning/Klausurvorbereitung/15_2.md",
     "IT/Machine Learning/Regression/(Unvariante) Lineare Regression.md",
     "IT/IT Security/Theoretical Security/Kryptografie/Diffie-Hellman Key Exchange.md",
-    "IT/IT Security/Kerkhoffs Prinzip.md",
     "IT/IT Security/Theoretical Security/Data Encryption Standard (DES).md",
     "IT/IT Security/Theoretical Security/Symmetrische Algorithmen",
     "Diverses/Bachelorprüfung/Stichwortlisten/IT-Sicherheit.md",
@@ -187,17 +259,6 @@
     "Diverses/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung I.md",
     "Diverses/Bachelorprüfung/Stichwortlisten/Programmiertechnik.md",
     "Diverses/Bachelorprüfung/Stichwortlisten/Projekt- & Prozessmanagement.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Smart Systems & Machine Learning.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Software Engineering 1.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Software Engineering 2.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Systemplanung.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Verteilte Systeme.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Digital Business.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Datenbanken 1.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Betriebssysteme.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Business Solutions.md",
-    "IT/Programmierung/OOP/Polymorphismus.md",
-    "IT/Programmierung/Allgemeines/Zeiger bzw. Pointer.md",
     "github.pub",
     "github",
     "IT/Der Computer/Prozessor",

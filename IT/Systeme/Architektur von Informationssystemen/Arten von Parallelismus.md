@@ -1,4 +1,4 @@
--> **Erinnerung**: Unter Parallelismus versteht man allgemein die **nebenläufige** (d.i. gleichzeitige) Bearbeitung von Aufgaben. Parallelismus kann auf **mehreren Ebenen** auftreten.
+-> **Erinnerung**: Unter [[Parallele vs. Verteilte Systeme|Parallelismus]] versteht man allgemein die **nebenläufige** (d.i. gleichzeitige) Bearbeitung von Aufgaben. Parallelismus kann auf **mehreren Ebenen** auftreten.
 
 # Arten von Parallelismus
 
