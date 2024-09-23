@@ -28,7 +28,8 @@ Microcontroller vs Microprozessor?
 Was ist ein Bussystem?
 Aufbau einer CPU?
 Was ist denn ein Register?
-Leistungssteigerung bei Speichern? Welche Prinzipien? -&gt; Lokalitätsprinzip
+Leistungssteigerung bei Speichern? Welche Prinzipien?
+Lokalitätsprinzip
 (Zeitliche/Räumliche Lokalität)
 
 Leistungssteigerung CPU?
