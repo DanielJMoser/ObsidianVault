@@ -7,8 +7,8 @@ Arten von ML
 Datenbanken sehr tief
 Was sind Ziele eines Unternehmens
 Was sind Güter? Welche Arten gibt es ?
-NUMA sehr genau erklären
-Diffie Hellman erklären
+[[NUMA]] sehr genau erklären
+[[Diffie-Hellman Key Exchange]] erklären
 Unterschied lineare Regression und logistische
 was ist der unterschied Hashing-algo encryption-algo?
 was ist eine cryptorgraphische Hashingfunktion? die Eigenschaften
