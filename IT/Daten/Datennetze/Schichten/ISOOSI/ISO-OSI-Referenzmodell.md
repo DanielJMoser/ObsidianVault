@@ -2,7 +2,7 @@
 
 -> Theoretisches Referenzmodell, entwickelt von der **International Standards Organisation** (ISO)
 
--> Modelliert die Verbindung offener Systeme, daher der Name **Open SystemsInterconnection** (OSI)
+-> Modelliert die Verbindung offener Systeme, daher der Name **Open Systems Interconnection** (OSI)
 
 Es handelt sich dabei um ein **hierarchisches Modell**, welches in **Schichten** aufgeteilt ist. 
 
