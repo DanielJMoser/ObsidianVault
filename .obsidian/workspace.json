@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Daten/Datennetze/Schichten/TCPIP/Sicherungsschicht.md",
+                "file": "IT/Daten/Datennetze/Schichten/TCPIP/Transportschicht.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7be8a20890796e98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Daten/Datennetze/Schichten/TCPIP/Vermittlungsschicht.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Daten/Datennetze/Schichten/TCPIP/Sicherungsschicht.md",
+                "file": "IT/Daten/Datennetze/Schichten/TCPIP/Transportschicht.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Daten/Datennetze/Schichten/TCPIP/Sicherungsschicht.md",
+                "file": "IT/Daten/Datennetze/Schichten/TCPIP/Transportschicht.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Daten/Datennetze/Schichten/TCPIP/Sicherungsschicht.md"
+                "file": "IT/Daten/Datennetze/Schichten/TCPIP/Transportschicht.md"
               }
             }
           },
@@ -193,8 +205,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b9c51289a0953792",
+  "active": "2a5e0e840a0bfd79",
   "lastOpenFiles": [
+    "IT/Daten/Datennetze/Schichten/TCPIP/Anwendunggschicht.md",
+    "IT/Daten/Datennetze/Schichten/TCPIP/Netzzugangsschicht.md",
+    "IT/Daten/Datennetze/Schichten/TCPIP/Vermittlungsschicht.md",
+    "IT/Daten/Datennetze/Schichten/ISOOSI/Sicherungsschicht.md",
+    "IT/Daten/Datennetze/Schichten/ISOOSI/Bitübertragungsschicht.md",
+    "IT/Daten/Datennetze/Schichten/TCPIP/Transportschicht.md",
     "IT/Daten/Datenbanken/Relational Databases/Systemarchitektur/Schichten.md",
     "IT/Daten/Datennetze/Schichten/ISOOSI/ISO-OSI-Referenzmodell.md",
     "IT/Daten/Algorithmen-Datenstrukturen/Teile-und-Herrsche-Prinzip.md",
@@ -215,12 +233,6 @@
     "Diverses/Bachelorprüfung/Stichwortlisten/Smart Systems & Machine Learning.md",
     "Diverses/Bachelorprüfung/Stichwortlisten/Programmiertechnik.md",
     "Diverses/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung 2.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Datenbanken 2 & Big Data.md",
-    "IT/Systeme/Architektur von Informationssystemen/Parallele vs. Verteilte Systeme.md",
-    "IT/Systeme/Architektur von Informationssystemen/Flynn'sche Taxonomie.md",
-    "IT/Systeme/Architektur von Informationssystemen/Arten von Parallelismus.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Business Solutions.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Betriebssysteme.md",
     "IT/IT Security/Theoretical Security/Symmetrische Algorithmen",
     "github.pub",
     "github",
