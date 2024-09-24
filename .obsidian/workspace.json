@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Der Computer/Prozessor/NUMA.md",
+                "file": "Diverses/Bachelorprüfung/Stichwortlisten.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +77,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Der Computer/Prozessor/NUMA.md",
+                "file": "Diverses/Bachelorprüfung/Echte Prüfungsfragen.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Der Computer/Prozessor/NUMA.md",
+                "file": "Diverses/Bachelorprüfung/Echte Prüfungsfragen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Der Computer/Prozessor/NUMA.md"
+                "file": "Diverses/Bachelorprüfung/Echte Prüfungsfragen.md"
               }
             }
           },
@@ -170,8 +168,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f25b7b0fcd475539",
+  "active": "3b9eaf5fdbe73c0e",
   "lastOpenFiles": [
+    "Diverses/Bachelorprüfung/Stichwortlisten.md",
+    "IT/Der Computer/Prozessor/NUMA.md",
     "Diverses/Bachelorprüfung/Echte Prüfungsfragen.md",
     "IT/Machine Learning/Convolutional Neural Network.md",
     "IT/IT Security/Kerkhoffs Prinzip.md",
@@ -196,8 +196,6 @@
     "Diverses/Bachelorprüfung/Stichwortlisten/Architektur von Informationssystemen.md",
     "IT/Machine Learning/Learning/Supervised Learning.md",
     "IT/Machine Learning/Learning/Semi-Supervised Learning.md",
-    "IT/Machine Learning/Learning/Unsupervised Learning.md",
-    "IT/Machine Learning/Learning/Support Vector Machines.md",
     "IT/IT Security/Theoretical Security/Symmetrische Algorithmen",
     "github.pub",
     "github",
