@@ -46,14 +46,14 @@ Privacy auf ein Staubsaugerroboter beispiel anwenden?
 
 Pascal:
 - Laufzeitkomplexität erklären + aufzählen
-- ⁠Greedy Algorithmen erklären + TSP &amp; nearest neighbor Algo
+- ⁠Greedy Algorithmen erklären + TSP nearest neighbor Algo
 - ⁠Protection goals
 - ⁠Kerckhoffs Prinzip
 - ⁠Threat Model
 - ⁠Symmetrische/Asymmetrische Verschlüsselung Erklärung, Vorteile/Nachteile, welches
 mehr verwendet wird
 - Diffie-Hellman Key Exchange + man in the middle attack
-- ⁠Digitale Signaturen &amp; Zertifikate
+- ⁠Digitale Signaturen, Zertifikate
 - ⁠Cross Site Scripting
 - ⁠Arten ML
 - ⁠Clustering + k-means
@@ -76,6 +76,7 @@ Stefan:
 - ⁠Ganz kurz Softwarequalität
 - ⁠Was ist ERP
 - ⁠BI (OLTP, OLAP)
+
 Andrea:
 - Was ist Heap als Datenstruktur?
 - Was ist Backpropagation?
