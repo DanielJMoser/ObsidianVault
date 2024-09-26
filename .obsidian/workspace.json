@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Systeme/Soziotechnische Systeme/OLTP.md",
+                "file": "IT/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Hashing/Hashfunktion.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Systeme/Soziotechnische Systeme/OLTP.md",
+                "file": "IT/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Hashing/Hashfunktion.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Systeme/Soziotechnische Systeme/OLTP.md",
+                "file": "IT/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Hashing/Hashfunktion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Systeme/Soziotechnische Systeme/OLTP.md"
+                "file": "IT/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Hashing/Hashfunktion.md"
               }
             }
           },
@@ -183,6 +183,10 @@
   },
   "active": "3b9eaf5fdbe73c0e",
   "lastOpenFiles": [
+    "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen/Digitale Signaturen.md",
+    "IT/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Hashing/Hashfunktion.md",
+    "IT/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Hashing/Funktionsweise Hashing.md",
+    "IT/Systeme/Soziotechnische Systeme/OLTP.md",
     "IT/Daten/Datennetze/Schichten/ISOOSI/Sicherungsschicht.md",
     "IT/Daten/Datennetze/Verfahren/Multiplexing.md",
     "IT/Daten/Datennetze/Verfahren/Multiple Access.md",
@@ -195,21 +199,17 @@
     "Diverses/Bachelorprüfung/Stichwortlisten.md",
     "IT/Daten/Algorithmen-Datenstrukturen/Teile-und-Herrsche-Prinzip.md",
     "IT/Daten/Datennetze/Schichten/TCPIP/Vermittlungsschicht.md",
-    "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen/Digitale Signaturen.md",
     "IT/Daten/Datenbanken/Relational Databases/Normalformen & Relationale Algebra/Normalformen.md",
-    "IT/Systeme/Soziotechnische Systeme/OLTP.md",
     "IT/Systeme/Soziotechnische Systeme/OLAP.md",
     "IT/Systeme/Soziotechnische Systeme/Systemmodellierung.md",
     "IT/Systeme/Soziotechnische Systeme/_Soziotechnische Systeme.md",
     "IT/Daten/Datennetze/Schichten/ISOOSI/Bitübertragungsschicht.md",
     "IT/Programmierung/Python/_Python.md",
-    "IT/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Hashing/Hashfunktion.md",
     "IT/Programmierung/Python",
     "IT/Daten/Datenbanken/Relational Databases/_Relationale Datenbanken.md",
     "IT/Daten/Datenbanken/_Datenbanken.md",
     "IT/Daten/Datenbanken/Basics/9 Regeln von Codd.md",
     "IT/Daten/Datenbanken/Relational Databases/JDBC/Driver.md",
-    "IT/Daten/Datenbanken/Relational Databases/JDBC/Connection.md",
     "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen",
     "IT/IT Security/Theoretical Security/Kryptografie/Asymmetrische Algorithmen",
     "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen",
