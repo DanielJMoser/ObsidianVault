@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Daten/Datennetze/Schichten/ISOOSI/ISO-OSI-Referenzmodell.md",
+                "file": "IT/Systeme/Soziotechnische Systeme/Systemmodellierung.md",
                 "mode": "source",
                 "source": false
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Daten/Datennetze/Schichten/ISOOSI/ISO-OSI-Referenzmodell.md",
+                "file": "IT/Systeme/Soziotechnische Systeme/Systemmodellierung.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Daten/Datennetze/Schichten/ISOOSI/ISO-OSI-Referenzmodell.md",
+                "file": "IT/Systeme/Soziotechnische Systeme/Systemmodellierung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Daten/Datennetze/Schichten/ISOOSI/ISO-OSI-Referenzmodell.md"
+                "file": "IT/Systeme/Soziotechnische Systeme/Systemmodellierung.md"
               }
             }
           },
@@ -232,8 +232,9 @@
   },
   "active": "ed14e5b03b8893db",
   "lastOpenFiles": [
-    "IT/Daten/Datennetze/Schichten/ISOOSI/Bitübertragungsschicht.md",
+    "IT/Systeme/Soziotechnische Systeme/_Soziotechnische Systeme.md",
     "IT/Daten/Datennetze/Schichten/ISOOSI/ISO-OSI-Referenzmodell.md",
+    "IT/Daten/Datennetze/Schichten/ISOOSI/Bitübertragungsschicht.md",
     "IT/Systeme/Soziotechnische Systeme/Systemmodellierung.md",
     "IT/Programmierung/Python/_Python.md",
     "IT/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Hashing/Hashfunktion.md",
@@ -260,7 +261,6 @@
     "IT/Daten/Datennetze/Schichten/TCPIP/Anwendunggschicht.md",
     "IT/Daten/Datennetze/Schichten/TCPIP/Netzzugangsschicht.md",
     "IT/Daten/Datennetze/Schichten/TCPIP/Vermittlungsschicht.md",
-    "IT/Daten/Datennetze/Schichten/ISOOSI/Sicherungsschicht.md",
     "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen",
     "github.pub",
     "github",
