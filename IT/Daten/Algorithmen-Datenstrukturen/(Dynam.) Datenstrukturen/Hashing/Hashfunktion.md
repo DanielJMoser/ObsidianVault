@@ -1,4 +1,4 @@
-# Hashfunktion
+
 -> Hauptbestandteil einer [[Hashtabelle]]
 
 Bei **_gut umgesetzten_** Hashfunktionen beträgt die mittlere Dauer von Operationen konstant

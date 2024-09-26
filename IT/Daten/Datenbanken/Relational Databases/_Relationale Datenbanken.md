@@ -1,4 +1,3 @@
-# Relationale Datenbanken
 
 Nach dem [[CAP-Theorem]] sind die meisten relationalen Datenbanken vom Typ [[CAP-Theorem#^67233d|CA]], andere Formen sind aber möglich.
 

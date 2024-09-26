@@ -1,7 +1,7 @@
 
 -> Verschlüsselnder Key entschlüsselt auch.
 
-Im Gegensatz zu: [[Asymmetrische Verschlüsselung]]
+Im Gegensatz zu: [[_Asymmetrische Verschlüsselung]]
 
 ## Definition
 

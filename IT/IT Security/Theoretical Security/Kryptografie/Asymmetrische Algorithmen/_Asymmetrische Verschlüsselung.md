@@ -2,7 +2,7 @@
 
 -> Key zur Ver- und Entschlüsselung unterschiedlich.
 
-Im Gegensatz zu: [[Symmetrische Verschlüsselung]]
+Im Gegensatz zu: [[_Symmetrische Verschlüsselung]]
 
 **Zur Verschlüsselung**: _Public Key_
 **Zur Entschlüsselung**: _Private Key_

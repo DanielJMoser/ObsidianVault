@@ -2,8 +2,8 @@
 
 - [[Schutzziele]]
 - [[Angreifer_innenmodell]]
-- [[Symmetrische Verschlüsselung]]
-- [[Asymmetrische Verschlüsselung]]
+- [[_Symmetrische Verschlüsselung]]
+- [[_Asymmetrische Verschlüsselung]]
 - [[Digitale Signaturen]]
 
 ## Practical Security (Praktische Sicherheit)

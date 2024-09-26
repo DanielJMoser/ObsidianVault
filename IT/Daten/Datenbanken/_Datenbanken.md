@@ -15,12 +15,12 @@ Neben den [[_Relationale Datenbanken|Relationalen Datenbanken]] existieren auch 
 ## Ansprüche
 
 - Daten müssen **schnell** erreichbar sein
-- Verwante Daten müssen verlinked werden können
-- Daten müssen änderbar sein
+- Verwandte Daten müssen **verlinkt** werden können
+- Daten müssen **änderbar** sein
 - Mehrere Nutzer:innen müssen Daten **gleichzeitig** verwenden können
 - Daten müssen **konsistent** sein und
 - dürfen nicht verloren gehen
-- Nur jene mit Berechtigung sollen Zugang erhalten.
+- Nur jene mit **Berechtigung** sollen Zugang erhalten.
 
 Nach dem [[CAP-Theorem]] sind **nicht alle** dieser Ansprüche zeitgleich implementierbar!
 

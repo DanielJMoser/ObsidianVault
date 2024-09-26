@@ -1,6 +1,6 @@
 ## Definition
 
-**Kerberos** ist ein **Netzwerk-Authentifizierungsprotokoll**, das darauf abzielt, sichere Authentifizierung in unsicheren Netzwerken zu ermöglichen. Es wurde ursprünglich am **MIT** entwickelt und basiert auf [[Symmetrische Verschlüsselung|Symmetrischer Kryprographie]] sowie dem Konzept eines **Trusted Third Party** (TTP), um die Identitäten von Benutzern und Diensten zu verifizieren. 
+**Kerberos** ist ein **Netzwerk-Authentifizierungsprotokoll**, das darauf abzielt, sichere Authentifizierung in unsicheren Netzwerken zu ermöglichen. Es wurde ursprünglich am **MIT** entwickelt und basiert auf [[_Symmetrische Verschlüsselung|Symmetrischer Kryprographie]] sowie dem Konzept eines **Trusted Third Party** (TTP), um die Identitäten von Benutzern und Diensten zu verifizieren. 
 Kerberos ermöglicht es, dass sich Benutzer sicher gegenüber Diensten ausweisen können, ohne dass Passwörter über das Netzwerk übertragen werden.
 
 ## Funktionsweise
