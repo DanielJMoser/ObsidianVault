@@ -8,7 +8,7 @@ $$\mathcal{O}(1)$$
 
 Ergibt sich bei der Berechnung des Hashes ein Wert, welcher einen bereits **belegten** Platz in der Hashtabelle beschreiben würde, kommt es zur **Kollision**.
 
-Die Wahrscheinlichkeit einer solcher wird wie folgt berechnet:
+Die Wahrscheinlichkeit einer solchen wird wie folgt berechnet:
 
 $$\mathcal{Pr(keine Kollision)} = {e} - \frac{n(n-1)}{2m}$$
 

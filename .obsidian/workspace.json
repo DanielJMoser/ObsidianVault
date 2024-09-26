@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Hashing/Hashfunktion.md",
+                "file": "IT/Systeme/Soziotechnische Systeme/Systemmodellierung.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -138,8 +138,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Daten/Datenbanken/Basics/Anomalien.md",
+                "file": "IT/Systeme/Soziotechnische Systeme/Systemmodellierung.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -176,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Daten/Datenbanken/Basics/Anomalien.md",
+                "file": "IT/Systeme/Soziotechnische Systeme/Systemmodellierung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Daten/Datenbanken/Basics/Anomalien.md"
+                "file": "IT/Systeme/Soziotechnische Systeme/Systemmodellierung.md"
               }
             }
           },
@@ -230,8 +229,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e22b6c2401e105ed",
+  "active": "ed14e5b03b8893db",
   "lastOpenFiles": [
+    "IT/Programmierung/Python/_Python.md",
+    "IT/Systeme/Soziotechnische Systeme/Systemmodellierung.md",
+    "IT/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Hashing/Hashfunktion.md",
+    "IT/Programmierung/Python",
+    "IT/Daten/Datenbanken/Basics/Anomalien.md",
     "IT/Daten/Datenbanken/Relational Databases/_Relationale Datenbanken.md",
     "IT/Daten/Datenbanken/_Datenbanken.md",
     "IT/Daten/Datenbanken/Basics/9 Regeln von Codd.md",
@@ -246,7 +250,6 @@
     "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen/_Symmetrische Verschlüsselung.md",
     "IT/IT Security/Theoretical Security/Kryptografie/Asymmetrische Algorithmen",
     "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen/Digitale Signaturen.md",
-    "IT/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Hashing/Hashfunktion.md",
     "Diverses/Bachelorprüfung/Stichwortlisten/Algorithmen und Datenstrukturen.md",
     "IT/IT Security/Kerkhoffs Prinzip.md",
     "Diverses/Bachelorprüfung/Echte Prüfungsfragen.md",
@@ -257,9 +260,6 @@
     "IT/Daten/Datennetze/Schichten/ISOOSI/Sicherungsschicht.md",
     "IT/Daten/Datennetze/Schichten/ISOOSI/Bitübertragungsschicht.md",
     "IT/Daten/Datenbanken/Relational Databases/Systemarchitektur/Schichten.md",
-    "IT/Daten/Datennetze/Schichten/ISOOSI/ISO-OSI-Referenzmodell.md",
-    "IT/Daten/Algorithmen-Datenstrukturen/Teile-und-Herrsche-Prinzip.md",
-    "Diverses/Bachelorprüfung/Stichwortlisten.md",
     "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen",
     "github.pub",
     "github",
@@ -267,7 +267,6 @@
     "IT/Programmierung/OOP",
     "IT/Systeme/ERP-Systeme/Technische Grundlagen",
     "IT/Systeme/ERP-Systeme/Modularität",
-    "IT/IT Security/Practical Security/Abwehrstrategien",
     "Excalidraw/Scripts/Downloaded/Concatenate lines.svg",
     "IT/Systeme/Architektur von Informationssystemen/zzDrawings/zZDrawing_Flynn_SISD.png"
   ]

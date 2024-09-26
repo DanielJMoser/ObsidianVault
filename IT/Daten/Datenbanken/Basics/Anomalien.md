@@ -28,7 +28,7 @@ Die Hauptursache für Anomalien ist ein **schlecht normalisiertes Datenbankschem
 Anomalien lassen sich weitgehend durch eine sorgfältige Normalisierung und durchdachte Modellierung der Datenbankstrukturen vermeiden. Die wichtigsten Maßnahmen sind:
 
 1. **Normalisierung:**
-   - Durch die Normalisierung wird die Datenbank in eine Form gebracht, in der Redundanzen minimiert werden. Dabei werden die Daten auf verschiedene Tabellen verteilt, die durch Beziehungen miteinander verknüpft sind. Die wichtigsten Normalformen (1NF, 2NF, 3NF, BCNF) helfen, Datenredundanz und Inkonsistenzen zu vermeiden.
+   - Durch die Normalisierung wird die Datenbank in eine Form gebracht, in der Redundanzen minimiert werden. Dabei werden die Daten auf verschiedene Tabellen verteilt, die durch Beziehungen miteinander verknüpft sind. Die wichtigsten [[Normalformen]] (1NF, 2NF, 3NF, BCNF) helfen, Datenredundanz und Inkonsistenzen zu vermeiden.
 
 2. **Verwendung von Primär- und Fremdschlüsseln:**
    - Die Implementierung von Primär- und Fremdschlüsseln stellt sicher, dass Beziehungen zwischen Tabellen korrekt und konsistent verwaltet werden. Dies hilft, Anomalien zu vermeiden, indem klare Verknüpfungen zwischen Daten hergestellt werden.
@@ -40,7 +40,9 @@ Anomalien lassen sich weitgehend durch eine sorgfältige Normalisierung und durc
    - Durch die Festlegung von Integritätsregeln, wie Unique-Constraints, Not-Null-Constraints oder Check-Constraints, wird die Korrektheit und Konsistenz der Daten gewahrt.
 
 ## Zusammenfassung und Bedeutung
-Anomalien in Datenbanken können die Datenintegrität erheblich beeinträchtigen und die Zuverlässigkeit der gespeicherten Informationen mindern. Sie entstehen hauptsächlich durch schlecht entworfene Datenbankschemata und mangelnde Normalisierung. Durch die Anwendung von Normalisierungsprinzipien, eine sorgfältige Modellierung und den Einsatz von Integritätsregeln können Anomalien vermieden oder minimiert werden. Ein gut durchdachtes Datenbankdesign ist daher entscheidend für die Erstellung robuster und effizienter Datenbanksysteme, die zuverlässige und konsistente Daten gewährleisten.
+Anomalien in Datenbanken können die Datenintegrität erheblich beeinträchtigen und die Zuverlässigkeit der gespeicherten Informationen mindern. Sie entstehen hauptsächlich durch schlecht entworfene Datenbankschemata und mangelnde Normalisierung. 
+
+Durch die Anwendung von Normalisierungsprinzipien, eine sorgfältige Modellierung und den Einsatz von Integritätsregeln können Anomalien vermieden oder minimiert werden. Ein gut durchdachtes Datenbankdesign ist daher entscheidend für die Erstellung robuster und effizienter Datenbanksysteme, die zuverlässige und konsistente Daten gewährleisten.
 
 ---
 
