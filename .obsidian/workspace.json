@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Systeme/Soziotechnische Systeme/Systemmodellierung.md",
+                "file": "IT/Daten/Datennetze/Schichten/ISOOSI/ISO-OSI-Referenzmodell.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,16 +106,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b9c51289a0953792",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "40eb757279a41966",
             "type": "leaf",
             "state": {
@@ -129,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "anoma",
+                "query": "iso",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,8 +127,19 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "b9c51289a0953792",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -158,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Systeme/Soziotechnische Systeme/Systemmodellierung.md",
+                "file": "IT/Daten/Datennetze/Schichten/ISOOSI/ISO-OSI-Referenzmodell.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -175,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Systeme/Soziotechnische Systeme/Systemmodellierung.md",
+                "file": "IT/Daten/Datennetze/Schichten/ISOOSI/ISO-OSI-Referenzmodell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Systeme/Soziotechnische Systeme/Systemmodellierung.md"
+                "file": "IT/Daten/Datennetze/Schichten/ISOOSI/ISO-OSI-Referenzmodell.md"
               }
             }
           },
@@ -229,10 +230,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ed14e5b03b8893db",
+  "active": "e9c52b4733e141fa",
   "lastOpenFiles": [
-    "IT/Programmierung/Python/_Python.md",
     "IT/Systeme/Soziotechnische Systeme/Systemmodellierung.md",
+    "IT/Programmierung/Python/_Python.md",
     "IT/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Hashing/Hashfunktion.md",
     "IT/Programmierung/Python",
     "IT/Daten/Datenbanken/Basics/Anomalien.md",
