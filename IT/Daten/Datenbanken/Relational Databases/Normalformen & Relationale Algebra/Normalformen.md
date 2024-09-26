@@ -6,7 +6,7 @@ Die wichtigsten Normalformen sind die **1. Normalform (1NF)**, **2. Normalform (
 # 1. Normalform (1NF)
 ## Definition
 Eine Tabelle befindet sich in der **1. Normalform**, wenn:
-- Alle Attribute atomar sind, das heißt, jedes Attribut enthält nur unteilbare Werte (keine wiederholten Gruppen oder Arrays).
+- Alle Attribute atomar sind, das heißt, jedes Attribut enthält nur unteilbare Werte (keine wiederholten Gruppen oder [[Arrays]]).
 - Alle Einträge in einer Spalte den gleichen Datentyp haben.
 - Jedes Attribut einen eindeutigen Namen hat, und die Reihenfolge der Speicherung keine Bedeutung hat.
 

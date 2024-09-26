@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Systeme/Soziotechnische Systeme/OLTP.md",
+                "file": "IT/Daten/Datenbanken/Relational Databases/Normalformen & Relationale Algebra/Normalformen.md",
                 "mode": "source",
                 "source": false
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Systeme/Soziotechnische Systeme/OLTP.md",
+                "file": "IT/Daten/Datenbanken/Relational Databases/Normalformen & Relationale Algebra/Normalformen.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Systeme/Soziotechnische Systeme/OLTP.md",
+                "file": "IT/Daten/Datenbanken/Relational Databases/Normalformen & Relationale Algebra/Normalformen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Systeme/Soziotechnische Systeme/OLTP.md"
+                "file": "IT/Daten/Datenbanken/Relational Databases/Normalformen & Relationale Algebra/Normalformen.md"
               }
             }
           },
@@ -232,8 +232,8 @@
   },
   "active": "ed14e5b03b8893db",
   "lastOpenFiles": [
-    "IT/Systeme/Soziotechnische Systeme/OLAP.md",
     "IT/Systeme/Soziotechnische Systeme/OLTP.md",
+    "IT/Systeme/Soziotechnische Systeme/OLAP.md",
     "IT/Systeme/Soziotechnische Systeme/Systemmodellierung.md",
     "IT/Systeme/Soziotechnische Systeme/_Soziotechnische Systeme.md",
     "IT/Daten/Datennetze/Schichten/ISOOSI/ISO-OSI-Referenzmodell.md",

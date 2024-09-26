@@ -9,7 +9,7 @@ OLTP ist eine Technologie, die für die **Verarbeitung von Transaktionen** in Ec
 - **Schnelle Antwortzeiten**: Da Transaktionen in Echtzeit verarbeitet werden, müssen die Systeme sehr kurze Antwortzeiten bieten.
 
 ### Eigenschaften von OLTP:
-- **Normalisierte Datenbanken**: OLTP-Datenbanken sind oft stark **normalisiert** (z. B. in 3. Normalform), um Redundanz zu minimieren und die Datenintegrität zu gewährleisten.
+- **Normalisierte Datenbanken**: OLTP-Datenbanken sind oft stark **normalisiert** (z. B. in [[Normalformen#3. Normalform (3NF)|3. Normalform]]), um Redundanz zu minimieren und die Datenintegrität zu gewährleisten.
 - **Gleichzeitiger Zugriff**: OLTP-Systeme unterstützen eine hohe Anzahl von **gleichzeitigen Zugriffen** und Transaktionen von vielen Benutzern gleichzeitig.
 - **Kurze, einfache Abfragen**: OLTP-Transaktionen bestehen meist aus **kurzen Abfragen**, die nur auf wenigen Datensätzen basieren, im Gegensatz zu den oft komplexen Abfragen bei OLAP.
 
