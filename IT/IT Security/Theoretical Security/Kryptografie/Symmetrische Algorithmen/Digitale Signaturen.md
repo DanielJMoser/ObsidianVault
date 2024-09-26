@@ -38,7 +38,7 @@ Digitale Signaturen basieren auf **[[_Asymmetrische Verschlüsselung|asymmetrisc
 
 ## Anwendungsgebiete
 
-- **E-Mail-Sicherheit:** Sicherung und Signierung von E-Mails (z. B. mit **S/MIME** oder **PGP**).
+- **E-Mail-Sicherheit:** Sicherung und Signierung von E-Mails (z. B. mit **S/MIME** oder **[[PGP]]**).
 - **Software-Verteilung:** Signierung von Softwarepaketen zur Verifizierung der Quelle (z. B. bei Updates).
 - **Elektronische Verträge:** Rechtlich bindende digitale Unterzeichnungen von Dokumenten.
 - **Blockchain-Technologie:** Verifikation von Transaktionen in Kryptowährungen.

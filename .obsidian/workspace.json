@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Daten/Datennetze/Schichten/ISOOSI/ISO-OSI-Referenzmodell.md",
+                "file": "IT/Systeme/Soziotechnische Systeme/OLTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,45 +42,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7be8a20890796e98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Daten/Datennetze/Schichten/TCPIP/Vermittlungsschicht.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2695a803e8f629ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Daten/Algorithmen-Datenstrukturen/Teile-und-Herrsche-Prinzip.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f25b7b0fcd475539",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diverses/Bachelorprüfung/Stichwortlisten.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen/Digitale Signaturen.md",
+                "file": "IT/Systeme/Soziotechnische Systeme/OLTP.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -164,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen/Digitale Signaturen.md",
+                "file": "IT/Systeme/Soziotechnische Systeme/OLTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen/Digitale Signaturen.md"
+                "file": "IT/Systeme/Soziotechnische Systeme/OLTP.md"
               }
             }
           },
@@ -218,11 +181,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2a5e0e840a0bfd79",
+  "active": "3b9eaf5fdbe73c0e",
   "lastOpenFiles": [
+    "IT/Daten/Datennetze/Schichten/ISOOSI/Sicherungsschicht.md",
+    "IT/Daten/Datennetze/Verfahren/Multiplexing.md",
+    "IT/Daten/Datennetze/Verfahren/Multiple Access.md",
+    "IT/Daten/Datennetze/Verfahren/Frequency Division.md",
+    "IT/Daten/Datennetze/Verfahren/Exotischere Verfahren.md",
+    "IT/Daten/Datennetze/Verfahren/Code Division.md",
+    "IT/Daten/Datennetze/IP-Header.md",
     "IT/Daten/Datennetze/Schichten/ISOOSI/ISO-OSI-Referenzmodell.md",
-    "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen/Digitale Signaturen.md",
     "IT/Daten/Datenbanken/Basics/Anomalien.md",
+    "Diverses/Bachelorprüfung/Stichwortlisten.md",
+    "IT/Daten/Algorithmen-Datenstrukturen/Teile-und-Herrsche-Prinzip.md",
+    "IT/Daten/Datennetze/Schichten/TCPIP/Vermittlungsschicht.md",
+    "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen/Digitale Signaturen.md",
     "IT/Daten/Datenbanken/Relational Databases/Normalformen & Relationale Algebra/Normalformen.md",
     "IT/Systeme/Soziotechnische Systeme/OLTP.md",
     "IT/Systeme/Soziotechnische Systeme/OLAP.md",
@@ -237,18 +210,8 @@
     "IT/Daten/Datenbanken/Basics/9 Regeln von Codd.md",
     "IT/Daten/Datenbanken/Relational Databases/JDBC/Driver.md",
     "IT/Daten/Datenbanken/Relational Databases/JDBC/Connection.md",
-    "IT/Daten/Datenbanken/Relational Databases/JDBC/_JDBC.md",
-    "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/PGP.md",
-    "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen/DES.md",
     "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen",
-    "IT/IT Security/Theoretical Security/Kryptografie/Asymmetrische Algorithmen/_Asymmetrische Verschlüsselung.md",
-    "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen/_Symmetrische Verschlüsselung.md",
     "IT/IT Security/Theoretical Security/Kryptografie/Asymmetrische Algorithmen",
-    "Diverses/Bachelorprüfung/Stichwortlisten/Algorithmen und Datenstrukturen.md",
-    "IT/IT Security/Kerkhoffs Prinzip.md",
-    "Diverses/Bachelorprüfung/Echte Prüfungsfragen.md",
-    "IT/Daten/Datennetze/Schichten/TCPIP/Transportschicht.md",
-    "IT/Daten/Datennetze/Schichten/TCPIP/Anwendunggschicht.md",
     "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen",
     "github.pub",
     "github",
