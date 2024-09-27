@@ -8,10 +8,8 @@
 - Development of mobile application **Dogify**.
 
 ---
-
 ## Impediment
-- Efforts halted by restrictions of **Spot SDK**:
-  - Believable recreation of poses -> **fine-grained** control necessary!
-  - No way to control **individual joints** via Spot SDK.
-  - Possible solution: **Joint API** (Beta)
-- 
+#### Efforts halted by restrictions of **Spot SDK**:
+- Believable recreation of poses -> **fine-grained** control necessary!
+- No way to control **individual joints** via Spot SDK.
+- Possible solution: **Joint API** (Beta)
