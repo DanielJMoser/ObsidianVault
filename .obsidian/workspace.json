@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/IT Security/Theoretical Security/Data Encryption Standard (DES).md",
+                "file": "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen/Digitale Signaturen.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/IT Security/Theoretical Security/Data Encryption Standard (DES).md",
+                "file": "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen/Digitale Signaturen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/IT Security/Theoretical Security/Data Encryption Standard (DES).md"
+                "file": "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen/Digitale Signaturen.md"
               }
             }
           },
@@ -181,8 +182,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3b9eaf5fdbe73c0e",
+  "active": "2a5e0e840a0bfd79",
   "lastOpenFiles": [
+    "IT/IT Security/Theoretical Security/Data Encryption Standard (DES).md",
     "IT/IT Security/Theoretical Security/Kryptografie/Asymmetrische Algorithmen/_Asymmetrische Verschlüsselung.md",
     "Diverses/Bachelorprüfung/Echte Prüfungsfragen.md",
     "IT/Daten/Datennetze/Schichten/ISOOSI/ISO-OSI-Referenzmodell.md",
@@ -208,7 +210,6 @@
     "IT/Daten/Datenbanken/Relational Databases/Normalformen & Relationale Algebra/Normalformen.md",
     "IT/Systeme/Soziotechnische Systeme/Systemmodellierung.md",
     "IT/Systeme/Soziotechnische Systeme/_Soziotechnische Systeme.md",
-    "IT/Programmierung/Python/_Python.md",
     "IT/Programmierung/Python",
     "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen",
     "IT/IT Security/Theoretical Security/Kryptografie/Asymmetrische Algorithmen",
