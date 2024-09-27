@@ -11,4 +11,4 @@
 
 ## Change in focus
 - Efforts halted by restrictions of **Spot SDK**
-- 
+  - 
