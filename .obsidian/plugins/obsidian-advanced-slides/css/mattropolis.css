@@ -185,6 +185,7 @@
 .reveal strong,
 .reveal b {
   font-weight: bold;
+  color: #a6e3a1;
 }
 .reveal em {
   font-style: italic;
