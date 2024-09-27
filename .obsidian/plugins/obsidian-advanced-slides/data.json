@@ -8,7 +8,7 @@
   "enablePointer": false,
   "enableTimeBar": true,
   "theme": "css/catppuccin-mocha.css",
-  "highlightTheme": "",
+  "highlightTheme": "css/catppuccin-mocha.css",
   "transition": "slide",
   "transitionSpeed": "default",
   "controls": true,
@@ -16,6 +16,6 @@
   "slideNumber": false,
   "showGrid": false,
   "autoComplete": "inPreview",
-  "paneMode": "split",
+  "paneMode": "tab",
   "motm": "2024-09-27T13:53:30.915Z"
 }
