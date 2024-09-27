@@ -33,15 +33,8 @@
 ## Literature Review
 #### Studies on dog-like social robots
 - Two highly successful examples were examined: **TheraBot, aibo/AIBO**
-- Common traits that were hypothesised to help facilitate a **comfortable UX** include:
-  - Sophisticated facial features
-  - Movable neck
-  - "Life-like" behaviors
+- Common traits include a **movable neck** and **sophisticated facial features**.
 - Spot **lacks** these features!
-
-
-
-
 
 ---
 ## Summary
