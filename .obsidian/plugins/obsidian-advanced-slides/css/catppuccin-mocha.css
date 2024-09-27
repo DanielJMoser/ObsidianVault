@@ -38,6 +38,11 @@
   --r-heading1-text-shadow: none;
   --r-heading1-color: var(--ctp-mocha-mauve);
   --r-heading2-color: var(--ctp-mocha-peach);
+  --r-bold-color: var(--ctp-mocha-green); /* Green for bold text */
+
+  /* Adjust heading sizes */
+  --r-heading1-size: 6em; /* H1 is very big */
+  --r-heading2-size: 3.5em; /* H2 is smaller than H1 */
 }
 
 /* General background and text colors */
@@ -78,6 +83,13 @@
 .reveal h6 {
   color: var(--r-heading-color);
   font-weight: normal;
+}
+
+/* Bold Text (using green) */
+.reveal strong,
+.reveal b {
+  font-weight: bold;
+  color: var(--r-bold-color);
 }
 
 /* Paragraphs and blocks */
