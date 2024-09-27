@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/IT Security/Theoretical Security/Data Encryption Standard (DES).md",
+                "file": "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Diffie-Hellman Key Exchange.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "des",
+                "query": "diffie",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diverses/Bachelorprüfung/Presentation.md",
+                "file": "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Diffie-Hellman Key Exchange.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diverses/Bachelorprüfung/Presentation.md",
+                "file": "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Diffie-Hellman Key Exchange.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diverses/Bachelorprüfung/Presentation.md"
+                "file": "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Diffie-Hellman Key Exchange.md"
               }
             }
           },
@@ -171,13 +170,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2a5e0e840a0bfd79",
+  "active": "3b9eaf5fdbe73c0e",
   "lastOpenFiles": [
-    "IT/Daten/Datenbanken/Basics/Anomalien.md",
-    "Diverses/Bachelorprüfung/Presentation.md",
-    "IT/IT Security/Theoretical Security/Data Encryption Standard (DES).md",
-    "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen/Digitale Signaturen.md",
     "IT/IT Security/Theoretical Security/Kryptografie/Asymmetrische Algorithmen/_Asymmetrische Verschlüsselung.md",
+    "IT/IT Security/Theoretical Security/Data Encryption Standard (DES).md",
+    "Diverses/Bachelorprüfung/Presentation.md",
+    "IT/Daten/Datenbanken/Basics/Anomalien.md",
+    "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen/Digitale Signaturen.md",
     "Diverses/Bachelorprüfung/Echte Prüfungsfragen.md",
     "IT/Daten/Datennetze/Schichten/ISOOSI/ISO-OSI-Referenzmodell.md",
     "IT/Daten/Datennetze/Schichten/ISOOSI/Bitübertragungsschicht.md",
