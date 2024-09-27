@@ -17,20 +17,21 @@
 ---
 ## New Focus
 - **Literature-based** thesis
-- Extensive **literature review** -> a viable endeavour?
+- Extensive **literature review** -> a viable endeavor?
 - **Common traits** in successful dog-like social robots
 - Which ones could be applied with Spot?
 
 ---
-## Literature Review - Spot
-
-- Limited research: Spot and HRI
+## Literature Review
+#### Studies on Spot and HRI
+- Research 
 - Current behavior: **Uncanny Valley-Effect!**
-- "Markers of control" -> leash!
+- "Markers of control" -> Leash!
 - The majority of studies (though not all!) suggest a **limited potential** of HRI.
 
 ---
-
+## Literature Review
+- 
 
 
 
