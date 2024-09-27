@@ -18,4 +18,13 @@
 
 ## New Focus
 - **Literature-based** thesis
-- Strategies, 
+- Extensive **literature review** -> a viable endeavour?
+- **Common traits** in successful dog-like social robots
+- Which ones could be applied with Spot?
+
+---
+
+## Key findings
+- User comfort **can** be enhanced through familiar, animal-like gestures.
+- Spot SDK limitations **restrict** natural dog-like behavior.
+- Future possibilities: Special licenses: **Joint API** for more detailed control.
