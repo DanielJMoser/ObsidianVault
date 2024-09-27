@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Diffie-Hellman Key Exchange.md",
+                "file": "IT/IT Security/Theoretical Security/Data Encryption Standard (DES).md",
                 "mode": "source",
                 "source": false
               }
@@ -58,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "diffie",
+                "query": "Data Encryption Standard",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Diffie-Hellman Key Exchange.md",
+                "file": "IT/IT Security/Theoretical Security/Data Encryption Standard (DES).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Diffie-Hellman Key Exchange.md",
+                "file": "IT/IT Security/Theoretical Security/Data Encryption Standard (DES).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Diffie-Hellman Key Exchange.md"
+                "file": "IT/IT Security/Theoretical Security/Data Encryption Standard (DES).md"
               }
             }
           },
@@ -170,9 +170,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "b9c51289a0953792",
+  "active": "3b9eaf5fdbe73c0e",
   "lastOpenFiles": [
+    "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen/_Symmetrische Verschlüsselung.md",
     "IT/IT Security/Theoretical Security/Kryptografie/Asymmetrische Algorithmen/_Asymmetrische Verschlüsselung.md",
+    "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Diffie-Hellman Key Exchange.md",
     "IT/IT Security/Theoretical Security/Data Encryption Standard (DES).md",
     "Diverses/Bachelorprüfung/Presentation.md",
     "IT/Daten/Datenbanken/Basics/Anomalien.md",
@@ -196,8 +198,6 @@
     "Diverses/Bachelorprüfung/Stichwortlisten.md",
     "IT/Daten/Algorithmen-Datenstrukturen/Teile-und-Herrsche-Prinzip.md",
     "IT/Daten/Datennetze/Schichten/TCPIP/Vermittlungsschicht.md",
-    "IT/Daten/Datenbanken/Relational Databases/Normalformen & Relationale Algebra/Normalformen.md",
-    "IT/Systeme/Soziotechnische Systeme/Systemmodellierung.md",
     "IT/Programmierung/Python",
     "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen",
     "IT/IT Security/Theoretical Security/Kryptografie/Asymmetrische Algorithmen",
