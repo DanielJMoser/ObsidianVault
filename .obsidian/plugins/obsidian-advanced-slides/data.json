@@ -10,7 +10,7 @@
   "theme": "css/mattropolis.css",
   "highlightTheme": "css/mocha.css",
   "transition": "slide",
-  "transitionSpeed": "default",
+  "transitionSpeed": "slow",
   "controls": true,
   "progress": true,
   "slideNumber": true,
