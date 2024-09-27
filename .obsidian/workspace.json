@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen/Digitale Signaturen.md",
+                "file": "Diverses/Bachelorprüfung/Presentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen/Digitale Signaturen.md",
+                "file": "Diverses/Bachelorprüfung/Presentation.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen/Digitale Signaturen.md",
+                "file": "Diverses/Bachelorprüfung/Presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen/Digitale Signaturen.md"
+                "file": "Diverses/Bachelorprüfung/Presentation.md"
               }
             }
           },
@@ -184,6 +184,8 @@
   },
   "active": "2a5e0e840a0bfd79",
   "lastOpenFiles": [
+    "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen/Digitale Signaturen.md",
+    "Diverses/Bachelorprüfung/Presentation.md",
     "IT/IT Security/Theoretical Security/Data Encryption Standard (DES).md",
     "IT/IT Security/Theoretical Security/Kryptografie/Asymmetrische Algorithmen/_Asymmetrische Verschlüsselung.md",
     "Diverses/Bachelorprüfung/Echte Prüfungsfragen.md",
@@ -194,7 +196,6 @@
     "IT/Systeme/Soziotechnische Systeme/OLTP.md",
     "IT/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Hashing/Hashtabelle.md",
     "IT/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Hashing/Hashfunktion.md",
-    "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen/Digitale Signaturen.md",
     "IT/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Hashing/Funktionsweise Hashing.md",
     "IT/Daten/Datennetze/Schichten/ISOOSI/Sicherungsschicht.md",
     "IT/Daten/Datennetze/Verfahren/Multiplexing.md",
@@ -209,7 +210,6 @@
     "IT/Daten/Datennetze/Schichten/TCPIP/Vermittlungsschicht.md",
     "IT/Daten/Datenbanken/Relational Databases/Normalformen & Relationale Algebra/Normalformen.md",
     "IT/Systeme/Soziotechnische Systeme/Systemmodellierung.md",
-    "IT/Systeme/Soziotechnische Systeme/_Soziotechnische Systeme.md",
     "IT/Programmierung/Python",
     "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen",
     "IT/IT Security/Theoretical Security/Kryptografie/Asymmetrische Algorithmen",
