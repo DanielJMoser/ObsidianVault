@@ -23,10 +23,12 @@
 
 ---
 
-## Literature Review
+## Literature Review - Spot
 - Limited research: Spot an HRI
+- Current behavior: **Uncanny Valley-Effect!**
 - 
-- Spot's current behavior: Uncanny Valley-Effect 
+
+The majority of studies (though not all!) suggest a **limited potential** of HRI.
 
 ---
 ## Summary
