@@ -1,6 +1,6 @@
 # It Doesn’t Byte: 
-## Unleashing Spot’s Potential in Human-Robot-Interaction
-#### 
+## Unleashing Spot’s Potential in 
+## Human-Robot-Interaction
 ---
 ## Objective
 - Investigate how **dog-like behavior** can improve HRI.
