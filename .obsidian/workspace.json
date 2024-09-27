@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -170,7 +170,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "3b9eaf5fdbe73c0e",
+  "active": "b9c51289a0953792",
   "lastOpenFiles": [
     "IT/IT Security/Theoretical Security/Kryptografie/Asymmetrische Algorithmen/_Asymmetrische Verschlüsselung.md",
     "IT/IT Security/Theoretical Security/Data Encryption Standard (DES).md",
