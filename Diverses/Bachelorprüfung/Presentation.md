@@ -24,8 +24,9 @@
 ---
 
 ## Literature Review
-- Spot's current behavior -> **Uncanny Valley-Effect**
+- Limited research: Spot an HRI
 - 
+- Spot's current behavior: Uncanny Valley-Effect 
 
 ---
 ## Summary
