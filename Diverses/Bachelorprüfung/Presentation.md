@@ -24,9 +24,9 @@
 ---
 
 ## Literature Review - Spot
-- Limited research: Spot an HRI
+- Limited research: Spot and HRI
 - Current behavior: **Uncanny Valley-Effect!**
-- 
+- "Markers of control" -> leash!
 
 The majority of studies (though not all!) suggest a **limited potential** of HRI.
 

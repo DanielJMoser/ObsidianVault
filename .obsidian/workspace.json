@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,7 +179,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2a5e0e840a0bfd79",
+  "active": "ed8a944f72f949e7",
   "lastOpenFiles": [
     "IT/Daten/Datenbanken/Basics/Anomalien.md",
     "Diverses/Bachelorprüfung/Presentation.md",
