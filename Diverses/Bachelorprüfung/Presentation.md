@@ -24,13 +24,15 @@
 ---
 ## Literature Review
 #### Studies on Spot and HRI
-- Research 
+- At this time: **Very limited!** 
 - Current behavior: **Uncanny Valley-Effect!**
 - "Markers of control" -> Leash!
 - The majority of studies (though not all!) suggest a **limited potential** of HRI.
 
 ---
 ## Literature Review
+#### Studies on dog-like social robots
+- Successful examples: **TheraBot, aibo/AIBO**
 - 
 
 
