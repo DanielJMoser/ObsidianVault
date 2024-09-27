@@ -7,7 +7,7 @@
   "enableMenu": false,
   "enablePointer": false,
   "enableTimeBar": true,
-  "theme": "",
+  "theme": "css/catppuccin-mocha.css",
   "highlightTheme": "",
   "transition": "slide",
   "transitionSpeed": "default",
