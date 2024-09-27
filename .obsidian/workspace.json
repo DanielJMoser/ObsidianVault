@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diverses/Bachelorprüfung/Presentation.md",
+                "file": "IT/Systeme/Soziotechnische Systeme/OLAP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -58,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Data Encryption Standard",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/IT Security/Theoretical Security/Data Encryption Standard (DES).md",
+                "file": "IT/Systeme/Soziotechnische Systeme/OLAP.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/IT Security/Theoretical Security/Data Encryption Standard (DES).md",
+                "file": "IT/Systeme/Soziotechnische Systeme/OLAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/IT Security/Theoretical Security/Data Encryption Standard (DES).md"
+                "file": "IT/Systeme/Soziotechnische Systeme/OLAP.md"
               }
             }
           },
@@ -170,13 +171,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "3b9eaf5fdbe73c0e",
+  "active": "2a5e0e840a0bfd79",
   "lastOpenFiles": [
+    "Diverses/Bachelorprüfung/Stichwortlisten/Architektur von Informationssystemen.md",
+    "Diverses/Bachelorprüfung/Presentation.md",
+    "IT/IT Security/Theoretical Security/Data Encryption Standard (DES).md",
     "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen/_Symmetrische Verschlüsselung.md",
     "IT/IT Security/Theoretical Security/Kryptografie/Asymmetrische Algorithmen/_Asymmetrische Verschlüsselung.md",
     "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Diffie-Hellman Key Exchange.md",
-    "IT/IT Security/Theoretical Security/Data Encryption Standard (DES).md",
-    "Diverses/Bachelorprüfung/Presentation.md",
     "IT/Daten/Datenbanken/Basics/Anomalien.md",
     "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen/Digitale Signaturen.md",
     "Diverses/Bachelorprüfung/Echte Prüfungsfragen.md",
@@ -197,7 +199,6 @@
     "IT/Daten/Datennetze/IP-Header.md",
     "Diverses/Bachelorprüfung/Stichwortlisten.md",
     "IT/Daten/Algorithmen-Datenstrukturen/Teile-und-Herrsche-Prinzip.md",
-    "IT/Daten/Datennetze/Schichten/TCPIP/Vermittlungsschicht.md",
     "IT/Programmierung/Python",
     "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen",
     "IT/IT Security/Theoretical Security/Kryptografie/Asymmetrische Algorithmen",
