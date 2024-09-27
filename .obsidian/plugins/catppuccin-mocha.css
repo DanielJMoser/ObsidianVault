@@ -1,4 +1,4 @@
-﻿@import "https://fonts.googleapis.com/css?family=News+Cycle:400,700";
+@import "https://fonts.googleapis.com/css?family=News+Cycle:400,700";
 @import "https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic";
 
 /* Catppuccin Mocha Colors */
@@ -88,6 +88,29 @@
 .reveal p {
   margin: var(--r-block-margin) 0;
   line-height: 1.3;
+}
+
+/* Highlighted text in running text (bold wrapped in asterisks) */
+.reveal p strong, 
+.reveal p b {
+  color: var(--ctp-mocha-green); /* Green for highlighted text */
+}
+
+/* Retain default bold styling for non-paragraph bold text */
+.reveal h1 strong, 
+.reveal h1 b,
+.reveal h2 strong, 
+.reveal h2 b,
+.reveal h3 strong, 
+.reveal h3 b,
+.reveal h4 strong, 
+.reveal h4 b,
+.reveal h5 strong, 
+.reveal h5 b,
+.reveal h6 strong, 
+.reveal h6 b {
+  color: inherit; /* Inherits normal heading color */
+  font-weight: bold;
 }
 
 /* Links */
