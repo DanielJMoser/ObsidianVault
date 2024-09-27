@@ -24,7 +24,10 @@
 
 ---
 
-## Key findings
+
+
+---
+## Summary
 - User comfort **can** be enhanced through familiar, animal-like gestures.
 - Spot SDK limitations **restrict** natural dog-like behavior.
 - Future possibilities: Special licenses: **Joint API** for more detailed control.
