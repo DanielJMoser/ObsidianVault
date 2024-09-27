@@ -32,8 +32,9 @@
 ---
 ## Literature Review
 #### Studies on dog-like social robots
-- Successful examples: **TheraBot, aibo/AIBO**
-- 
+- Two highly successful examples were examined: **TheraBot, aibo/AIBO**
+- Common traits include:  Sophisticated facial features, movable neck, "Life-like" behaviors, ...
+- Spot **lacks** these features!
 
 
 
