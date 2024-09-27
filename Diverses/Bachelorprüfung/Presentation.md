@@ -15,7 +15,6 @@
 - Possible solution: **Joint API** (Beta)
 
 ---
-
 ## New Focus
 - **Literature-based** thesis
 - Extensive **literature review** -> a viable endeavour?
@@ -24,7 +23,9 @@
 
 ---
 
-
+## Literature Review
+- Spot's current behavior -> **Uncanny Valley-Effect**
+- 
 
 ---
 ## Summary
