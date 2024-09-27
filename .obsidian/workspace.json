@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "e5125f81819c804b",
+            "id": "1ad0427b2d5fe70d",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -191,11 +191,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "e5125f81819c804b",
+  "active": "2a5e0e840a0bfd79",
   "lastOpenFiles": [
-    "IT/IT Security/Theoretical Security/Data Encryption Standard (DES).md",
-    "Diverses/Bachelorprüfung/Presentation.md",
     "IT/Daten/Datenbanken/Basics/Anomalien.md",
+    "Diverses/Bachelorprüfung/Presentation.md",
+    "IT/IT Security/Theoretical Security/Data Encryption Standard (DES).md",
     "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen/Digitale Signaturen.md",
     "IT/IT Security/Theoretical Security/Kryptografie/Asymmetrische Algorithmen/_Asymmetrische Verschlüsselung.md",
     "Diverses/Bachelorprüfung/Echte Prüfungsfragen.md",

@@ -160,11 +160,7 @@
   color: var(--ctp-mocha-lavender);
 }
 
-/* Progress bar */
-.reveal .progress {
-  background: var(--ctp-mocha-surface0);
-  color: var(--ctp-mocha-text);
-}
+/* Ensure bold text wrapped in double asterisks is green in running text */ .reveal p strong, .reveal p b { color: var(--ctp-mocha-green); /* Green for highlighted text */ } /* Retain default bold styling for non-paragraph bold text */ .reveal h1 strong, .reveal h1 b, .reveal h2 strong, .reveal h2 b, .reveal h3 strong, .reveal h3 b, .reveal h4 strong, .reveal h4 b, .reveal h5 strong, .reveal h5 b, .reveal h6 strong, .reveal h6 b { color: inherit; /* Inherits normal heading color */ font-weight: bold; }
 
 /* Print styles */
 @media print {
