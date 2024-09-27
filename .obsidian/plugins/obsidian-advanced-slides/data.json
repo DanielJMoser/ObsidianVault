@@ -7,7 +7,7 @@
   "enableMenu": false,
   "enablePointer": false,
   "enableTimeBar": true,
-  "theme": "solarized",
+  "theme": "mattropolis",
   "highlightTheme": "css/catppuccin-mocha.css",
   "transition": "slide",
   "transitionSpeed": "default",

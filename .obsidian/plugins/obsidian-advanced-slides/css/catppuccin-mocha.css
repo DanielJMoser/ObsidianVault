@@ -43,6 +43,11 @@
   /* Adjust heading sizes */
   --r-heading1-size: 6em; /* H1 is very big */
   --r-heading2-size: 3.5em; /* H2 is smaller than H1 */
+
+  /* Ensure bold text wrapped in double asterisks is green in running text */
+.reveal p strong, 
+.reveal p b {
+  color: var(--ctp-mocha-green); /* Green for highlighted text */
 }
 
 /* General background and text colors */
