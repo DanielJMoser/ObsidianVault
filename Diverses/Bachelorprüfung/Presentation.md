@@ -9,7 +9,7 @@
 
 ---
 ## Impediment
-#### Efforts halted by restrictions of **Spot SDK**:
+#### Restrictions imposed by Spot SDK:
 - Believable recreation of poses -> **fine-grained** control necessary!
 - No way to control **individual joints** via Spot SDK
 - Possible solution: **Joint API** (Beta)
@@ -22,13 +22,19 @@
 - Which ones could be applied with Spot?
 
 ---
-
 ## Literature Review - Spot
+
 - Limited research: Spot and HRI
 - Current behavior: **Uncanny Valley-Effect!**
 - "Markers of control" -> leash!
+- The majority of studies (though not all!) suggest a **limited potential** of HRI.
 
-The majority of studies (though not all!) suggest a **limited potential** of HRI.
+---
+
+
+
+
+
 
 ---
 ## Summary
