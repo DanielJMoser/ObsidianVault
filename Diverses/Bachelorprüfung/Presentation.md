@@ -17,9 +17,9 @@
 ---
 ## New Focus
 - **Literature-based** thesis
-- Extensive **literature review** -> a viable endeavor?
+- Extensive **literature review** -> viable endeavour?
 - **Common traits** in successful dog-like social robots
-- Which ones could be applied with Spot?
+- Which ones could be applied to Spot?
 
 ---
 ## Literature Review
@@ -33,7 +33,10 @@
 ## Literature Review
 #### Studies on dog-like social robots
 - Two highly successful examples were examined: **TheraBot, aibo/AIBO**
-- Common traits include:  Sophisticated facial features, movable neck, "Life-like" behaviors, ...
+- Common traits that were hypothesised to help facilitate a **comfortable UX** include:
+  - Sophisticated facial features
+  - Movable neck
+  - "Life-like" behaviors
 - Spot **lacks** these features!
 
 
