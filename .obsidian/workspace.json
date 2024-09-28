@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Systeme/Soziotechnische Systeme/Soziotechnischer Systemstack.md",
+                "file": "IT/Machine Learning/Klausurvorbereitung/15_2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "579a5ad3ba2039f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Systeme/ERP-Systeme/Wertschöpfungskette nach Porter.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Systeme/Soziotechnische Systeme/Soziotechnischer Systemstack.md",
+                "file": "IT/Machine Learning/Klausurvorbereitung/15_2.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Systeme/Soziotechnische Systeme/Soziotechnischer Systemstack.md",
+                "file": "IT/Machine Learning/Klausurvorbereitung/15_2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Systeme/Soziotechnische Systeme/Soziotechnischer Systemstack.md"
+                "file": "IT/Machine Learning/Klausurvorbereitung/15_2.md"
               }
             }
           },
@@ -160,8 +172,10 @@
   },
   "active": "3b9eaf5fdbe73c0e",
   "lastOpenFiles": [
-    "Digital Business/Bachelorprüfung/Echte Prüfungsfragen.md",
     "IT/Systeme/Soziotechnische Systeme/Soziotechnischer Systemstack.md",
+    "IT/Systeme/ERP-Systeme/Wertschöpfungskette nach Porter.md",
+    "IT/Systeme/ERP-Systeme/_Enterprise Software.md",
+    "Digital Business/Bachelorprüfung/Echte Prüfungsfragen.md",
     "Digital Business/BWL/SWOT-Analyse.md",
     "Digital Business/BWL/Business Model Canvas.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/IT-Sicherheit.md",
@@ -184,8 +198,6 @@
     "Digital Business/Bachelorprüfung/Stichwortlisten/Programmiertechnik.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung I.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung 2.md",
-    "Digital Business/Bachelorprüfung/Stichwortlisten/IT-Strategie.md",
-    "Digital Business/Bachelorprüfung/Stichwortlisten/Datennetze.md",
     "Digital Business/BWL",
     "Digital Business",
     "IT/Programmierung/Python",
