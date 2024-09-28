@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital Business/Bachelorprüfung/Stichwortlisten/IT-Sicherheit.md",
+                "file": "Digital Business/BWL/Business Canvas Modell.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital Business/Bachelorprüfung/Stichwortlisten/IT-Sicherheit.md",
+                "file": "Digital Business/BWL/Business Canvas Modell.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital Business/Bachelorprüfung/Stichwortlisten/IT-Sicherheit.md",
+                "file": "Digital Business/BWL/Business Canvas Modell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital Business/Bachelorprüfung/Stichwortlisten/IT-Sicherheit.md"
+                "file": "Digital Business/BWL/Business Canvas Modell.md"
               }
             }
           },
@@ -160,6 +160,8 @@
   },
   "active": "3b9eaf5fdbe73c0e",
   "lastOpenFiles": [
+    "Digital Business/Bachelorprüfung/Stichwortlisten/IT-Sicherheit.md",
+    "Digital Business/BWL/Business Canvas Modell.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Digital Ethics.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Digital Business.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Datenbanken 2 & Big Data.md",
@@ -180,12 +182,10 @@
     "Digital Business/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung I.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung 2.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/IT-Strategie.md",
-    "Digital Business/Bachelorprüfung/Stichwortlisten/IT-Sicherheit.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Datennetze.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Architektur von Informationssystemen.md",
     "Digital Business/Bachelorprüfung/Echte Prüfungsfragen.md",
     "Digital Business/BWL/SWOT-Analyse.md",
-    "IT/IT Security/Theoretical Security/Data Encryption Standard (DES).md",
     "Digital Business/BWL",
     "Digital Business",
     "IT/Programmierung/Python",
