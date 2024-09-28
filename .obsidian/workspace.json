@@ -79,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -171,8 +171,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2a5e0e840a0bfd79",
+  "active": "b9c51289a0953792",
   "lastOpenFiles": [
+    "DiBSE - Diverses",
     "IT/Systeme/ERP-Systeme/Wertschöpfungskette nach Porter.md",
     "Diverses/Bachelorprüfung/Stichwortlisten/Business Solutions.md",
     "Diverses/Bachelorprüfung/Stichwortlisten/Allgemeine Betriebswirtschaftslehre.md",
@@ -198,7 +199,6 @@
     "IT/Daten/Datennetze/Verfahren/Multiple Access.md",
     "IT/Daten/Datennetze/Verfahren/Frequency Division.md",
     "IT/Daten/Datennetze/Verfahren/Exotischere Verfahren.md",
-    "IT/Daten/Datennetze/Verfahren/Code Division.md",
     "IT/Programmierung/Python",
     "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen",
     "IT/IT Security/Theoretical Security/Kryptografie/Asymmetrische Algorithmen",
