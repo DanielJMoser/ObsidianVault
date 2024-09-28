@@ -1,5 +1,3 @@
-# Business Model Canvas
-
 Das **Business Model Canvas** (BMC) ist ein strategisches Management-Tool, das verwendet wird, um Geschäftsmodelle visuell darzustellen. Es wurde von Alexander Osterwalder entwickelt und besteht aus neun Bausteinen, die die wichtigsten Aspekte eines Unternehmens beschreiben. Das Ziel ist es, das Geschäftsmodell klar, einfach und verständlich darzustellen.
 
 ## Die neun Bausteine des Business Model Canvas
