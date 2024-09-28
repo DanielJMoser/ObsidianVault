@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital Business/BWL/Business Model Canvas.md",
+                "file": "Digital Business/Bachelorprüfung/Echte Prüfungsfragen.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital Business/BWL/Business Model Canvas.md",
+                "file": "Digital Business/Bachelorprüfung/Echte Prüfungsfragen.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital Business/BWL/Business Model Canvas.md",
+                "file": "Digital Business/Bachelorprüfung/Echte Prüfungsfragen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital Business/BWL/Business Model Canvas.md"
+                "file": "Digital Business/Bachelorprüfung/Echte Prüfungsfragen.md"
               }
             }
           },
@@ -160,8 +160,9 @@
   },
   "active": "3b9eaf5fdbe73c0e",
   "lastOpenFiles": [
-    "Digital Business/Bachelorprüfung/Stichwortlisten/IT-Sicherheit.md",
+    "Digital Business/BWL/SWOT-Analyse.md",
     "Digital Business/BWL/Business Model Canvas.md",
+    "Digital Business/Bachelorprüfung/Stichwortlisten/IT-Sicherheit.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Digital Ethics.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Digital Business.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Datenbanken 2 & Big Data.md",
@@ -185,7 +186,6 @@
     "Digital Business/Bachelorprüfung/Stichwortlisten/Datennetze.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Architektur von Informationssystemen.md",
     "Digital Business/Bachelorprüfung/Echte Prüfungsfragen.md",
-    "Digital Business/BWL/SWOT-Analyse.md",
     "Digital Business/BWL",
     "Digital Business",
     "IT/Programmierung/Python",
