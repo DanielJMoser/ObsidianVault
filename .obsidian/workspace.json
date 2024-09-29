@@ -103,7 +103,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -195,7 +195,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "586e3a015c87584e",
+  "active": "b9c51289a0953792",
   "lastOpenFiles": [
     "IT/IT Security/Theoretical Security/Kryptografie/Asymmetrische Algorithmen/_Asymmetrische Verschlüsselung.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/IT-Sicherheit.md",
