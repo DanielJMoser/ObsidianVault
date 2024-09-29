@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/IT Security/Theoretical Security/Kryptografie/Asymmetrische Algorithmen/_Asymmetrische Verschlüsselung.md",
+                "file": "IT/IT Security/Theoretical Security/Basics/Schutzziele.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -119,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rsa",
+                "query": "sicherheitsziele",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,7 +139,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -231,21 +231,22 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2e8c3453b12c1d11",
+  "active": "1ef1bb49020095f2",
   "lastOpenFiles": [
+    "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen/Digitale Signaturen.md",
+    "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Diffie-Hellman Key Exchange.md",
+    "IT/IT Security/Theoretical Security/Kryptografie/Asymmetrische Algorithmen/_Asymmetrische Verschlüsselung.md",
+    "Digital Business/Bachelorprüfung/Stichwortlisten/IT-Sicherheit.md",
+    "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Primitive Wurzeln.md",
+    "IT/IT Security/Theoretical Security/Basics/Schutzziele.md",
+    "Digital Business/Bachelorprüfung/Echte Prüfungsfragen.md",
     "IT/IT Security/Theoretical Security/Kryptografie/Kryptografische Hashfunktionen.md",
     "IT/Machine Learning/Learning/Supervised Learning.md",
-    "Digital Business/Bachelorprüfung/Stichwortlisten/IT-Sicherheit.md",
-    "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Diffie-Hellman Key Exchange.md",
-    "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen/Digitale Signaturen.md",
-    "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Primitive Wurzeln.md",
-    "IT/IT Security/Theoretical Security/Kryptografie/Asymmetrische Algorithmen/_Asymmetrische Verschlüsselung.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/IT-Strategie.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung 2.md",
     "IT/Systeme/ERP-Systeme/Wertschöpfungskette nach Porter.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Digital Ethics.md",
     "Digital Business/Bachelorprüfung/Presentation.md",
-    "Digital Business/Bachelorprüfung/Echte Prüfungsfragen.md",
     "IT/Machine Learning/Klausurvorbereitung/15_4.md",
     "IT/Machine Learning/Klausurvorbereitung/15_3.md",
     "IT/Machine Learning/Klausurvorbereitung/15_2.md",
@@ -258,7 +259,6 @@
     "Digital Business/Bachelorprüfung/Stichwortlisten/Datenbanken 1.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Business Solutions.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Betriebssysteme.md",
-    "Digital Business/Bachelorprüfung/Stichwortlisten/Allgemeine Betriebswirtschaftslehre.md",
     "Digital Business/BWL",
     "Digital Business",
     "IT/Programmierung/Python",
