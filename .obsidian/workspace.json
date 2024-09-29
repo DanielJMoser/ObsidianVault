@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Machine Learning/Klausurvorbereitung/15_4.md",
+                "file": "Digital Business/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Machine Learning/Klausurvorbereitung/15_4.md",
+                "file": "Digital Business/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung 2.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Machine Learning/Klausurvorbereitung/15_4.md",
+                "file": "Digital Business/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Machine Learning/Klausurvorbereitung/15_4.md"
+                "file": "Digital Business/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung 2.md"
               }
             }
           },
@@ -184,18 +184,21 @@
   },
   "active": "3b9eaf5fdbe73c0e",
   "lastOpenFiles": [
-    "IT/Machine Learning/Learning/Supervised Learning.md",
+    "Digital Business/Bachelorprüfung/Stichwortlisten/IT-Strategie.md",
+    "Digital Business/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung 2.md",
+    "Digital Business/Bachelorprüfung/Stichwortlisten/IT-Sicherheit.md",
+    "Digital Business/Bachelorprüfung/Stichwortlisten/Digital Ethics.md",
+    "Digital Business/Bachelorprüfung/Presentation.md",
+    "Digital Business/Bachelorprüfung/Echte Prüfungsfragen.md",
     "IT/Machine Learning/Klausurvorbereitung/15_4.md",
+    "IT/Machine Learning/Learning/Supervised Learning.md",
     "IT/Systeme/ERP-Systeme/Wertschöpfungskette nach Porter.md",
     "IT/Machine Learning/Klausurvorbereitung/15_3.md",
     "IT/Machine Learning/Klausurvorbereitung/15_2.md",
     "IT/Systeme/Soziotechnische Systeme/Soziotechnischer Systemstack.md",
     "IT/Systeme/ERP-Systeme/_Enterprise Software.md",
-    "Digital Business/Bachelorprüfung/Echte Prüfungsfragen.md",
     "Digital Business/BWL/SWOT-Analyse.md",
     "Digital Business/BWL/Business Model Canvas.md",
-    "Digital Business/Bachelorprüfung/Stichwortlisten/IT-Sicherheit.md",
-    "Digital Business/Bachelorprüfung/Stichwortlisten/Digital Ethics.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Digital Business.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Datenbanken 2 & Big Data.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Datenbanken 1.md",
@@ -207,9 +210,6 @@
     "Digital Business/Bachelorprüfung/Stichwortlisten/Systemplanung.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Verteilte Systeme.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Software Engineering 2.md",
-    "Digital Business/Bachelorprüfung/Stichwortlisten/Software Engineering 1.md",
-    "Digital Business/Bachelorprüfung/Stichwortlisten/Smart Systems & Machine Learning.md",
-    "Digital Business/Bachelorprüfung/Stichwortlisten/Rechnerstrukturen & Embedded Systems.md",
     "Digital Business/BWL",
     "Digital Business",
     "IT/Programmierung/Python",
