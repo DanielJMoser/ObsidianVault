@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital Business/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung 2.md",
+                "file": "IT/Programmierung/OOP/Polymorphismus.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital Business/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung 2.md",
+                "file": "IT/Programmierung/OOP/Polymorphismus.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital Business/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung 2.md",
+                "file": "IT/Programmierung/OOP/Polymorphismus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital Business/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung 2.md"
+                "file": "IT/Programmierung/OOP/Polymorphismus.md"
               }
             }
           },
@@ -220,6 +220,7 @@
   },
   "active": "3b9eaf5fdbe73c0e",
   "lastOpenFiles": [
+    "Digital Business/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung 2.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/IT-Sicherheit.md",
     "IT/IT Security/Practical Security/Abwehrstrategien/Secure Design Patterns.md",
     "IT/IT Security/Practical Security/Abwehrstrategien/Kerberos.md",
@@ -235,7 +236,6 @@
     "IT/IT Security/Theoretical Security/Kryptografie/Kryptografische Hashfunktionen.md",
     "IT/Machine Learning/Learning/Supervised Learning.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/IT-Strategie.md",
-    "Digital Business/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung 2.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Digital Ethics.md",
     "Digital Business/Bachelorprüfung/Presentation.md",
     "IT/Machine Learning/Klausurvorbereitung/15_4.md",

@@ -6,7 +6,7 @@
 
 ### 1. Subtyp-Polymorphismus (Inklusionspolymorphismus)
 
-- **Vererbung:** Ermöglicht es einer Unterklasse, die Methoden ihrer Oberklasse zu überschreiben oder zu erweitern.
+- **[[Vererbung, Spezialisierung, Generalisierung#Vererbung (Inheritance)|Vererbung]]:** Ermöglicht es einer Unterklasse, die Methoden ihrer Oberklasse zu überschreiben oder zu erweitern.
 - **Interfaces:** Klassen können gemeinsame Schnittstellen implementieren und dadurch polymorph verwendet werden.
 
 ### 2. Ad-hoc-Polymorphismus
