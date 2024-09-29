@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/IT Security/Practical Security/Abwehrstrategien/Kerberos.md",
+                "file": "Digital Business/Bachelorprüfung/Stichwortlisten/IT-Sicherheit.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "605a2265e141ac78",
@@ -146,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/IT Security/Practical Security/Abwehrstrategien/Kerberos.md",
+                "file": "IT/IT Security/Practical Security/Abwehrstrategien/Secure Design Patterns.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -163,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/IT Security/Practical Security/Abwehrstrategien/Kerberos.md",
+                "file": "IT/IT Security/Practical Security/Abwehrstrategien/Secure Design Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/IT Security/Practical Security/Abwehrstrategien/Kerberos.md"
+                "file": "IT/IT Security/Practical Security/Abwehrstrategien/Secure Design Patterns.md"
               }
             }
           },
@@ -218,9 +219,48 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "3b9eaf5fdbe73c0e",
+  "floating": {
+    "id": "ba2ff8731259a9b3",
+    "type": "floating",
+    "children": [
+      {
+        "id": "3b39700db914b9fd",
+        "type": "window",
+        "children": [
+          {
+            "id": "696f9ddb01ab6782",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "334a1d36f1904e03",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "IT/IT Security/Practical Security/Abwehrstrategien/Secure Design Patterns.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1291,
+        "y": 108,
+        "width": 1233,
+        "height": 1296,
+        "maximize": false,
+        "zoom": 2.5
+      }
+    ]
+  },
+  "active": "334a1d36f1904e03",
   "lastOpenFiles": [
     "Digital Business/Bachelorprüfung/Stichwortlisten/IT-Sicherheit.md",
+    "IT/IT Security/Practical Security/Abwehrstrategien/Secure Design Patterns.md",
+    "IT/IT Security/Practical Security/Abwehrstrategien/Kerberos.md",
     "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Diffie-Hellman Key Exchange.md",
     "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Primitive Wurzeln.md",
     "IT/IT Security/Theoretical Security/Kryptografie/Asymmetrische Algorithmen/_Asymmetrische Verschlüsselung.md",
@@ -244,8 +284,6 @@
     "Digital Business/BWL/SWOT-Analyse.md",
     "Digital Business/BWL/Business Model Canvas.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Digital Business.md",
-    "Digital Business/Bachelorprüfung/Stichwortlisten/Datenbanken 2 & Big Data.md",
-    "Digital Business/Bachelorprüfung/Stichwortlisten/Datenbanken 1.md",
     "Digital Business/BWL",
     "Digital Business",
     "IT/Programmierung/Python",
