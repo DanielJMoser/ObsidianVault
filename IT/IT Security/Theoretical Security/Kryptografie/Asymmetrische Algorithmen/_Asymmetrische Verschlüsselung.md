@@ -45,7 +45,7 @@ Die **asymmetrische Verschlüsselung**, auch bekannt als **Public-Key-Kryptograp
 - **DSA (Digital Signature Algorithm):**
   - Speziell für **digitale Signaturen** entwickelt, basiert auf diskreten Logarithmen.
 
-- **Diffie-Hellman-Schlüsselaustausch:**
+- [[Diffie-Hellman Key Exchange]]:**
   - Ein Verfahren zum sicheren Austausch von Schlüsseln über einen unsicheren Kanal.
 
 ## Vorteile
