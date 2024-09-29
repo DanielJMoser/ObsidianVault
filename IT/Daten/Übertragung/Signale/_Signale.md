@@ -1,4 +1,3 @@
-# Signale
 #embeddedsystems 
 
 -> Darstellung einer Information durch eine **zeitveränderliche physikalische**, insbesondere **elektrische Größe** (z.B. Strom, Spannung, Feldstärke,...).

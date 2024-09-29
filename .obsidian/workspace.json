@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Daten/Algorithmen-Datenstrukturen/Sortieralgorithmen/_Wichtige Sortieralgorithmen.md",
+                "file": "IT/Daten/Übertragung/Signale/_Signale.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Diffie-Hellman Key Exchange.md",
+                "file": "IT/Systeme/ERP-Systeme/Wertschöpfungskette nach Porter.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Diffie-Hellman Key Exchange.md",
+                "file": "IT/Daten/Übertragung/Signale/_Signale.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Diffie-Hellman Key Exchange.md",
+                "file": "IT/Daten/Übertragung/Signale/_Signale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Diffie-Hellman Key Exchange.md"
+                "file": "IT/Daten/Übertragung/Signale/_Signale.md"
               }
             }
           },
@@ -219,34 +218,34 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "1847dcbc7e4e2407",
+  "active": "3b9eaf5fdbe73c0e",
   "lastOpenFiles": [
+    "Digital Business/Bachelorprüfung/Stichwortlisten/Rechnerstrukturen & Embedded Systems.md",
+    "Digital Business/Bachelorprüfung/Stichwortlisten/Projekt- & Prozessmanagement.md",
+    "Digital Business/Bachelorprüfung/Stichwortlisten/Programmiertechnik.md",
+    "Digital Business/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung I.md",
+    "Digital Business/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung 2.md",
+    "Digital Business/Bachelorprüfung/Stichwortlisten/IT-Sicherheit.md",
+    "Digital Business/Bachelorprüfung/Stichwortlisten/IT-Strategie.md",
     "IT/Daten/Algorithmen-Datenstrukturen/Sortieralgorithmen/_Wichtige Sortieralgorithmen.md",
+    "IT/Systeme/ERP-Systeme/Wertschöpfungskette nach Porter.md",
+    "Digital Business/Bachelorprüfung/Stichwortlisten/Business Solutions.md",
+    "Digital Business/Bachelorprüfung/Stichwortlisten/Betriebssysteme.md",
+    "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Diffie-Hellman Key Exchange.md",
     "IT/Daten/Algorithmen-Datenstrukturen/Laufzeitkomplexität.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Algorithmen und Datenstrukturen.md",
     "IT/Programmierung/OOP/Polymorphismus.md",
-    "Digital Business/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung 2.md",
-    "Digital Business/Bachelorprüfung/Stichwortlisten/IT-Sicherheit.md",
     "IT/IT Security/Practical Security/Abwehrstrategien/Secure Design Patterns.md",
     "IT/IT Security/Practical Security/Abwehrstrategien/Kerberos.md",
-    "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Diffie-Hellman Key Exchange.md",
     "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Primitive Wurzeln.md",
     "IT/IT Security/Theoretical Security/Kryptografie/Asymmetrische Algorithmen/_Asymmetrische Verschlüsselung.md",
     "IT/IT Security/Theoretical Security/Basics/Schutzziele.md",
-    "IT/Systeme/ERP-Systeme/Wertschöpfungskette nach Porter.md",
     "IT/IT Security/Privacy.md",
     "IT/IT Security/Kerkhoffs Prinzip.md",
     "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen/Digitale Signaturen.md",
     "Digital Business/Bachelorprüfung/Echte Prüfungsfragen.md",
     "IT/IT Security/Theoretical Security/Kryptografie/Kryptografische Hashfunktionen.md",
     "IT/Machine Learning/Learning/Supervised Learning.md",
-    "Digital Business/Bachelorprüfung/Stichwortlisten/IT-Strategie.md",
-    "Digital Business/Bachelorprüfung/Stichwortlisten/Digital Ethics.md",
-    "Digital Business/Bachelorprüfung/Presentation.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_4.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_3.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_2.md",
-    "IT/Systeme/Soziotechnische Systeme/Soziotechnischer Systemstack.md",
     "Digital Business/BWL",
     "Digital Business",
     "IT/Programmierung/Python",
