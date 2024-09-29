@@ -32,7 +32,7 @@ Diese Werte sind **öffentlich** und können von jedem gesehen werden, ohne die 
 
 ## Sicherheit des Verfahrens
 
-Die Sicherheit des Diffie-Hellman-Verfahrens basiert auf dem diskreten Logarithmusproblem, das wie folgt lautet: Angenommen, ein Angreifer kennt $g$, $p$ und die öffentlichen Schlüssel $A$ und $B$, es ist dennoch extrem schwierig, $a$ oder $b$ zu berechnen. Somit kann der gemeinsame Schlüssel $g^{ab} \mod p$ nicht leicht ermittelt werden.
+Die Sicherheit des Diffie-Hellman-Verfahrens basiert auf dem **diskreten Logarithmusproblem**, das wie folgt lautet: Angenommen, ein Angreifer kennt $g$, $p$ und die öffentlichen Schlüssel $A$ und $B$, es ist dennoch extrem schwierig, $a$ oder $b$ zu berechnen. Somit kann der gemeinsame Schlüssel $g^{ab} \mod p$ nicht leicht ermittelt werden.
 
 ## Beispiel
 

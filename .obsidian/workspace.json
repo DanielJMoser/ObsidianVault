@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital Business/Bachelorprüfung/Stichwortlisten/IT-Sicherheit.md",
+                "file": "IT/IT Security/Practical Security/Abwehrstrategien/Kerberos.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,21 +78,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "579a5ad3ba2039f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Systeme/ERP-Systeme/Wertschöpfungskette nach Porter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Diffie-Hellman Key Exchange.md",
+                "file": "IT/IT Security/Practical Security/Abwehrstrategien/Kerberos.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -176,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Diffie-Hellman Key Exchange.md",
+                "file": "IT/IT Security/Practical Security/Abwehrstrategien/Kerberos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Diffie-Hellman Key Exchange.md"
+                "file": "IT/IT Security/Practical Security/Abwehrstrategien/Kerberos.md"
               }
             }
           },
@@ -231,22 +218,22 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "1847dcbc7e4e2407",
+  "active": "3b9eaf5fdbe73c0e",
   "lastOpenFiles": [
+    "Digital Business/Bachelorprüfung/Stichwortlisten/IT-Sicherheit.md",
+    "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Diffie-Hellman Key Exchange.md",
+    "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Primitive Wurzeln.md",
+    "IT/IT Security/Theoretical Security/Kryptografie/Asymmetrische Algorithmen/_Asymmetrische Verschlüsselung.md",
+    "IT/IT Security/Theoretical Security/Basics/Schutzziele.md",
+    "IT/Systeme/ERP-Systeme/Wertschöpfungskette nach Porter.md",
     "IT/IT Security/Privacy.md",
     "IT/IT Security/Kerkhoffs Prinzip.md",
     "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen/Digitale Signaturen.md",
-    "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Primitive Wurzeln.md",
-    "IT/IT Security/Theoretical Security/Kryptografie/Asymmetrische Algorithmen/_Asymmetrische Verschlüsselung.md",
-    "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Diffie-Hellman Key Exchange.md",
-    "Digital Business/Bachelorprüfung/Stichwortlisten/IT-Sicherheit.md",
-    "IT/IT Security/Theoretical Security/Basics/Schutzziele.md",
     "Digital Business/Bachelorprüfung/Echte Prüfungsfragen.md",
     "IT/IT Security/Theoretical Security/Kryptografie/Kryptografische Hashfunktionen.md",
     "IT/Machine Learning/Learning/Supervised Learning.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/IT-Strategie.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung 2.md",
-    "IT/Systeme/ERP-Systeme/Wertschöpfungskette nach Porter.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Digital Ethics.md",
     "Digital Business/Bachelorprüfung/Presentation.md",
     "IT/Machine Learning/Klausurvorbereitung/15_4.md",
