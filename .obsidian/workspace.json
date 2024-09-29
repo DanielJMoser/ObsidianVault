@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Programmierung/OOP/Polymorphismus.md",
+                "file": "IT/Daten/Algorithmen-Datenstrukturen/Sortieralgorithmen/_Wichtige Sortieralgorithmen.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sicherheitsziele",
+                "query": "algo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +127,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Programmierung/OOP/Polymorphismus.md",
+                "file": "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Diffie-Hellman Key Exchange.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -163,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Programmierung/OOP/Polymorphismus.md",
+                "file": "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Diffie-Hellman Key Exchange.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Programmierung/OOP/Polymorphismus.md"
+                "file": "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Diffie-Hellman Key Exchange.md"
               }
             }
           },
@@ -218,8 +219,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "3b9eaf5fdbe73c0e",
+  "active": "1847dcbc7e4e2407",
   "lastOpenFiles": [
+    "IT/Daten/Algorithmen-Datenstrukturen/Sortieralgorithmen/_Wichtige Sortieralgorithmen.md",
+    "IT/Daten/Algorithmen-Datenstrukturen/Laufzeitkomplexität.md",
+    "Digital Business/Bachelorprüfung/Stichwortlisten/Algorithmen und Datenstrukturen.md",
+    "IT/Programmierung/OOP/Polymorphismus.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung 2.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/IT-Sicherheit.md",
     "IT/IT Security/Practical Security/Abwehrstrategien/Secure Design Patterns.md",
@@ -242,10 +247,6 @@
     "IT/Machine Learning/Klausurvorbereitung/15_3.md",
     "IT/Machine Learning/Klausurvorbereitung/15_2.md",
     "IT/Systeme/Soziotechnische Systeme/Soziotechnischer Systemstack.md",
-    "IT/Systeme/ERP-Systeme/_Enterprise Software.md",
-    "Digital Business/BWL/SWOT-Analyse.md",
-    "Digital Business/BWL/Business Model Canvas.md",
-    "Digital Business/Bachelorprüfung/Stichwortlisten/Digital Business.md",
     "Digital Business/BWL",
     "Digital Business",
     "IT/Programmierung/Python",
