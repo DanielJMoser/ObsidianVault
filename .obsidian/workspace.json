@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Machine Learning/Learning/Supervised Learning.md",
+                "file": "IT/IT Security/Theoretical Security/Kryptografie/Kryptografische Hashfunktionen.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen/Digitale Signaturen.md",
+                "file": "IT/IT Security/Theoretical Security/Kryptografie/Kryptografische Hashfunktionen.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen/Digitale Signaturen.md",
+                "file": "IT/IT Security/Theoretical Security/Kryptografie/Kryptografische Hashfunktionen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen/Digitale Signaturen.md"
+                "file": "IT/IT Security/Theoretical Security/Kryptografie/Kryptografische Hashfunktionen.md"
               }
             }
           },
@@ -219,11 +219,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "367a7a472f705ade",
+  "active": "1ef1bb49020095f2",
   "lastOpenFiles": [
-    "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Diffie-Hellman Key Exchange.md",
-    "Digital Business/Bachelorprüfung/Stichwortlisten/IT-Sicherheit.md",
     "IT/Machine Learning/Learning/Supervised Learning.md",
+    "IT/IT Security/Theoretical Security/Kryptografie/Kryptografische Hashfunktionen.md",
+    "Digital Business/Bachelorprüfung/Stichwortlisten/IT-Sicherheit.md",
+    "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Diffie-Hellman Key Exchange.md",
+    "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen/Digitale Signaturen.md",
     "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Primitive Wurzeln.md",
     "IT/IT Security/Theoretical Security/Kryptografie/Asymmetrische Algorithmen/_Asymmetrische Verschlüsselung.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/IT-Strategie.md",
@@ -245,8 +247,6 @@
     "Digital Business/Bachelorprüfung/Stichwortlisten/Business Solutions.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Betriebssysteme.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Allgemeine Betriebswirtschaftslehre.md",
-    "Digital Business/Bachelorprüfung/Stichwortlisten/Algorithmen und Datenstrukturen.md",
-    "Digital Business/Bachelorprüfung/Stichwortlisten/Wissenschaftliches Arbeiten.md",
     "Digital Business/BWL",
     "Digital Business",
     "IT/Programmierung/Python",
