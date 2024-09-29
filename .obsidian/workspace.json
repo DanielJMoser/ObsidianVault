@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/IT Security/Privacy.md",
+                "file": "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Diffie-Hellman Key Exchange.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/IT Security/Privacy.md",
+                "file": "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Diffie-Hellman Key Exchange.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/IT Security/Privacy.md"
+                "file": "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Diffie-Hellman Key Exchange.md"
               }
             }
           },
@@ -231,8 +231,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "367a7a472f705ade",
+  "active": "1847dcbc7e4e2407",
   "lastOpenFiles": [
+    "IT/IT Security/Privacy.md",
     "IT/IT Security/Kerkhoffs Prinzip.md",
     "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen/Digitale Signaturen.md",
     "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Primitive Wurzeln.md",
@@ -258,7 +259,6 @@
     "Digital Business/Bachelorprüfung/Stichwortlisten/Digital Business.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Datenbanken 2 & Big Data.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Datenbanken 1.md",
-    "Digital Business/Bachelorprüfung/Stichwortlisten/Business Solutions.md",
     "Digital Business/BWL",
     "Digital Business",
     "IT/Programmierung/Python",
