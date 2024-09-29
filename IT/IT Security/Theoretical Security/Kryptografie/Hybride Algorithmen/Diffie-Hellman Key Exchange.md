@@ -5,11 +5,7 @@ Der Diffie-Hellman Key Exchange ist ein kryptografisches Protokoll, das es zwei 
 Das Protokoll basiert auf der Schwierigkeit des **diskreten Logarithmusproblems in endlichen Körpern**. Die beiden Parteien, oft als **Alice** und **Bob** bezeichnet, einigen sich auf zwei öffentliche Werte:
 
 - Eine große Primzahl $p$
-- Eine Ganzzahl $g$, die als Generator bezeichnet wird und eine primitive Wurzel modulo $p$ ist. . Eine **primitive Wurzel modulo ppp** ist eine Zahl ggg, die es ermöglicht, durch ihre Potenzen alle nicht-nullen Elemente von Zp\mathbb{Z}_pZp​ zu erzeugen. Mit anderen Worten: Wenn ppp eine Primzahl ist, dann gibt es ein Element ggg in der Gruppe Zp∗\mathbb{Z}_p^*Zp∗​ (die multiplikative Gruppe der Einheiten modulo ppp), sodass jede Zahl x∈{1,2,…,p−1}x \in \{1, 2, \dots, p-1\}x∈{1,2,…,p−1} als Potenz von ggg dargestellt werden kann, d. h.:
-
-gkmod  p=xg^k \mod p = xgkmodp=x
-
-für ein passendes kkk aus {0,1,…,p−2}\{0, 1, \dots, p-2\}{0,1,…,p−2}. Der Wert ggg wird als **primitive Wurzel** bezeichnet, da er der **Generator** dieser Gruppe ist.
+- Eine Ganzzahl $g$, die als Generator bezeichnet wird und eine [[Primitive Wurzeln|primitive Wurzel]] modulo $p$ ist. 
 
 Diese Werte sind **öffentlich** und können von jedem gesehen werden, ohne die Sicherheit des Verfahrens zu beeinträchtigen.
 ## Schritte des Algorithmus
