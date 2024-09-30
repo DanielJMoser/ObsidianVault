@@ -3,7 +3,7 @@
 - [[JDBC PreparedStatement|Prepared Statements]]
 - [[SQL-Injections]]
 - Stored Procedure/Function
-- DB Zugriff via [[JDBC]]
+- DB Zugriff via [[_JDBC|JDBC]]
 - DB Zugriffspatterns: DAO vs. Repository
 - CRUD – Architektur
 - Object-Relational Mapping via Hibernate
