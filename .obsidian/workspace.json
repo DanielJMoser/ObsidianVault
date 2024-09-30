@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/IT Security/Privacy.md",
+                "file": "IT/Systeme/ERP-Systeme/Wertschöpfungskette nach Porter.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/IT Security/Privacy.md",
+                "file": "IT/Systeme/ERP-Systeme/Wertschöpfungskette nach Porter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/IT Security/Privacy.md"
+                "file": "IT/Systeme/ERP-Systeme/Wertschöpfungskette nach Porter.md"
               }
             }
           },
@@ -230,8 +230,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "367a7a472f705ade",
+  "active": "1847dcbc7e4e2407",
   "lastOpenFiles": [
+    "IT/IT Security/Privacy.md",
     "IT/Systeme/ERP-Systeme/Wertschöpfungskette nach Porter.md",
     "IT/Programmierung/Python/_Python.md",
     "IT/Daten/Datennetze/Protokolle/Transportprotokolle/UDP.md",
@@ -257,7 +258,6 @@
     "Digital Business/Bachelorprüfung/Stichwortlisten/IT-Strategie.md",
     "IT/Daten/Algorithmen-Datenstrukturen/Sortieralgorithmen/_Wichtige Sortieralgorithmen.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Business Solutions.md",
-    "Digital Business/Bachelorprüfung/Stichwortlisten/Betriebssysteme.md",
     "Digital Business/BWL",
     "Digital Business",
     "IT/Programmierung/Python",
