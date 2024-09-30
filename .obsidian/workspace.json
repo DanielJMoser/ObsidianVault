@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Machine Learning/Klausurvorbereitung/15_2.md",
+                "file": "IT/Machine Learning/Regression/(Unvariante) Lineare Regression.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gradienten",
+                "query": "regress",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Machine Learning/Klausurvorbereitung/15_2.md",
+                "file": "IT/Machine Learning/Regression/(Unvariante) Lineare Regression.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Machine Learning/Klausurvorbereitung/15_2.md",
+                "file": "IT/Machine Learning/Regression/(Unvariante) Lineare Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Machine Learning/Klausurvorbereitung/15_2.md"
+                "file": "IT/Machine Learning/Regression/(Unvariante) Lineare Regression.md"
               }
             }
           },
@@ -230,11 +230,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "e0a5634fbf43c86e",
+  "active": "e9c52b4733e141fa",
   "lastOpenFiles": [
+    "IT/Machine Learning/Klausurvorbereitung/15_2.md",
     "IT/Systeme/ERP-Systeme/Wertschöpfungskette nach Porter.md",
     "IT/IT Security/Privacy.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_2.md",
     "IT/Machine Learning/Klausurvorbereitung/15_10.md",
     "IT/Machine Learning/Klausurvorbereitung/15_9.md",
     "IT/Machine Learning/Klausurvorbereitung/15_8.md",
