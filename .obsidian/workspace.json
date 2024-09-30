@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital Business/Bachelorprüfung/Stichwortlisten/Datennetze.md",
+                "file": "IT/Machine Learning/Klausurvorbereitung/15_1.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Programmierung/Python/_Python.md",
+                "file": "IT/Machine Learning/Klausurvorbereitung/15_2.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "python",
+                "query": "gradienten",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,7 +139,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Systeme/ERP-Systeme/Wertschöpfungskette nach Porter.md",
+                "file": "IT/Machine Learning/Klausurvorbereitung/15_2.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Systeme/ERP-Systeme/Wertschöpfungskette nach Porter.md",
+                "file": "IT/Machine Learning/Klausurvorbereitung/15_2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Systeme/ERP-Systeme/Wertschöpfungskette nach Porter.md"
+                "file": "IT/Machine Learning/Klausurvorbereitung/15_2.md"
               }
             }
           },
@@ -230,16 +230,26 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "1847dcbc7e4e2407",
+  "active": "e0a5634fbf43c86e",
   "lastOpenFiles": [
-    "IT/IT Security/Privacy.md",
-    "IT/Systeme/ERP-Systeme/Wertschöpfungskette nach Porter.md",
+    "IT/Machine Learning/Klausurvorbereitung/15_10.md",
+    "IT/Machine Learning/Klausurvorbereitung/15_9.md",
+    "IT/Machine Learning/Klausurvorbereitung/15_8.md",
+    "IT/Machine Learning/Klausurvorbereitung/15_7.md",
+    "IT/Machine Learning/Klausurvorbereitung/15_6.md",
+    "IT/Machine Learning/Klausurvorbereitung/15_5.md",
+    "IT/Machine Learning/Klausurvorbereitung/15_4.md",
+    "IT/Machine Learning/Klausurvorbereitung/15_3.md",
+    "IT/Machine Learning/Klausurvorbereitung/15_2.md",
+    "IT/Machine Learning/Klausurvorbereitung/15_1.md",
     "IT/Programmierung/Python/_Python.md",
+    "Digital Business/Bachelorprüfung/Stichwortlisten/Datennetze.md",
+    "IT/Systeme/ERP-Systeme/Wertschöpfungskette nach Porter.md",
+    "IT/IT Security/Privacy.md",
     "IT/Daten/Datennetze/Protokolle/Transportprotokolle/UDP.md",
     "Digital Business/BWL/SWOT-Analyse.md",
     "Digital Business/Bachelorprüfung/Presentation.md",
     "IT/Daten/Datennetze/Protokolle/Transportprotokolle/TCP.md",
-    "Digital Business/Bachelorprüfung/Stichwortlisten/Datennetze.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Digital Business.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Digital Ethics.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Systemplanung.md",
@@ -248,16 +258,6 @@
     "Digital Business/Bachelorprüfung/Stichwortlisten/Wissenschaftliches Arbeiten.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Software Engineering 2.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Software Engineering 1.md",
-    "IT/Daten/Übertragung/Signale/_Signale.md",
-    "Digital Business/Bachelorprüfung/Stichwortlisten/Rechnerstrukturen & Embedded Systems.md",
-    "Digital Business/Bachelorprüfung/Stichwortlisten/Projekt- & Prozessmanagement.md",
-    "Digital Business/Bachelorprüfung/Stichwortlisten/Programmiertechnik.md",
-    "Digital Business/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung I.md",
-    "Digital Business/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung 2.md",
-    "Digital Business/Bachelorprüfung/Stichwortlisten/IT-Sicherheit.md",
-    "Digital Business/Bachelorprüfung/Stichwortlisten/IT-Strategie.md",
-    "IT/Daten/Algorithmen-Datenstrukturen/Sortieralgorithmen/_Wichtige Sortieralgorithmen.md",
-    "Digital Business/Bachelorprüfung/Stichwortlisten/Business Solutions.md",
     "Digital Business/BWL",
     "Digital Business",
     "IT/Programmierung/Python",
