@@ -1,6 +1,6 @@
 ## ISO/OSI Referenzmodell
 
-- Eigenschaften und Aufbau
+- [[ISO-OSI-Referenzmodell|Eigenschaften und Aufbau]]
 
 ## Das Internet
 

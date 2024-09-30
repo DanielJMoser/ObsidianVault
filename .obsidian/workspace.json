@@ -13,7 +13,39 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital Business/Bachelorprüfung/Stichwortlisten/Datenbanken 2 & Big Data.md",
+                "file": "Digital Business/Bachelorprüfung/Stichwortlisten/Datennetze.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0a5634fbf43c86e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Digital Business/Bachelorprüfung/Presentation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4e4ff1e72b8661c",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "1ed1eae61fad2819",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Daten/Datennetze/Protokolle/Transportprotokolle/UDP.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +111,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital Business/Bachelorprüfung/Stichwortlisten/Datenbanken 2 & Big Data.md",
+                "file": "Digital Business/Bachelorprüfung/Presentation.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -163,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital Business/Bachelorprüfung/Stichwortlisten/Datenbanken 2 & Big Data.md",
+                "file": "Digital Business/Bachelorprüfung/Presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital Business/Bachelorprüfung/Stichwortlisten/Datenbanken 2 & Big Data.md"
+                "file": "Digital Business/Bachelorprüfung/Presentation.md"
               }
             }
           },
@@ -218,12 +251,17 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "3b9eaf5fdbe73c0e",
+  "active": "e0a5634fbf43c86e",
   "lastOpenFiles": [
+    "IT/Daten/Datennetze/Protokolle/Transportprotokolle/TCP.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Datennetze.md",
-    "Digital Business/Bachelorprüfung/Stichwortlisten/Wissenschaftliches Arbeiten.md",
-    "Digital Business/Bachelorprüfung/Stichwortlisten/Verteilte Systeme.md",
+    "IT/Daten/Datennetze/Protokolle/Transportprotokolle/UDP.md",
+    "Digital Business/Bachelorprüfung/Stichwortlisten/Digital Business.md",
+    "Digital Business/Bachelorprüfung/Stichwortlisten/Digital Ethics.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Systemplanung.md",
+    "Digital Business/Bachelorprüfung/Stichwortlisten/Verteilte Systeme.md",
+    "Digital Business/Bachelorprüfung/Stichwortlisten/Datenbanken 2 & Big Data.md",
+    "Digital Business/Bachelorprüfung/Stichwortlisten/Wissenschaftliches Arbeiten.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Software Engineering 2.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Software Engineering 1.md",
     "IT/Daten/Übertragung/Signale/_Signale.md",
@@ -241,11 +279,6 @@
     "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Diffie-Hellman Key Exchange.md",
     "IT/Daten/Algorithmen-Datenstrukturen/Laufzeitkomplexität.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Algorithmen und Datenstrukturen.md",
-    "IT/Programmierung/OOP/Polymorphismus.md",
-    "IT/IT Security/Practical Security/Abwehrstrategien/Secure Design Patterns.md",
-    "IT/IT Security/Practical Security/Abwehrstrategien/Kerberos.md",
-    "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Primitive Wurzeln.md",
-    "IT/IT Security/Theoretical Security/Kryptografie/Asymmetrische Algorithmen/_Asymmetrische Verschlüsselung.md",
     "Digital Business/BWL",
     "Digital Business",
     "IT/Programmierung/Python",
