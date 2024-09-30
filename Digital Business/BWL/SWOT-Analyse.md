@@ -5,7 +5,7 @@ Die **SWOT-Analyse** ist ein strategisches Planungsinstrument, das verwendet wir
 ### 1. Stärken (Strengths)
 - Interne Faktoren, die einem Unternehmen einen Vorteil gegenüber Wettbewerbern verschaffen.
 - Beispiele: 
-  - Starke Markenidentität
+  - Starke Markeniden- Focus on Boston Dynamics’ ￼￼Spot￼￼ robottität
   - Gute finanzielle Situation
   - Zugang zu fortschrittlicher Technologie
   - Effiziente Prozesse

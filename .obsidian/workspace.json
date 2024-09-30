@@ -25,18 +25,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital Business/Bachelorprüfung/Presentation.md",
+                "file": "IT/Programmierung/Python/_Python.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "b4e4ff1e72b8661c",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
             }
           },
           {
@@ -112,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "algo",
+                "query": "python",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital Business/Bachelorprüfung/Presentation.md",
+                "file": "IT/Programmierung/Python/_Python.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -196,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital Business/Bachelorprüfung/Presentation.md",
+                "file": "IT/Programmierung/Python/_Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital Business/Bachelorprüfung/Presentation.md"
+                "file": "IT/Programmierung/Python/_Python.md"
               }
             }
           },
@@ -231,8 +223,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -253,9 +244,11 @@
   },
   "active": "e0a5634fbf43c86e",
   "lastOpenFiles": [
+    "Digital Business/BWL/SWOT-Analyse.md",
+    "Digital Business/Bachelorprüfung/Presentation.md",
+    "IT/Daten/Datennetze/Protokolle/Transportprotokolle/UDP.md",
     "IT/Daten/Datennetze/Protokolle/Transportprotokolle/TCP.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Datennetze.md",
-    "IT/Daten/Datennetze/Protokolle/Transportprotokolle/UDP.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Digital Business.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Digital Ethics.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Systemplanung.md",
@@ -277,8 +270,6 @@
     "Digital Business/Bachelorprüfung/Stichwortlisten/Business Solutions.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Betriebssysteme.md",
     "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Diffie-Hellman Key Exchange.md",
-    "IT/Daten/Algorithmen-Datenstrukturen/Laufzeitkomplexität.md",
-    "Digital Business/Bachelorprüfung/Stichwortlisten/Algorithmen und Datenstrukturen.md",
     "Digital Business/BWL",
     "Digital Business",
     "IT/Programmierung/Python",
