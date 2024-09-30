@@ -43,7 +43,7 @@ b = "10"
 print(a + b)  # Fehler: Kann Integer und String nicht addieren
 ```
 
-n diesem Beispiel würde ein **TypeError** ausgelöst, da Python nicht automatisch den String `b` in eine Zahl umwandelt, um die Addition durchzuführen. Stattdessen muss eine explizite Umwandlung vorgenommen werden, wenn der Programmierer dies beabsichtigt.
+In diesem Beispiel würde ein **TypeError** ausgelöst, da Python nicht automatisch den String `b` in eine Zahl umwandelt, um die Addition durchzuführen. Stattdessen muss eine explizite Umwandlung vorgenommen werden, wenn der Programmierer dies beabsichtigt.
 
 ## Vorteile von Pythons Typisierung
 
