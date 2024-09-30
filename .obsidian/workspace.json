@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Daten/Übertragung/Signale/_Signale.md",
+                "file": "Digital Business/Bachelorprüfung/Stichwortlisten/Verteilte Systeme.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Daten/Übertragung/Signale/_Signale.md",
+                "file": "Digital Business/Bachelorprüfung/Stichwortlisten/Verteilte Systeme.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Daten/Übertragung/Signale/_Signale.md",
+                "file": "Digital Business/Bachelorprüfung/Stichwortlisten/Verteilte Systeme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Daten/Übertragung/Signale/_Signale.md"
+                "file": "Digital Business/Bachelorprüfung/Stichwortlisten/Verteilte Systeme.md"
               }
             }
           },
@@ -220,6 +220,12 @@
   },
   "active": "3b9eaf5fdbe73c0e",
   "lastOpenFiles": [
+    "Digital Business/Bachelorprüfung/Stichwortlisten/Wissenschaftliches Arbeiten.md",
+    "Digital Business/Bachelorprüfung/Stichwortlisten/Verteilte Systeme.md",
+    "Digital Business/Bachelorprüfung/Stichwortlisten/Systemplanung.md",
+    "Digital Business/Bachelorprüfung/Stichwortlisten/Software Engineering 2.md",
+    "Digital Business/Bachelorprüfung/Stichwortlisten/Software Engineering 1.md",
+    "IT/Daten/Übertragung/Signale/_Signale.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Rechnerstrukturen & Embedded Systems.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Projekt- & Prozessmanagement.md",
     "Digital Business/Bachelorprüfung/Stichwortlisten/Programmiertechnik.md",
@@ -240,12 +246,6 @@
     "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Primitive Wurzeln.md",
     "IT/IT Security/Theoretical Security/Kryptografie/Asymmetrische Algorithmen/_Asymmetrische Verschlüsselung.md",
     "IT/IT Security/Theoretical Security/Basics/Schutzziele.md",
-    "IT/IT Security/Privacy.md",
-    "IT/IT Security/Kerkhoffs Prinzip.md",
-    "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen/Digitale Signaturen.md",
-    "Digital Business/Bachelorprüfung/Echte Prüfungsfragen.md",
-    "IT/IT Security/Theoretical Security/Kryptografie/Kryptografische Hashfunktionen.md",
-    "IT/Machine Learning/Learning/Supervised Learning.md",
     "Digital Business/BWL",
     "Digital Business",
     "IT/Programmierung/Python",
