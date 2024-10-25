@@ -16,15 +16,19 @@
                 "file": "Digital Business/Bachelorprüfung/Presentation.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Presentation"
             }
           },
           {
-            "id": "28e2c6ec7f169e86",
+            "id": "f51a917af89ebec5",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Slide Preview"
             }
           }
         ],
@@ -46,7 +50,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -61,7 +67,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -71,7 +79,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
         ],
@@ -103,7 +113,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Presentation"
             }
           },
           {
@@ -115,7 +127,9 @@
                 "file": "Digital Business/Bachelorprüfung/Presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Presentation"
             }
           },
           {
@@ -126,7 +140,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -136,7 +152,9 @@
               "type": "outline",
               "state": {
                 "file": "Digital Business/Bachelorprüfung/Presentation.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Presentation"
             }
           },
           {
@@ -144,7 +162,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ]
