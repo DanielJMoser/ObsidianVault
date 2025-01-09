@@ -4,49 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "8c8fea79247d29a6",
+        "id": "92ffe6ccf2ef199e",
         "type": "tabs",
         "children": [
           {
-            "id": "7d1806b506432316",
+            "id": "33ba60e2cab1c0e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital Business/Bachelorprüfung/Presentation.md",
+                "file": "IT/Bachelor DiBSE/Der Computer/IPv6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Presentation"
-            }
-          },
-          {
-            "id": "f51a917af89ebec5",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "314a54fe635c9edb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Machine Learning/Clustering/Cluster.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cluster"
+              "title": "IPv6"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Machine Learning/Clustering/Cluster.md",
+                "file": "IT/Bachelor DiBSE/Der Computer/IPv6.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -129,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cluster"
+              "title": "Backlinks for IPv6"
             }
           },
           {
@@ -200,45 +175,45 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "314a54fe635c9edb",
+  "active": "b9c51289a0953792",
   "lastOpenFiles": [
-    "Digital Business/Bachelorprüfung/Presentation.md",
-    "IT/IT Security/Theoretical Security/Basics/Schutzziele.md",
-    "IT/IT Security/Theoretical Security/Kryptografie/Asymmetrische Algorithmen/_Asymmetrische Verschlüsselung.md",
-    "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Primitive Wurzeln.md",
-    "IT/IT Security/Privacy.md",
-    "IT/Systeme/ERP-Systeme/Wertschöpfungskette nach Porter.md",
-    "IT/Machine Learning/Regression/(Unvariante) Lineare Regression.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_1.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_2.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_10.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_9.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_8.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_7.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_6.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_5.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_4.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_3.md",
-    "IT/Programmierung/Python/_Python.md",
-    "Digital Business/Bachelorprüfung/Stichwortlisten/Datennetze.md",
-    "IT/Daten/Datennetze/Protokolle/Transportprotokolle/UDP.md",
-    "Digital Business/BWL/SWOT-Analyse.md",
-    "IT/Daten/Datennetze/Protokolle/Transportprotokolle/TCP.md",
-    "Digital Business/Bachelorprüfung/Stichwortlisten/Digital Business.md",
-    "Digital Business/Bachelorprüfung/Stichwortlisten/Digital Ethics.md",
-    "Digital Business/Bachelorprüfung/Stichwortlisten/Systemplanung.md",
-    "Digital Business/Bachelorprüfung/Stichwortlisten/Verteilte Systeme.md",
-    "Digital Business/BWL",
-    "Digital Business",
-    "IT/Programmierung/Python",
-    "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen",
-    "IT/IT Security/Theoretical Security/Kryptografie/Asymmetrische Algorithmen",
-    "IT/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen",
+    "IT/MCI/MyMCI2",
+    "IT/MCI",
+    "IT/Bachelor DiBSE/Der Computer/In-Memory Computing.md",
+    "IT/Bachelor DiBSE/Der Computer/Logik-Gatter.md",
+    "IT/Bachelor DiBSE/Der Computer/Von-Neumann-Architektur.md",
+    "Excalidraw/zZDrawing_Flynn_MISD.md",
+    "Excalidraw/zzDrawing_Classification.excalidraw.md",
+    "Excalidraw/zzDrawing_Bus.md",
+    "Excalidraw/zzDrawing_ArduinoLibs.md",
+    "Excalidraw/zzDrawing_Signal.md",
+    "Excalidraw/zzDrawing_Regression.md",
+    "Excalidraw/zzDrawing_Race-Condition.md",
+    "Excalidraw/zzDrawing_MachProgramm.md",
+    "IT/Bachelor DiBSE/Machine Learning/Clustering/Cluster.md",
+    "IT/Bachelor DiBSE",
+    "IT/Bachelor DiBSE/Digital Business/Bachelorprüfung/Presentation.md",
+    "IT/Bachelor DiBSE/IT Security/Theoretical Security/Basics/Schutzziele.md",
+    "IT/Bachelor DiBSE/IT Security/Theoretical Security/Kryptografie/Asymmetrische Algorithmen/_Asymmetrische Verschlüsselung.md",
+    "IT/Bachelor DiBSE/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Primitive Wurzeln.md",
+    "IT/Bachelor DiBSE/IT Security/Privacy.md",
+    "IT/Bachelor DiBSE/Systeme/ERP-Systeme/Wertschöpfungskette nach Porter.md",
+    "IT/Bachelor DiBSE/Machine Learning/Regression/(Unvariante) Lineare Regression.md",
+    "IT/Bachelor DiBSE/Machine Learning/Klausurvorbereitung/15_1.md",
+    "IT/Bachelor DiBSE/Machine Learning/Klausurvorbereitung/15_2.md",
+    "IT/Bachelor DiBSE/Machine Learning/Klausurvorbereitung/15_10.md",
+    "IT/Bachelor DiBSE/Machine Learning/Klausurvorbereitung/15_9.md",
+    "IT/Bachelor DiBSE/Machine Learning/Klausurvorbereitung/15_8.md",
+    "IT/Bachelor DiBSE/Machine Learning/Klausurvorbereitung/15_7.md",
+    "IT/Bachelor DiBSE/Digital Business/BWL",
+    "IT/Bachelor DiBSE/Digital Business",
+    "IT/Bachelor DiBSE/Programmierung/Python",
+    "IT/Bachelor DiBSE/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen",
+    "IT/Bachelor DiBSE/IT Security/Theoretical Security/Kryptografie/Asymmetrische Algorithmen",
+    "IT/Bachelor DiBSE/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen",
     "github.pub",
     "github",
-    "IT/Der Computer/Prozessor",
-    "IT/Programmierung/OOP",
     "Excalidraw/Scripts/Downloaded/Concatenate lines.svg",
-    "IT/Systeme/Architektur von Informationssystemen/zzDrawings/zZDrawing_Flynn_SISD.png"
+    "IT/Bachelor DiBSE/Systeme/Architektur von Informationssystemen/zzDrawings/zZDrawing_Flynn_SISD.png"
   ]
 }
