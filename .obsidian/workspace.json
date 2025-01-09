@@ -28,7 +28,7 @@
               "type": "reveal-preview-view",
               "state": {},
               "icon": "lucide-file",
-              "title": "Slide Preview"
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -177,8 +177,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -195,8 +195,8 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false,
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
