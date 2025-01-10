@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/RiotRaccoon/Project Structure.md",
+                "file": "IT/RiotRaccoon/Roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project Structure"
+              "title": "Roadmap"
             }
           }
         ]
@@ -178,10 +178,10 @@
   },
   "active": "bd3c03e0f903e1b7",
   "lastOpenFiles": [
+    "IT/RiotRaccoon/Project Structure.md",
     "IT/RiotRaccoon/Roadmap.md",
     "IT/Bachelor DiBSE/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Binärer Suchbaum.md",
     "IT/Bachelor DiBSE/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Balancierte Bäume.md",
-    "IT/RiotRaccoon/Project Structure.md",
     "Excalidraw/Scripts/Downloaded/Concatenate lines.svg",
     "Excalidraw/Scripts/Downloaded/Concatenate lines.md",
     "IT/Bachelor DiBSE/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Heap.md",
