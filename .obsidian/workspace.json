@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/RiotRaccoon/Roadmap.md",
+                "file": "IT/RiotRaccoon/Database Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roadmap"
+              "title": "Database Model"
             }
           }
         ]
@@ -179,6 +179,7 @@
   "active": "bd3c03e0f903e1b7",
   "lastOpenFiles": [
     "IT/RiotRaccoon/Project Structure.md",
+    "IT/RiotRaccoon/Database Model.md",
     "IT/RiotRaccoon/Roadmap.md",
     "IT/Bachelor DiBSE/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Binärer Suchbaum.md",
     "IT/Bachelor DiBSE/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Balancierte Bäume.md",
@@ -211,7 +212,6 @@
     "Excalidraw/zzDrawing_MachProgramm.md",
     "IT/Bachelor DiBSE/Machine Learning/Clustering/Cluster.md",
     "IT/Bachelor DiBSE",
-    "IT/Bachelor DiBSE/Digital Business/Bachelorprüfung/Presentation.md",
     "IT/Bachelor DiBSE/Digital Business/BWL",
     "IT/Bachelor DiBSE/Digital Business",
     "IT/Bachelor DiBSE/Programmierung/Python",
