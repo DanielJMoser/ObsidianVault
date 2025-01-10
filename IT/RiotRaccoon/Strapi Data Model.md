@@ -9,7 +9,7 @@ Fields:
 - Slug (UID - required, based on title)
 - Stock (Integer - required)
 - Images (Media - multiple)
-- Status (Enumeration):
+- ProductStatus (Enumeration):
   - draft
   - published
   - outOfStock
@@ -44,7 +44,7 @@ Fields:
 ## Order Model
 Fields:
 - OrderNumber (Text - required, unique)
-- Status (Enumeration - required):
+- OrderStatus (Enumeration - required):
   - pending
   - processing
   - shipped
@@ -89,7 +89,7 @@ Fields:
 - Comment (Text)
 - Author (Relation with User - one-to-one)
 - Product (Relation with Product - many-to-one)
-- Status (Enumeration - required):
+- ReviewStatus (Enumeration - required):
   - pending
   - approved
   - rejected

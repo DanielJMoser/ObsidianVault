@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/RiotRaccoon/Database Model.md",
+                "file": "IT/RiotRaccoon/Strapi Data Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Database Model"
+              "title": "Strapi Data Model"
             }
           }
         ]
@@ -179,7 +179,7 @@
   "active": "bd3c03e0f903e1b7",
   "lastOpenFiles": [
     "IT/RiotRaccoon/Project Structure.md",
-    "IT/RiotRaccoon/Database Model.md",
+    "IT/RiotRaccoon/Strapi Data Model.md",
     "IT/RiotRaccoon/Roadmap.md",
     "IT/Bachelor DiBSE/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Binärer Suchbaum.md",
     "IT/Bachelor DiBSE/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Balancierte Bäume.md",
