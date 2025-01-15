@@ -1,1 +1,1 @@
-Ein ohrenbetäubender Knall riss [[Martin]] aus dem Schlaf. 
+Ein ohrenbetäubender Knall riss [[Martin Kurkuma]] aus dem Schlaf. 

@@ -1,0 +1,9 @@
+- Ein kleiner blauer Stern mit Armen und Beinen, der versehentlich auf die Erde gestürzt ist
+- Kann ihre Farbe je nach Stimmung ändern (von Blau zu Rot wenn aufgebracht)
+- Direkt, forsch und manchmal etwas unhöflich in ihrer Art
+- Intelligent und scharfsinnig, durchschaut Situationen schnell
+- Zeigt trotz ihrer misslichen Lage Humor und Sarkasmus
+- Stammt aus einer großen Familie, in der viele den Namen Luna tragen
+- Heimwehkrank und sehnsüchtig, aber versucht ihre Gefühle zu kontrollieren
+- Pragmatisch in der Krisenbewältigung
+- Stolz und unabhängig, aber gezwungen, Hilfe anzunehmen

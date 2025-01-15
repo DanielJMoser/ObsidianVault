@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diverses/Luna/Legacy/Kapitel 1/0-Szene_1.md",
+                "file": "Diverses/Luna/Figuren/Hinkbein.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0-Szene_1"
+              "title": "Hinkbein"
             }
           }
         ]
@@ -176,10 +176,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "b9c51289a0953792",
+  "active": "b2abce28c3c2f648",
   "lastOpenFiles": [
-    "Diverses/Luna/Legacy/Kapitel 1/1-Szene_2.md",
+    "Diverses/Luna/Figuren/Heidelbeer.md",
+    "Diverses/Luna/Figuren/Hinkbein.md",
+    "Diverses/Luna/Figuren/Luna.md",
+    "Diverses/Luna/Figuren/Martin Kurkuma.md",
     "Diverses/Luna/Legacy/Kapitel 1/0-Szene_1.md",
+    "Diverses/Luna/Legacy/Kapitel 1/1-Szene_2.md",
     "Diverses/Luna/Legacy/Kapitel 1/2-Szene_3.md",
     "Diverses/Luna/Legacy/Kapitel 2/0-Szene_1.md",
     "Diverses/Luna/Legacy/Kapitel 3/0-Szene_1.md",
@@ -199,7 +203,6 @@
     "Diverses/Luna/Kapitel 1.md",
     "Diverses/Luna/Legacy/Kapitel 1",
     "Diverses/Luna/Legacy",
-    "Diverses/Luna/Figuren/Martin.md",
     "Diverses/Luna/Figuren",
     "IT/RiotRaccoon/Strapi Data Model.md",
     "Diverses/Luna",
@@ -208,9 +211,6 @@
     "IT/Bachelor DiBSE/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Binärer Suchbaum.md",
     "IT/Bachelor DiBSE/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Balancierte Bäume.md",
     "Excalidraw/Scripts/Downloaded/Concatenate lines.svg",
-    "Excalidraw/Scripts/Downloaded/Concatenate lines.md",
-    "IT/Bachelor DiBSE/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Heap.md",
-    "IT/Bachelor DiBSE/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Rotation.md",
     "IT/Bachelor DiBSE/Daten/Algorithmen-Datenstrukturen/_Drawings/Pasted Image 20221109192810_488.png",
     "IT/Bachelor DiBSE/Daten/Algorithmen-Datenstrukturen/_Drawings/Sock.png",
     "IT/Bachelor DiBSE/Daten/Algorithmen-Datenstrukturen/_Drawings/TCP-header.png",

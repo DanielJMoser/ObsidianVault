@@ -1,0 +1,9 @@
+- Ein bodenständiger Teamleiter in einem Bergwerk, der die nächtliche Aufsicht über seine Mitarbeiter führt
+- Lebt bescheiden in einer kleinen Hütte mit ausziehbarer Schlafcouch
+- Eher wortkarg und nicht besonders eloquent, aber freundlich und hilfsbereit
+- Raucher, der seine Zigaretten auf dem Nachtkästchen aufbewahrt
+- Pragmatisch in seiner Lebensführung (trägt Kleidung mehrmals, bevor sie gewaschen wird)
+- Experte für "Löcher" und Krater, kennt sich bestens mit Minenarbeit aus
+- Trotz anfänglicher Skepsis zeigt er sich offen für das Außergewöhnliche und bietet Luna Hilfe an
+- Fährt einen Jeep Wrangler, auf den er sichtlich stolz ist
+- Wirkt etwas einsam, scheint ein zurückgezogenes Leben zu führen
