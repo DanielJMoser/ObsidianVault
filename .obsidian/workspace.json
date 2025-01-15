@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diverses/Luna/Kapitel 1.md",
+                "file": "Diverses/Luna/Legacy/Kapitel 1/0-Szene_1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kapitel 1"
+              "title": "0-Szene_1"
             }
           }
         ]
@@ -176,10 +176,30 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "b2abce28c3c2f648",
+  "active": "b9c51289a0953792",
   "lastOpenFiles": [
-    "Diverses/Luna/Figuren/Martin.md",
+    "Diverses/Luna/Legacy/Kapitel 1/1-Szene_2.md",
+    "Diverses/Luna/Legacy/Kapitel 1/0-Szene_1.md",
+    "Diverses/Luna/Legacy/Kapitel 1/2-Szene_3.md",
+    "Diverses/Luna/Legacy/Kapitel 2/0-Szene_1.md",
+    "Diverses/Luna/Legacy/Kapitel 3/0-Szene_1.md",
+    "Diverses/Luna/Legacy/Kapitel 3/1-Szene_2.md",
+    "Diverses/Luna/Legacy/Kapitel 3/2-Szene_3.md",
+    "Diverses/Luna/Legacy/Kapitel 3/3-Zwillingspaares.md",
+    "Diverses/Luna/Legacy/Kapitel 3/5-Szene_5.md",
+    "Diverses/Luna/Legacy/Kapitel 3/4-Szene_4.md",
+    "Diverses/Luna/Legacy/Kapitel 3",
+    "Diverses/Luna/Legacy/Kapitel 2/1-Szene_2.md",
+    "Diverses/Luna/Legacy/Kapitel 2/2-Szene_3.md",
+    "Diverses/Luna/Legacy/Kapitel 2/3-Szene_4.md",
+    "Diverses/Luna/Legacy/Kapitel 2/4-Szene_5.md",
+    "Diverses/Luna/Legacy/Kapitel 2",
+    "Diverses/Luna/Legacy/Kapitel 1/3-Szene_4.md",
+    "Diverses/Luna/Legacy/Kapitel 1/4-Szene_5.md",
     "Diverses/Luna/Kapitel 1.md",
+    "Diverses/Luna/Legacy/Kapitel 1",
+    "Diverses/Luna/Legacy",
+    "Diverses/Luna/Figuren/Martin.md",
     "Diverses/Luna/Figuren",
     "IT/RiotRaccoon/Strapi Data Model.md",
     "Diverses/Luna",
@@ -191,33 +211,13 @@
     "Excalidraw/Scripts/Downloaded/Concatenate lines.md",
     "IT/Bachelor DiBSE/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Heap.md",
     "IT/Bachelor DiBSE/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Rotation.md",
-    "IT/Bachelor DiBSE/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Hashing/Hashtabelle.md",
-    "IT/Bachelor DiBSE/Daten/Algorithmen-Datenstrukturen/(Dynam.) Datenstrukturen/Hashing/Hashfunktion.md",
     "IT/Bachelor DiBSE/Daten/Algorithmen-Datenstrukturen/_Drawings/Pasted Image 20221109192810_488.png",
-    "IT/Bachelor DiBSE/Daten/Algorithmen-Datenstrukturen/Teile-und-Herrsche-Prinzip.md",
-    "IT/Bachelor DiBSE/Daten/Algorithmen-Datenstrukturen/Laufzeitkomplexität.md",
-    "IT/Bachelor DiBSE/Daten/Algorithmen-Datenstrukturen/_Algorithmus.md",
     "IT/Bachelor DiBSE/Daten/Algorithmen-Datenstrukturen/_Drawings/Sock.png",
     "IT/Bachelor DiBSE/Daten/Algorithmen-Datenstrukturen/_Drawings/TCP-header.png",
-    "IT/Bachelor DiBSE/Der Computer/IPv6.md",
     "IT/RiotRaccoon",
     "IT/MCI/MyMCI2",
     "IT/MCI",
-    "IT/Bachelor DiBSE/Der Computer/In-Memory Computing.md",
-    "IT/Bachelor DiBSE/Der Computer/Logik-Gatter.md",
-    "IT/Bachelor DiBSE/Der Computer/Von-Neumann-Architektur.md",
-    "Excalidraw/zZDrawing_Flynn_MISD.md",
-    "Excalidraw/zzDrawing_Classification.excalidraw.md",
-    "Excalidraw/zzDrawing_Bus.md",
-    "Excalidraw/zzDrawing_ArduinoLibs.md",
-    "Excalidraw/zzDrawing_Signal.md",
-    "Excalidraw/zzDrawing_Regression.md",
-    "Excalidraw/zzDrawing_Race-Condition.md",
     "IT/Bachelor DiBSE",
-    "IT/Bachelor DiBSE/Digital Business/BWL",
-    "IT/Bachelor DiBSE/Digital Business",
-    "IT/Bachelor DiBSE/Programmierung/Python",
-    "IT/Bachelor DiBSE/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen",
     "IT/Bachelor DiBSE/Systeme/Architektur von Informationssystemen/zzDrawings/zZDrawing_Flynn_SISD.png"
   ]
 }
