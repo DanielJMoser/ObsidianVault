@@ -16,9 +16,9 @@ Die Zwergendame ergriff den Gürtel des Golems und schwang sich akrobatisch mit 
 "Sterne, das sind Himmelskörper aus Plasma, in deren Zentrum Wasserstoffkerne zu Helium verschmelzen. Bei der Kernfusion wird Energie frei, die dann in Form von Licht und Wärme abgestrahlt wird."
 Etwas verächtlich schnaubte sie in Richtung des Neuankömmlings. "Das ist wissenschaftlich erwiesen, so viel ist klar. Das könnt ihr mir ruhig glauben, schließlich habe ich nicht umsonst studiert. Lebende Sterne, wie du behauptest einer zu sein, die gibt es nur in Kindersagen."
 Der Blick des Flämmchens wanderte zwischen der wütenden Zwergendame, dem sprachlosen Menschen und dem riesenhaften und etwas anteilnahmslos blickenden Golem hin und her.
-"Kindersagen sagst du, das Selbe könnte ich von euch behaupten."
-Martin, der nun langsam die Kontrolle über seinen Körper zurückgewann, schob die schimpfende Zwergin beiseite und sprach zum kleinen Flämmchen, dessen Farbe sich langsam normalisierte:
+"Und doch bin ich einer! Pah! Kindersagen sagst du, das Selbe könnte ich von euch behaupten."
+Martin, der nur langsam die Kontrolle über seinen Körper zurückgewann, schob die schimpfende Zwergin beiseite und sprach zum kleinen Flämmchen, dessen Farbe sich langsam normalisierte:
 "Wie heißt du denn, kleiner Stern?", frug er und räusperte sich, um seiner belgeten Stimme wieder Klang zu geben. "Woher kommst du?"
 "Und da sagt man, es gäbe keine dummen Fragen. Woher soll ich schon kommen? Aber wenn mir jetzt endlich mal jemand aus dieser Grube hier helfen würde, so wäre ich sehr zu Dank verbunden. Du, Dicker, heb mich mal hoch!". Der Stern zeigte auf Hinkbein, den die freche Anrede nicht zu kümmern schien. Der Golem beugte sich etwas vor, griff in den Krater und befreite das Flämmchen aus seinem Gefängnis in der Erde. 
 "Ja genau, danke vielmals, bitte hier runterlassen. Vorsichtig, bitte, nicht so ruppig! Genau, hier ist's gut, vielen Dank."
-Hinkbein setzte den Stern direkt vor Martin ab, welcher sich auf den Boden setzte, um den Neuankömmling in die Augen sehen zu können. Das Flämmchen loderte nun wieder in tiefem Blau.
+Hinkbein setzte den Stern direkt vor Martin ab, welcher sich auf den Boden setzte, um den Neuankömmling in die Augen sehen zu können. Das Flämmchen loderte nun wieder in tiefem Blau. Scheinbar hatte es seine Fassung und die Kontrolle über seine Zunge wiedererlangt.
