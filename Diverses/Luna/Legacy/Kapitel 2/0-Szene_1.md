@@ -6,9 +6,9 @@ setGoal:        500
 charCount:      3318
 
 
-Martin, der nicht wirklich mit einer Antwort gerechnet hatte, wusste nicht recht was er sagen sollte. Niemand wäre wohl auf die Idee kommen, ihn als besonders eloquenten Menschen zu beschreiben, doch angesichts des wirklich unerhörten Anblicks kann man ihm in dieser Situation wohl keine Vorwürfe machen.
+Martin, der nicht wirklich mit einer Antwort gerechnet hatte, wusste nicht recht was er sagen sollte. Ich muss zugeben, auch unter alltäglicheren Umständen wäre wohl niemand auf die Idee kommen, ihn als einen besonders eloquenten Menschen zu beschreiben -- doch angesichts des wirklich unerhörten Anblicks und der frühen Stunde kann man ihm in dieser Situation wohl keine Vorwürfe machen.
 "Ein Irrlicht!!"
-Martin fuhr herum und Hinkbein, der nun direkt hinter ihm stand, konnte den in die Grube stürzen zu drohenden Mann gerade noch auffangen. Unfassbar, was diese Federschuhe heutzutage leisten. Heidelbeer, die nun wieder völlig bei Sinnen auf der Schulter des Golems stand und aufgeregt in die Richtung des Flämmchens zeigte, starrte mit aufgerissenen Augen in den Krater.
+Martin fuhr herum und Hinkbein, der nun direkt hinter ihm stand, konnte den in die Grube stürzen zu drohenden Mann gerade noch auffangen. Unfassbar, was diese Federschuhe heutzutage leisten, gerade einem . Heidelbeer, die nun wieder völlig bei Sinnen auf der Schulter des Golems stand und aufgeregt in die Richtung des Flämmchens zeigte, starrte mit aufgerissenen Augen in den Krater.
 "Unfassbar. "
 "Irrlicht?!", war die hohe, aber unüberhörbar prekierte Antwort aus dem Krater. Die Farbe des Wesens stützte die kleinen Ärmchen in die Seiten und seine Farbe ging von tiefem Blau in ein feuriges Rot über. Martin hatte das Gefühl, die Flamme würde nun etwas stärker lodern als zuvor. "Pah! Ich verbiete mir eine solche Unverfrorenheit! Ein Stern bin ich, nichts weniger!"
 "Aber sicher!", lachte Heidelbeer und kletterte ächzend von der Schulter ihres Begleiters. "Dann bin ich wohl der alte Grendel, aus den Mooren im Königsreich der Scydings." 
