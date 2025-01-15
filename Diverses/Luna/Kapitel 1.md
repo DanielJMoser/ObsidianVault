@@ -1,0 +1,1 @@
+Ein ohrenbetäubender Knall riss [[Martin]] aus dem Schlaf. 
