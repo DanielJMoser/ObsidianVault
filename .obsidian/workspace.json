@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "eaeda95ce694d23e",
+        "id": "ae6f73d63f215969",
         "type": "tabs",
         "children": [
           {
-            "id": "b2abce28c3c2f648",
+            "id": "c3aea69ff50c6693",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diverses/Luna/Figuren/Hinkbein.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Hinkbein"
+              "title": "New tab"
             }
           }
         ]
@@ -176,7 +172,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "b2abce28c3c2f648",
+  "active": "b9c51289a0953792",
   "lastOpenFiles": [
     "Diverses/Luna/Figuren/Heidelbeer.md",
     "Diverses/Luna/Figuren/Hinkbein.md",
