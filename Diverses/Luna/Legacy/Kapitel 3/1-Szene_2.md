@@ -1,11 +1,3 @@
-title:          Szene 2
-ID:             15
-type:           md
-compile:        2
-setGoal:        500
-charCount:      2637
-
-
 Ich glaube ja keineswegs, dass Luna mit ihrem letzten Satz eine peinliche Stille überbrücken wollte, wie Martin es gelegentlich zu tun pflegt. Vielmehr halte ich ihren Einwurf für einen Ausdruck der Sprachlosigkeit, von meiner Warte aus wie gesagt eine absolut verständliche Reaktion. Stellt euch vor, ihr geht eines Abends eurem intergalaktischen Alltag nach und im nächsten Moment findet ihr euch im schäbigen Wohnzimmer eines fremden Mannes auf einem fremden Planeten wieder, orientierungs- und obdachlos, dafür aber mit einem ganz unvorstellbarem Heimweh. Und dann verbrennt ihr euch noch die Zunge am viel zu heißen Tee, den euch euer Gastgeber in einer Polizistenelefantentasse serviert – da wärt ihr auch sprachlos, da gibt's nichts zu diskutieren.
 Vielleicht aber war Lunas "So ist das eben" eine unterbewusste Angleichung an Martin, eine Art Schutzmechanismus könnte man sagen. So genau weiß ich das auch wieder nicht und Luna ist ja nicht mehr da, wir können sie schließlich nicht selbst fragen.  
   

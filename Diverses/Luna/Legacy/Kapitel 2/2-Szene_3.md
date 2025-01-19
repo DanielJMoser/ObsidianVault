@@ -1,11 +1,3 @@
-title:          Szene 3
-ID:             10
-type:           md
-compile:        2
-setGoal:        500
-charCount:      2339
-
-
 "Luna. Ein schöner Name." Martin zwang sich zu einem Lächeln, versucht, den kleinen Stern etwas aufzumuntern. Dieser ließ aber nur den Kopf hängen, ächzte leise und hob die Hände zu einer machtlosen Geste.
 "Beim Mann im Mond, das ist alles, was du verstanden hast? Ich befinde mich in einer ziemlich ernsten Lage! Ich bitte dich, versichere mir, dass ich es nicht mit einem Idioten zu tun habe." Das piepsende Stimmchen des Sterns klang ehrlich verzweifelt.
 "Nein, bestimmt nicht!", stammelte Martin, von der plötzlichen Forschheit überrascht. "Ich bin mir nur nicht sicher, ob ich dir helfen kann."

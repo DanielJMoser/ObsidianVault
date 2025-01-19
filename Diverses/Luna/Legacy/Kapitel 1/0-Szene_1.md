@@ -1,11 +1,3 @@
-title:          Szene 1
-ID:             2
-type:           md
-compile:        2
-setGoal:        500
-charCount:      3467
-
-
 Meiner Erfahrung nach lassen sich die erzählenswerten Geschichten dieser Welt in nur zwei Kategorien einteilen.
 
 Die erste umfasst die an sich völlig alltäglichen und, bitte entschuldigt meine Frechheit, oft äußerst langweiligen Erzählungen, deren Schilderung den Genies dieser Welt vorbehalten ist. Nur die größten Meister vermögen es nämlich, diese Geschichten in der Weise niederzuschreiben, damit sich zumindest ein ausgewählter Kreis Gebildeter und Intellektueller dafür interessieren könnte.  
