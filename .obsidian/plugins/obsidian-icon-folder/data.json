@@ -33,27 +33,5 @@
     "lucideIconPackType": "native",
     "debugMode": false
   },
-  "IT/Bachelor DiBSE/Digital Business/Bachelorprüfung/Stichwortlisten/Algorithmen und Datenstrukturen.md": "SiDatastax",
-  "IT/Bachelor DiBSE/Digital Business/Bachelorprüfung/Stichwortlisten/Allgemeine Betriebswirtschaftslehre.md": "FasSuitcase",
-  "IT/Bachelor DiBSE/Digital Business/Bachelorprüfung/Stichwortlisten/Architektur von Informationssystemen.md": "SiDwavesystems",
-  "IT/Bachelor DiBSE/Digital Business/Bachelorprüfung/Stichwortlisten/Betriebssysteme.md": "SiLinux",
-  "IT/Bachelor DiBSE/Digital Business/Bachelorprüfung/Stichwortlisten/Business Solutions.md": "SiErpnext",
-  "IT/Bachelor DiBSE/Digital Business/Bachelorprüfung/Stichwortlisten/Datenbanken 1.md": "LiDatabase",
-  "IT/Bachelor DiBSE/Digital Business/Bachelorprüfung/Stichwortlisten/Datennetze.md": "LiNetwork",
-  "IT/Bachelor DiBSE/Digital Business/Bachelorprüfung/Stichwortlisten/Datenbanken 2 & Big Data.md": "LiDatabase",
-  "IT/Bachelor DiBSE/Digital Business/Bachelorprüfung/Stichwortlisten/Digital Ethics.md": "FasE",
-  "IT/Bachelor DiBSE/Digital Business/Bachelorprüfung/Stichwortlisten/Digital Business.md": "FasSuitcase",
-  "IT/Bachelor DiBSE/Digital Business/Bachelorprüfung/Stichwortlisten/IT-Sicherheit.md": "SiSecurityscorecard",
-  "IT/Bachelor DiBSE/Digital Business/Bachelorprüfung/Stichwortlisten/IT-Strategie.md": "FasS",
-  "IT/Bachelor DiBSE/Digital Business/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung 2.md": "SiCplusplus",
-  "IT/Bachelor DiBSE/Digital Business/Bachelorprüfung/Stichwortlisten/Methoden der Softwareentwicklung I.md": "SiCplusplusbuilder",
-  "IT/Bachelor DiBSE/Digital Business/Bachelorprüfung/Stichwortlisten/Programmiertechnik.md": "SiPython",
-  "IT/Bachelor DiBSE/Digital Business/Bachelorprüfung/Stichwortlisten/Projekt- & Prozessmanagement.md": "FasP",
-  "IT/Bachelor DiBSE/Digital Business/Bachelorprüfung/Stichwortlisten/Rechnerstrukturen & Embedded Systems.md": "LiSignal",
-  "IT/Bachelor DiBSE/Digital Business/Bachelorprüfung/Stichwortlisten/Smart Systems & Machine Learning.md": "SiOpenai",
-  "IT/Bachelor DiBSE/Digital Business/Bachelorprüfung/Stichwortlisten/Software Engineering 1.md": "SiOracle",
-  "IT/Bachelor DiBSE/Digital Business/Bachelorprüfung/Stichwortlisten/Software Engineering 2.md": "SiOracle",
-  "IT/Bachelor DiBSE/Digital Business/Bachelorprüfung/Stichwortlisten/Systemplanung.md": "FasP",
-  "IT/Bachelor DiBSE/Digital Business/Bachelorprüfung/Stichwortlisten/Verteilte Systeme.md": "LiDistributeSpaceHorizontal",
-  "IT/Bachelor DiBSE/Digital Business/Bachelorprüfung/Stichwortlisten/Wissenschaftliches Arbeiten.md": "SiLatex"
+  "Digital Business/Bachelorprüfung/Stichwortlisten/Wissenschaftliches Arbeiten.md": "SiLatex"
 }
