@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7d1806b506432316",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
             "id": "3181e02d5d869e72",
             "type": "leaf",
             "state": {
@@ -31,8 +21,7 @@
               "title": "0-Szene_1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,13 +178,13 @@
   },
   "active": "3181e02d5d869e72",
   "lastOpenFiles": [
+    "Diverses/Luna/Legacy/Kapitel 2/0-Szene_1.md",
     "Diverses/Luna/Legacy/Kapitel 2/1-Szene_2.md",
     "Diverses/Luna/Legacy/Kapitel 2/2-Szene_3.md",
     "Diverses/Luna/Legacy/Kapitel 2/3-Szene_4.md",
     "Diverses/Luna/Legacy/Kapitel 3/0-Szene_1.md",
     "Diverses/Luna/Legacy/Kapitel 3/2-Szene_3.md",
     "Diverses/Luna/Legacy/Kapitel 3/1-Szene_2.md",
-    "Diverses/Luna/Legacy/Kapitel 2/0-Szene_1.md",
     "Diverses/Luna/Legacy/Kapitel 1/1-Szene_2.md",
     "Diverses/Luna/Legacy/Kapitel 1/0-Szene_1.md",
     "Diverses/Luna/Rechtschreibpruefung_Ergebnisse 1.txt",
