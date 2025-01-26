@@ -30,9 +30,21 @@
               "icon": "lucide-file",
               "title": "0-Szene_1"
             }
+          },
+          {
+            "id": "5a144f09a3136105",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -187,7 +199,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "3181e02d5d869e72",
+  "active": "5a144f09a3136105",
   "lastOpenFiles": [
     "Diverses/Luna/Legacy/Kapitel 2/1-Szene_2.md",
     "Diverses/Luna/Legacy/Kapitel 2/2-Szene_3.md",
