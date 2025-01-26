@@ -35,12 +35,14 @@
             "id": "5a144f09a3136105",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.7"
+                "file": "Diverses/Luna/Legacy/Kapitel 3/2-Szene_3.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "2-Szene_3"
             }
           }
         ],
@@ -201,12 +203,14 @@
   },
   "active": "5a144f09a3136105",
   "lastOpenFiles": [
+    "Diverses/Luna/Legacy/Kapitel 3/1-Szene_2.md",
+    "Diverses/Luna/Legacy/Kapitel 3/0-Szene_1 1.md",
+    "Diverses/Luna/Legacy/Kapitel 3/0-Szene_1.md",
+    "Diverses/Luna/Legacy/Kapitel 2/4-Szene_5.md",
+    "Diverses/Luna/Legacy/Kapitel 2/3-Szene_4.md",
     "Diverses/Luna/Legacy/Kapitel 2/1-Szene_2.md",
     "Diverses/Luna/Legacy/Kapitel 2/2-Szene_3.md",
-    "Diverses/Luna/Legacy/Kapitel 2/3-Szene_4.md",
-    "Diverses/Luna/Legacy/Kapitel 3/0-Szene_1.md",
     "Diverses/Luna/Legacy/Kapitel 3/2-Szene_3.md",
-    "Diverses/Luna/Legacy/Kapitel 3/1-Szene_2.md",
     "Diverses/Luna/Legacy/Kapitel 2/0-Szene_1.md",
     "Diverses/Luna/Legacy/Kapitel 1/1-Szene_2.md",
     "Diverses/Luna/Legacy/Kapitel 1/0-Szene_1.md",
@@ -215,8 +219,6 @@
     "Diverses/Luna/Legacy/Kapitel 1/2-Szene_3.md",
     "Diverses/Luna/Legacy/Kapitel 1/4-Szene_5.md",
     "Diverses/Luna/Legacy/Kapitel 1/3-Szene_4.md",
-    "Diverses/Luna/Legacy/Kapitel 2/4-Szene_5.md",
-    "Diverses/Luna/Legacy/Kapitel 3/0-Szene_1 1.md",
     "Diverses/Luna/Legacy/Kapitel 3/3-Zwillingspaares.md",
     "Digital Business/Bachelorprüfung/Presentation.md",
     "IT/IT Security/Theoretical Security/Basics/Schutzziele.md",
