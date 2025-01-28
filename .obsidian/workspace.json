@@ -11,10 +11,14 @@
             "id": "dc21a37f62af9724",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -174,6 +178,7 @@
   },
   "active": "dc21a37f62af9724",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "IT/Bachelor DiBSE/Digital Business/Bachelorarbeit/Chapter 3 (State of the Art)/3.3 Robots in Healthcare.md",
     "IT/Bachelor DiBSE/Digital Business/Bachelorarbeit/Chapter 3 (State of the Art)/3.2 Non-Verbal Communication.md",
     "IT/Bachelor DiBSE/Digital Business/Bachelorarbeit/3.1 Historical background.md",
@@ -201,7 +206,6 @@
     "IT/IT Security/Privacy.md",
     "IT/Systeme/ERP-Systeme/Wertschöpfungskette nach Porter.md",
     "IT/Machine Learning/Regression/(Unvariante) Lineare Regression.md",
-    "IT/Machine Learning/Klausurvorbereitung/15_1.md",
     "Digital Business/BWL",
     "Digital Business",
     "IT/Programmierung/Python",
