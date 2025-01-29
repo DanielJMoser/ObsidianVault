@@ -11,10 +11,14 @@
             "id": "dc21a37f62af9724",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "IT/Bachelor DiBSE/Der Computer/Logik-Gatter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Logik-Gatter"
             }
           }
         ]
@@ -170,8 +174,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "7e01e55ccdb800fe",
+  "active": "dc21a37f62af9724",
   "lastOpenFiles": [
+    "IT/Bachelor DiBSE/Der Computer/ALUs.md",
+    "IT/Bachelor DiBSE/Der Computer/Logik-Gatter.md",
+    "IT/Bachelor DiBSE/Der Computer/_Der Computer.md",
     "conflict-files-obsidian-git.md",
     "IT/Bachelor DiBSE/Digital Business/Bachelorarbeit/Chapter 3 (State of the Art)/3.3 Robots in Healthcare.md",
     "IT/Bachelor DiBSE/Digital Business/Bachelorarbeit/Chapter 3 (State of the Art)/3.2 Non-Verbal Communication.md",
@@ -197,9 +204,6 @@
     "IT/IT Security/Theoretical Security/Basics/Schutzziele.md",
     "IT/IT Security/Theoretical Security/Kryptografie/Asymmetrische Algorithmen/_Asymmetrische Verschlüsselung.md",
     "IT/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Primitive Wurzeln.md",
-    "IT/IT Security/Privacy.md",
-    "IT/Systeme/ERP-Systeme/Wertschöpfungskette nach Porter.md",
-    "IT/Machine Learning/Regression/(Unvariante) Lineare Regression.md",
     "Digital Business/BWL",
     "Digital Business",
     "IT/Programmierung/Python",
