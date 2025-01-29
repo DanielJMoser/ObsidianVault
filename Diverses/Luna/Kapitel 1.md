@@ -1,1 +1,0 @@
-Ein ohrenbetäubender Knall riss [[Martin Kurkuma]] aus dem Schlaf. 
