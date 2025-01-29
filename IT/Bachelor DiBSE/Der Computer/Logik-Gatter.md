@@ -14,6 +14,7 @@ So kann man etwa
 
 Logikgatter verknüpfen logische Zustände (typischerweise 0 oder 1) und liefern ebenfalls 0 oder 1 als Ausgang. Sie sind die Hardware-Umsetzung der Booleschen Algebra.
 
+asd
 ### AND-Gatter
 - **Funktion**: Liefert nur dann 1 am Ausgang, wenn **alle** Eingänge 1 sind.
 - **Wahrheitstabelle**:
