@@ -8,7 +8,7 @@ Diese Fragen wurden so verbatim aus dem alten System übertragen:
 "eval.lv_1.title.2": "2. Fachkompetenz des Lektors / der Lektorin",  
 "eval.lv_1.subtitle.2": "Wie beurteilen Sie die Fachkompetenz des Lektors / der Lektorin?",  
 "eval.lv_1.title.3": "3. Verständlichkeit der Inhalte",  
-"eval.lv_1.subtitle.3": "Wie beurteilen Sie die Fähigkeit des Lektors / der Lektorin die Inhalte verständlich zu vermitteln?", 
+"eval.lv_1.subtitle.3": "Wie beurteilen Sie die Fähigkeit des Lektors / der Lektorin die Inhalte verständlich zu vermitteln?",  
 "eval.lv_1.title.4": "4. Bereitschaft zur Beantwortung von Fragen",  
 "eval.lv_1.subtitle.4": "Wie beurteilen Sie die Bereitschaft des Lektors / der Lektorin, Fragen von Studierenden zu beantworten?",  
 "eval.lv_1.title.5": "5. Qualität der Unterlagen",  
@@ -35,7 +35,7 @@ Diese Fragen wurden so verbatim aus dem alten System übertragen:
 "eval.lv_2.title.3": "3. Fachkompetenz des Lektors / der Lektorin",  
 "eval.lv_2.subtitle.3": "Wie beurteilen Sie die Fachkompetenz des Lektors / der Lektorin?",  
 "eval.lv_2.title.4": "4. Verständlichkeit der Inhalte",  
-"eval.lv_2.subtitle.4": "Wie beurteilen Sie die Fähigkeit des Lektors / der Lektorin die Inhalte verständlich zu vermitteln?", 
+"eval.lv_2.subtitle.4": "Wie beurteilen Sie die Fähigkeit des Lektors / der Lektorin die Inhalte verständlich zu vermitteln?",  
 "eval.lv_2.title.5": "5. Bereitschaft zur Beantwortung von Fragen",  
 "eval.lv_2.subtitle.5": "Wie beurteilen Sie die Bereitschaft des Lektors / der Lektorin, Fragen von Studierenden zu beantworten?",  
 "eval.lv_2.title.6": "6. Qualität der Unterlagen",  
@@ -63,43 +63,45 @@ Diese Fragen wurden so verbatim aus dem alten System übertragen:
 "eval.lv_3.subtitle.1": "Meine Gesamtbeurteilung der Lehrveranstaltung lautet wie folgt.",  
 "eval.lv_3.title.2": "2. Beurteilung der Lehrveranstaltung im Detail",  
 "eval.lv_3.subtitle.2": "Die LV-leitung macht einen fachlich kompetenten Eindruck",  
-"eval.lv_3.title.3": "2. Beurteilung der Lehrveranstaltung im Detail",  
+"eval.lv_3.title.3": "",  
 "eval.lv_3.subtitle.3": "Die LV-Leitung verknüpft Theorie mit beruflicher Praxis mittels aktueller Beispiele.",  
-"eval.lv_3.title.4": "2. Beurteilung der Lehrveranstaltung im Detail",  
+"eval.lv_3.title.4": "",  
 "eval.lv_3.subtitle.4": "Die LV-Leitung kommuniziert zu Beginn klare Lernziele und orientiert sich daran.",  
-"eval.lv_3.title.5": "2. Beurteilung der Lehrveranstaltung im Detail",  
+"eval.lv_3.title.5": "",  
 "eval.lv_3.subtitle.5": "Die LV-Leitung gibt vorab klare Informationen zu Prüfungsmodalitäten und Benotung.",  
-"eval.lv_3.title.6": "2. Beurteilung der Lehrveranstaltung im Detail",  
+"eval.lv_3.title.6": "",  
 "eval.lv_3.subtitle.6": "Die LV-Leitung verfolgt inhaltlich einen nachvollziehbar roten Faden.",  
-"eval.lv_3.title.7": "2. Beurteilung der Lehrveranstaltung im Detail",  
+"eval.lv_3.title.7": "",  
 "eval.lv_3.subtitle.7": "Der Einsatz der didaktischen Methoden ist angemessen.",  
-"eval.lv_3.title.8": "2. Beurteilung der Lehrveranstaltung im Detail",  
+"eval.lv_3.title.8": "",  
 "eval.lv_3.subtitle.8": "Die LV-Leitung begegnet den Studierenden respektvoll.",  
-"eval.lv_3.title.9": "2. Beurteilung der Lehrveranstaltung im Detail",  
+"eval.lv_3.title.9": "",  
 "eval.lv_3.subtitle.9": "Die LV-Leitung fördert selbständiges Denken und Arbeiten.",  
-"eval.lv_3.title.10": "2. Beurteilung der Lehrveranstaltung im Detail",  
+"eval.lv_3.title.10": "",  
 "eval.lv_3.subtitle.10": "Ich bereite Inhalte der Lehrveranstaltung eigenständig vor/nach.",  
-"eval.lv_3.title.11": "2. Beurteilung der Lehrveranstaltung im Detail",  
+"eval.lv_3.title.11": "",  
 "eval.lv_3.subtitle.11": "Ich kann meine Fragen und Anliegen im Rahmen der Lehrveranstaltung aktiv einbringen.",  
 "eval.lv_3.title.12": "3. Rahmenbedingungen",  
 "eval.lv_3.subtitle.12": "Die Prüfungsleistung zu dieser Lehrveranstaltung wurde bereits zur Gänze erbracht.",  
-"eval.lv_3.title.13": "3. Rahmenbedingungen",  
+"eval.lv_3.title.13": "",  
 "eval.lv_3.subtitle.13": "Meine Leistungsbeurteilung zu dieser Lehrveranstaltung ist mir bereits bekannt.",  
-"eval.lv_3.title.14": "3. Rahmenbedingungen",  
+"eval.lv_3.title.14": "",  
 "eval.lv_3.subtitle.14": "Der Zeitpunkt der Lehrveranstaltung im Studienplan ist richtig gewählt.",  
 "eval.lv_3.title.15": "4. Qualitative Fragen zur Lehrveranstaltung",  
 "eval.lv_3.subtitle.15": "Was hat Ihnen an der Lehrveranstaltung besonders gut gefallen?",  
-"eval.lv_3.title.16": "3. Rahmenbedingungen",  
+"eval.lv_3.title.16": "",  
 "eval.lv_3.subtitle.16": "Was hat Ihnen an der Lehrveranstaltung nicht gefallen?",  
-"eval.lv_3.title.17": "3. Rahmenbedingungen",  
+"eval.lv_3.title.17": "",  
 "eval.lv_3.subtitle.17": "Was würden Sie zur Lehrveranstaltung anregen?"
 }
 ```
 
+
+## Aufbau
+Wie zu erkennen, existieren aktuell drei Versionen des Fragebogens. *lv_1* und *lv_2*  
 ## Vorschläge:
 Damit die graphische Darstellung nicht überladen wirkt, bieten sich kürzere Versionen der Untertitel an. Diese reichen aus, um sich einen ersten, groben Überblick zu verschaffen. Ich schlage folgende Vormulierungen vor, da sie (trotz ihrer Knappheit) dennoch intuitiv eine Idee der darunterliegenden Information vermitteln. Einige "Kurztitel" sind zugegebener Maßen nicht ganz ideal (etwa: `"eval.lv_3.subtitle.14_short": "Zeitpunkt"`) sind nicht ganz ideal, aber vermutlich ausreichend.
 
-```)
 ```json
 {
 	"eval.lv_1.subtitle.1_short": "Gesamtbeurteilung",
@@ -150,3 +152,5 @@ Damit die graphische Darstellung nicht überladen wirkt, bieten sich kürzere Ve
   "eval.lv_3.subtitle.17_short": "Anregungen"
 }  
 ```
+
+
