@@ -98,7 +98,13 @@ Diese Fragen wurden so verbatim aus dem alten System übertragen:
 
 
 ## Aufbau
-Wie zu erkennen, existieren aktuell drei Versionen des Fragebogens. Aus den gelieferten Daten lassen sich einige Schlüsse ziehen und fundierte Vermutungen anstellen. Dies sind e *lv_1* dürfte bis etwa 2015 verwendet worden sein. *lv_2* gilt vermutlich den Executive-Lehrgängen.
+Wie zu erkennen, existieren aktuell drei Versionen des Fragebogens. Aus den gelieferten Daten lassen sich einige Schlüsse ziehen und fundierte Vermutungen anstellen. Dies sind aber nur Deduktionen, würde dazu beim morgigen Meeting Jochen nochmals befragen:
+
+-  *lv_1* dürfte **bis 2015** verwendet worden sein.
+- *lv_2* gilt vermutlich den **Executive-Lehrgängen**.
+- *lv_3* wird wohl **ab 2016** verwendet.
+
+Über die Schnittstelle müssten sowohl die Fragen (title und subtitle) als auch die Version mitgeliefert werden. 
 ## Vorschläge:
 Damit die graphische Darstellung nicht überladen wirkt, bieten sich kürzere Versionen der Untertitel an. Diese reichen aus, um sich einen ersten, groben Überblick zu verschaffen. Ich schlage folgende Vormulierungen vor, da sie (trotz ihrer Knappheit) dennoch intuitiv eine Idee der darunterliegenden Information vermitteln. Einige "Kurztitel" sind zugegebener Maßen nicht ganz ideal (etwa: `"eval.lv_3.subtitle.14_short": "Zeitpunkt"`) sind nicht ganz ideal, aber vermutlich ausreichend.
 
