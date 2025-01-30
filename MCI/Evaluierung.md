@@ -98,7 +98,7 @@ Diese Fragen wurden so verbatim aus dem alten System übertragen:
 
 
 ## Aufbau
-Wie zu erkennen, existieren aktuell drei Versionen des Fragebogens. *lv_1* und *lv_2*  
+Wie zu erkennen, existieren aktuell drei Versionen des Fragebogens. Aus den gelieferten Daten lassen sich einige Schlüsse ziehen und fundierte Vermutungen anstellen. Dies sind e *lv_1* dürfte bis etwa 2015 verwendet worden sein. *lv_2* gilt vermutlich den Executive-Lehrgängen.
 ## Vorschläge:
 Damit die graphische Darstellung nicht überladen wirkt, bieten sich kürzere Versionen der Untertitel an. Diese reichen aus, um sich einen ersten, groben Überblick zu verschaffen. Ich schlage folgende Vormulierungen vor, da sie (trotz ihrer Knappheit) dennoch intuitiv eine Idee der darunterliegenden Information vermitteln. Einige "Kurztitel" sind zugegebener Maßen nicht ganz ideal (etwa: `"eval.lv_3.subtitle.14_short": "Zeitpunkt"`) sind nicht ganz ideal, aber vermutlich ausreichend.
 
