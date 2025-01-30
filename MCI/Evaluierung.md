@@ -97,7 +97,9 @@ Diese Fragen wurden so verbatim aus dem alten System übertragen:
 ```
 
 ## Vorschläge:
-Damit die graphische Darstellung nicht überladen wirkt, bieten sich kürzere Versionen der 
+Damit die graphische Darstellung nicht überladen wirkt, bieten sich kürzere Versionen der Untertitel an. Diese reichen aus, um sich einen ersten, groben Überblick zu verschaffen. Ich schlage folgende Vormulierungen vor, da sie (trotz ihrer Knappheit) dennoch intuitiv eine Idee der darunterliegenden Information vermitteln. Einige "Kurztitel" sind zugegebener Maßen nicht ganz ideal (etwa: `"eval.lv_3.subtitle.14_short": "Zeitpunkt"`) sind nicht ganz ideal, aber vermutlich ausreichend.
+
+```)
 ```json
 {
 	"eval.lv_1.subtitle.1_short": "Gesamtbeurteilung",
