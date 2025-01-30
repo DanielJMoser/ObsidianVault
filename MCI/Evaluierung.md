@@ -1,12 +1,14 @@
 # Fragen (JSON)
-"comment_eval": "Fragen der Evaluierungen in drei Versionen. Übertragen aus altem System.",  
+Diese Fragen wurden so verbatim aus dem alten System übertragen:
 
-"eval.lv_1.title.1": "1. Gesamtbeurteilung",  
+```json
+{
+	"eval.lv_1.title.1": "1. Gesamtbeurteilung",  
 "eval.lv_1.subtitle.1": "Wie beurteilen Sie die Lehrveranstaltung insgesamt?",  
 "eval.lv_1.title.2": "2. Fachkompetenz des Lektors / der Lektorin",  
 "eval.lv_1.subtitle.2": "Wie beurteilen Sie die Fachkompetenz des Lektors / der Lektorin?",  
 "eval.lv_1.title.3": "3. Verständlichkeit der Inhalte",  
-"eval.lv_1.subtitle.3": "Wie beurteilen Sie die Fähigkeit des Lektors / der Lektorin die Inhalte verständlich zu vermitteln?",  
+"eval.lv_1.subtitle.3": "Wie beurteilen Sie die Fähigkeit des Lektors / der Lektorin die Inhalte verständlich zu vermitteln?", 
 "eval.lv_1.title.4": "4. Bereitschaft zur Beantwortung von Fragen",  
 "eval.lv_1.subtitle.4": "Wie beurteilen Sie die Bereitschaft des Lektors / der Lektorin, Fragen von Studierenden zu beantworten?",  
 "eval.lv_1.title.5": "5. Qualität der Unterlagen",  
@@ -33,7 +35,7 @@
 "eval.lv_2.title.3": "3. Fachkompetenz des Lektors / der Lektorin",  
 "eval.lv_2.subtitle.3": "Wie beurteilen Sie die Fachkompetenz des Lektors / der Lektorin?",  
 "eval.lv_2.title.4": "4. Verständlichkeit der Inhalte",  
-"eval.lv_2.subtitle.4": "Wie beurteilen Sie die Fähigkeit des Lektors / der Lektorin die Inhalte verständlich zu vermitteln?",  
+"eval.lv_2.subtitle.4": "Wie beurteilen Sie die Fähigkeit des Lektors / der Lektorin die Inhalte verständlich zu vermitteln?", 
 "eval.lv_2.title.5": "5. Bereitschaft zur Beantwortung von Fragen",  
 "eval.lv_2.subtitle.5": "Wie beurteilen Sie die Bereitschaft des Lektors / der Lektorin, Fragen von Studierenden zu beantworten?",  
 "eval.lv_2.title.6": "6. Qualität der Unterlagen",  
@@ -91,9 +93,14 @@
 "eval.lv_3.subtitle.16": "Was hat Ihnen an der Lehrveranstaltung nicht gefallen?",  
 "eval.lv_3.title.17": "3. Rahmenbedingungen",  
 "eval.lv_3.subtitle.17": "Was würden Sie zur Lehrveranstaltung anregen?"
+}
+```
 
 ## Vorschläge:
-  "eval.lv_1.subtitle.1_short": "Gesamtbeurteilung",
+Damit die graphische Darstellung nicht überladen wirkt, bieten sich kürzere Versionen der 
+```json
+{
+	"eval.lv_1.subtitle.1_short": "Gesamtbeurteilung",
   "eval.lv_1.subtitle.2_short": "Fachkompetenz",
   "eval.lv_1.subtitle.3_short": "Verständlichkeit",
   "eval.lv_1.subtitle.4_short": "Fragenbereitschaft",
@@ -139,3 +146,5 @@
   "eval.lv_3.subtitle.15_short": "Positives Feedback",
   "eval.lv_3.subtitle.16_short": "Negatives Feedback",
   "eval.lv_3.subtitle.17_short": "Anregungen"
+}  
+```
