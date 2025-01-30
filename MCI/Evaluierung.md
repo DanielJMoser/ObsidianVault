@@ -1,3 +1,506 @@
+
+import React, { useMemo } from 'react';
+
+import {
+
+IonCard,
+
+IonCardContent,
+
+IonGrid,
+
+IonRow,
+
+IonCol,
+
+IonSelect,
+
+IonSelectOption,
+
+IonSegment,
+
+IonSegmentButton,
+
+IonIcon,
+
+IonLabel,
+
+} from '@ionic/react';
+
+import {
+
+barChartOutline,
+
+analyticsOutline,
+
+pieChartOutline,
+
+timeOutline,
+
+pulseOutline,
+
+} from 'ionicons/icons';
+
+import { EvaluationContext } from '../../../types/EvalTypes';
+
+import {Options} from "./Options";
+
+type MyChartType = 'bar' | 'line' | 'pie' | 'doughnut' | 'radar' | 'polarArea';
+
+interface FiltersSectionProps {
+
+evaluationData: EvaluationContext[];
+
+selectedEvaluationId: number | null;
+
+setSelectedEvaluationId: (id: number) => void;
+
+selectedSemester: string;
+
+setSelectedSemester: (semester: string) => void;
+
+selectedChart: MyChartType;
+
+setSelectedChart: (chartType: MyChartType) => void;
+
+showTrend: boolean;
+
+setShowTrend: (show: boolean) => void;
+
+invertYAxis: boolean;
+
+setInvertYAxis: (invert: boolean) => void;
+
+}
+
+interface GroupedCourse {
+
+name: string;
+
+semesters: {
+
+id: number;
+
+semester: string;
+
+}[];
+
+}
+
+const FiltersSection: React.FC<FiltersSectionProps> = ({
+
+evaluationData,
+
+selectedEvaluationId,
+
+setSelectedEvaluationId,
+
+selectedSemester,
+
+setSelectedSemester,
+
+selectedChart,
+
+setSelectedChart,
+
+showTrend,
+
+setShowTrend,
+
+invertYAxis,
+
+setInvertYAxis,
+
+}) => {
+
+// Group courses by name and collect their semester data
+
+const groupedCourses = useMemo(() => {
+
+const courseMap = new Map<string, GroupedCourse>();
+
+evaluationData.forEach(evaluation => {
+
+const existingCourse = courseMap.get(evaluation.name);
+
+if (existingCourse) {
+
+existingCourse.semesters.push({
+
+id: evaluation.id,
+
+semester: evaluation.semester
+
+});
+
+} else {
+
+courseMap.set(evaluation.name, {
+
+name: evaluation.name,
+
+semesters: [{
+
+id: evaluation.id,
+
+semester: evaluation.semester
+
+}]
+
+});
+
+}
+
+});
+
+return Array.from(courseMap.values());
+
+}, [evaluationData]);
+
+// Get available semesters for selected course
+
+const availableSemesters = useMemo(() => {
+
+const selectedCourse = groupedCourses.find(course =>
+
+course.semesters.some(sem => sem.id === selectedEvaluationId)
+
+);
+
+return selectedCourse?.semesters.sort((a, b) =>
+
+b.semester.localeCompare(a.semester)
+
+) || [];
+
+}, [selectedEvaluationId, groupedCourses]);
+
+// Handle course selection change
+
+const handleCourseChange = (courseName: string) => {
+
+const course = groupedCourses.find(c => c.name === courseName);
+
+if (course) {
+
+// Select the most recent semester by default
+
+const mostRecentSemester = course.semesters.sort((a, b) =>
+
+b.semester.localeCompare(a.semester)
+
+)[0];
+
+setSelectedEvaluationId(mostRecentSemester.id);
+
+setSelectedSemester(mostRecentSemester.semester);
+
+}
+
+};
+
+// Handle semester selection change
+
+const handleSemesterChange = (semester: string) => {
+
+const selectedCourse = groupedCourses.find(course =>
+
+course.semesters.some(sem => sem.id === selectedEvaluationId)
+
+);
+
+if (selectedCourse) {
+
+const semesterData = selectedCourse.semesters.find(sem =>
+
+sem.semester === semester
+
+);
+
+if (semesterData) {
+
+setSelectedEvaluationId(semesterData.id);
+
+setSelectedSemester(semester);
+
+}
+
+}
+
+};
+
+return (
+
+<section className="filters-container">
+
+<IonCard className="filter-card">
+
+<IonCardContent>
+
+<IonGrid>
+
+<IonRow>
+
+<IonCol size="12" sizeMd="6">
+
+<IonSelect
+
+value={groupedCourses.find(course =>
+
+course.semesters.some(sem =>
+
+sem.id === selectedEvaluationId
+
+)
+
+)?.name}
+
+onIonChange={e => handleCourseChange(e.detail.value)}
+
+label="Course"
+
+labelPlacement="floating"
+
+className="modern-select"
+
+>
+
+{groupedCourses.map((course) => (
+
+<IonSelectOption key={course.name} value={course.name}>
+
+{course.name}
+
+</IonSelectOption>
+
+))}
+
+</IonSelect>
+
+</IonCol>
+
+<IonCol size="12" sizeMd="6">
+
+<IonSelect
+
+value={selectedSemester}
+
+onIonChange={e => handleSemesterChange(e.detail.value)}
+
+label="Semester"
+
+labelPlacement="floating"
+
+className="modern-select"
+
+disabled={availableSemesters.length === 0}
+
+>
+
+{availableSemesters.map((sem) => (
+
+<IonSelectOption key={sem.semester} value={sem.semester}>
+
+{sem.semester}
+
+</IonSelectOption>
+
+))}
+
+</IonSelect>
+
+</IonCol>
+
+</IonRow>
+
+<IonRow>
+
+<IonCol>
+
+<IonSegment
+
+value={selectedChart}
+
+onIonChange={e => setSelectedChart(e.detail.value as MyChartType)}
+
+className="chart-selector"
+
+>
+
+<IonSegmentButton value="bar">
+
+<IonIcon icon={barChartOutline} />
+
+<IonLabel>Bar</IonLabel>
+
+</IonSegmentButton>
+
+<IonSegmentButton value="line">
+
+<IonIcon icon={analyticsOutline} />
+
+<IonLabel>Line</IonLabel>
+
+</IonSegmentButton>
+
+<IonSegmentButton value="radar">
+
+<IonIcon icon={pulseOutline} />
+
+<IonLabel>Radar</IonLabel>
+
+</IonSegmentButton>
+
+<IonSegmentButton value="polarArea">
+
+<IonIcon icon={pieChartOutline} />
+
+<IonLabel>Polar</IonLabel>
+
+</IonSegmentButton>
+
+<IonSegmentButton value="pie">
+
+<IonIcon icon={pieChartOutline} />
+
+<IonLabel>Pie</IonLabel>
+
+</IonSegmentButton>
+
+<IonSegmentButton value="doughnut">
+
+<IonIcon icon={timeOutline} />
+
+<IonLabel>Ring</IonLabel>
+
+</IonSegmentButton>
+
+</IonSegment>
+
+</IonCol>
+
+</IonRow>
+
+<IonRow className="mt-4">
+
+<Options
+
+showTrend={showTrend}
+
+invertYAxis={invertYAxis}
+
+onShowTrendChange={setShowTrend}
+
+onInvertYAxisChange={setInvertYAxis}
+
+/>
+
+</IonRow>
+
+</IonGrid>
+
+</IonCardContent>
+
+</IonCard>
+
+</section>
+
+);
+
+};
+
+export default FiltersSection;
+
+// Filters Section
+
+.filters-container {
+
+.filter-card {
+
+margin: 0;
+
+box-shadow: 0 2px 4px rgba($text-color-rgb, 0.05);
+
+border-radius: 12px;
+
+background: $color-step-50;
+
+border: 1px solid $border-color;
+
+.modern-select {
+
+--padding-start: 0;
+
+--padding-end: 0;
+
+--placeholder-color: $color-medium;
+
+--placeholder-opacity: 0.8;
+
+max-width: 100%;
+
+width: 100%;
+
+margin-bottom: 1rem;
+
+&::part(label) {
+
+color: $text-color;
+
+font-size: 0.875rem;
+
+}
+
+}
+
+.chart-selector {
+
+--background: $background-color;
+
+border-radius: 12px;
+
+padding: 4px;
+
+ion-segment-button {
+
+--background-checked: $color-primary;
+
+--color-checked: $color-primary-contrast;
+
+--indicator-color: transparent;
+
+min-height: 48px;
+
+font-size: 0.875rem;
+
+&::part(indicator) {
+
+display: none;
+
+}
+
+ion-icon {
+
+font-size: 1.25rem;
+
+margin-bottom: 4px;
+
+}
+
+ion-label {
+
+margin-top: 4px;
+
+}
+
+}
+
+}
+
+}
+
+}
+
 # Fragen (JSON)
 Diese Fragen wurden so verbatim aus dem alten System übertragen:
 
