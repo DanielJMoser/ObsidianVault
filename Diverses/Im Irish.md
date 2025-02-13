@@ -6,4 +6,4 @@ Ich liege auf der Couch und lese den selben Absatz nun schon zum dritten Mal. Da
 
 # 21:00
 
-Auf der Suche nach etwas Undefiniertem ziehe ich mich an den Geländern
+Auf der Suche nach etwas Undefiniertem ziehe ich mich an den Geländern über die Stufen nach oben zur Bar. Wie ein Seemann, der gegen den wilden Wellengang des Ozeans ankämpft, klammere ich mich an die Reling, um trotz des wankenden Bodens nicht den Halt zu verlieren. "Arrrh, ihr Landratten!", schreie ich in Richtung meiner auf einem Nebentisch sitzenden Matrosen, was die anderen Gäste sichtlich verunsichert. "Poseidon" 
