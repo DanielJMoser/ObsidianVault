@@ -4,5 +4,6 @@ Um nach einem langen Tag der Arbeit zur Ruhe zu kommen, bietet die tirolerische 
 Ich liege auf der Couch und lese den selben Absatz nun schon zum dritten Mal. Das zweite Bier ist fast leer und der Nachschub steht schon bereit. Mit wachsender Unsicherheit wird mir bewusst, wie mein Lesen in einer Bar auf die immer zahlreichender werdenden Außenstehenden wirken muss. Im besten Falle unpassend. Ich beschließe, mein Buch für einige Zeit wegzulegen um nicht länger der anti-soziale Trottel mit dem Buch zu sein. Dann schaue ich auf, betrachte das hölzerne Wagenrad, welches zur Dekoration wie ein improvisierter Kronleuchter von der Decke hängt und frage mich, aus was eigentlich Staub besteht. Ich nehme meine Kopfhörer ab und die laute Musik der Bar dringt an mein Innenohr. ABBA. Ich setze meine Kopfhörer wieder auf, lege den Kopf schief und bemerke, dass ich dafür noch zu nüchtern bin.
 
 
-# 20:00
+# 21:00
 
+Auf der Suche nach etwas Undefiniertem ziehe ich mich an den Geländern
