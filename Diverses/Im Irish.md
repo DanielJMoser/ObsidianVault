@@ -10,3 +10,4 @@ Auf der Suche nach etwas Undefiniertem ziehe ich mich am Geländer über die Stu
 
 # 22:20
 
+An der Bar angekommen bin ich nicht sicher, ob mein nasser Körper dem Schweiß oder dem verschütteten Bier geschuldet ist. Ich schließe die Augen, schnuppere, und nehme eine süßliche Mischung wahr. Dann taumle ich zur Bar, bestelle ein Bier. Der Kellner verlangt 4,50€, ich runde zwecks Trinkgeld auf 5€ auf, bezahle mit einem 10-Euro-Schein und bekomme zwei 2€-Münzen zurück. Während mir dabei noch etwas seltsam erschein 
