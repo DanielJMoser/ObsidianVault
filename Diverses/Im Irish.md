@@ -1,0 +1,1 @@
+Um nach einem langen Tag der Arbeit zur Ruhe zu kommen, bietet die tirolerische Tradition des Feierabendbiers eine willkommene Ausrede zum funktionalen Alltagsalkoholismus. Da ich neuerdings vom taschelegrigen Studenten in den Stand eines produktiven Mitglieds der arbeitenden Bevölkerung erhoben wurde,  

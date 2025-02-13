@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MCI/Evaluierung.md",
+                "file": "Diverses/Im Irish.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Evaluierung"
+              "title": "Im Irish"
             }
           }
         ]
@@ -67,7 +67,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -176,8 +177,9 @@
   },
   "active": "41a792ca8a0e8b86",
   "lastOpenFiles": [
-    "Untitled.md",
     "MCI/Evaluierung.md",
+    "Diverses/Im Irish.md",
+    "Untitled.md",
     "MCI",
     "IT/Bachelor DiBSE/Der Computer/ALUs.md",
     "IT/Bachelor DiBSE/Der Computer/Logik-Gatter.md",
@@ -204,7 +206,6 @@
     "Diverses/Luna/Legacy/Kapitel 3/0-Szene_1 1.md",
     "Diverses/Luna/Legacy/Kapitel 3/3-Zwillingspaares.md",
     "Digital Business/Bachelorprüfung/Presentation.md",
-    "IT/IT Security/Theoretical Security/Basics/Schutzziele.md",
     "Digital Business/BWL",
     "Digital Business",
     "IT/Programmierung/Python",
