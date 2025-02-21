@@ -24,5 +24,5 @@ Ich stehe unter der Treppe, eingereiht in eine Gruppe jodelnder Spanier und sing
 
 # Irgendwann am Nachmittag des nächsten Tages
 
-Als ich erwache, finde ich mich an einem Baum gelehnt in der Nähe des Alpenzoos wieder. Tastend suchen meine blinden Hände nach meinem Bewusstsein, denn irgendwo hier muss ich es gestern doch verloren haben. Ich finde nur meine Brille, doch auch die half. Wie durch ein Wunder hatte ich gestern meinen Rucksack nicht verloren. Ich seufze, kramle nach Zigarretten und meinem Handy. Ich rolle ein Rauchwer  
+Als ich erwache, finde ich mich an einem Baum gelehnt in der Nähe des Alpenzoos wieder. Tastend suchen meine blinden Hände nach meinem Bewusstsein, denn irgendwo hier muss ich es gestern doch verloren haben. Ich finde nur meine Brille, doch auch die half. Wie durch ein Wunder hatte ich gestern meinen Rucksack nicht verloren. Ich seufze, kramle nach Zigarretten und meinem Handy. Ich rolle ein Räucherwerk, zünde es an und öffne die App von ChatGPT: "Aus was besteht Staub?" Eine gute Frage, eigentlich.
 
