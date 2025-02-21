@@ -1,3 +1,1 @@
-Martin klappte den Deckel des Plattenspielers nach oben und mit federleichtem Griff legte er die Platte auf. Minuten später drang ein Trommelwirbel, gefolgt von elektrischen Gitarren aus der Stereoanlage. Mit einem zufriedenem Nicken setzte er sich und überreichte Luna die weiße Albumhülle, die sie interessiert studierte. Unter einem roten Schriftzug war darauf das Foto zweier Mädchen abgebildet. Eines der Kinder grinste fröhlich in die Kamera, während das andere, offenbar tief sinnend, in die Ferne blickte.
-Martin lächelte sanft.
-"Die Mädchen auf dem Cover werden ja oft für Zwillinge gehalten. Wohl auch wegen dem Albumtitel. Tatsächlich lernten sie sich aber erst am Tag des Shootings kennen."
+Martin klappte den Deckel des Plattenspielers nach oben und mit federleichtem Griff legte er die Vinylscheibe auf. Wenig später wa 
