@@ -38,11 +38,7 @@ Folgende Dokumenttypen müssen im System verwaltet werden können:
 - Der bestehende Endpunkt `/outgoing/update` muss erweitert werden, um Multipart-Dateien zu akzeptieren
 - Implementierung der Erkennung, ob die Anfrage eine Datei enthält (Content-Type enthält "multipart/form-data")
 - Extraktion der hochgeladenen Datei und des Dokumenttyps aus der Anfrage
-- Validierung der hochgeladenen Datei (Größe, Typ, etc.)
-- Erstellung eines neuen `Dokument`-Objekts mit richtigen Metadaten (Person, Typ, Verfügbarkeit)
-- Aktualisierung des zugehörigen `Outgoing`-Objekts basierend auf dem Dokumenttyp
-    - Setzen relevanter Zeitstempel (wie `egBeantragtAm`, `egAnkunftBestaetigtAm`, etc.)
-    - Aktualisierung des Prozessschritts, wenn erforderlich
+- Eventuell auch Validierung der hochgeladenen Datei (Größe, Typ, etc.)
 
 ### 3.2 Änderungen an `DokumentService.java`
 
