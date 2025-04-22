@@ -11,12 +11,14 @@
             "id": "41a792ca8a0e8b86",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "manifesto-short.png"
+                "file": "MCI/Outgoing Documents.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "manifesto-short"
+              "icon": "lucide-file",
+              "title": "Outgoing Documents"
             }
           }
         ]
@@ -175,6 +177,8 @@
   },
   "active": "41a792ca8a0e8b86",
   "lastOpenFiles": [
+    "manifesto-short.png",
+    "MCI/Outgoing Documents.md",
     "IT/Programmierung/Allgemeines/Typsystem.md",
     "IT/Programmierung/Allgemeines/LINT.md",
     "MCI/LecturerOnboarding.md",
@@ -201,8 +205,6 @@
     "IT/Bachelor DiBSE/Digital Business/Bachelorarbeit/3.1 Historical background.md",
     "Diverses/Luna/Legacy/Kapitel 2/0-Szene_1.md",
     "Diverses/Luna/Legacy/Kapitel 2/1-Szene_2.md",
-    "Diverses/Luna/Legacy/Kapitel 2/2-Szene_3.md",
-    "Diverses/Luna/Legacy/Kapitel 2/3-Szene_4.md",
     "Diverses/Luna/Rechtschreibpruefung_Ergebnisse 1.txt",
     "Diverses/Luna/Rechtschreibpruefung_Ergebnisse.txt",
     "Digital Business/BWL",
