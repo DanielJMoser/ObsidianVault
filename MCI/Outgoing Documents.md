@@ -3,40 +3,33 @@
 Folgende Dokumenttypen müssen im System verwaltet werden können:
 
 ### 2.1 Grant Agreement Phase
+#### Vom Studenten herunterzuladen:
+- **Grant Agreement Vorlage**
+- **Ankunftsbestätigung Vorlage**
+- **Aufenthaltsbestätigung Vorlage**
 
-- **Grant Agreement Vorlage**: Wird vom System zur Verfügung gestellt, Student kann herunterladen
-- **Grant Agreement Unterzeichnet**: Muss vom Studenten hochgeladen werden, setzt `egBeantragtAm` auf aktuelles Datum
-- **Ankunftsbestätigung Vorlage**: Wird vom System zur Verfügung gestellt, Student kann herunterladen
-- **Ankunftsbestätigung Ausgefüllt**: Muss vom Studenten hochgeladen werden, setzt `egAnkunftBestaetigtAm` auf aktuelles Datum
-- **Aufenthaltsbestätigung Vorlage**: Wird vom System zur Verfügung gestellt, Student kann herunterladen
-- **Aufenthaltsbestätigung Ausgefüllt**: Muss vom Studenten hochgeladen werden, setzt `egAufenthaltBestaetigtAm` auf aktuelles Datum
-- **Green Travel Bestätigung**: Optional, wenn Green Travel beantragt wurde
+#### Vom Studenten hochzuladen:
+- **Grant Agreement Unterzeichnet**: Setzt `egBeantragtAm` auf aktuelles Datum
+- **Ankunftsbestätigung Ausgefüllt**: Setzt `egAnkunftBestaetigtAm` auf aktuelles Datum
+- **Aufenthaltsbestätigung Ausgefüllt**: Setzt `egAufenthaltBestaetigtAm` auf aktuelles Datum
 
-#### Vom System zur Vefuegung gestellt:
-- Vorlage Grant Agreement
-- Vorlage Ankunftsbestaetigung
-- Vorlage Aufenthaltsbestaetigung
-- Vorlage Green Travel (?; optional)
-
-#### Vom User hochgeladen:
-- Ausgefuelltes Grant Agreement, setzt `egBeantragtAm` auf aktuelles Datum
-- Ausgefuellte Ankunftsbestaetigung, setzt `egAnkunftBestaetigtAm` auf aktuelles Datum
-- Ausgefuellte Aufenthaltsbestaetigung
-- Ausgefuellte Green Travel-Bestaetigung (?; optional)
-
+#### Optional:
+- **Green Travel Bestätigung**: Wenn Green Travel beantragt wurde
 
 ### 2.2 During Mobility Phase
-
-- **Learning Agreement During Mobility**: Nach Änderungen der Kurse generiert, muss heruntergeladen werden können
-- **Unterzeichnetes Learning Agreement During Mobility**: Muss vom Studenten hochgeladen werden, setzt `prozessSchritt` auf 15
+#### Vom Studenten herunterzuladen:
+- **Learning Agreement During Mobility**: Nach Änderungen der Kurse generiert
+#### Vom Studenten hochzuladen:
+- **Unterzeichnetes Learning Agreement During Mobility**: Setzt `prozessSchritt` auf 15
 
 ### 2.3 After Mobility Phase
-
-- **Learning Agreement After Mobility Vorlage**: Wird vom System zur Verfügung gestellt
-- **Unterzeichnetes Learning Agreement After Mobility**: Muss vom Studenten hochgeladen werden, setzt `prozessSchritt` auf 18
-- **Transcript of Records**: Muss vom Studenten hochgeladen werden
-- **Tabelle F**: Wird nach Genehmigung vom System zur Verfügung gestellt
+#### Vom Studenten herunterzuladen:
+- **Learning Agreement After Mobility Vorlage**
+- **Transcript of Records**: ?
+- - **Tabelle F**: Wird nach Genehmigung vom System zur Verfügung gestellt
 - **National Sheet**: Wird nach Genehmigung vom System zur Verfügung gestellt
+#### Vom Studenten hochzuladen:
+- **Unterzeichnetes Learning Agreement After Mobility**: Setzt `prozessSchritt` auf 18
 
 ## 3. Technische Anforderungen - Backend
 
