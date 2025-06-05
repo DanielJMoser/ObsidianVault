@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diverses/Im Treibhaus.md",
+                "file": "MCI/Anmerkungen zum Outgoing-Prozess.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Im Treibhaus"
+              "title": "Anmerkungen zum Outgoing-Prozess"
             }
           }
         ]
@@ -151,8 +151,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -169,19 +169,24 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
   "active": "d1158a368070e3dc",
   "lastOpenFiles": [
-    "Diverses/Productivity/_Systems.md",
-    "Diverses/Im Treibhaus.md",
+    "MCI/Evaluierung.md",
+    "MCI/Anmerkungen zum Outgoing-Prozess.md",
+    "MCI/LecturerOnboarding.md",
     "MCI/Outgoing Documents.md",
+    "Diverses/Im Treibhaus.md",
+    "Diverses/Productivity/_Systems.md",
     "Diverses/Productivity",
     "manifesto-short.png",
     "IT/Programmierung/Allgemeines/Typsystem.md",
     "IT/Programmierung/Allgemeines/LINT.md",
-    "MCI/LecturerOnboarding.md",
     "Diverses/Untitled/Untitled.md",
     "Diverses/Luna/Legacy/Kapitel 3/0-Szene_1.md",
     "Diverses/Luna/Legacy/Kapitel 3/0-Szene_1 1.md",
@@ -194,7 +199,6 @@
     "Diverses/Untitled",
     "Diverses/Luna/Legacy/Kapitel 4/0_Szene 1.md",
     "Diverses/Im Irish.md",
-    "MCI/Evaluierung.md",
     "MCI",
     "IT/Bachelor DiBSE/Der Computer/ALUs.md",
     "IT/Bachelor DiBSE/Der Computer/Logik-Gatter.md",
@@ -203,7 +207,6 @@
     "IT/Bachelor DiBSE/Digital Business/Bachelorarbeit/Chapter 3 (State of the Art)/3.3 Robots in Healthcare.md",
     "IT/Bachelor DiBSE/Digital Business/Bachelorarbeit/Chapter 3 (State of the Art)/3.2 Non-Verbal Communication.md",
     "IT/Bachelor DiBSE/Digital Business/Bachelorarbeit/3.1 Historical background.md",
-    "Diverses/Luna/Legacy/Kapitel 2/0-Szene_1.md",
     "Diverses/Luna/Rechtschreibpruefung_Ergebnisse 1.txt",
     "Diverses/Luna/Rechtschreibpruefung_Ergebnisse.txt",
     "Digital Business/BWL",
