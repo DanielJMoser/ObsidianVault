@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Im Treibhaus"
             }
+          },
+          {
+            "id": "5e443a952ccfdb9f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,7 +188,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d1158a368070e3dc",
+  "active": "b9c51289a0953792",
   "lastOpenFiles": [
     "Diverses/Productivity/_Systems.md",
     "Diverses/Im Treibhaus.md",
