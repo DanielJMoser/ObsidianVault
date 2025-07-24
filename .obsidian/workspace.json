@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "65bc0bb0713d5902",
+        "id": "41401cafe743a59c",
         "type": "tabs",
         "children": [
           {
-            "id": "5e443a952ccfdb9f",
+            "id": "29149ddd6b010b8f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -173,7 +171,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "5e443a952ccfdb9f",
+  "active": "b9c51289a0953792",
   "lastOpenFiles": [
     "01-Active/_index.md",
     "01-Active/_index.md.tmp.64830.1753353257831",
