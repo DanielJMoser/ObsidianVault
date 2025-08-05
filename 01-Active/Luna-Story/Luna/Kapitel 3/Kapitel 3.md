@@ -1,0 +1,1 @@
+Der Ascheregen war beinahe versiegt, als Martin den Jeep vor seinem Haus abstellte. Der Motor verstummte und 
