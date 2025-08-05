@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Active/_index.md",
+                "file": "01-Active/Luna-Story/Luna/Legacy/Kapitel 3/0-Szene_1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "0-Szene_1"
             }
           }
         ]
@@ -177,11 +177,17 @@
   },
   "active": "29149ddd6b010b8f",
   "lastOpenFiles": [
+    "01-Active/Luna-Story/Luna/Legacy/Kapitel 3/0-Szene_1 1.md",
+    "01-Active/Luna-Story/Luna/Legacy/Kapitel 3/1-Szene_2.md",
+    "01-Active/Luna-Story/Luna/Legacy/Kapitel 3/2-Szene_3.md",
+    "01-Active/Luna-Story/Luna/Legacy/Kapitel 3/3-Szene_4.md",
+    "01-Active/Luna-Story/Luna/Legacy/Kapitel 3/0-Szene_1.md",
+    "01-Active/Luna-Story/Luna/Legacy/Kapitel 4/0_Szene 1.md",
     "01-Active/Luna-Story/Luna/CLAUDE.md",
+    "01-Active/_index.md",
     "01-Active/Luna-Story/Luna/Legacy/Kapitel 1/1-Szene_2.md",
     "01-Active/Luna-Story/Luna/CLAUDE.md.tmp.251008.1754386197496",
     "01-Active/Luna-Story/Luna/Legacy/Kapitel 1/0-Szene_1.md",
-    "01-Active/_index.md",
     "01-Active/_index.md.tmp.64830.1753353257831",
     "00-Inbox/_readme.md",
     "00-Inbox/_readme.md.tmp.64830.1753353257781",
@@ -216,12 +222,6 @@
     "Assets/Excalidraw/zzDrawing_Linked-List.md",
     "Assets/Excalidraw/zzDrawing_Hardware-Software.md",
     "Assets/Excalidraw/zZDrawing_Flynn_SISD.md",
-    "Assets/Excalidraw/zZDrawing_Flynn_SIMD.md",
-    "Assets/Excalidraw/zZDrawing_Flynn_MISD.md",
-    "Assets/Excalidraw/zZDrawing_Flynn_MIMD.md",
-    "Assets/Excalidraw/zzDrawing_CritRegion.md",
-    "Assets/Excalidraw/zzDrawing_Classification.excalidraw.md",
-    "Assets/Excalidraw/zzDrawing_Bus.md",
     "Assets/Excalidraw/Scripts/Downloaded/Concatenate lines.svg"
   ]
 }
