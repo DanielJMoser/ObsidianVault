@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Active/Luna-Story/Luna/Kapitel 3/Kapitel 3.md",
+                "file": "02-Areas/Languages/Sindarin/Phonetik/Sindarin-Phonetik.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kapitel 3"
+              "title": "Sindarin-Phonetik"
             }
           }
         ]
@@ -172,18 +172,33 @@
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "29149ddd6b010b8f",
   "lastOpenFiles": [
+    "02-Areas/Languages/Sindarin/Wortschatz/Grundwortschatz.md",
+    "02-Areas/Languages/Sindarin/Wortschatz/Grundwortschatz.md.tmp.25258.1754639528508",
+    "01-Active/Luna-Story/Luna/Kapitel 3/Kapitel 3.md",
+    "02-Areas/Languages/Sindarin/Grammatik/Sindarin-Grammatik-Überblick.md",
+    "02-Areas/Languages/Sindarin/Grammatik/Sindarin-Grammatik-Überblick.md.tmp.25258.1754639482257",
+    "02-Areas/Languages/Sindarin/Phonetik/Sindarin-Phonetik.md",
+    "02-Areas/Languages/Sindarin/Phonetik/Sindarin-Phonetik.md.tmp.25258.1754639437514",
+    "02-Areas/Languages/Sindarin/_Sindarin.md",
+    "02-Areas/Languages/Sindarin/_Sindarin.md.tmp.25258.1754639405143",
+    "03-Resources/Templates/Sindarin-Wort.md",
+    "03-Resources/Templates/Sindarin-Wort.md.tmp.25258.1754639381330",
+    "02-Areas/Languages/Sindarin/Texte",
+    "02-Areas/Languages/Sindarin/Übungen",
+    "02-Areas/Languages/Sindarin/Phonetik",
+    "02-Areas/Languages/Sindarin/Wortschatz",
+    "02-Areas/Languages/Sindarin/Grammatik",
     "01-Active/Luna-Story/Luna/Kapitel 2/1-Szene_2.md",
     "01-Active/Luna-Story/Luna/Kapitel 2/4-Szene_5.md",
-    "01-Active/Luna-Story/Luna/Kapitel 3/Kapitel 3.md",
     "01-Active/Luna-Story/Luna/Kapitel 2/3-Szene_4.md",
     "01-Active/Luna-Story/Luna/Kapitel 2/2-Szene_3.md",
     "01-Active/Luna-Story/Luna/Legacy/Kapitel 3/0-Szene_1.md",
-    "01-Active/Luna-Story/Luna/Kapitel 3",
     "01-Active/Luna-Story/Luna/Untitled.md",
     "01-Active/Luna-Story/Luna/Legacy/Kapitel 3/0-Szene_1 1.md",
     "01-Active/Luna-Story/Luna/Legacy/Kapitel 3/1-Szene_2.md",
@@ -193,18 +208,9 @@
     "01-Active/Luna-Story/Luna/CLAUDE.md",
     "01-Active/_index.md",
     "01-Active/Luna-Story/Luna/Kapitel 1/1-Szene_2.md",
-    "01-Active/Luna-Story/Luna/CLAUDE.md.tmp.251008.1754386197496",
     "01-Active/Luna-Story/Luna/Kapitel 1/0-Szene_1.md",
-    "01-Active/_index.md.tmp.64830.1753353257831",
     "00-Inbox/_readme.md",
-    "00-Inbox/_readme.md.tmp.64830.1753353257781",
-    "05-Meta/CLAUDE.md.tmp.64830.1753353244188",
-    "Assets/Other/sync",
-    "Assets/Documents/manifesto.txt.gz",
-    "Assets/Documents/manifesto.txt",
     "Assets/Documents/manifesto-short.png",
-    "Assets/Documents/manifesto-short",
-    "Assets/Documents/manifesto.b45",
     "Vault-Reorganization-Proposal.md",
     "05-Meta/Vault-Reorganization-Proposal.md",
     "05-Meta/CLAUDE.md",
@@ -217,11 +223,6 @@
     "Assets/Images/zzDrawings/zzDrawing_Classification.png",
     "Assets/Images/Latex.svg",
     "Assets/Excalidraw/zzDrawing_TradProgramm.md",
-    "Assets/Excalidraw/zzDrawing_SVM.md",
-    "Assets/Excalidraw/zzDrawing_SupComp.md",
-    "Assets/Excalidraw/zzDrawing_Signal.md",
-    "Assets/Excalidraw/zzDrawing_Sequenznummern.md",
-    "Assets/Excalidraw/zzDrawing_Regression.md",
     "Assets/Excalidraw/Scripts/Downloaded/Concatenate lines.svg"
   ]
 }
