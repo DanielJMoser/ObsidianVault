@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Areas/Languages/Sindarin/Texte/Bekannte-Texte.md",
+                "file": "02-Areas/Languages/Sindarin/Grammatik/Verben.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bekannte-Texte"
+              "title": "Verben"
             }
           }
         ]
@@ -178,10 +178,11 @@
   },
   "active": "29149ddd6b010b8f",
   "lastOpenFiles": [
+    "02-Areas/Languages/Sindarin/Phonetik/Schriftsysteme.md",
+    "02-Areas/Languages/Sindarin/Phonetik/Sindarin-Phonetik.md",
     "02-Areas/Languages/Sindarin/Übungen/Erste-Schritte.md",
     "02-Areas/Languages/Sindarin/Texte/Bekannte-Texte.md",
     "02-Areas/Languages/Sindarin/Texte/Bekannte-Texte.md.tmp.25258.1754641302200",
-    "02-Areas/Languages/Sindarin/Phonetik/Schriftsysteme.md",
     "02-Areas/Languages/Sindarin/Phonetik/Schriftsysteme.md.tmp.25258.1754641203944",
     "02-Areas/Languages/Sindarin/Grammatik/Adjektive.md",
     "02-Areas/Languages/Sindarin/Grammatik/Pronomen.md",
@@ -204,7 +205,6 @@
     "02-Areas/Computer-Science/Betriebssysteme/Modellierung/Petri-Netze.md",
     "02-Areas/Languages/Sindarin/Grammatik/Nomen.md",
     "02-Areas/Languages/Sindarin/_Sindarin.md",
-    "02-Areas/Languages/Sindarin/Phonetik/Sindarin-Phonetik.md",
     "02-Areas/Languages/Sindarin/Wortschatz/edhel.md",
     "02-Areas/Languages/Sindarin/Wortschatz/adar.md",
     "02-Areas/Languages/Sindarin/Wortschatz/mellon.md",
