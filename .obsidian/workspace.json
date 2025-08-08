@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Areas/Languages/Sindarin/Übungen/Erste-Schritte.md",
+                "file": "02-Areas/Languages/Sindarin/Grammatik/Satzbau.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Erste-Schritte"
+              "title": "Satzbau"
             }
           }
         ]
@@ -178,6 +178,8 @@
   },
   "active": "29149ddd6b010b8f",
   "lastOpenFiles": [
+    "02-Areas/Languages/Sindarin/Grammatik/Sindarin-Grammatik-Überblick.md",
+    "02-Areas/Languages/Sindarin/Übungen/Erste-Schritte.md",
     "02-Areas/Languages/Sindarin/Wortschatz/Familie.md",
     "02-Areas/Languages/Sindarin/Wortschatz/Familie.md.tmp.25258.1754640604742",
     "02-Areas/Languages/Sindarin/Wortschatz/Natur.md",
@@ -200,14 +202,12 @@
     "02-Areas/Languages/Sindarin/Grammatik/Nomen.md",
     "02-Areas/Languages/Sindarin/Grammatik/Nomen.md.tmp.25258.1754640033742",
     "02-Areas/Languages/Sindarin/_Sindarin.md",
-    "02-Areas/Languages/Sindarin/Übungen/Erste-Schritte.md",
     "02-Areas/Languages/Sindarin/Phonetik/Sindarin-Phonetik.md",
     "02-Areas/Languages/Sindarin/Wortschatz/edhel.md",
     "02-Areas/Languages/Sindarin/Wortschatz/adar.md",
     "02-Areas/Languages/Sindarin/Wortschatz/mellon.md",
     "02-Areas/Languages/Sindarin/Wortschatz/Grundwortschatz.md",
     "01-Active/Luna-Story/Luna/Kapitel 3/Kapitel 3.md",
-    "02-Areas/Languages/Sindarin/Grammatik/Sindarin-Grammatik-Überblick.md",
     "03-Resources/Templates/Sindarin-Wort.md",
     "01-Active/Luna-Story/Luna/Kapitel 2/1-Szene_2.md",
     "01-Active/Luna-Story/Luna/Kapitel 2/4-Szene_5.md",

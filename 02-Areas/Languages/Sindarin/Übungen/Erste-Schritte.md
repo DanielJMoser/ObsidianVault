@@ -100,13 +100,13 @@ Ordne die Wörter zu Sätzen:
 
 ### Lerne diese wichtigen Ausdrücke:
 
-| Sindarin                | Deutsch                | Verwendung   |
-| ----------------------- | ---------------------- | ------------ |
-| **Mae govannen**        | Willkommen             | Begrüßung    |
-| **Le hannon**           | Ich danke dir          | Dank         |
-| **Novaer**              | Lebewohl               | Abschied     |
-| **Mellon**              | Freund                 | Anrede       |
-| **Guren min yngwanath** | Mein Herz ist bedrückt | Trauer/Sorge |
+| Sindarin                | Deutsch                | Verwendung        |
+| ----------------------- | ---------------------- | ----------------- |
+| **Mae govannen**        | Willkommen             | Begrüßung         |
+| **Hannon le**           | Ich danke dir          | Dank, "well met!" |
+| **Novaer**              | Lebewohl               | Abschied          |
+| **Mellon**              | Freund                 | Anrede            |
+| **Guren min yngwanath** | Mein Herz ist bedrückt | Trauer/Sorge      |
 
 ### Konversationsübung:
 A: "Mae govannen!"
