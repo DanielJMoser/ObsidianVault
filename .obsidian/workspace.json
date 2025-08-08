@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Areas/Languages/Sindarin/Grammatik/Verben.md",
+                "file": "01-Active/Luna-Story/Luna/Kapitel 3/Kapitel 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Verben"
+              "title": "Kapitel 3"
             }
           }
         ]
@@ -178,6 +178,7 @@
   },
   "active": "29149ddd6b010b8f",
   "lastOpenFiles": [
+    "02-Areas/Languages/Sindarin/Grammatik/Verben.md",
     "02-Areas/Languages/Sindarin/Phonetik/Schriftsysteme.md",
     "02-Areas/Languages/Sindarin/Phonetik/Sindarin-Phonetik.md",
     "02-Areas/Languages/Sindarin/Übungen/Erste-Schritte.md",
@@ -201,7 +202,6 @@
     "02-Areas/Languages/Sindarin/Grammatik/Präpositionen.md.tmp.25258.1754640290889",
     "02-Areas/Languages/Sindarin/Grammatik/Pronomen.md.tmp.25258.1754640232340",
     "02-Areas/Languages/Sindarin/Grammatik/Adjektive.md.tmp.25258.1754640166540",
-    "02-Areas/Languages/Sindarin/Grammatik/Verben.md",
     "02-Areas/Computer-Science/Betriebssysteme/Modellierung/Petri-Netze.md",
     "02-Areas/Languages/Sindarin/Grammatik/Nomen.md",
     "02-Areas/Languages/Sindarin/_Sindarin.md",
