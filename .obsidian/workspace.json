@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Areas/Languages/Sindarin/Grammatik/Satzbau.md",
+                "file": "02-Areas/Languages/Sindarin/Übungen/Erste-Schritte.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Satzbau"
+              "title": "Erste-Schritte"
             }
           }
         ]
@@ -178,6 +178,13 @@
   },
   "active": "29149ddd6b010b8f",
   "lastOpenFiles": [
+    "02-Areas/Languages/Sindarin/Texte/Bekannte-Texte.md",
+    "02-Areas/Languages/Sindarin/Texte/Bekannte-Texte.md.tmp.25258.1754641302200",
+    "02-Areas/Languages/Sindarin/Phonetik/Schriftsysteme.md",
+    "02-Areas/Languages/Sindarin/Phonetik/Schriftsysteme.md.tmp.25258.1754641203944",
+    "02-Areas/Languages/Sindarin/Grammatik/Adjektive.md",
+    "02-Areas/Languages/Sindarin/Grammatik/Pronomen.md",
+    "02-Areas/Languages/Sindarin/Grammatik/Satzbau.md",
     "02-Areas/Languages/Sindarin/Grammatik/Sindarin-Grammatik-Überblick.md",
     "02-Areas/Languages/Sindarin/Übungen/Erste-Schritte.md",
     "02-Areas/Languages/Sindarin/Wortschatz/Familie.md",
@@ -188,19 +195,14 @@
     "02-Areas/Languages/Sindarin/Wortschatz/Farben.md.tmp.25258.1754640485933",
     "02-Areas/Languages/Sindarin/Wortschatz/Zahlen.md",
     "02-Areas/Languages/Sindarin/Wortschatz/Zahlen.md.tmp.25258.1754640421293",
-    "02-Areas/Languages/Sindarin/Grammatik/Satzbau.md",
     "02-Areas/Languages/Sindarin/Grammatik/Satzbau.md.tmp.25258.1754640361858",
     "02-Areas/Languages/Sindarin/Grammatik/Präpositionen.md",
     "02-Areas/Languages/Sindarin/Grammatik/Präpositionen.md.tmp.25258.1754640290889",
-    "02-Areas/Languages/Sindarin/Grammatik/Pronomen.md",
     "02-Areas/Languages/Sindarin/Grammatik/Pronomen.md.tmp.25258.1754640232340",
-    "02-Areas/Languages/Sindarin/Grammatik/Adjektive.md",
     "02-Areas/Languages/Sindarin/Grammatik/Adjektive.md.tmp.25258.1754640166540",
     "02-Areas/Languages/Sindarin/Grammatik/Verben.md",
-    "02-Areas/Languages/Sindarin/Grammatik/Verben.md.tmp.25258.1754640102177",
     "02-Areas/Computer-Science/Betriebssysteme/Modellierung/Petri-Netze.md",
     "02-Areas/Languages/Sindarin/Grammatik/Nomen.md",
-    "02-Areas/Languages/Sindarin/Grammatik/Nomen.md.tmp.25258.1754640033742",
     "02-Areas/Languages/Sindarin/_Sindarin.md",
     "02-Areas/Languages/Sindarin/Phonetik/Sindarin-Phonetik.md",
     "02-Areas/Languages/Sindarin/Wortschatz/edhel.md",
@@ -212,8 +214,6 @@
     "01-Active/Luna-Story/Luna/Kapitel 2/1-Szene_2.md",
     "01-Active/Luna-Story/Luna/Kapitel 2/4-Szene_5.md",
     "01-Active/Luna-Story/Luna/Kapitel 2/3-Szene_4.md",
-    "01-Active/Luna-Story/Luna/Kapitel 2/2-Szene_3.md",
-    "01-Active/Luna-Story/Luna/Legacy/Kapitel 3/0-Szene_1.md",
     "Assets/Documents/manifesto-short.png",
     "Assets/Images/zzDrawings 1/zzDrawing_SupComp.png",
     "Assets/Images/zzDrawings 1/zzDrawing_SupComp 1.png",
