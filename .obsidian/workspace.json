@@ -11,10 +11,14 @@
             "id": "9b39f819fd14c503",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01-Active/Luna-Story/Luna/Kapitel 3/Kapitel 3.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Kapitel 3"
             }
           }
         ]
@@ -172,7 +176,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b9c51289a0953792",
+  "active": "9b39f819fd14c503",
   "lastOpenFiles": [
     "01-Active/Luna-Story/Luna/Kapitel 2/3-Szene_4.md",
     "01-Active/Luna-Story/Luna/Kapitel 2/4-Szene_5.md",
