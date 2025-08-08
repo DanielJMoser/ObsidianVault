@@ -32,18 +32,18 @@ Sprich diese Wörter laut aus:
 
 ### Lerne diese 10 Grundwörter auswendig:
 
-| Sindarin   | Deutsch  | Plural |
-| ---------- | -------- | ------ |
-| **mellon** | Freund   | mellyn |
-| **adar**   | Vater    | edair  |
-| **naneth** | Mutter   | nanith |
-| **edhel**  | Elb/Elbe | edhil  |
-| **taur**   | Wald     | tair   |
-| **nen**    | Wasser   | nîn    |
-| **anor**   | Sonne    | -      |
-| **ithil**  | Mond     | -      |
-| **barad**  | Turm     | beraid |
-| **meleth** | Liebe    | -      |
+| Sindarin | Deutsch | Plural |
+|----------|---------|--------|
+| **mellon** | Freund | mellyn |
+| **adar** | Vater | edair |
+| **naneth** | Mutter | nanith |
+| **edhel** | Elb/Elbe | edhil |
+| **taur** | Wald | tair |
+| **nen** | Wasser | nîn |
+| **anor** | Sonne | - |
+| **ithil** | Mond | - |
+| **barad** | Turm | beraid |
+| **meleth** | Liebe | - |
 
 ### Test dich selbst:
 Decke die deutsche Spalte ab und übersetze von Sindarin ins Deutsche.
