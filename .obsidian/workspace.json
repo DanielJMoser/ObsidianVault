@@ -11,14 +11,17 @@
             "id": "9b39f819fd14c503",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "01-Active/Luna-Story/Luna/Kapitel 3/Kapitel 3.md",
-                "mode": "source",
-                "source": false
+                "file": "02-Areas/Personal-Development/Writing/Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Kapitel 3"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -178,9 +181,13 @@
   },
   "active": "9b39f819fd14c503",
   "lastOpenFiles": [
+    "01-Active/Luna-Story/Luna/Kapitel 3/Kapitel 3.md",
+    "02-Areas/Personal-Development/Writing/Untitled.canvas",
+    "02-Areas/Personal-Development/Writing/Presentation.md",
+    "02-Areas/Personal-Development/Writing",
+    "02-Areas/Untitled.md",
     "01-Active/Luna-Story/Luna/Kapitel 2/3-Szene_4.md",
     "01-Active/Luna-Story/Luna/Kapitel 2/4-Szene_5.md",
-    "01-Active/Luna-Story/Luna/Kapitel 3/Kapitel 3.md",
     "02-Areas/Languages/Sindarin/Grammatik/Verben.md",
     "02-Areas/Languages/Sindarin/Phonetik/Schriftsysteme.md",
     "02-Areas/Languages/Sindarin/Phonetik/Sindarin-Phonetik.md",
@@ -204,16 +211,12 @@
     "02-Areas/Languages/Sindarin/Grammatik/Präpositionen.md",
     "02-Areas/Languages/Sindarin/Grammatik/Präpositionen.md.tmp.25258.1754640290889",
     "02-Areas/Languages/Sindarin/Grammatik/Pronomen.md.tmp.25258.1754640232340",
-    "02-Areas/Languages/Sindarin/Grammatik/Adjektive.md.tmp.25258.1754640166540",
     "02-Areas/Computer-Science/Betriebssysteme/Modellierung/Petri-Netze.md",
     "02-Areas/Languages/Sindarin/Grammatik/Nomen.md",
     "02-Areas/Languages/Sindarin/_Sindarin.md",
     "02-Areas/Languages/Sindarin/Wortschatz/edhel.md",
     "02-Areas/Languages/Sindarin/Wortschatz/adar.md",
     "02-Areas/Languages/Sindarin/Wortschatz/mellon.md",
-    "02-Areas/Languages/Sindarin/Wortschatz/Grundwortschatz.md",
-    "03-Resources/Templates/Sindarin-Wort.md",
-    "01-Active/Luna-Story/Luna/Kapitel 2/1-Szene_2.md",
     "Assets/Documents/manifesto-short.png",
     "Assets/Images/zzDrawings 1/zzDrawing_SupComp.png",
     "Assets/Images/zzDrawings 1/zzDrawing_SupComp 1.png",
