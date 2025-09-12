@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Active/Luna-Story/Luna/Kapitel 1/0-Szene_1.md",
+                "file": "01-Active/Luna-Story/Luna neu/Kapitel 1/Kapitel 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0-Szene_1"
+              "title": "Kapitel 1"
             }
           }
         ]
@@ -179,9 +179,10 @@
   },
   "active": "9b39f819fd14c503",
   "lastOpenFiles": [
-    "01-Active/Luna-Story/Luna/Kapitel 1/1-Szene_2.md",
-    "01-Active/Luna-Story/Luna neu/Kapitel 1/Kapitel 1.md",
     "01-Active/Luna-Story/Luna/Kapitel 1/0-Szene_1.md",
+    "01-Active/Luna-Story/Luna/Legacy/Kapitel 4/0_Szene 1.md",
+    "01-Active/Luna-Story/Luna neu/Kapitel 1/Kapitel 1.md",
+    "01-Active/Luna-Story/Luna/Kapitel 1/1-Szene_2.md",
     "01-Active/Luna-Story/Luna neu/Kapitel 1",
     "01-Active/Luna-Story/Luna neu",
     "01-Active/Luna-Story/Luna/Kapitel 2/0-Szene_1.md",
@@ -215,7 +216,6 @@
     "02-Areas/Languages/Sindarin/Grammatik/Satzbau.md.tmp.25258.1754640361858",
     "02-Areas/Languages/Sindarin/Grammatik/Präpositionen.md",
     "02-Areas/Computer-Science/Betriebssysteme/Modellierung/Petri-Netze.md",
-    "02-Areas/Languages/Sindarin/Grammatik/Nomen.md",
     "Assets/Documents/manifesto-short.png",
     "Assets/Images/zzDrawings 1/zzDrawing_SupComp.png",
     "Assets/Images/zzDrawings 1/zzDrawing_SupComp 1.png",

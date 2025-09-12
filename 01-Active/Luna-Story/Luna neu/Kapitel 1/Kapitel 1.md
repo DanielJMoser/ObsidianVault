@@ -1,0 +1,2 @@
+einer Erfahrung nach lassen sich die erzählenswerten Geschichten dieser Welt in nur zwei Kategorien einteilen.
+Die erste umfasst die an sich völlig alltäglichen und, bitte entschuldigt meine Frechheit, oft äußerst langweiligen Erzählungen, deren Schilderung den Genies dieser Welt vorbehalten ist. Nur die größten Dichter und Geschichtenerzaehler vermögen es nämlich, diese Geschichten in der Weise niederzuschreiben, damit sich zumindest ein ausgewählter Kreis Gebildeter und Intellektueller dafür interessieren könnte.  
