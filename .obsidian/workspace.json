@@ -11,33 +11,17 @@
             "id": "9b39f819fd14c503",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "02-Areas/Personal-Development/Writing/SUPPOAA.canvas",
-                "viewState": {
-                  "x": 376.2976716803797,
-                  "y": 3522.544820948897,
-                  "zoom": 0.7999999999999999
-                }
+                "file": "01-Active/Luna-Story/Luna neu/Kapitel 1/Kapitel 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "SUPPOAA"
-            }
-          },
-          {
-            "id": "9f760a8ed0e63dac",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
+              "icon": "lucide-file",
+              "title": "Kapitel 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,10 +177,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9f760a8ed0e63dac",
+  "active": "9b39f819fd14c503",
   "lastOpenFiles": [
-    "01-Active/Luna-Story/Luna/Kapitel 3/Kapitel 3.md",
+    "01-Active/Luna-Story/Luna/Kapitel 1/0-Szene_1.md",
+    "01-Active/Luna-Story/Luna neu/Kapitel 1/Kapitel 1.md",
+    "01-Active/Luna-Story/Luna neu/Kapitel 1",
+    "01-Active/Luna-Story/Luna neu",
+    "01-Active/Luna-Story/Luna/Kapitel 2/0-Szene_1.md",
+    "02-Areas/Personal-Development/Writing/Untitled.md",
     "02-Areas/Personal-Development/Writing/SUPPOAA.canvas",
+    "01-Active/Luna-Story/Luna/Kapitel 3/Kapitel 3.md",
     "02-Areas/Personal-Development/Writing/Presentation.md",
     "02-Areas/Personal-Development/Writing",
     "02-Areas/Untitled.md",
@@ -223,14 +213,9 @@
     "02-Areas/Languages/Sindarin/Wortschatz/Zahlen.md.tmp.25258.1754640421293",
     "02-Areas/Languages/Sindarin/Grammatik/Satzbau.md.tmp.25258.1754640361858",
     "02-Areas/Languages/Sindarin/Grammatik/Präpositionen.md",
-    "02-Areas/Languages/Sindarin/Grammatik/Präpositionen.md.tmp.25258.1754640290889",
-    "02-Areas/Languages/Sindarin/Grammatik/Pronomen.md.tmp.25258.1754640232340",
     "02-Areas/Computer-Science/Betriebssysteme/Modellierung/Petri-Netze.md",
     "02-Areas/Languages/Sindarin/Grammatik/Nomen.md",
     "02-Areas/Languages/Sindarin/_Sindarin.md",
-    "02-Areas/Languages/Sindarin/Wortschatz/edhel.md",
-    "02-Areas/Languages/Sindarin/Wortschatz/adar.md",
-    "02-Areas/Languages/Sindarin/Wortschatz/mellon.md",
     "Assets/Documents/manifesto-short.png",
     "Assets/Images/zzDrawings 1/zzDrawing_SupComp.png",
     "Assets/Images/zzDrawings 1/zzDrawing_SupComp 1.png",
