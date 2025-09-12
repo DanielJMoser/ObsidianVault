@@ -23,8 +23,21 @@
               "icon": "lucide-layout-dashboard",
               "title": "SUPPOAA"
             }
+          },
+          {
+            "id": "9f760a8ed0e63dac",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,6 +180,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -179,7 +193,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9b39f819fd14c503",
+  "active": "9f760a8ed0e63dac",
   "lastOpenFiles": [
     "01-Active/Luna-Story/Luna/Kapitel 3/Kapitel 3.md",
     "02-Areas/Personal-Development/Writing/SUPPOAA.canvas",
