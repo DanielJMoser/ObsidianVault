@@ -67,4 +67,4 @@ Die Vorbereitung auf Auslandsaufenthalte beginnt in der Regel auf der Partneruni
 ## Fehlerbehebung und Support
 Bei Problemen mit der App stehen verschiedene Hilfsmöglichkeiten zur Verfügung. Die Kontakte-Seite bietet direkten Zugriff auf alle relevanten Ansprechpartner, einschließlich IT-Support und Studiensekretariat. Technische Probleme können oft durch ein Aus- und wieder Einloggen oder durch Löschen des App-Caches behoben werden. Bitte stellen Sie sicher, dass Ihre App auf dem neuesten Stand ist und fuehren Sie gegebenfalls ein Update durch.
 
-Bei Anzeigeproblemen oder fehlenden Funktionen sollten Sie zunächst überprüfen, ob die richtige Rolle ausgewählt ist und ob alle erforderlichen Berechtigungen erteilt wurden. Die App-Version kann in den Einstellungen unter "Über" eingesehen werden und wird zur Bearbeitung Ihres Ti
+Bei Anzeigeproblemen oder fehlenden Funktionen sollten Sie zunächst überprüfen, ob die richtige Rolle ausgewählt ist und ob alle erforderlichen Berechtigungen erteilt wurden. Die App-Version kann in den Einstellungen unter "Über" eingesehen werden und wird zur Bearbeitung Ihrer Helpdesk-Anfrage benoetigt.
