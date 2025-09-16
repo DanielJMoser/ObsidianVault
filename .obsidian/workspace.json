@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Active/Luna-Story/Luna/Kapitel 2/0-Szene_1.md",
+                "file": "02-Areas/MCI/myMCI Userdokumentation/Userdokumentation myMCI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0-Szene_1"
+              "title": "Userdokumentation myMCI"
             }
           }
         ]
@@ -177,8 +177,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b9c51289a0953792",
+  "active": "9b39f819fd14c503",
   "lastOpenFiles": [
+    "02-Areas/MCI/myMCI Userdokumentation/Userdokumentation myMCI.md",
+    "02-Areas/MCI/myMCI Userdokumentation",
+    "02-Areas/MCI",
     "01-Active/Luna-Story/Luna/Kapitel 2/1-Szene_2.md",
     "01-Active/Luna-Story/Luna/Kapitel 2/0-Szene_1.md",
     "01-Active/Luna-Story/Luna/Kapitel 3/Kapitel 3.md",
@@ -211,11 +214,8 @@
     "02-Areas/Languages/Sindarin/Grammatik/Sindarin-Grammatik-Überblick.md",
     "02-Areas/Languages/Sindarin/Wortschatz/Familie.md",
     "02-Areas/Languages/Sindarin/Wortschatz/Familie.md.tmp.25258.1754640604742",
-    "02-Areas/Languages/Sindarin/Wortschatz/Natur.md",
     "02-Areas/Languages/Sindarin/Wortschatz/Natur.md.tmp.25258.1754640549382",
     "02-Areas/Languages/Sindarin/Wortschatz/Farben.md.tmp.25258.1754640485933",
-    "02-Areas/Languages/Sindarin/Wortschatz/Zahlen.md.tmp.25258.1754640421293",
-    "02-Areas/Languages/Sindarin/Grammatik/Satzbau.md.tmp.25258.1754640361858",
     "Assets/Documents/manifesto-short.png",
     "Assets/Images/zzDrawings 1/zzDrawing_SupComp.png",
     "Assets/Images/zzDrawings 1/zzDrawing_SupComp 1.png",
