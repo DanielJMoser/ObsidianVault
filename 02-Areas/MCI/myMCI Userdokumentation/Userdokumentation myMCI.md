@@ -1,5 +1,5 @@
 ## Accountaktivierung  
-Bevor ein myMCI-Account erstmalig benutzt werden kann, muss dieser aktiviert werden. Dazu im Login-Screen "Activate MCI Account" auswählen. In der aufscheinenden Eingabemaske muss der vorher via E-Mail empfangene Code eingegeben werden, sowie der Benutzername (mci4me-Adresse) und ein Passwort. Nach Lektüre und Bestätigung der AGB kann der Account aktiviert werden. Kann ein:e Nutzer:in aus mehr als einer Rolle wählen, so muss beim ersten Login eine davon ausgewählt werden, um die Ansicht der App anzupassen. Mehr dazu in "Rollen und Zugangsberechtigung".  
+Bevor ein myMCI-Account erstmalig benutzt werden kann, muss dieser aktiviert werden. Dazu im Login-Screen "Activate MCI Account" auswählen. In der aufscheinenden Eingabemaske muss der vorher via E-Mail empfangene Code eingegeben werden, sowie der Benutzername (mci4me-Adresse) und ein Passwort. Nach Lektüre und Bestätigung der AGB kann der Account aktiviert werden. Kann ein:e Nutzer:in aus mehr als einer Rolle wählen, so muss beim ersten Login eine davon ausgewählt werden, um die Ansicht der App anzupassen. Mehr dazu in "Rollen und Zugangsberechtigung".
   
   
 ## Rollen und Zugangsberechtigungen 
@@ -53,8 +53,6 @@ Die MCI E-Mail-Integration ermöglicht verschiedene Konfigurationen. Unter "Prof
 Die App verfügt über verschiedene technische Features, die die Benutzung optimieren. Die Offline-Funktionalität speichert wichtige Daten wie den Stundenplan, heruntergeladene Dokumente und Kontaktinformationen lokal auf dem Gerät. Diese stehen dann auch ohne Internetverbindung zur Verfügung, wobei die App automatisch synchronisiert, sobald wieder eine Verbindung besteht.
 
 Die Pull-to-Refresh-Geste funktioniert auf fast allen Listen und Übersichtsseiten. Durch Herunterziehen der Seite können Sie eine manuelle Aktualisierung der Daten anstoßen. Der Zeitstempel am oberen Rand zeigt jeweils an, wann die Daten zuletzt aktualisiert wurden.
-
-Ein weiteres nützliches Feature ist die Suchfunktion, die auf vielen Seiten über ein Lupensymbol in der Kopfzeile erreichbar ist. Die Suche arbeitet in Echtzeit und filtert die angezeigten Inhalte während der Eingabe. Auf Seiten mit vielen Einträgen können zusätzliche Filter angewendet werden, um die Ergebnisse weiter einzugrenzen.
 
 
 ## Häufige Anwendungsfälle und Workflows
