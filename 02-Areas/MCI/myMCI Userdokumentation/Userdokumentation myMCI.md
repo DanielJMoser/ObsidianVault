@@ -1,6 +1,6 @@
 ## Accountaktivierung  
 Bevor ein myMCI-Account erstmalig benutzt werden kann, muss dieser aktiviert werden. Dazu im Login-Screen "Activate MCI Account" auswählen. In der aufscheinenden Eingabemaske muss der vorher via E-Mail empfangene Code eingegeben werden, sowie der Benutzername (mci4me-Adresse) und ein Passwort. Nach Lektüre und Bestätigung der AGB kann der Account aktiviert werden. Kann ein:e Nutzer:in aus mehr als einer Rolle wählen, so muss beim ersten Login eine davon ausgewählt werden, um die Ansicht der App anzupassen. Mehr dazu in "Rollen und Zugangsberechtigung".
-  
+  m
   
 ## Rollen und Zugangsberechtigungen 
 
