@@ -11,7 +11,7 @@ Der Bereich "Mein Studium" bildet das Herzstück der App für Studierende und bi
 Die Partneruniversitäten-Seite informiert über verfügbare Austauschprogramme und ermöglicht die direkte Bewerbung für Auslandsaufenthalte. Hier finden sich detaillierte Informationen zu den einzelnen Universitäten, einschließlich Bewerbungsfristen und Voraussetzungen.  
   
 Das Evaluierungssystem dient der Qualitätssicherung der Lehrveranstaltungen. Studierende können hier ihre Kurse bewerten, wobei das System TAN-Codes für anonyme Bewertungen generiert. Wichtig zu wissen ist, dass die Durchführung von Evaluierungen oft Voraussetzung für die Einsicht in Prüfungsnoten ist. Ausstehende Evaluierungen werden prominent angezeigt, und das System führt Sie schrittweise durch den Bewertungsprozess.  
-
+we
 Für das Berufspraktikum steht ein mehrstufiger Antragsprozess zur Verfügung, der von der Eingabe der Studentendaten über die Firmendaten bis hin zu den Praktikumsdetails reicht. Nach Genehmigung durch die Studiengangsleitung können Sie Ihr Praktikum durchführen und anschließend eine Bewertung abgeben. Wichtige Formulare und das Dienstzeugnis können direkt über die App hochgeladen werden.  
   
 Das Curriculum bietet eine übersichtliche Darstellung Ihres Studienverlaufs mit allen Modulen, deren ECTS-Punkten und Ihrem aktuellen Studienfortschritt. Diese Visualisierung hilft bei der Planung des weiteren Studienverlaufs.  
