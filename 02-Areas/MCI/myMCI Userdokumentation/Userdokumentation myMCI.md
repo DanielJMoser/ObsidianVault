@@ -1,7 +1,5 @@
 ## Accountaktivierung  
 Bevor ein myMCI-Account erstmalig benutzt werden kann, muss dieser aktiviert werden. Dazu im Login-Screen "Activate MCI Account" auswählen. In der aufscheinenden Eingabemaske muss der vorher via E-Mail empfangene Code eingegeben werden, sowie der Benutzername (mci4me-Adresse) und ein Passwort. Nach Lektüre und Bestätigung der AGB kann der Account aktiviert werden. Kann ein:e Nutzer:in aus mehr als einer Rolle wählen, so muss beim ersten Login eine davon ausgewählt werden, um die Ansicht der App anzupassen. Mehr dazu in "Rollen und Zugangsberechtigung".
-  m
-  
 ## Rollen und Zugangsberechtigungen 
 
 Die myMCI-App unterstützt verschiedene Benutzerrollen, die jeweils unterschiedliche Funktionalitäten zur Verfügung stellen. Aktuell existieren drei Hauptrollen: Student, Mitarbeiter und Lektor. Nutzer mit mehreren Rollen können zwischen diesen über das entsprechende Dropdown-Menü in den "Einstellungen" wechseln. Ein Symbol in der Kopfzeile zeigt die aktuell gewählte Rolle an und dient gleichzeitig als Shortcut zu den Einstellungen. Je nach gewählter Rolle sind unterschiedliche Seiten verfügbar, wobei Studierende Zugriff auf den Bereich "Mein Studium" haben, während Mitarbeiter und Lektoren erweiterte Funktionen wie die Verwaltung von Publikationen und Syllabi nutzen können.  
