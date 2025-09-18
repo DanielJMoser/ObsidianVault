@@ -26,7 +26,7 @@ Die Benachrichtigungszentrale sammelt alle wichtigen Mitteilungen an einem Ort. 
   
   
 ## Dokumente und Studierendenausweis  
-Die Dokumentenverwaltung ermöglicht den direkten Download verschiedener Bescheinigungen und Formulare. Studienbescheinigungen, Leistungsnachweise und andere wichtige Dokumente stehen hier zum Abruf bereit. Heruntergeladene Dokumente werden lokal gespeichert und sind auch offline verfügbar.  
+Die Dokumentenverwaltung ermöglicht den direkten Download verschiedener Bescheinigungen und Formulare. Studienbescheinigungen, Leistungsnachweise und andere wichtige Dokumente stehen hier zum Abruf bereit. Heruntergeladene Dokumente werden lokal gespeichert und sind auch offline verfügbar.  w;
   
 Der digitale Studierendenausweis wird nach erfolgreicher Inskription und Zahlungsabwicklung freigeschaltet. Bei Ungültigkeit erscheint ein roter Balken über dem Ausweis und das Echtheitszertifikat ist nicht verfügbar. In diesem Fall empfiehlt sich eine Überprüfung des Zahlungsstatus unter "Profil" → "Zahlungsstatus". Der Ausweis enthält einen QR-Code zur schnellen Identifikation und integriert gleichzeitig die Bibliotheksausweis-Funktion. Die Gültigkeit wird automatisch aktualisiert und visuell durch Farbcodes dargestellt.  
   
@@ -48,7 +48,7 @@ Die MCI E-Mail-Integration ermöglicht verschiedene Konfigurationen. Unter "Prof
   
   
 ## Technische Features und Tipps  
-Die App verfügt über verschiedene technische Features, die die Benutzung optimieren. Die Offline-Funktionalität speichert wichtige Daten wie den Stundenplan, heruntergeladene Dokumente und Kontaktinformationen lokal auf dem Gerät. Diese stehen dann auch ohne Internetverbindung zur Verfügung, wobei die App automatisch synchronisiert, sobald wieder eine Verbindung besteht.  
+Die App verfügt über verschiedene technische Features, die die Benutzung optimieren. Die Offline-Funktionalität speichert wichtige Daten wie den Stundenplan, heruntergeladene Dokumente und Kontaktinformationen lokal auf dem Gerät. Diese stehen dann auch ohne Internetverbindung zur Verfügung, wobei die App automatisch synchronisiert, sobald wieder eine Verbindung besteht.  1
   
 Die Pull-to-Refresh-Geste funktioniert auf fast allen Listen und Übersichtsseiten. Durch Herunterziehen der Seite können Sie eine manuelle Aktualisierung der Daten anstoßen. Der Zeitstempel am oberen Rand zeigt jeweils an, wann die Daten zuletzt aktualisiert wurden.  
   
