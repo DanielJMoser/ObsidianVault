@@ -55,8 +55,8 @@ This document outlines the structural concept for the MyMCI knowledge base, foll
 
 - **Track Academic Progress**
   - View and understand your grades
-  - Check attendance records    NOT A FEATURES
-  - Monitor graduation requirements   NOT A FEATURES
+  - Check attendance records    NOT A FEATURE
+  - Monitor graduation requirements   NOT A FEATURE
   - Export academic transcripts
 
 - **Course Management**
@@ -67,7 +67,7 @@ This document outlines the structural concept for the MyMCI knowledge base, foll
 
 - **Evaluations & Feedback**
   - Complete course evaluations
-  - View evaluation results    FEATURES
+  - View evaluation results    FEATURE ONLY FOR LECTURERS
   - Provide feedback to instructors
   - Understanding the TAN system
 
@@ -106,7 +106,7 @@ This document outlines the structural concept for the MyMCI knowledge base, foll
 *Managing paperwork and administrative tasks*
 
 - **Document Center**
-  - Upload required documents
+  - Upload required documents    NOT A FEATURE (IN THE DOCUMENTS PAGE, DOCUMENTS CAN ONLY BE DOWNLOADED. UPLOADS HAPPEN ONLY IN SPECIFIC PROCESSES, SUCH AS OUTGOING, LECTURER ONBOARDING OR INTERNSHIP APPLICATION, TO NAME A VIEW)
   - Download official papers
   - Understanding document types
   - Document verification status
@@ -120,7 +120,7 @@ This document outlines the structural concept for the MyMCI knowledge base, foll
 - **Forms & Applications**
   - Scholarship applications
   - Internship documentation
-  - Leave of absence requests
+  - Leave of absence requests   NOT A FEATURE
   - Data update requests
 
 ---
@@ -129,13 +129,13 @@ This document outlines the structural concept for the MyMCI knowledge base, foll
 *Keeping up with university life*
 
 - **News & Announcements**
-  - Customize your news feed
-  - Filter by topics
-  - Save important articles
-  - Share with classmates
+  - Customize your news feed    NOT A FEATURE. INSTEAD, LAY OUT WHICH NEWS ARE BEING DISPLAYED.
+  - Filter by topics    NOT A FEATURE
+  - Save important articles   NOT A FEATURE
+  - Share with classmates    NOT REALLY A FEATURE? RESEARCH!
 
 - **Calendar & Events**
-  - Sync your academic calendar
+  - Sync your academic calendar    IT SHOULD BE LAID OUT THAT IT IS CURRENTLY NOT POSSIBLE TO SYNC THE 
   - Add personal events
   - Set reminders
   - Find event locations
