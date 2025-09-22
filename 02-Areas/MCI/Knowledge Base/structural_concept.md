@@ -55,19 +55,19 @@ This document outlines the structural concept for the MyMCI knowledge base, foll
 
 - **Track Academic Progress**
   - View and understand your grades
-  - Check attendance records
-  - Monitor graduation requirements
+  - Check attendance records    NOT A FEATURES
+  - Monitor graduation requirements   NOT A FEATURES
   - Export academic transcripts
 
 - **Course Management**
-  - Browse course catalogs
+  - Browse course catalogs   NOT A FEATURE
   - Register for elective modules
-  - Access course materials
-  - View syllabi and course descriptions
+  - Access course materials    NOT A FEATURE
+  - View syllabi and course descriptions    COURSE DESCRIPTIONS ARE NOT A FEATURE
 
 - **Evaluations & Feedback**
   - Complete course evaluations
-  - View evaluation results
+  - View evaluation results    FEATURES
   - Provide feedback to instructors
   - Understanding the TAN system
 
