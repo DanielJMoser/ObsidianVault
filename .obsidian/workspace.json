@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Areas/MCI/Knowledge Base/integration_with_existing_kb.md",
+                "file": "02-Areas/MCI/Knowledge Base/structural_concept.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "integration_with_existing_kb"
+              "title": "structural_concept"
             }
           }
         ]
@@ -179,10 +179,10 @@
   },
   "active": "709d44c652478e46",
   "lastOpenFiles": [
-    "02-Areas/MCI/Knowledge Base/structural_concept.md",
-    "02-Areas/MCI/Knowledge Base/integration_with_existing_kb.md",
-    "02-Areas/MCI/Knowledge Base/integration_with_existing_kb.md.tmp.141701.1758554300667",
     "02-Areas/MCI/Knowledge Base/platform_interactive_strategy.md",
+    "02-Areas/MCI/Knowledge Base/integration_with_existing_kb.md",
+    "02-Areas/MCI/Knowledge Base/structural_concept.md",
+    "02-Areas/MCI/Knowledge Base/integration_with_existing_kb.md.tmp.141701.1758554300667",
     "02-Areas/MCI/Knowledge Base/platform_interactive_strategy.md.tmp.141701.1758554226994",
     "02-Areas/MCI/Knowledge Base/04-Documents & Administration/Untitled.md",
     "02-Areas/MCI/Knowledge Base/04-Documents & Administration/02-Student Services",
