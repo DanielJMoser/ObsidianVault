@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -177,7 +177,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9b39f819fd14c503",
+  "active": "e9c52b4733e141fa",
   "lastOpenFiles": [
     "02-Areas/MCI/Knowledge Base/structural_concept.md",
     "02-Areas/MCI/myMCI Userdokumentation/Userdokumentation myMCI.md",
