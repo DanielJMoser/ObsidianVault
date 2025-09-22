@@ -135,9 +135,9 @@ This document outlines the structural concept for the MyMCI knowledge base, foll
   - Share with classmates    NOT REALLY A FEATURE? RESEARCH!
 
 - **Calendar & Events**
-  - Sync your academic calendar    IT SHOULD BE LAID OUT THAT IT IS CURRENTLY NOT POSSIBLE TO SYNC THE 
-  - Add personal events
-  - Set reminders
+  - Sync your academic calendar    IT SHOULD BE LAID OUT THAT IT IS CURRENTLY NOT POSSIBLE TO SYNC THE CALENDAR TO AN EXTERNAL APPLICATION
+  - Add personal events    NOT A FEATURE, RIGHT NOW
+  - Set reminders    VIA PUSH NOTIFICATIONS?
   - Find event locations
 
 - **Notifications**
@@ -166,8 +166,8 @@ This document outlines the structural concept for the MyMCI knowledge base, foll
 - **App Preferences**
   - Switch between themes
   - Language settings
-  - Data usage controls
-  - Accessibility options
+  - Data usage controls    WHAT IS MEANT BY THAT?
+  - Accessibility options    NOT A FEATURE, UNFORTUNATELY.
 
 ---
 
@@ -176,21 +176,21 @@ This document outlines the structural concept for the MyMCI knowledge base, foll
 
 - **Lecturer Onboarding**
   - Complete onboarding wizard
-  - Set up your academic profile
-  - Configure course settings
-  - Access teaching resources
+  - Set up your academic profile    WHAT IS MEANT BY THAT?
+  - Configure course settings    DUPLICATE FROM 'MANAGE COURSE MATERIALS'?
+  - Access teaching resources    WHAT IS MEANT BY THAT?
 
 - **Academic Portfolio**
   - Manage your CV
   - Add publications
-  - Track research projects
-  - Update expertise areas
+  - Track research projects    DOES THIS REQUIRE A SEPARATE SUB-FILE?
+  - Update expertise areas    OES THIS REQUIRE A SEPARATE SUB-FILE?
 
 - **Course Administration**
   - Create and edit syllabi
   - View student evaluations
-  - Manage course materials
-  - Communication with students
+  - Manage course materials    DUPLICATE?
+  - Communication with students    NOT A FEATURE
 
 ---
 
@@ -209,7 +209,7 @@ This document outlines the structural concept for the MyMCI knowledge base, foll
   - International office
   - Emergency contacts
 
-- **Feedback & Suggestions**
+- **Feedback & Suggestions**   NOT A FEATURE
   - Report bugs
   - Request features
   - Share your experience
