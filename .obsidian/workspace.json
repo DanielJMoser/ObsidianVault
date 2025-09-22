@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.5
+    "width": 315.5
   },
   "right": {
     "id": "605a2265e141ac78",
@@ -177,7 +177,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "709d44c652478e46",
+  "active": "b9c51289a0953792",
   "lastOpenFiles": [
     "02-Areas/MCI/Knowledge Base/04-Documents & Administration/Untitled.md",
     "02-Areas/MCI/Knowledge Base/structural_concept.md",
