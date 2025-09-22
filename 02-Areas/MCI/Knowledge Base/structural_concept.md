@@ -55,21 +55,17 @@ This document outlines the structural concept for the MyMCI knowledge base, foll
 
 - **Track Academic Progress**
   - View and understand your grades
-  - Check attendance records    NOT A FEATURE
-  - Monitor graduation requirements   NOT A FEATURE
+  - View your curriculum/study plan
   - Export academic transcripts
 
 - **Course Management**
-  - Browse course catalogs   NOT A FEATURE
   - Register for elective modules
-  - Access course materials    NOT A FEATURE
-  - View syllabi and course descriptions    COURSE DESCRIPTIONS ARE NOT A FEATURE
+  - View syllabi (for staff: create and edit syllabi)
 
 - **Evaluations & Feedback**
   - Complete course evaluations
-  - View evaluation results    FEATURE ONLY FOR LECTURERS
-  - Provide feedback to instructors
   - Understanding the TAN system
+  - Request evaluation access codes
 
 ---
 
@@ -106,21 +102,20 @@ This document outlines the structural concept for the MyMCI knowledge base, foll
 *Managing paperwork and administrative tasks*
 
 - **Document Center**
-  - Upload required documents    NOT A FEATURE (IN THE DOCUMENTS PAGE, DOCUMENTS CAN ONLY BE DOWNLOADED. UPLOADS HAPPEN ONLY IN SPECIFIC PROCESSES, SUCH AS OUTGOING, LECTURER ONBOARDING OR INTERNSHIP APPLICATION, TO NAME A VIEW)
-  - Download official papers
+  - Download official papers and documents
   - Understanding document types
   - Document verification status
 
 - **Student Services**
   - Digital student ID card
-  - Mailbox management
+  - Mailbox management and renewal
   - Payment and fee information
   - Certificate requests
 
 - **Forms & Applications**
-  - Scholarship applications
-  - Internship documentation
-  - Leave of absence requests   NOT A FEATURE
+  - Scholarship applications (Excellence Scholarship)
+  - Internship application and documentation
+  - Process-specific document uploads (Erasmus, onboarding, internships)
   - Data update requests
 
 ---
@@ -129,22 +124,22 @@ This document outlines the structural concept for the MyMCI knowledge base, foll
 *Keeping up with university life*
 
 - **News & Announcements**
-  - Customize your news feed    NOT A FEATURE. INSTEAD, LAY OUT WHICH NEWS ARE BEING DISPLAYED.
-  - Filter by topics    NOT A FEATURE
-  - Save important articles   NOT A FEATURE
-  - Share with classmates    NOT REALLY A FEATURE? RESEARCH!
+  - Understanding MCI vs Sakai news feeds
+  - Role-based news filtering (automatic based on your role)
+  - Reading news articles and details
+  - Searching through news content
 
 - **Calendar & Events**
-  - Sync your academic calendar    IT SHOULD BE LAID OUT THAT IT IS CURRENTLY NOT POSSIBLE TO SYNC THE CALENDAR TO AN EXTERNAL APPLICATION
-  - Add personal events    NOT A FEATURE, RIGHT NOW
-  - Set reminders    VIA PUSH NOTIFICATIONS?
-  - Find event locations
+  - View academic calendar and important dates
+  - Browse event details and locations
+  - Understanding calendar views (month/week/day)
+  - Note: Calendar sync to external apps not currently available
 
 - **Notifications**
   - Manage push notifications
-  - Email preferences
-  - Important alerts
-  - Notification history
+  - Email notification preferences
+  - Understanding notification types
+  - Viewing notification history
 
 ---
 
@@ -164,10 +159,11 @@ This document outlines the structural concept for the MyMCI knowledge base, foll
   - Report security issues
 
 - **App Preferences**
-  - Switch between themes
-  - Language settings
-  - Data usage controls    WHAT IS MEANT BY THAT?
-  - Accessibility options    NOT A FEATURE, UNFORTUNATELY.
+  - Switch between dark/light themes
+  - Language settings (German/English)
+  - Set default homepage
+  - Configure calendar view preferences
+  - News feed preferences (MCI/Sakai)
 
 ---
 
@@ -175,22 +171,20 @@ This document outlines the structural concept for the MyMCI knowledge base, foll
 *Resources for lecturers and academic staff*
 
 - **Lecturer Onboarding**
-  - Complete onboarding wizard
-  - Set up your academic profile    WHAT IS MEANT BY THAT?
-  - Configure course settings    DUPLICATE FROM 'MANAGE COURSE MATERIALS'?
-  - Access teaching resources    WHAT IS MEANT BY THAT?
+  - Complete the multi-step onboarding wizard
+  - Upload required documents during onboarding
+  - Complete personal and professional information
 
-- **Academic Portfolio**
-  - Manage your CV
-  - Add publications
-  - Track research projects    DOES THIS REQUIRE A SEPARATE SUB-FILE?
-  - Update expertise areas    OES THIS REQUIRE A SEPARATE SUB-FILE?
+- **Academic Portfolio Management**
+  - Create and manage your curriculum vitae
+  - Add and edit publications with DOI fields
+  - Manage academic entries and career history
+  - Update personal and contact information
 
-- **Course Administration**
-  - Create and edit syllabi
-  - View student evaluations
-  - Manage course materials    DUPLICATE?
-  - Communication with students    NOT A FEATURE
+- **Course & Evaluation Management**
+  - Create and edit course syllabi
+  - View and analyze student evaluation results
+  - Access evaluation analytics and feedback
 
 ---
 
@@ -209,11 +203,11 @@ This document outlines the structural concept for the MyMCI knowledge base, foll
   - International office
   - Emergency contacts
 
-- **Feedback & Suggestions**   NOT A FEATURE
-  - Report bugs
-  - Request features
-  - Share your experience
-  - Beta testing program
+- **Additional Resources**
+  - App version information
+  - Understanding different user roles
+  - Platform-specific guidance (iOS/Android/Web)
+  - Offline mode capabilities
 
 ---
 
