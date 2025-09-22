@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5cb2b1aafb6adba6",
+        "id": "5c4fa7e6bf43009d",
         "type": "tabs",
         "children": [
           {
-            "id": "9b39f819fd14c503",
+            "id": "709d44c652478e46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Areas/MCI/myMCI Userdokumentation/Userdokumentation myMCI.md",
+                "file": "02-Areas/MCI/Knowledge Base/structural_concept.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Userdokumentation myMCI"
+              "title": "structural_concept"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -177,9 +177,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e9c52b4733e141fa",
+  "active": "709d44c652478e46",
   "lastOpenFiles": [
     "02-Areas/MCI/Knowledge Base/structural_concept.md",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Untitled.base",
     "02-Areas/MCI/myMCI Userdokumentation/Userdokumentation myMCI.md",
     "02-Areas/MCI/Knowledge Base/structural_concept.md.tmp.141701.1758549283890",
     "02-Areas/MCI/Knowledge Base",
@@ -209,13 +212,9 @@
     "02-Areas/Languages/Sindarin/Phonetik/Sindarin-Phonetik.md",
     "02-Areas/Languages/Sindarin/Übungen/Erste-Schritte.md",
     "02-Areas/Languages/Sindarin/Texte/Bekannte-Texte.md",
-    "02-Areas/Languages/Sindarin/Texte/Bekannte-Texte.md.tmp.25258.1754641302200",
-    "02-Areas/Languages/Sindarin/Phonetik/Schriftsysteme.md.tmp.25258.1754641203944",
     "02-Areas/Languages/Sindarin/Grammatik/Adjektive.md",
     "02-Areas/Languages/Sindarin/Grammatik/Pronomen.md",
     "02-Areas/Languages/Sindarin/Grammatik/Satzbau.md",
-    "02-Areas/Languages/Sindarin/Grammatik/Sindarin-Grammatik-Überblick.md",
-    "02-Areas/Languages/Sindarin/Wortschatz/Familie.md.tmp.25258.1754640604742",
     "Assets/Documents/manifesto-short.png",
     "Assets/Images/zzDrawings 1/zzDrawing_SupComp.png",
     "Assets/Images/zzDrawings 1/zzDrawing_SupComp 1.png",
