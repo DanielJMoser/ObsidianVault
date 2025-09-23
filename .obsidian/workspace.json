@@ -17,12 +17,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/Security & Access/01-Activate your account.md",
+                    "file": "02-Areas/MCI/Knowledge Base/07-For Teachers & Staff/02-Academic Portfolio Management/03-Update personal and contact information.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "01-Activate your account"
+                  "title": "03-Update personal and contact information"
                 }
               }
             ]
@@ -204,14 +204,28 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b9c51289a0953792",
+  "active": "646e957ae88247f1",
   "lastOpenFiles": [
+    "02-Areas/MCI/Knowledge Base/07-For Teachers & Staff/02-Academic Portfolio Management/03-Update personal and contact information.md",
+    "02-Areas/MCI/Knowledge Base/07-For Teachers & Staff/03-Course & Evaluation Management",
+    "02-Areas/MCI/Knowledge Base/07-For Teachers & Staff/02-Academic Portfolio Management/02-Add and edit publications with DOI fields.md",
+    "02-Areas/MCI/Knowledge Base/07-For Teachers & Staff/02-Academic Portfolio Management/01-Create and manage your curriculum vitae.md",
+    "02-Areas/MCI/Knowledge Base/07-For Teachers & Staff/01-Lecturer Onboarding/02-Upload required documents.md",
+    "02-Areas/MCI/Knowledge Base/07-For Teachers & Staff/02-Academic Portfolio Management",
+    "02-Areas/MCI/Knowledge Base/07-For Teachers & Staff/01-Lecturer Onboarding/01-Complete the multi-step wizard.md",
+    "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/03-App Preferences/05-News feed preferences.md",
+    "02-Areas/MCI/Knowledge Base/07-For Teachers & Staff/01-Lecturer Onboarding/C",
+    "02-Areas/MCI/Knowledge Base/07-For Teachers & Staff/01-Lecturer Onboarding",
+    "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/03-App Preferences/04-Configure calendar view preferences.md",
+    "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/03-App Preferences/03-Set default homepage.md",
+    "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/03-App Preferences/02-Language settings.md",
+    "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/03-App Preferences/01-Switch between dark & light theme.md",
+    "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/02-Security & Access/01-Activate your account.md",
     "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/03-App Preferences",
-    "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/Security & Access/02-Reset your password.md",
-    "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/Security & Access/01-Activate your account.md",
+    "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/02-Security & Access/02-Reset your password.md",
     "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/Security & Access/Untitled",
     "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/01-Profile Management/04-Privacy and cookies.md",
-    "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/Security & Access",
+    "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/02-Security & Access",
     "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/01-Profile Management/03-Why can't I change my profile picture?.md",
     "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/01-Profile Management/02-Change profile picture.md",
     "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/01-Profile Management/01-How can I update my personal information?.md",
@@ -227,21 +241,6 @@
     "02-Areas/MCI/Knowledge Base/05-Stay Informed/01-News & Announcements/02-Role-based news filtering.md",
     "02-Areas/MCI/Knowledge Base/05-Stay Informed/02-Calendar & Events",
     "02-Areas/MCI/Knowledge Base/05-Stay Informed/01-News & Announcements/Untitled.md",
-    "02-Areas/MCI/Knowledge Base/05-Stay Informed/01-News & Announcements/01-Understanding MCI vs Sakai news feeds.md",
-    "02-Areas/MCI/Knowledge Base/04-Documents & Administration/03-Forms & Applications/03-Update your personal data.md",
-    "02-Areas/MCI/Knowledge Base/05-Stay Informed/01-News & Announcements",
-    "02-Areas/MCI/Knowledge Base/04-Documents & Administration/03-Forms & Applications/02-Apply for an internship.md",
-    "02-Areas/MCI/Knowledge Base/04-Documents & Administration/03-Forms & Applications/01-Apply for a Scholarship of Excellence.md",
-    "02-Areas/MCI/Knowledge Base/04-Documents & Administration/02-Student Services/03-Payment status.md",
-    "02-Areas/MCI/Knowledge Base/04-Documents & Administration/03-Forms & Applications",
-    "02-Areas/MCI/Knowledge Base/04-Documents & Administration/02-Student Services/02-Mailbox management and renewal.md",
-    "02-Areas/MCI/Knowledge Base/04-Documents & Administration/02-Student Services/01-Digital student ID card.md",
-    "02-Areas/MCI/Knowledge Base/04-Documents & Administration/01-Document Center/01-Download official documents and papers.md",
-    "02-Areas/MCI/Knowledge Base/structural_concept.md",
-    "02-Areas/MCI/Knowledge Base/03-Study Abroad/04-Grants & Funding/03-Manage payment information.md",
-    "02-Areas/MCI/Knowledge Base/02-Manage Your Studies/Evaluations & Feedback",
-    "02-Areas/MCI/Knowledge Base/02-Manage Your Studies/Course Management",
-    "02-Areas/MCI/Knowledge Base/02-Manage Your Studies/Academic Progress",
     "02-Areas/Personal-Development/Writing/SUPPOAA.canvas",
     "Assets/Documents/manifesto-short.png",
     "Assets/Images/zzDrawings 1/zzDrawing_SupComp.png",
