@@ -75,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 638.5
+    "width": 332.5
   },
   "right": {
     "id": "605a2265e141ac78",
@@ -173,7 +173,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6311ac8ec29ee8e9",
+  "active": "b9c51289a0953792",
   "lastOpenFiles": [
     "02-Areas/MCI/myMCI Userdokumentation/Userdokumentation myMCI.md",
     "00-Inbox/integration_with_existing_kb.md",
