@@ -17,12 +17,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "02-Areas/MCI/Knowledge Base/05-Stay Informed/02-Calendar & Events/04-Syncing the calendar to an external app.md",
+                    "file": "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/Security & Access/01-Activate your account.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "04-Syncing the calendar to an external app"
+                  "title": "01-Activate your account"
                 }
               }
             ]
@@ -204,10 +204,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "709d44c652478e46",
+  "active": "b9c51289a0953792",
   "lastOpenFiles": [
-    "02-Areas/MCI/Knowledge Base/05-Stay Informed/02-Calendar & Events/03-Understanding calendar views.md",
+    "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/03-App Preferences",
+    "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/Security & Access/02-Reset your password.md",
+    "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/Security & Access/01-Activate your account.md",
+    "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/Security & Access/Untitled",
+    "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/01-Profile Management/04-Privacy and cookies.md",
+    "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/Security & Access",
+    "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/01-Profile Management/03-Why can't I change my profile picture?.md",
+    "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/01-Profile Management/02-Change profile picture.md",
+    "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/01-Profile Management/01-How can I update my personal information?.md",
+    "02-Areas/MCI/Knowledge Base/05-Stay Informed/03-Notifications/03-Understanding notification types.md",
+    "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/01-Profile Management",
+    "02-Areas/MCI/Knowledge Base/05-Stay Informed/03-Notifications/02-Email preferences.md",
+    "02-Areas/MCI/Knowledge Base/05-Stay Informed/03-Notifications/01-Managing push notifications.md",
     "02-Areas/MCI/Knowledge Base/05-Stay Informed/02-Calendar & Events/04-Syncing the calendar to an external app.md",
+    "02-Areas/MCI/Knowledge Base/05-Stay Informed/03-Notifications",
+    "02-Areas/MCI/Knowledge Base/05-Stay Informed/02-Calendar & Events/03-Understanding calendar views.md",
     "02-Areas/MCI/Knowledge Base/05-Stay Informed/02-Calendar & Events/02-Browse event details and locations.md",
     "02-Areas/MCI/Knowledge Base/05-Stay Informed/02-Calendar & Events/01-View academic calendar and important dates.md",
     "02-Areas/MCI/Knowledge Base/05-Stay Informed/01-News & Announcements/02-Role-based news filtering.md",
@@ -225,23 +239,9 @@
     "02-Areas/MCI/Knowledge Base/04-Documents & Administration/01-Document Center/01-Download official documents and papers.md",
     "02-Areas/MCI/Knowledge Base/structural_concept.md",
     "02-Areas/MCI/Knowledge Base/03-Study Abroad/04-Grants & Funding/03-Manage payment information.md",
-    "02-Areas/MCI/Knowledge Base/03-Study Abroad/04-Grants & Funding/02-Submit necessary documents.md",
-    "02-Areas/MCI/Knowledge Base/03-Study Abroad/04-Grants & Funding/01-Apply for mobility grants.md",
-    "02-Areas/MCI/Knowledge Base/03-Study Abroad/03-During Your Exchange/01-Update contact information abroad.md",
-    "02-Areas/MCI/Knowledge Base/03-Study Abroad/03-During Your Exchange/Untitled.md",
-    "02-Areas/MCI/Knowledge Base/03-Study Abroad/03-During Your Exchange/02-Modify learning agreements.md",
-    "02-Areas/MCI/Knowledge Base/platform_interactive_strategy.md",
-    "02-Areas/MCI/Knowledge Base/integration_with_existing_kb.md",
-    "02-Areas/MCI/Knowledge Base/03-Study Abroad/02-Application Process/05-Track application status.md",
-    "02-Areas/MCI/Knowledge Base/03-Study Abroad/02-Application Process/04-Submit required documents.md",
-    "02-Areas/MCI/Knowledge Base/03-Study Abroad/02-Application Process/03-Learning agreements.md",
     "02-Areas/MCI/Knowledge Base/02-Manage Your Studies/Evaluations & Feedback",
     "02-Areas/MCI/Knowledge Base/02-Manage Your Studies/Course Management",
     "02-Areas/MCI/Knowledge Base/02-Manage Your Studies/Academic Progress",
-    "Untitled.base",
-    "Untitled 2.base",
-    "Untitled 1.base",
-    "02-Areas/MCI/Knowledge Base/integration_with_existing_kb.md.tmp.141701.1758554300667",
     "02-Areas/Personal-Development/Writing/SUPPOAA.canvas",
     "Assets/Documents/manifesto-short.png",
     "Assets/Images/zzDrawings 1/zzDrawing_SupComp.png",
