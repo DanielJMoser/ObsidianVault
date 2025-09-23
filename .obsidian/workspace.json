@@ -11,10 +11,14 @@
             "id": "6311ac8ec29ee8e9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02-Areas/MCI/Knowledge Base/01-Getting Started/Essential Setup/01-How can I access.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "01-How can I access"
             }
           }
         ]
@@ -175,6 +179,7 @@
   },
   "active": "b9c51289a0953792",
   "lastOpenFiles": [
+    "02-Areas/MCI/Knowledge Base/01-Getting Started/Essential Setup/01-How can I access.md",
     "02-Areas/MCI/myMCI Userdokumentation/Userdokumentation myMCI.md",
     "00-Inbox/integration_with_existing_kb.md",
     "00-Inbox/structural_concept.md",
@@ -209,7 +214,6 @@
     "02-Areas/MCI/Knowledge Base/05-Stay Informed/03-Notifications",
     "02-Areas/MCI/Knowledge Base/05-Stay Informed/02-Calendar & Events/03-Understanding calendar views.md",
     "02-Areas/MCI/Knowledge Base/05-Stay Informed/02-Calendar & Events/02-Browse event details and locations.md",
-    "02-Areas/MCI/Knowledge Base/05-Stay Informed/02-Calendar & Events/01-View academic calendar and important dates.md",
     "02-Areas/MCI/Knowledge Base/05-Stay Informed/02-Calendar & Events",
     "02-Areas/Personal-Development/Writing/SUPPOAA.canvas",
     "Assets/Documents/manifesto-short.png",
