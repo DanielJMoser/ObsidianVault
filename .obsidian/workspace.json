@@ -4,51 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a8ea925515cb4a6c",
-        "type": "split",
+        "id": "37d261a5b436b207",
+        "type": "tabs",
         "children": [
           {
-            "id": "5c4fa7e6bf43009d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "709d44c652478e46",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-Areas/MCI/Knowledge Base/07-For Teachers & Staff/02-Academic Portfolio Management/03-Update personal and contact information.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "03-Update personal and contact information"
-                }
-              }
-            ]
-          },
-          {
-            "id": "0f80e9efd895a82b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "646e957ae88247f1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02-Areas/MCI/Knowledge Base/structural_concept.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "structural_concept"
-                }
-              }
-            ]
+            "id": "6311ac8ec29ee8e9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,8 +173,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "646e957ae88247f1",
+  "active": "6311ac8ec29ee8e9",
   "lastOpenFiles": [
+    "02-Areas/MCI/myMCI Userdokumentation/Userdokumentation myMCI.md",
+    "00-Inbox/integration_with_existing_kb.md",
+    "00-Inbox/structural_concept.md",
     "02-Areas/MCI/Knowledge Base/07-For Teachers & Staff/02-Academic Portfolio Management/03-Update personal and contact information.md",
     "02-Areas/MCI/Knowledge Base/07-For Teachers & Staff/03-Course & Evaluation Management",
     "02-Areas/MCI/Knowledge Base/07-For Teachers & Staff/02-Academic Portfolio Management/02-Add and edit publications with DOI fields.md",
@@ -238,9 +210,7 @@
     "02-Areas/MCI/Knowledge Base/05-Stay Informed/02-Calendar & Events/03-Understanding calendar views.md",
     "02-Areas/MCI/Knowledge Base/05-Stay Informed/02-Calendar & Events/02-Browse event details and locations.md",
     "02-Areas/MCI/Knowledge Base/05-Stay Informed/02-Calendar & Events/01-View academic calendar and important dates.md",
-    "02-Areas/MCI/Knowledge Base/05-Stay Informed/01-News & Announcements/02-Role-based news filtering.md",
     "02-Areas/MCI/Knowledge Base/05-Stay Informed/02-Calendar & Events",
-    "02-Areas/MCI/Knowledge Base/05-Stay Informed/01-News & Announcements/Untitled.md",
     "02-Areas/Personal-Development/Writing/SUPPOAA.canvas",
     "Assets/Documents/manifesto-short.png",
     "Assets/Images/zzDrawings 1/zzDrawing_SupComp.png",
