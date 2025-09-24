@@ -1,4 +1,4 @@
-# Integration Strategy: MyMCI App KB with Existing MCI IT Knowledge Base
+Integration Strategy: MyMCI App KB with Existing MCI IT Knowledge Base
 
 ## Current State Analysis
 
