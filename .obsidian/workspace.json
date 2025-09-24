@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Areas/MCI/Knowledge Base/02-Manage Your Studies/Academic Progress/01-View your grades.md",
+                "file": "02-Areas/MCI/Knowledge Base/02-Manage Your Studies/Academic Progress/02-Export academic transcripts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-View your grades"
+              "title": "02-Export academic transcripts"
             }
           }
         ]
@@ -200,8 +200,8 @@
   },
   "active": "ff7b370938eceb4f",
   "lastOpenFiles": [
-    "02-Areas/MCI/Knowledge Base/02-Manage Your Studies/Academic Progress/02-Export academic transcripts.md",
     "02-Areas/MCI/Knowledge Base/02-Manage Your Studies/Academic Progress/01-View your grades.md",
+    "02-Areas/MCI/Knowledge Base/02-Manage Your Studies/Academic Progress/02-Export academic transcripts.md",
     "02-Areas/MCI/Knowledge Base/01-Getting Started/Essential Setup/01-How can I access myMCI?.md",
     "02-Areas/MCI/myMCI Userdokumentation/Userdokumentation myMCI.md",
     "02-Areas/MCI/MCI-Outgoing/Evaluierung.md",
