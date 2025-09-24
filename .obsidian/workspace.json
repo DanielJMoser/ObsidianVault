@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Areas/MCI/Knowledge Base/structural_concept.md",
+                "file": "02-Areas/MCI/myMCI Userdokumentation/Userdokumentation myMCI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "structural_concept"
+              "title": "Userdokumentation myMCI"
             }
           }
         ]
@@ -99,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5,
-    "collapsed": true
+    "width": 284.5
   },
   "right": {
     "id": "605a2265e141ac78",
@@ -201,12 +200,14 @@
   },
   "active": "3e1c11390c1f6d2a",
   "lastOpenFiles": [
+    "02-Areas/MCI/MCI-Outgoing/Evaluierung.md",
+    "02-Areas/MCI/Knowledge Base/platform_interactive_strategy.md",
+    "02-Areas/MCI/Knowledge Base/structural_concept.md",
     "02-Areas/MCI/Knowledge Base/01-Getting Started/Essential Setup/01-How can I access myMCI?.md",
     "02-Areas/MCI/Knowledge Base/08-Help & Support/02-Additional Resources/03-Platform-specific guidance.md",
     "02-Areas/MCI/Knowledge Base/08-Help & Support/02-Additional Resources/02-Understanding user roles.md",
     "02-Areas/MCI/Knowledge Base/08-Help & Support/02-Additional Resources/01-App version information.md",
     "02-Areas/MCI/Knowledge Base/08-Help & Support/01-Troubleshooting/03-Connection issues.md",
-    "02-Areas/MCI/Knowledge Base/structural_concept.md",
     "02-Areas/MCI/Knowledge Base/08-Help & Support/02-Additional Resources",
     "02-Areas/MCI/Knowledge Base/08-Help & Support/01-Troubleshooting/02-App crashes and errors.md",
     "02-Areas/MCI/Knowledge Base/08-Help & Support/01-Troubleshooting/01-Common login issues.md",
@@ -214,7 +215,6 @@
     "02-Areas/MCI/Knowledge Base/07-For Teachers & Staff/03-Course & Evaluation Management/02-View and analyze student evaluation results.md",
     "02-Areas/MCI/Knowledge Base/07-For Teachers & Staff/03-Course & Evaluation Management/01-Create and edit course syllabi.md",
     "Untitled.md",
-    "02-Areas/MCI/Knowledge Base/platform_interactive_strategy.md",
     "02-Areas/MCI/Knowledge Base/integration_with_existing_kb.md",
     "02-Areas/MCI/myMCI Userdokumentation/Userdokumentation myMCI.md",
     "02-Areas/MCI/Knowledge Base/07-For Teachers & Staff/02-Academic Portfolio Management/03-Update personal and contact information.md",
@@ -233,7 +233,6 @@
     "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/03-App Preferences/01-Switch between dark & light theme.md",
     "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/02-Security & Access/01-Activate your account.md",
     "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/03-App Preferences",
-    "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/02-Security & Access/02-Reset your password.md",
     "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/Security & Access/Untitled",
     "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/02-Security & Access",
     "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/01-Profile Management",
