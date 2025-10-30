@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "02-Export academic transcripts"
             }
+          },
+          {
+            "id": "a34040372b5485bf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6847138b8cc0dc81",
@@ -198,7 +211,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ff7b370938eceb4f",
+  "active": "a34040372b5485bf",
   "lastOpenFiles": [
     "02-Areas/MCI/Knowledge Base/02-Manage Your Studies/Academic Progress/01-View your grades.md",
     "02-Areas/MCI/Knowledge Base/02-Manage Your Studies/Academic Progress/02-Export academic transcripts.md",
