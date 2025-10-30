@@ -161,7 +161,7 @@ sudo blkid /dev/nvme0n1p8
 
 **Example output:**
 ```
-/dev/nvme0n1p8: LABEL="home-data" UUID="xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx" TYPE="ext4"
+/dev/nvme0n1p8: LABEL="home-data" UUID="67093d5-0410-4633-921d-86a58040d9b5" TYPE="ext4"
 ```
 
 **⚠️ IMPORTANT:** Copy the UUID value - you'll need it for /etc/fstab!
