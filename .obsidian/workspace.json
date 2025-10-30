@@ -25,12 +25,14 @@
             "id": "a34040372b5485bf",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "Expanding-Root-Partition-Guide.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "icon": "lucide-file",
+              "title": "Expanding-Root-Partition-Guide"
             }
           }
         ],
@@ -213,10 +215,12 @@
   },
   "active": "a34040372b5485bf",
   "lastOpenFiles": [
+    "02-Areas/MCI/myMCI Userdokumentation/Userdokumentation myMCI.md",
+    "Expanding-Root-Partition-Guide.md",
+    "Expanding-Root-Partition-Guide.md.tmp.10331.1761810617889",
     "02-Areas/MCI/Knowledge Base/02-Manage Your Studies/Academic Progress/01-View your grades.md",
     "02-Areas/MCI/Knowledge Base/02-Manage Your Studies/Academic Progress/02-Export academic transcripts.md",
     "02-Areas/MCI/Knowledge Base/01-Getting Started/Essential Setup/01-How can I access myMCI?.md",
-    "02-Areas/MCI/myMCI Userdokumentation/Userdokumentation myMCI.md",
     "02-Areas/MCI/MCI-Outgoing/Evaluierung.md",
     "02-Areas/MCI/Knowledge Base/platform_interactive_strategy.md",
     "02-Areas/MCI/Knowledge Base/structural_concept.md",
@@ -244,11 +248,9 @@
     "02-Areas/MCI/Knowledge Base/07-For Teachers & Staff/01-Lecturer Onboarding",
     "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/03-App Preferences/04-Configure calendar view preferences.md",
     "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/03-App Preferences/03-Set default homepage.md",
-    "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/03-App Preferences/02-Language settings.md",
     "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/03-App Preferences",
     "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/Security & Access/Untitled",
     "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/02-Security & Access",
-    "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/01-Profile Management",
     "02-Areas/Personal-Development/Writing/SUPPOAA.canvas",
     "Assets/Documents/manifesto-short.png",
     "Assets/Images/zzDrawings 1/zzDrawing_SupComp.png",
