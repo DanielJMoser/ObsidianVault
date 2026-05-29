@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Userdokumentation myMCI"
             }
+          },
+          {
+            "id": "75f30ae8f19a51de",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,7 +191,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3e1c11390c1f6d2a",
+  "active": "75f30ae8f19a51de",
   "lastOpenFiles": [
     "01-Active/Luna-Story/Luna/Kapitel 3/Kapitel 3.md",
     "02-Areas/MCI/Knowledge Base/02-Manage Your Studies/Academic Progress/02-Export academic transcripts.md",
