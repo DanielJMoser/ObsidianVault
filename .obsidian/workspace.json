@@ -25,12 +25,14 @@
             "id": "75f30ae8f19a51de",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "01-Active/Luna-Story/Luna/Legacy/Kapitel 4/0_Szene 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-file",
+              "title": "0_Szene 1"
             }
           }
         ],
@@ -193,6 +195,7 @@
   },
   "active": "75f30ae8f19a51de",
   "lastOpenFiles": [
+    "01-Active/Luna-Story/Luna/CLAUDE.md",
     "01-Active/Luna-Story/Luna/Kapitel 3/Kapitel 3.md",
     "02-Areas/MCI/Knowledge Base/02-Manage Your Studies/Academic Progress/02-Export academic transcripts.md",
     "Expanding-Root-Partition-Guide.md",
@@ -225,7 +228,6 @@
     "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/03-App Preferences/05-News feed preferences.md",
     "02-Areas/MCI/Knowledge Base/07-For Teachers & Staff/01-Lecturer Onboarding/C",
     "02-Areas/MCI/Knowledge Base/07-For Teachers & Staff/01-Lecturer Onboarding",
-    "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/03-App Preferences/04-Configure calendar view preferences.md",
     "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/03-App Preferences",
     "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/Security & Access/Untitled",
     "02-Areas/MCI/Knowledge Base/06-Your Account & Settings/02-Security & Access",
