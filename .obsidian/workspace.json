@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Areas/Computer-Science/IT Security/Practical Security/Abwehrstrategien/Origin-Isolation mit iFrame und WebView.md",
+                "file": "02-Areas/Computer-Science/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Double-Ratchet-Algorithmus (Axolotl Ratchet).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Origin-Isolation mit iFrame und WebView"
+              "title": "Double-Ratchet-Algorithmus (Axolotl Ratchet)"
             }
           }
         ]
@@ -180,8 +180,10 @@
   },
   "active": "b553b46fcd2f2dee",
   "lastOpenFiles": [
-    "02-Areas/Computer-Science/IT Security/Practical Security/Abwehrstrategien/Secure Design Patterns.md",
+    "02-Areas/Computer-Science/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Diffie-Hellman Key Exchange.md",
+    "02-Areas/Computer-Science/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Double-Ratchet-Algorithmus (Axolotl Ratchet).md",
     "02-Areas/Computer-Science/IT Security/Practical Security/Abwehrstrategien/Origin-Isolation mit iFrame und WebView.md",
+    "02-Areas/Computer-Science/IT Security/Practical Security/Abwehrstrategien/Secure Design Patterns.md",
     "02-Areas/Computer-Science/IT Security/Practical Security/Abwehrstrategien/Kerberos.md",
     "Expanding-Root-Partition-Guide.md",
     "02-Areas/Computer-Science/IT Security/Practical Security/Abwehrstrategien/Origin-Isolation",
@@ -208,8 +210,6 @@
     "02-Areas/MCI/Knowledge Base/08-Help & Support/01-Troubleshooting/01-Common login issues.md",
     "02-Areas/MCI/Knowledge Base/08-Help & Support/01-Troubleshooting",
     "02-Areas/MCI/Knowledge Base/07-For Teachers & Staff/03-Course & Evaluation Management/02-View and analyze student evaluation results.md",
-    "02-Areas/MCI/Knowledge Base/07-For Teachers & Staff/03-Course & Evaluation Management/01-Create and edit course syllabi.md",
-    "Untitled.md",
     "02-Areas/MCI/Knowledge Base/07-For Teachers & Staff/03-Course & Evaluation Management",
     "02-Areas/MCI/Knowledge Base/07-For Teachers & Staff/02-Academic Portfolio Management",
     "02-Areas/MCI/Knowledge Base/07-For Teachers & Staff/01-Lecturer Onboarding/C",
