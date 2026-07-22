@@ -1,5 +1,5 @@
--> Entwickelt zur **E2EE** in Instantmessengern, urspruenglich fuer **Signal**.
+-> Entwickelt zur **E2EE** in Instantmessengern, ursprünglich für **Signal**.
 
-Nach einem ersten Key-Exchange kuemmert sich der Algorithmus um **kurzlebige Session-keys**, die immer wieder erneuert und gewartet werden muessen. Dabei kommen zwei sog. kryptografische "Ratchets" zum Einsatz: Einerseits eine [[Schlüsselableitung]] (Englisch: **Key Derivation Function**, oder **KDF**) wie etwa eine [[Kryptografische Hashfunktionen|Hashfunktion]] (symmetrisch), andererseits ein [[Diffie-Hellman Key Exchange]] (asymmetrisch).
+Nach einem ersten Key-Exchange kümmert sich der Algorithmus um **kurzlebige Session-Keys**, die immer wieder erneuert und gewartet werden müssen. Dabei kommen zwei sog. kryptografische "Ratchets" zum Einsatz: Einerseits eine [[Schlüsselableitung]] (Englisch: **Key Derivation Function**, oder **KDF**) wie etwa eine [[Kryptografische Hashfunktionen|Hashfunktion]] (symmetrisch), andererseits ein [[Diffie-Hellman Key Exchange]] (asymmetrisch).
 
-Die urspruengliche Namensgebung (Axolotl-Protokoll u.Ae.) stammt daher, dass man mit dem Protokoll eine OTR-Implementierung mit **Perfect Forward Secrecy** bei Kompromittierung eines der Kommunikationspartner haben wollte und 
+Die ursprüngliche Namensgebung (Axolotl-Protokoll u.Ä.) stammt daher, dass man mit dem Protokoll eine OTR-Implementierung mit [[Perfect Forward Secrecy]] erschaffen wollte, die durch den häufigen Wechsel der **Session-Keys** zur "Selbstheilung" in der Lage war – eben wie das namensgebende Viech.
