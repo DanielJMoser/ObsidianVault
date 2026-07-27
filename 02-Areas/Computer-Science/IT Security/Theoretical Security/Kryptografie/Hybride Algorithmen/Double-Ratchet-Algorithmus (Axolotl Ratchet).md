@@ -1,4 +1,3 @@
-H1BRwdMmdK
 -> Entwickelt zur **E2EE** in Instantmessengern, ursprünglich für **Signal**.
 
 Nach einem ersten Key-Exchange kümmert sich der Algorithmus um **kurzlebige Session-Keys**, die immer wieder erneuert und gewartet werden müssen. Dabei kommen zwei sog. kryptografische "Ratchets" zum Einsatz: Einerseits eine [[Schlüsselableitung]] (Englisch: **Key Derivation Function**, oder **KDF**) wie etwa eine [[Kryptografische Hashfunktionen|Hashfunktion]] (symmetrisch), andererseits ein [[Diffie-Hellman Key Exchange]] (asymmetrisch).
