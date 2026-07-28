@@ -8,13 +8,13 @@ Same camera, same filesystem, same FCM token. Absolutely. The isolation isn't pr
 
 Compare what each channel lets JavaScript request:
 
-| Need | Capacitor plugin API | `mciChatBridge` equivalent |
-|---|---|---|
-| Camera | `Camera.getPhoto()` — programmatic, returns image data to JS | OS chooser only, via `<input type="file">` → `onShowFileChooser`. User gesture required, **user** picks the file |
-| Read a file | `Filesystem.readFile({path})` — arbitrary path in the app sandbox | **No message type exists.** There is no read primitive |
-| Write a file | `Filesystem.writeFile({path, data})` — page chooses the path | `save-file{fileName, mimeType, dataBase64}` — page supplies content it already has; native decides placement |
-| Stored values | `Preferences.get({key})` — reads the shell's store, including session state | `secure-storage-get` against `MciChatSecureStorage`, a separate store |
-| Push | full messaging plugin surface | `push-token-get` — returns a token, nothing else |
+| Need          | Capacitor plugin API                                                        | `mciChatBridge` equivalent                                                                                       |
+| ------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| Camera        | `Camera.getPhoto()` — programmatic, returns image data to JS                | OS chooser only, via `<input type="file">` → `onShowFileChooser`. User gesture required, **user** picks the file |
+| Read a file   | `Filesystem.readFile({path})` — arbitrary path in the app sandbox           | **No message type exists.** There is no read primitive                                                           |
+| Write a file  | `Filesystem.writeFile({path, data})` — page chooses the path                | `save-file{fileName, mimeType, dataBase64}` — page supplies content it already has; native decides placement     |
+| Stored values | `Preferences.get({key})` — reads the shell's store, including session state | `secure-storage-get` against `MciChatSecureStorage`, a separate store                                            |
+| Push          | full messaging plugin surface                                               | `push-token-get` — returns a token, nothing else                                                                 |
 
 The chat can send a photo. It cannot enumerate your photos. It can save a download. It cannot read your documents folder. Same hardware, same OS APIs underneath — a fraction of the authority.
 
