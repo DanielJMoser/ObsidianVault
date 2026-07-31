@@ -148,9 +148,19 @@ Um diese Daten wiederrum zu erhalten -> Recovery-Key
 
 -> All das schuetzt die **on-device secrets** und **innerhalb des Clients**!
 
-Was aber mit 
-
 ---
+
+E2EE ist nicht genug. Die Trust Layer kuemmert sich um folgende Frage:
+
+> Mit welchen Devices und Identitaeten teilen wir Keys? Wessen Nachrichten sind vertrauenswuerdig?
+
+Durch:
+- Cross-Signing 
+- Geraeteverifizierung
+- Backup der Keys
+- Device Isolation
+- Downgrade protection
+
 
 
 # "Warum nicht einfach Element in einer WebView laufen lassen?"
