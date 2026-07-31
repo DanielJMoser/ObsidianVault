@@ -89,11 +89,11 @@ Daher erscheint mir eine separate WebView ziemlich sinnvoll. Es gibt mMn. keinen
 flowchart LR
     %% Nodes and Subgraphs
     subgraph MainApp["myMCI main WebView (own origin)"]
-        Token["localStorage['token']<br/>(university session)"]
+        Token["localStorage['token']<br/>(myMCI-Session)"]
         Shell["myMCI shell UI<br/>(MciChat Capacitor plugin)"]
     end
 
-    subgraph ChatView["Chat WebView — separate origin<br/>iOS: mci-chat://localhost<br/>Android: https://chat.mci-local"]
+    subgraph ChatView["Chat WebView: Separierte origin"]
         ChatJS["Chat client JS<br/>(matrix-js-sdk)"]
         Secrets["Matrix access token<br/>+ storageKey<br/>(via mciChatBridge only)"]
     end
@@ -102,12 +102,13 @@ flowchart LR
 
     %% Relationships
     Shell -- "MciChat.open() / close()<br/>(Capacitor plugin call)" --> NativeHost
-    NativeHost -- "presents" --> ChatView
+    NativeHost -- "zeigt an" --> ChatView
     ChatJS <-->|"mciChatBridge (unread-count, close-chat,<br/>open-room, back-handler, secure-storage-*)"| NativeHost
     NativeHost -- "unreadCount event" --> Shell
 
-    Token -.->|"same-origin policy blocks this"| ChatJS
+    Token -.->|"same-origin policy blockiert"| ChatJS
 ```
+
     
 
 ---
