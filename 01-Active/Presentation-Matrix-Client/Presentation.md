@@ -117,7 +117,8 @@ Android: https://chat.mci-local -> Android kennt lokale custom schemes nicht an,
 
 -> Allowlist!
 - Woher duerfen Ressourcen geladen werden?
-- 
+- Nur von unserer eigenen Chat-Origin
+
 ---
 
 # Keystore
