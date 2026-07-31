@@ -5,7 +5,7 @@
 		{
 			"id":"0fdf95562a1a5c07",
 			"type":"text",
-			"text":"\n```mermaid\nflowchart LR\n    %% Nodes and Subgraphs\n    subgraph MainApp[\"myMCI main WebView (capacitor://localhost)\"]\n        Token[\"localStorage['token']<br/>(myMCI-Session)\"]\n        Shell[\"myMCI shell UI<br/>(MciChat Capacitor plugin)\"]\n    end\n\n    subgraph ChatView[\"Chat WebView: Separierte origin\"]\n        ChatJS[\"Chat client JS<br/>(matrix-js-sdk)\"]\n        Secrets[\"Matrix access token<br/>+ storageKey<br/>(via mciChatBridge only)\"]\n    end\n\n    NativeHost[\"Native host<br/>(MciChatWebViewController / MciChatWebViewHost)\"]\n\n    %% Relationships\n    Shell -- \"MciChat.open() / close()<br/>(Capacitor plugin call)\" --> NativeHost\n    NativeHost -- \"zeigt an\" --> ChatView\n    ChatJS <-->|\"mciChatBridge (unread-count, close-chat,<br/>open-room, back-handler, secure-storage-*)\"| NativeHost\n    NativeHost -- \"unreadCount event\" --> Shell\n\n    Token -.->|\"same-origin policy blockiert\"| ChatJS\n```\n\n> [!NOTE]\n> iOS: mci-chat://localhost\n> Android: https://chat.mci-local -> Android kennt lokale custom schemes nicht an, wir faken eine fiktive https:// -URL.\n\n",
+			"text":"\n```mermaid\nflowchart LR\n    %% Nodes and Subgraphs\n    subgraph MainApp[\"myMCI main WebView (capacitor://localhost)\"]\n        Token[\"localStorage['token']<br/>(myMCI-Session)\"]\n        Shell[\"myMCI shell UI<br/>(MciChat Capacitor plugin)\"]\n    end\n\n    subgraph ChatView[\"Chat WebView: Separierte origin\"]\n        ChatJS[\"Chat client JS<br/>(matrix-js-sdk)\"]\n        Secrets[\"Matrix access token<br/>+ storageKey<br/>(via mciChatBridge only)\"]\n    end\n\n    NativeHost[\"Native host<br/>(MciChatWebViewController / MciChatWebViewHost)\"]\n\n    %% Relationships\n    Shell -- \"MciChat.open() / close()<br/>(Capacitor plugin call)\" --> NativeHost\n    NativeHost -- \"zeigt an\" --> ChatView\n    ChatJS <-->|\"mciChatBridge (unread-count, close-chat,<br/>open-room, back-handler, secure-storage-*)\"| NativeHost\n    NativeHost -- \"unreadCount event\" --> Shell\n\n    Token -.->|\"same-origin policy blockiert\"| ChatJS\n```\n\n\n\n",
 			"styleAttributes":{
 				"border":null
 			},
@@ -42,6 +42,15 @@
 			"fromNode":"0fdf95562a1a5c07",
 			"fromSide":"top",
 			"toNode":"2406c723d1011eb4",
+			"toSide":"bottom"
+		},
+		{
+			"id":"9621299e180e1e85",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"0fdf95562a1a5c07",
+			"fromSide":"top",
+			"toNode":"987fe8e011d89293",
 			"toSide":"bottom"
 		}
 	],

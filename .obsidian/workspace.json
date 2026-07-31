@@ -11,29 +11,14 @@
             "id": "b553b46fcd2f2dee",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "01-Active/Presentation-Matrix-Client/Presentation-Canvas.canvas",
-                "viewState": {
-                  "x": -410,
-                  "y": -308.4,
-                  "zoom": 0
-                }
+                "file": "01-Active/Presentation-Matrix-Client/Presentation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Presentation-Canvas"
-            }
-          },
-          {
-            "id": "1ec782e09b075b71",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.4"
+              "icon": "lucide-file",
+              "title": "Presentation"
             }
           }
         ]
@@ -196,8 +181,8 @@
   },
   "active": "b553b46fcd2f2dee",
   "lastOpenFiles": [
-    "01-Active/Presentation-Matrix-Client/Presentation-Canvas.canvas",
     "01-Active/Presentation-Matrix-Client/Presentation.md",
+    "01-Active/Presentation-Matrix-Client/Presentation-Canvas.canvas",
     "01-Active/Learning-Current/btw.md",
     "01-Active/Presentation-Matrix-Client/Red-impostor.webp",
     "01-Active/Presentation-Matrix-Client/Screenshot_20260727_175017.png",
