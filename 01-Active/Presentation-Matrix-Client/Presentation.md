@@ -120,9 +120,16 @@ m.login.password muenzt ein neues Device mit leerem crypto store -> verschluesse
 ## Loesung:
 -> Key-Backup!
 - verschluesselte Kopie des Megolm-Keys auf Homeserver gespeichert
-- Zur Entschluesselung dieser Keys: **Recovery-Key!**
-	- 
+- Zur Entschluesselung dieser Keys: **4S!** (server-side secret storage)
+	- Ein secret storage key wird am Client generiert
+	- Die secrets (Key backup key, aber auch cross-signing keys) werden verschluesselt
+	- Die verschluesselten Blobs werden als Account-Data am Homeserver hinterlegt
+	
+---
+## Loesung (2):
+Um diese Daten wiederrum zu erhalten -> Recovery-Key
 
+- 
 
 ---
 # "Warum nicht einfach Element in einer WebView laufen lassen?"
