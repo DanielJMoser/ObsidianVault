@@ -1,5 +1,5 @@
 # myChat
-Ein **Matrix-Plugin** fuer die myMCI
+ Sicherer Chat in der myMCI, auf Basis von Matrix
 
 ---
 
@@ -36,11 +36,10 @@ Aktuell fehlt uns ein **niedrigschwelliger, sicherer Kommunikationskanal**:
 | Hosting der Nachrichten | beim Anbieter                           | matrix.mci4me.at, MCI-eigen                    |
 | Kosten                  | Lizenz, laufend, pro Kopf (?)           | Betrieb bestehender Infrastruktur              |
 | Lock-in                 | Anbieter kontrolliert Daten und Roadmap | offenes Protokoll, Client austauschbar         |
-| DSGVO                   | AVV mit Dritten noetig                  | keine Auftragsverarbeitung ausser Haus         |
 | Interoperabilitaet      | geschlossen                             | ein Account, Element im Browser + myChat mobil |
 | Lifecycle               | keine Ahnung                            | wir setzen die Regeln selbst                   |
 | Verfuegbarkeit          | nein                                    | Matrix laeuft schon bei uns                    |
-Kaum Infos zum Plugin, zentrale Fragen wurden beim letzten Meeting nicht geklaert 
+Kaum Infos zum Plugin, zentrale Fragen wurden beim letzten Meeting **nicht** geklaert. Studo-Beauftragter **Johannes Waldner** fehlte beim letzten Termin.
 
 ---
 
@@ -93,8 +92,6 @@ Eine moeglichst simple Bridge sorgt fuer die Kommunikation zwischen myMCI und my
 - secure-storeage-get/set/remove
 
 ---
-
-# FAQ
 ## "Warum nicht einfach Element in einer WebView laufen lassen?"
 
 Gute Frage! Waere die einfache Loesung -> Laeuft schon auf chat.mci4me.at, hoeheres Sicherheitsniveau.
