@@ -76,5 +76,11 @@ Eine moeglichst simple Bridge sorgt fuer die Kommunikation zwischen myMCI und my
 ---
 
 # FAQ
-## "Warum nicht einfach Element in einer WebView oder gar in einem iFrame laufen lassen?"
+## "Warum nicht einfach Element in einer WebView laufen lassen?"
 
+Gute Frage! Waere die einfache Loesung -> Laeuft schon auf chat.mci4me.at, hoeheres Sicherheitsniveau.
+
+Aber:
+- auf Speicherebene des In-App-Browsers beschraenkt
+	- kein Hardware-Keychain/Keystore moeglich
+	- keine native 
