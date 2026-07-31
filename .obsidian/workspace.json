@@ -31,8 +31,7 @@
               "title": "Slide Preview"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,7 +187,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ef9b9678e32ebad9",
+  "active": "b553b46fcd2f2dee",
   "lastOpenFiles": [
     "01-Active/Learning-Current/btw.md",
     "01-Active/Presentation-Matrix-Client/Red-impostor.webp",
