@@ -23,11 +23,14 @@ Aktuell fehlt uns ein **niedrigschwelliger, sicherer Kommunikationskanal**:
 	- "Vertrauenswuerdig" heisst: LA bereits eingereicht (TBD!)
 	- Max. 12 Monate vor Ankunft (laut IRO reicht auch 6... wird noch entschieden)
 	- Max. 6 Monate nach Abreise
-- Aktuell wird von IRO ein WhatsApp-Chat bespielt (etwa: Wohnboerse, allgemeine Kurzinfos, Erinnerungen, etc.) -> 
+- Aktuell wird von IRO ein **WhatsApp-Chat** bespielt (etwa: Wohnboerse, allgemeine Kurzinfos, Erinnerungen, etc.) -> suboptimal!
+- **Von IRO vorgeschlagen**: Plugin von **Studo**, welches diesen Use-Case abdecken soll.
+- Wir kontern mit **Matrix**.
 
 ---
 
 # Vorgehensweise
+- Klarzustellen: **Ab wann** koennen wir den Incomings einen **mci4me-Account** verpassen?
 - **Konfiguration** der existierenden Infrastruktur
 	- Erstellen von sog. Spaces bzw. Rooms
 	- Permission-Management
