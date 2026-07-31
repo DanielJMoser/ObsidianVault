@@ -155,11 +155,11 @@ E2EE ist nicht genug. Die Trust Layer kuemmert sich um folgende Frage:
 > Mit welchen Devices und Identitaeten teilen wir Keys? Wessen Nachrichten sind vertrauenswuerdig?
 
 Durch:
-- Cross-Signing 
-- Geraeteverifizierung
+- Cross-Signing -> "Master-Key", per-Account-Identitaet
+- Geraeteverifizierung -> Short Authentication String, Emojis
 - Backup der Keys
-- Device Isolation
-- Downgrade protection
+- Device Isolation -> Key sharing mit unverified devices?
+- Downgrade protection 
 
 
 
