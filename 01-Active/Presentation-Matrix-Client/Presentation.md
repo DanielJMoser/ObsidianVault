@@ -118,8 +118,10 @@ Android: https://chat.mci-local -> Android kennt lokale custom schemes nicht an,
 m.login.password muenzt ein neues Device mit leerem crypto store -> verschluesselte Nachrichten gehen nach jedem Login verloren!
 
 ## Loesung:
--> Key-Backup.
-- verschluesselte Kopie des Megolm-Keys 
+-> Key-Backup!
+- verschluesselte Kopie des Megolm-Keys auf Homeserver gespeichert
+- Zur Entschluesselung dieser Keys: **Recovery-Key!**
+	- 
 
 
 ---
