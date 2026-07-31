@@ -64,9 +64,6 @@ Kaum Infos zum Plugin, zentrale Fragen wurden beim letzten Meeting **nicht** gek
 
 ---
 
-
-
-
 # myChat -- Architektonische Ueberlegungen
 
 Genau genommen eine separate App:
@@ -80,6 +77,8 @@ Genau genommen eine separate App:
 - Vor allem aber: Vergleichsweise hohen XSS-Potenzial.
 
 Daher erscheint mir eine separate WebView ziemlich sinnvoll. Es gibt mMn. keinen Grund, warum sich die Beiden eine Origin (und damit Zugriff auf localStorage und den myMCI-Token) teilen sollen.
+
+In Browserversion: Link auf E
 
 ---
 # Bridges
@@ -109,9 +108,10 @@ flowchart LR
     Token -.->|"same-origin policy blockiert"| ChatJS
 ```
 
-    
 
 ---
+
+
 ## "Warum nicht einfach Element in einer WebView laufen lassen?"
 
 Gute Frage! Waere die einfache Loesung -> Laeuft schon auf chat.mci4me.at, hoeheres Sicherheitsniveau.
