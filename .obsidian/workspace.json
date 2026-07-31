@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "01-Active/Presentation-Matrix-Client/Presentation.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "ef9b9678e32ebad9",
+            "id": "68316b21cba2fad6",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -30,8 +30,21 @@
               "icon": "lucide-file",
               "title": "Slide Preview"
             }
+          },
+          {
+            "id": "1ec782e09b075b71",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +91,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -187,11 +202,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b553b46fcd2f2dee",
+  "active": "68316b21cba2fad6",
   "lastOpenFiles": [
+    "01-Active/Presentation-Matrix-Client/Presentation.md",
     "01-Active/Learning-Current/btw.md",
     "01-Active/Presentation-Matrix-Client/Red-impostor.webp",
-    "01-Active/Presentation-Matrix-Client/Presentation.md",
     "01-Active/Presentation-Matrix-Client/Screenshot_20260727_175017.png",
     "01-Active/Presentation-Matrix-Client/Screenshot_20260727_174836.png",
     "2026-07-27_17-49.png",

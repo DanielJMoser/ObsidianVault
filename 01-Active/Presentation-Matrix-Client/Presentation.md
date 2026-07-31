@@ -60,7 +60,7 @@ Kaum Infos zum Plugin, zentrale Fragen wurden beim letzten Meeting **nicht** gek
 
 # Matrix in a nutshell
 
--> kein "Produkt" in dem Sinne, sondern ein offenes Protokoll. Vgl. E-Mail!
+Kein "Produkt" in dem Sinne, sondern ein offenes Protokoll. Vgl. E-Mail!
 
 - Dezentralisiert, MCI betreibt Homeserver via matrix.mci4me.at
 - Clients gibt's zuhauf: MCI-eigene Webinstanz von _Element_ auf chat.mci4me.at.
@@ -79,7 +79,21 @@ Kaum Infos zum Plugin, zentrale Fragen wurden beim letzten Meeting **nicht** gek
 
 ---
 
-# myChat -- Architektonische Überlegungen
+### "Warum nicht einfach Element in einer WebView laufen lassen?"
+
+
+Laeuft ja schon auf chat.mci4me.at.
+
+Aber:
+- auf Speicherebene des In-App-Browsers beschraenkt
+	- kein Hardware-Keychain/Keystore moeglich
+	- keine nativen Push-Nachrichten
+- kein Branding
+
+
+---
+
+# Architektonische Überlegungen
 
 Genau genommen eine separate App:
 
@@ -98,7 +112,7 @@ Es gibt mMn. keinen Grund, warum sich die Be Beiden eine Origin (und damit Zugri
 
 
 ---
-# Bridge
+# Bridge(s)
 
 
 ```mermaid
@@ -125,8 +139,9 @@ flowchart LR
     Token -.->|"same-origin policy blockiert"| ChatJS
 ```
 
-iOS: mci-chat://localhost
-Android: https://chat.mci-local -> Android kennt lokale custom schemes nicht an, wir faken eine fiktive https:// -URL.
+> [!NOTE]
+> iOS: mci-chat://localhost
+> Android: https://chat.mci-local -> Android kennt lokale custom schemes nicht an, wir faken eine fiktive https:// -URL.
 
 ---
 # Keystore
@@ -196,12 +211,3 @@ Passiert, wenn der Cross-Signing-Key veraendert wurde. Eventuell bei Neuinstalla
 Daher: <span style="background:#ff4d4f">Alert! Die Identitaet wurde veraendert! Willst du wirklich mit dieser Person kommunizieren?!</span>
 
 ---
-# "Warum nicht einfach Element in einer WebView laufen lassen?"
-
-Gute Frage! Waere die einfache Loesung -> Laeuft schon auf chat.mci4me.at, hoeheres Sicherheitsniveau.
-
-Aber:
-- auf Speicherebene des In-App-Browsers beschraenkt
-	- kein Hardware-Keychain/Keystore moeglich
-	- keine nativen Push-Nachrichten
-- kein Branding
