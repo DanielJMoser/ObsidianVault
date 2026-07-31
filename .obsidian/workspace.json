@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "01-Active/Presentation-Matrix-Client/Presentation.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -31,8 +31,7 @@
               "title": "Slide Preview"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,7 +187,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1e78007346d25ef1",
+  "active": "b553b46fcd2f2dee",
   "lastOpenFiles": [
     "01-Active/Learning-Current/btw.md",
     "01-Active/Presentation-Matrix-Client/Red-impostor.webp",
