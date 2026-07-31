@@ -19,9 +19,10 @@ Aktuell fehlt uns ein **niedrigschwelliger, sicherer Kommunikationskanal**:
 **-> Kommunikationsplattform fuer Incomings**
 
 - "Vertrauenswuerdige" Incomings erhalten schon frueher als bisher Zugriff auf unsere IT-Infrastruktur.
-	- "Vertrauenswuerdig" heisst: LA bereits eingereicht
-	- Max. 12 Monate vor Ankunft
+	- "Vertrauenswuerdig" heisst: LA bereits eingereicht (TBD!)
+	- Max. 12 Monate vor Ankunft (laut IRO reicht auch 6... wird noch entschieden)
 	- Max. 6 Monate nach Abreise
+- 
 - **Konfiguration** der existierenden Infrastruktur
 	- Erstellen von sog. Spaces bzw. Rooms
 	- Permission-Management
