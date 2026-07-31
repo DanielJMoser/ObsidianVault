@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "5ce4fd18809af926",
+            "id": "1e78007346d25ef1",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -31,7 +31,8 @@
               "title": "Slide Preview"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,7 +188,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b553b46fcd2f2dee",
+  "active": "1e78007346d25ef1",
   "lastOpenFiles": [
     "01-Active/Learning-Current/btw.md",
     "01-Active/Presentation-Matrix-Client/Red-impostor.webp",

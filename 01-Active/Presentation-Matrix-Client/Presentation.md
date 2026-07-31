@@ -98,13 +98,6 @@ Es gibt mMn. keinen Grund, warum sich die Be Beiden eine Origin (und damit Zugri
 
 
 ---
-# CSP
-
--> Allowlist!
-- Woher duerfen Ressourcen geladen werden?
-- In unsrem Fall: Nur von unserer eigenen Chat-Origin
-
----
 # Bridge
 
 
