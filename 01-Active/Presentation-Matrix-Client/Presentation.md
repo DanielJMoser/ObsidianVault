@@ -82,7 +82,7 @@ Genau genommen eine separate App:
 Daher erscheint mir eine separate WebView ziemlich sinnvoll. Es gibt mMn. keinen Grund, warum sich die Beiden eine Origin (und damit Zugriff auf localStorage und den myMCI-Token) teilen sollen.
 
 ---
-# myChat -- Architektonische Ueberlegungen 2
+# myChat -- 
 
 Eine moeglichst simple Bridge sorgt fuer die Kommunikation zwischen myMCI und myChat. Aktuell:
 
