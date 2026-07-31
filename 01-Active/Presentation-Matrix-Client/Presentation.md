@@ -166,6 +166,17 @@ Durch:
 - Downgrade protection -> Verschluesselung eines Raumes bleibt unveraendert, sonst: Refusal!
 
 ---
+![[Screenshot_20260727_174836.png]]
+
+---
+
+![[2026-07-27_17-49.png]]
+
+---
+
+![[Screenshot_20260727_175017.png]]
+
+---
 # TOFU
 -> Trust On First Use!
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Active/Presentation-Matrix-Client/Presentation.md",
+                "file": "01-Active/Learning-Current/btw.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Presentation"
+              "title": "btw"
             }
           },
           {
@@ -187,11 +187,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b553b46fcd2f2dee",
+  "active": "b9c51289a0953792",
   "lastOpenFiles": [
-    "Red-impostor.webp",
+    "01-Active/Presentation-Matrix-Client/Red-impostor.webp",
     "01-Active/Presentation-Matrix-Client/Presentation.md",
-    "01-Active/Presentation-Matrix-Client/btw.md",
+    "01-Active/Presentation-Matrix-Client/Screenshot_20260727_175017.png",
+    "01-Active/Presentation-Matrix-Client/Screenshot_20260727_174836.png",
+    "2026-07-27_17-49.png",
+    "01-Active/Learning-Current/btw.md",
     "01-Active/Presentation-Matrix-Client/2.md",
     "Untitled.md",
     "01-Active/Presentation-Matrix-Client/index.md",
@@ -231,10 +234,6 @@
     "Assets/Images/zzDrawings 1/zzDrawing_SupComp 1.png",
     "Assets/Images/zzDrawings/zzDrawing_TradProgramm.png",
     "Assets/Images/zzDrawings/zzDrawing_SVM.png",
-    "Assets/Images/zzDrawings/zzDrawing_Regression.png",
-    "Assets/Images/zzDrawings/zzDrawing_MachProgramm.png",
-    "Assets/Images/zzDrawings/zzDrawing_Classification.png",
-    "Assets/Images/Latex.svg",
-    "Assets/Excalidraw/Scripts/Downloaded/Concatenate lines.svg"
+    "Assets/Images/zzDrawings/zzDrawing_Regression.png"
   ]
 }
