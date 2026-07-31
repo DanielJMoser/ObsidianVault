@@ -103,10 +103,10 @@ Genau genommen eine separate App:
 - Eigene Content Security Policy
 - Push-Notifikationen werden separat gehandled
 - ...
-- Vor allem aber: Vergleichsweise hohes XSS-Potenzial.
+- Vor allem aber: Vergleichsweise **hohes XSS-Potenzial**.
 
-Daher erscheint mir eine separate WebView ziemlich sinnvoll.
-Es gibt mMn. keinen Grund, warum sich die Be Beiden eine Origin (und damit Zugriff auf u.A. localStorage und den myMCI-Token) teilen sollen.
+> [!NOTE]
+> Kein Grund, warum sich die Beiden eine Origin (und damit Zugriff auf u.A. localStorage und den myMCI-Token) teilen sollen.
 
 **In Browserversion:** Link auf Element-Webinstanz. Done!
 
@@ -148,6 +148,9 @@ flowchart LR
 ## Problem: 
 m.login.password muenzt ein neues Device mit leerem crypto store -> verschluesselte Nachrichten gehen nach jedem Login verloren!
 
+
+---
+
 ## Loesung:
 -> Key-Backup!
 - verschluesselte Kopie des Megolm-Keys auf Homeserver gespeichert
@@ -155,7 +158,7 @@ m.login.password muenzt ein neues Device mit leerem crypto store -> verschluesse
 	- Ein secret storage key wird am Client generiert
 	- Die secrets (Key backup key, aber auch cross-signing keys) werden verschluesselt
 	- Die verschluesselten Blobs werden als Account-Data am Homeserver hinterlegt
-	
+
 ---
 ## Loesung (2):
 Um diese Daten wiederrum zu erhalten -> Recovery-Key

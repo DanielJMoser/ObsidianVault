@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "68316b21cba2fad6",
+            "id": "861151ef43e862ab",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -43,8 +43,7 @@
               "title": "Release Notes 1.13.4"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,7 +201,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "68316b21cba2fad6",
+  "active": "b553b46fcd2f2dee",
   "lastOpenFiles": [
     "01-Active/Presentation-Matrix-Client/Presentation.md",
     "01-Active/Learning-Current/btw.md",
