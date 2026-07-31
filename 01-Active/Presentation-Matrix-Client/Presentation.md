@@ -159,8 +159,16 @@ Durch:
 - Geraeteverifizierung -> Short Authentication String, Emojis
 - Backup der Keys
 - Device Isolation -> Key sharing mit unverified devices?
-- Downgrade protection 
+- Downgrade protection -> Verschluesselung eines Raumes bleibt unveraendert, sonst: Refusal!
 
+---
+# TOFU
+-> Trust On First Use!
+
+Neue Identitaeten werden bei der ersten Sichtung als vertrauenswuerdig eingestuft.
+Daher: Alert! Die Identitaet wurde veraendert! Willst du wirklich mit dieser Person kommunizieren?!
+
+Passiert, wenn der Cross-Signing-Key veraendert wurde. Eventuell bei Neuinstallation, 
 
 
 # "Warum nicht einfach Element in einer WebView laufen lassen?"
