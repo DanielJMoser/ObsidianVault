@@ -90,7 +90,7 @@ In Browserversion: Link auf Element-Webinstanz
 - Nur von unserer eigenen Chat-Origin
 
 ---
-# Bridges
+# Bridge
 
 
 ```mermaid
@@ -123,6 +123,14 @@ Android: https://chat.mci-local -> Android kennt lokale custom schemes nicht an,
 
 ---
 
+| Problem                                                                        | Lösung durch die Bridge                                                                                                                       |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Same-Origin Policy** blockiert Zugriff auf `localStorage` der Haupt-WebView. | Der Native Host holt das Token sicher (z. B. über Capacitor) und übergibt es **kontrolliert** an die Chat-WebView.                            |
+| **Sichere Speicherung** von Matrix-Tokens (z. B. in Keychain/Keystore).        | Die Chat-WebView kann nicht direkt auf native Speicher zugreifen → Bridge leitet Anfragen an den Native Host weiter.                          |
+| **UI-Steuerung** (z. B. Chat schließen, Navigation).                           | Die Shell (Haupt-WebView) kann die Chat-WebView nicht direkt steuern → Bridge übermittelt Befehle wie `close-chat`.                           |
+| **Ereignisweiterleitung** (z. B. `unreadCount`).                               | Die Chat-WebView kann keine Events direkt an die Shell senden → Bridge leitet sie an den Native Host weiter, der sie an die Shell weitergibt. |
+
+---
 # Keystore
 ## Problem: 
 m.login.password muenzt ein neues Device mit leerem crypto store -> verschluesselte Nachrichten gehen nach jedem Login verloren!
