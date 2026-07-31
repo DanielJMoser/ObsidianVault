@@ -18,7 +18,7 @@ Auch zur studentischen Vernetzung **vor, während und nach** dem Studium
 - Wohnungssuche
 - Start-Up-Gründung
 - Buddy-Programm
-- ...etc
+- ...etc...
 - e.g. Kim Fladda meldete schon Interesse an, diesen Kanal für reguläre Studienanfänger:innen aus dem Ausland zu nutzen.
 
 
