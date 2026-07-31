@@ -75,3 +75,6 @@ Eine moeglichst simple Bridge sorgt fuer die Kommunikation zwischen myMCI und my
 
 ---
 
+# FAQ
+## "Warum nicht einfach Element in einer WebView oder gar in einem iFrame laufen lassen?"
+
