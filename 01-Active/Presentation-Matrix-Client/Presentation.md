@@ -12,6 +12,7 @@ Aktuell fehlt uns ein **niedrigschwelliger, sicherer Kommunikationskanal**:
 	- Start-Up-Gruendung
 	- Buddy-Programm
 	- ...etc...
+- e.g. Kim Fladda meldete schon Interesse an, diesen Kanal fuer regulaere Studienanfaenger:innen aus dem Ausland zu nutzen.
 
 
 ---
@@ -22,7 +23,11 @@ Aktuell fehlt uns ein **niedrigschwelliger, sicherer Kommunikationskanal**:
 	- "Vertrauenswuerdig" heisst: LA bereits eingereicht (TBD!)
 	- Max. 12 Monate vor Ankunft (laut IRO reicht auch 6... wird noch entschieden)
 	- Max. 6 Monate nach Abreise
-- 
+- Aktuell wird von IRO ein WhatsApp-Chat bespielt (etwa: Wohnboerse, allgemeine Kurzinfos, Erinnerungen, etc.) -> 
+
+---
+
+# Vorgehensweise
 - **Konfiguration** der existierenden Infrastruktur
 	- Erstellen von sog. Spaces bzw. Rooms
 	- Permission-Management
@@ -30,9 +35,7 @@ Aktuell fehlt uns ein **niedrigschwelliger, sicherer Kommunikationskanal**:
 	- Danach: Technisch gesehn ready-to-go?
 - **myChat** als integrierten, minimalen Client in die myMCI
 
-
 ---
-
 # Matrix4Dummies
 
 -> kein "Produkt" in dem Sinne, sondern ein offenes Protokoll. Vgl. E-Mail!
