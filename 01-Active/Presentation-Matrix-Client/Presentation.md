@@ -1,29 +1,29 @@
 # myChat
- Sicherer Chat in der myMCI, auf Basis von Matrix
+Sicherer Chat in der myMCI, auf Basis von Matrix
 
 ---
 
 # Problemstellung
 
 Aktuell fehlt uns ein **niedrigschwelliger, sicherer Kommunikationskanal**:
-- In erster Linie fuer Incomings: Keine Kommunikation zwischen Aufnahme und  Studienbeginn -> Absagen von 10-15%
-- Auch zur studentischen Vernetzung **vor, waehrend und nach** dem Studium
+- In erster Linie für Incomings: Keine Kommunikation zwischen Aufnahme und Studienbeginn -> Absagen von 10-15%
+- Auch zur studentischen Vernetzung **vor, während und nach** dem Studium
 	- Wohnungssuche
-	- Start-Up-Gruendung
+	- Start-Up-Gründung
 	- Buddy-Programm
 	- ...etc...
-- e.g. Kim Fladda meldete schon Interesse an, diesen Kanal fuer regulaere Studienanfaenger:innen aus dem Ausland zu nutzen.
+- e.g. Kim Fladda meldete schon Interesse an, diesen Kanal für reguläre Studienanfänger:innen aus dem Ausland zu nutzen.
 
 
 ---
 # Fokus
-**-> Kommunikationsplattform fuer Incomings**
+**-> Kommunikationsplattform für Incomings**
 
-- "Vertrauenswuerdige" Incomings erhalten schon frueher als bisher Zugriff auf unsere IT-Infrastruktur.
-	- "Vertrauenswuerdig" heisst: LA bereits eingereicht (TBD!)
+- "Vertrauenswürdige" Incomings erhalten schon früher als bisher Zugriff auf unsere IT-Infrastruktur.
+	- "Vertrauenswürdig" heißt: LA bereits eingereicht (TBD!)
 	- Max. 12 Monate vor Ankunft (laut IRO reicht auch 6... wird noch entschieden)
 	- Max. 6 Monate nach Abreise
-- Aktuell wird von IRO ein **WhatsApp-Chat** bespielt (etwa: Wohnboerse, allgemeine Kurzinfos, Erinnerungen, etc.) -> suboptimal!
+- Aktuell wird von IRO ein **WhatsApp-Chat** bespielt (etwa: Wohnbörse, allgemeine Kurzinfos, Erinnerungen, etc.) -> suboptimal!
 - **Von IRO vorgeschlagen**: Plugin von **Studo**, welches diesen Use-Case abdecken soll.
 - Wir kontern mit **Matrix**.
 
@@ -36,10 +36,10 @@ Aktuell fehlt uns ein **niedrigschwelliger, sicherer Kommunikationskanal**:
 | Hosting der Nachrichten | beim Anbieter                           | matrix.mci4me.at, MCI-eigen                    |
 | Kosten                  | Lizenz, laufend, pro Kopf (?)           | Betrieb bestehender Infrastruktur              |
 | Lock-in                 | Anbieter kontrolliert Daten und Roadmap | offenes Protokoll, Client austauschbar         |
-| Interoperabilitaet      | geschlossen                             | ein Account, Element im Browser + myChat mobil |
+| Interoperabilität       | geschlossen                             | ein Account, Element im Browser + myChat mobil |
 | Lifecycle               | keine Ahnung                            | wir setzen die Regeln selbst                   |
-| Verfuegbarkeit          | nein                                    | Matrix laeuft schon bei uns                    |
-Kaum Infos zum Plugin, zentrale Fragen wurden beim letzten Meeting **nicht** geklaert. Studo-Beauftragter **Johannes Waldner** fehlte beim letzten Termin.
+| Verfügbarkeit           | nein                                    | Matrix läuft schon bei uns                     |
+Kaum Infos zum Plugin, zentrale Fragen wurden beim letzten Meeting **nicht** geklärt. Studo-Beauftragter **Johannes Waldner** fehlte beim letzten Termin.
 
 ---
 
@@ -49,12 +49,12 @@ Kaum Infos zum Plugin, zentrale Fragen wurden beim letzten Meeting **nicht** gek
 
 - Dezentralisiert, MCI betreibt Homeserver via matrix.mci4me.at
 - Clients gibt's zuhauf: MCI-eigene Webinstanz von _Element_ auf chat.mci4me.at.
-- E2EE per default, implementiert den urspruenglich fuers Signal-Protokoll entwickelten **Double Ratchet Algorithm**
+- E2EE per default, implementiert den ursprünglich fürs Signal-Protokoll entwickelten **Double Ratchet Algorithm**
 
 ---
 
 # Vorgehensweise
-- Klarzustellen: **Ab wann** koennen wir den Incomings einen **mci4me-Account** verpassen?
+- Klarzustellen: **Ab wann** können wir den Incomings einen **mci4me-Account** verpassen?
 - **Konfiguration** der existierenden Infrastruktur
 	- Erstellen von sog. Spaces bzw. Rooms
 	- Permission-Management
@@ -64,7 +64,7 @@ Kaum Infos zum Plugin, zentrale Fragen wurden beim letzten Meeting **nicht** gek
 
 ---
 
-# myChat -- Architektonische Ueberlegungen
+# myChat -- Architektonische Überlegungen
 
 Genau genommen eine separate App:
 
@@ -74,9 +74,9 @@ Genau genommen eine separate App:
 - Eigene Content Security Policy
 - Push-Notifikationen werden separat gehandled
 - ...
-- Vor allem aber: Vergleichsweise hohen XSS-Potenzial.
+- Vor allem aber: Vergleichsweise hohes XSS-Potenzial.
 
-Daher erscheint mir eine separate WebView ziemlich sinnvoll. Es gibt mMn. keinen Grund, warum sich die Beiden eine Origin (und damit Zugriff auf localStorage und den myMCI-Token) teilen sollen.
+Daher erscheint mir eine separate WebView ziemlich sinnvoll. Es gibt mMn. keinen Grund, warum sich die Be Beiden eine Origin (und damit Zugriff auf localStorage und den myMCI-Token) teilen sollen.
 
 In Browserversion: Link auf Element-Webinstanz
 
