@@ -19,17 +19,25 @@ Auch zur studentischen Vernetzung **vor, während und nach** dem Studium
 - Start-Up-Gründung
 - Buddy-Programm
 - ...etc...
-- e.g. Kim Fladda meldete schon Interesse an, diesen Kanal für reguläre Studienanfänger:innen aus dem Ausland zu nutzen.
+
+- e.g. Kim Fladda meldete schon Interesse an, diesen Kanal für **reguläre Studienanfänger:innen** aus dem Ausland zu nutzen.
 
 
 ---
 # Fokus
 **-> Kommunikationsplattform für Incomings**
 
-- "Vertrauenswürdige" Incomings erhalten schon früher als bisher Zugriff auf unsere IT-Infrastruktur.
-	- "Vertrauenswürdig" heißt: LA bereits eingereicht (TBD!)
-	- Max. 12 Monate vor Ankunft (laut IRO reicht auch 6... wird noch entschieden)
-	- Max. 6 Monate nach Abreise
+"Vertrauenswürdige" Incomings erhalten schon früher als bisher Zugriff auf unsere IT-Infrastruktur.
+
+"Vertrauenswürdig" heißt: 
+- LA bereits eingereicht (TBD!)
+- Max. 12 Monate vor Ankunft (laut IRO reicht auch 6... wird noch entschieden)
+- Max. 6 Monate nach Abreise
+
+---
+
+# Fokus (2)
+
 - Aktuell wird von IRO ein **WhatsApp-Chat** bespielt (etwa: Wohnbörse, allgemeine Kurzinfos, Erinnerungen, etc.) -> suboptimal!
 - **Von IRO vorgeschlagen**: Plugin von **Studo**, welches diesen Use-Case abdecken soll.
 - Wir kontern mit **Matrix**.
@@ -83,18 +91,18 @@ Genau genommen eine separate App:
 - ...
 - Vor allem aber: Vergleichsweise hohes XSS-Potenzial.
 
-Daher erscheint mir eine separate WebView ziemlich sinnvoll. Es gibt mMn. keinen Grund, warum sich die Be Beiden eine Origin (und damit Zugriff auf localStorage und den myMCI-Token) teilen sollen.
+Daher erscheint mir eine separate WebView ziemlich sinnvoll.
+Es gibt mMn. keinen Grund, warum sich die Be Beiden eine Origin (und damit Zugriff auf u.A. localStorage und den myMCI-Token) teilen sollen.
 
-In Browserversion: Link auf Element-Webinstanz
+**In Browserversion:** Link auf Element-Webinstanz. Done!
 
 
 ---
-
 # CSP
 
 -> Allowlist!
 - Woher duerfen Ressourcen geladen werden?
-- Nur von unserer eigenen Chat-Origin
+- In unsrem Fall: Nur von unserer eigenen Chat-Origin
 
 ---
 # Bridge
