@@ -115,6 +115,9 @@ Android: https://chat.mci-local -> Android kennt lokale custom schemes nicht an,
 
 # CSP
 
+-> Allowlist!
+- Woher duerfen Ressourcen geladen werden?
+- 
 ---
 
 # Keystore
@@ -166,11 +169,13 @@ Durch:
 -> Trust On First Use!
 
 Neue Identitaeten werden bei der ersten Sichtung als vertrauenswuerdig eingestuft.
-Daher: Alert! Die Identitaet wurde veraendert! Willst du wirklich mit dieser Person kommunizieren?!
+Passiert, wenn der Cross-Signing-Key veraendert wurde. Eventuell bei Neuinstallation oder anderwertigen Verlust des Recovery Keys -- oder wenn wir mit einem Impostor kommunizieren!
 
-Passiert, wenn der Cross-Signing-Key veraendert wurde. Eventuell bei Neuinstallation, 
+![[Red-impostor.webp]]
 
+Daher: <span style="background:#ff4d4f">Alert! Die Identitaet wurde veraendert! Willst du wirklich mit dieser Person kommunizieren?!</span>
 
+---
 # "Warum nicht einfach Element in einer WebView laufen lassen?"
 
 Gute Frage! Waere die einfache Loesung -> Laeuft schon auf chat.mci4me.at, hoeheres Sicherheitsniveau.
