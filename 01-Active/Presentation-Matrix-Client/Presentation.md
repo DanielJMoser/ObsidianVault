@@ -139,9 +139,7 @@ flowchart LR
     Token -.->|"same-origin policy blockiert"| ChatJS
 ```
 
-> [!NOTE]
-> iOS: mci-chat://localhost
-> Android: https://chat.mci-local -> Android kennt lokale custom schemes nicht an, wir faken eine fiktive https:// -URL.
+
 
 ---
 # Keystore

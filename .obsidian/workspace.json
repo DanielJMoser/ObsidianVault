@@ -11,18 +11,21 @@
             "id": "b553b46fcd2f2dee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "01-Active/Presentation-Matrix-Client/Presentation.md",
-                "mode": "source",
-                "source": false
+                "file": "01-Active/Presentation-Matrix-Client/Presentation-Canvas.canvas",
+                "viewState": {
+                  "x": -410,
+                  "y": -420,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Presentation"
+              "icon": "lucide-layout-dashboard",
+              "title": "Presentation-Canvas"
             }
           },
           {
-            "id": "861151ef43e862ab",
+            "id": "f7a4670ae4f0a67b",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -204,6 +207,7 @@
   "active": "b553b46fcd2f2dee",
   "lastOpenFiles": [
     "01-Active/Presentation-Matrix-Client/Presentation.md",
+    "01-Active/Presentation-Matrix-Client/Presentation-Canvas.canvas",
     "01-Active/Learning-Current/btw.md",
     "01-Active/Presentation-Matrix-Client/Red-impostor.webp",
     "01-Active/Presentation-Matrix-Client/Screenshot_20260727_175017.png",
