@@ -29,6 +29,18 @@ Aktuell fehlt uns ein **niedrigschwelliger, sicherer Kommunikationskanal**:
 
 ---
 
+Mat
+
+# Matrix in a nutshell
+
+-> kein "Produkt" in dem Sinne, sondern ein offenes Protokoll. Vgl. E-Mail!
+
+- Dezentralisiert, MCI betreibt Homeserver via matrix.mci4me.at
+- Clients gibt's zuhauf: MCI-eigene Webinstanz von _Element_ auf chat.mci4me.at.
+- E2EE per default, implementiert den urspruenglich fuers Signal-Protokoll entwickelten **Double Ratchet Algorithm**
+
+---
+
 # Vorgehensweise
 - Klarzustellen: **Ab wann** koennen wir den Incomings einen **mci4me-Account** verpassen?
 - **Konfiguration** der existierenden Infrastruktur
@@ -39,15 +51,9 @@ Aktuell fehlt uns ein **niedrigschwelliger, sicherer Kommunikationskanal**:
 - **myChat** als integrierten, minimalen Client in die myMCI
 
 ---
-# Matrix4Dummies
 
--> kein "Produkt" in dem Sinne, sondern ein offenes Protokoll. Vgl. E-Mail!
 
-- Dezentralisiert, MCI betreibt Homeserver via matrix.mci4me.at
-- Clients gibt's zuhauf: MCI-eigene Webinstanz von _Element_ auf chat.mci4me.at.
-- E2EE per default, implementiert den urspruenglich fuers Signal-Protokoll entwickelten **Double Ratchet Algorithm**
 
----
 
 # myChat -- Architektonische Ueberlegungen
 
@@ -83,4 +89,5 @@ Gute Frage! Waere die einfache Loesung -> Laeuft schon auf chat.mci4me.at, hoehe
 Aber:
 - auf Speicherebene des In-App-Browsers beschraenkt
 	- kein Hardware-Keychain/Keystore moeglich
-	- keine native 
+	- keine nativen Push-Nachrichten
+- kein Branding
