@@ -66,3 +66,5 @@ Eine moeglichst simple Bridge sorgt fuer die Kommunikation zwischen myMCI und my
 - Handling von Deep-Links und hardwareBackButton
 - secure-storeage-get/set/remove
 
+---
+
