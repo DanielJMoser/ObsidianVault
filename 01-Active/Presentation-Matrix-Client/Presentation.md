@@ -29,7 +29,20 @@ Aktuell fehlt uns ein **niedrigschwelliger, sicherer Kommunikationskanal**:
 
 ---
 
-Mat
+# Matrix vs Studo
+
+|                         | Studo-Plugin                            | Matrix                                         |
+| ----------------------- | --------------------------------------- | ---------------------------------------------- |
+| Hosting der Nachrichten | beim Anbieter                           | matrix.mci4me.at, MCI-eigen                    |
+| Kosten                  | Lizenz, laufend, pro Kopf (?)           | Betrieb bestehender Infrastruktur              |
+| Lock-in                 | Anbieter kontrolliert Daten und Roadmap | offenes Protokoll, Client austauschbar         |
+| DSGVO                   | AVV mit Dritten noetig                  | keine Auftragsverarbeitung ausser Haus         |
+| Interoperabilitaet      | geschlossen                             | ein Account, Element im Browser + myChat mobil |
+| Lifecycle               | keine Ahnung                            | wir setzen die Regeln selbst                   |
+| Verfuegbarkeit          | nein                                    | Matrix laeuft schon bei uns                    |
+Kaum Infos zum Plugin, zentrale Fragen wurden beim letzten Meeting nicht geklaert 
+
+---
 
 # Matrix in a nutshell
 
