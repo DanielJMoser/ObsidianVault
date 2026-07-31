@@ -113,11 +113,17 @@ Android: https://chat.mci-local -> Android kennt lokale custom schemes nicht an,
 
 ---
 
-# Verschluesselung
-- E2EE als Standard!
-- Secrets protection durch:
+# Keystore
+## Problem: 
+m.login.password muenzt ein neues Device mit leerem crypto store -> verschluesselte Nachrichten gehen nach jedem Login verloren!
 
-## "Warum nicht einfach Element in einer WebView laufen lassen?"
+## Loesung:
+-> Key-Backup.
+- verschluesselte Kopie des Megolm-Keys 
+
+
+---
+# "Warum nicht einfach Element in einer WebView laufen lassen?"
 
 Gute Frage! Waere die einfache Loesung -> Laeuft schon auf chat.mci4me.at, hoeheres Sicherheitsniveau.
 
