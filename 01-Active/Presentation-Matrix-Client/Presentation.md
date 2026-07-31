@@ -82,14 +82,33 @@ Genau genommen eine separate App:
 Daher erscheint mir eine separate WebView ziemlich sinnvoll. Es gibt mMn. keinen Grund, warum sich die Beiden eine Origin (und damit Zugriff auf localStorage und den myMCI-Token) teilen sollen.
 
 ---
-# myChat -- 
+# Bridges
 
-Eine moeglichst simple Bridge sorgt fuer die Kommunikation zwischen myMCI und myChat. Aktuell:
 
-- unread-count
-- close-chat
-- Handling von Deep-Links und hardwareBackButton
-- secure-storeage-get/set/remove
+```mermaid
+flowchart LR
+    %% Nodes and Subgraphs
+    subgraph MainApp["myMCI main WebView (own origin)"]
+        Token["localStorage['token']<br/>(university session)"]
+        Shell["myMCI shell UI<br/>(MciChat Capacitor plugin)"]
+    end
+
+    subgraph ChatView["Chat WebView — separate origin<br/>iOS: mci-chat://localhost<br/>Android: https://chat.mci-local"]
+        ChatJS["Chat client JS<br/>(matrix-js-sdk)"]
+        Secrets["Matrix access token<br/>+ storageKey<br/>(via mciChatBridge only)"]
+    end
+
+    NativeHost["Native host<br/>(MciChatWebViewController / MciChatWebViewHost)"]
+
+    %% Relationships
+    Shell -- "MciChat.open() / close()<br/>(Capacitor plugin call)" --> NativeHost
+    NativeHost -- "presents" --> ChatView
+    ChatJS <-->|"mciChatBridge (unread-count, close-chat,<br/>open-room, back-handler, secure-storage-*)"| NativeHost
+    NativeHost -- "unreadCount event" --> Shell
+
+    Token -.->|"same-origin policy blocks this"| ChatJS
+```
+    
 
 ---
 ## "Warum nicht einfach Element in einer WebView laufen lassen?"
