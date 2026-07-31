@@ -78,7 +78,7 @@ Genau genommen eine separate App:
 
 Daher erscheint mir eine separate WebView ziemlich sinnvoll. Es gibt mMn. keinen Grund, warum sich die Beiden eine Origin (und damit Zugriff auf localStorage und den myMCI-Token) teilen sollen.
 
-In Browserversion: Link auf E
+In Browserversion: Link auf Element-Webinstanz
 
 ---
 # Bridges
@@ -87,7 +87,7 @@ In Browserversion: Link auf E
 ```mermaid
 flowchart LR
     %% Nodes and Subgraphs
-    subgraph MainApp["myMCI main WebView (own origin)"]
+    subgraph MainApp["myMCI main WebView (capacitor://localhost)"]
         Token["localStorage['token']<br/>(myMCI-Session)"]
         Shell["myMCI shell UI<br/>(MciChat Capacitor plugin)"]
     end
@@ -108,6 +108,8 @@ flowchart LR
     Token -.->|"same-origin policy blockiert"| ChatJS
 ```
 
+iOS: mci-chat://localhost
+Android: https://chat.mci-local -> Android kennt lokale custom schemes nicht an, wir faken eine
 
 ---
 
