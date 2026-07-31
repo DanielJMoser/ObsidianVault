@@ -6,12 +6,19 @@ Sicherer Chat in der myMCI, auf Basis von Matrix
 # Problemstellung
 
 Aktuell fehlt uns ein **niedrigschwelliger, sicherer Kommunikationskanal**:
-- In erster Linie für Incomings: Keine Kommunikation zwischen Aufnahme und Studienbeginn -> Absagen von 10-15%
-- Auch zur studentischen Vernetzung **vor, während und nach** dem Studium
-	- Wohnungssuche
-	- Start-Up-Gründung
-	- Buddy-Programm
-	- ...etc...
+- In erster Linie für Incomings: 
+	- Keine Kommunikation zwischen Aufnahme und Studienbeginn
+	- Absagen von 10-15%
+
+---
+
+# Problemstellung (2)
+
+Auch zur studentischen Vernetzung **vor, während und nach** dem Studium
+- Wohnungssuche
+- Start-Up-Gründung
+- Buddy-Programm
+- ...etc
 - e.g. Kim Fladda meldete schon Interesse an, diesen Kanal für reguläre Studienanfänger:innen aus dem Ausland zu nutzen.
 
 
