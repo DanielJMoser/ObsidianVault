@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Active/Learning-Current/btw.md",
+                "file": "01-Active/Presentation-Matrix-Client/Presentation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "btw"
+              "title": "Presentation"
             }
           },
           {
@@ -187,14 +187,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b9c51289a0953792",
+  "active": "b553b46fcd2f2dee",
   "lastOpenFiles": [
+    "01-Active/Learning-Current/btw.md",
     "01-Active/Presentation-Matrix-Client/Red-impostor.webp",
     "01-Active/Presentation-Matrix-Client/Presentation.md",
     "01-Active/Presentation-Matrix-Client/Screenshot_20260727_175017.png",
     "01-Active/Presentation-Matrix-Client/Screenshot_20260727_174836.png",
     "2026-07-27_17-49.png",
-    "01-Active/Learning-Current/btw.md",
     "01-Active/Presentation-Matrix-Client/2.md",
     "Untitled.md",
     "01-Active/Presentation-Matrix-Client/index.md",

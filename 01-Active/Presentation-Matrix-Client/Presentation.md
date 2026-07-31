@@ -80,6 +80,15 @@ Daher erscheint mir eine separate WebView ziemlich sinnvoll. Es gibt mMn. keinen
 
 In Browserversion: Link auf Element-Webinstanz
 
+
+---
+
+# CSP
+
+-> Allowlist!
+- Woher duerfen Ressourcen geladen werden?
+- Nur von unserer eigenen Chat-Origin
+
 ---
 # Bridges
 
@@ -111,13 +120,6 @@ flowchart LR
 iOS: mci-chat://localhost
 Android: https://chat.mci-local -> Android kennt lokale custom schemes nicht an, wir faken eine fiktive https:// -URL.
 
----
-
-# CSP
-
--> Allowlist!
-- Woher duerfen Ressourcen geladen werden?
-- Nur von unserer eigenen Chat-Origin
 
 ---
 
