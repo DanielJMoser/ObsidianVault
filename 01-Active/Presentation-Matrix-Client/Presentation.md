@@ -129,9 +129,15 @@ m.login.password muenzt ein neues Device mit leerem crypto store -> verschluesse
 ## Loesung (2):
 Um diese Daten wiederrum zu erhalten -> Recovery-Key
 
-- 
+- Wird im nativen secure storage gespeichert und mittels rust-crypto bzw. matrix-js-sdk hinterlegt und abgerufen
+- Aktuell: Keine UI zum manuellen Speichern des Keys! Limitierungen:
+	- Re-Logins ohne Re-Install behaelt die Keys
+	- Neuinstallation loescht sie -> Ohne zweite Session sind die Nachrichten weck!
+	- Kommt aber noch.
 
 ---
+
+
 # "Warum nicht einfach Element in einer WebView laufen lassen?"
 
 Gute Frage! Waere die einfache Loesung -> Laeuft schon auf chat.mci4me.at, hoeheres Sicherheitsniveau.
