@@ -113,6 +113,10 @@ Android: https://chat.mci-local -> Android kennt lokale custom schemes nicht an,
 
 ---
 
+# CSP
+
+---
+
 # Keystore
 ## Problem: 
 m.login.password muenzt ein neues Device mit leerem crypto store -> verschluesselte Nachrichten gehen nach jedem Login verloren!
@@ -134,6 +138,17 @@ Um diese Daten wiederrum zu erhalten -> Recovery-Key
 	- Re-Logins ohne Re-Install behaelt die Keys
 	- Neuinstallation loescht sie -> Ohne zweite Session sind die Nachrichten weck!
 	- Kommt aber noch.
+
+---
+
+# Encryption-Trust
+- Chat-Client ist isoliert von myMCI
+- Token und Key-DB sind encrypted-at-rest
+- Restriktiv definiert, was und woher der Chat ausfuehren, fetchen und in die DOM injecten kann
+
+-> All das schuetzt die **on-device secrets** und **innerhalb des Clients**!
+
+Was aber mit 
 
 ---
 
