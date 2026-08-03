@@ -22,6 +22,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "df8f65e42b2c442b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0cd8e4e5a433bb5",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Slide Preview"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,7 +195,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b553b46fcd2f2dee",
+  "active": "b0cd8e4e5a433bb5",
   "lastOpenFiles": [
     "01-Active/Presentation-Matrix-Client/Presentation.md",
     "01-Active/Presentation-Matrix-Client/Presentation-Canvas.canvas",

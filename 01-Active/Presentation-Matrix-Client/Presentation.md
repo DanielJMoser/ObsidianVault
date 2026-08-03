@@ -80,11 +80,8 @@ Kein "Produkt" in dem Sinne, sondern ein offenes Protokoll. Vgl. E-Mail!
 ---
 
 ### "Warum nicht einfach Element in einer WebView laufen lassen?"
+Laeuft ja schon auf chat.mci4me.at! Allerdings:
 
-
-Laeuft ja schon auf chat.mci4me.at.
-
-Aber:
 - auf Speicherebene des In-App-Browsers beschraenkt
 	- kein Hardware-Keychain/Keystore moeglich
 	- keine nativen Push-Nachrichten
@@ -97,15 +94,14 @@ Aber:
 
 Genau genommen eine separate App:
 
-- Eigener Login (user-facing bis SSO viable wird)
-- Eigene secrets (Login-Token und Crypto-Store)
+- Eigener **Login** (user-facing bis SSO viable wird)
+- Eigene **secrets** (Login-Token und Crypto-Store)
 - Calls zu matrix.mci4me.at, nicht zum Designer
-- Eigene Content Security Policy
+- Eigene **CSP** (Content Security Policy)
 - Push-Notifikationen werden separat gehandled
 - ...
 - Vor allem aber: Vergleichsweise **hohes XSS-Potenzial**.
 
-> [!NOTE]
 > Kein Grund, warum sich die Beiden eine Origin (und damit Zugriff auf u.A. localStorage und den myMCI-Token) teilen sollen.
 
 **In Browserversion:** Link auf Element-Webinstanz. Done!
@@ -139,7 +135,6 @@ flowchart LR
     Token -.->|"same-origin policy blockiert"| ChatJS
 ```
 
-> [!NOTE]
 > iOS: mci-chat://localhost
 > Android: https://chat.mci-local -> Android kennt lokale custom schemes nicht an, wir faken eine fiktive https:// -URL.
 
