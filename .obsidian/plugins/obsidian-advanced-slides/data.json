@@ -16,6 +16,6 @@
   "slideNumber": true,
   "showGrid": false,
   "autoComplete": "inPreview",
-  "paneMode": "tab",
+  "paneMode": "split",
   "motm": "2026-08-03T04:00:40.539Z"
 }
