@@ -44,10 +44,10 @@ Kanon aus dem Spiel (`content.de.json`) gilt. Wo die Lore Daten ändern will, st
 | Eder       | [[Thomas Eder]]          | Mitglied      | 1    | Pichler       | **Gruber**, wackelt                                      | Susanne       |
 
 **Stand:**
-- **Auf dem Papier ist es ausgeglichen.** Der Vorstand steht 5:5 (Sway 3+2 gegen 3+2).
-- **Gezeigt:** 4:3 für Pichler. Nach Sway 7:6.
+- **Auf dem Papier ist es ausgeglichen.** Die beiden Vorstandspaare haben gleich viel Gewicht, Sway 3+2 gegen 3+2. Abgestimmt wird trotzdem nach Köpfen: eine Familie, eine Stimme.
+- **Gezeigt:** 4:3 für Pichler.
 - **Wie Susanne zählt:** Katharina Brunner hat ihr im Vertrauen gesagt, dass sie eigentlich zu ihr hält. Also rechnet Susanne mit 5:2 und hält die Hauptversammlung für eine Formalität.
-- **In Wahrheit:** 3:4 gegen sie, nach Sway 5:8.
+- **In Wahrheit:** 3:4 gegen sie.
   - Verena schläft mit Timotheus.
   - Thomas Eder verdankt Susanne zwar den Sitz, aber Timotheus seinen Job.
 - **Wie Timotheus zählt:** Er kennt Verena und Thomas und traut Brunner nicht. Also rechnet er mit 4:3. Das ist ihm zu knapp für eine geheime Wahl, und beide Stimmen sind verdeckt und zerbrechlich. Er braucht noch eine sichere Stimme: Aigner, über die Wahrheit zur Nusstorte, oder Brunner, über den Mietvertrag.
@@ -131,8 +131,7 @@ Jede wird ein Dossier in `Intrigen/`.
 - **Datenänderungen:**
   - Lenis Geburtstag vom 21. Jänner auf den 16. Oktober (Tag 25), damit er zu ihrer Geburtstags-Aufgabe (Tage 23–26) passt.
   - Nici bekommt eine Erdbeerallergie als neuen Fact.
-  - Timotheus bekommt Sway 3 statt 2, so dass beide Köpfe gleich viel Gewicht haben. Das betrifft die Parent-Zeile in `content.de.json`, fr-052 (Sway-Summe 8 → 9) und `ShippedDataTests.cs:1611`, der die 2 festschreibt.
-- **Stimmen:** Laut Grilling gilt eine Familie, eine Stimme, und Sway ist Gewicht gegenüber Lo. Der Stand oben geht aber auf, egal ob nach Köpfen oder nach Sway gezählt wird.
+  - Timotheus hat Sway 3, das ist entschieden. Im Spiel steht noch 2: in der Parent-Zeile in `content.de.json`, in fr-052 (Sway-Summe 8 → 9) und in `ShippedDataTests.cs:1611`. Das wird ein eigenes Ticket.
 - **Hauptversammlung:** Wann ist sie? Vorschlag: Tag 30, Freitag, 23. Oktober. Dann endet der Lauf mit der Abwahl.
 - **Gewalt:** noch nirgends gesetzt, nur wenn die Geschichte es verlangt. Idas Vernachlässigung ist der einzige schwere Faden bisher.
 - **Namen:** Lichtenau, Holzknecht, Haidacher, Plattner, Kirchmair, Pixner und Behrens sind erfunden. Maria Kofler grüßt die Maria aus dem Vorgänger-Projekt.
