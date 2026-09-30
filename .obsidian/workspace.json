@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Andere Kinder"
             }
+          },
+          {
+            "id": "44a7cbb8b1a97e82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,13 +186,60 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "11ba9c9953c72b91",
+  "active": "44a7cbb8b1a97e82",
   "lastOpenFiles": [
-    "IT/Lo im Kindergarten/Notizen.md",
     "IT/Lo im Kindergarten/Andere Kinder.md",
-    "IT/Lo im Kindergarten"
+    "conflict-files-obsidian-git.md",
+    "Expanding-Root-Partition-Guide.md",
+    "Assets/Excalidraw/Scripts/Downloaded/Concatenate lines.svg",
+    "Assets/Excalidraw/Scripts/Downloaded/Concatenate lines.md",
+    "Assets/Images/zzDrawings 1/zzDrawing_SupComp.png",
+    "Assets/Images/zzDrawings 1/zzDrawing_SupComp 1.png",
+    "Assets/Images/zzDrawings/zzDrawing_TradProgramm.png",
+    "Assets/Images/zzDrawings/zzDrawing_SVM.png",
+    "Assets/Images/zzDrawings/zzDrawing_Regression.png",
+    "Assets/Images/zzDrawings/zzDrawing_MachProgramm.png",
+    "Assets/Images/zzDrawings/zzDrawing_Classification.png",
+    "Assets/Excalidraw/Scripts/Downloaded",
+    "Assets/Other/sync",
+    "Assets/Images/zzDrawings 1",
+    "Assets/Images/zzDrawings",
+    "Assets/Images/Latex.svg",
+    "Assets/Excalidraw/zzDrawing_TradProgramm.md",
+    "Assets/Excalidraw/zzDrawing_SupComp.md",
+    "Assets/Excalidraw/zzDrawing_Signal.md",
+    "Assets/Excalidraw/zzDrawing_Sequenznummern.md",
+    "Assets/Excalidraw/zzDrawing_SVM.md",
+    "Assets/Excalidraw/zzDrawing_Regression.md",
+    "Assets/Excalidraw/zzDrawing_Race-Condition.md",
+    "Assets/Excalidraw/zzDrawing_Netzwerkschnittstellen_und_Ports.md",
+    "Assets/Excalidraw/zzDrawing_MachProgramm.md",
+    "Assets/Excalidraw/zzDrawing_Linked-List.md",
+    "Assets/Excalidraw/zzDrawing_Hardware-Software.md",
+    "Assets/Excalidraw/zzDrawing_CritRegion.md",
+    "Assets/Excalidraw/zzDrawing_Classification.excalidraw.md",
+    "Assets/Excalidraw/zzDrawing_Bus.md",
+    "Assets/Excalidraw/zzDrawing_ArduinoLibs.md",
+    "Assets/Excalidraw/zZDrawing_Flynn_SISD.md",
+    "Assets/Excalidraw/zZDrawing_Flynn_SIMD.md",
+    "Assets/Excalidraw/zZDrawing_Flynn_MISD.md",
+    "Assets/Excalidraw/zZDrawing_Flynn_MIMD.md",
+    "Assets/Excalidraw/Scripts",
+    "Assets/Documents/manifesto.txt.gz",
+    "Assets/Documents/manifesto.b45",
+    "Assets/Documents/manifesto-short",
+    "Assets/Documents/manifesto.txt",
+    "Assets/Documents/manifesto-short.png",
+    "Assets/Other",
+    "05-Meta/Vault-Reorganization-Proposal.md",
+    "05-Meta/CLAUDE.md",
+    "04-Archive/Creative-Writing-Archive/Luna-Story/Luna/Legacy/Kapitel 4/0_Szene 1.md",
+    "01-Active/Presentation-Matrix-Client/Presentation-Canvas.canvas"
   ]
 }
