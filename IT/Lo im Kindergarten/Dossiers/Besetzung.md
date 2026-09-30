@@ -1,7 +1,7 @@
 ---
 typ: übersicht
 stand: 2026-09-30
-status: entwurf, zum Veto
+status: entwurf
 ---
 
 # Besetzung
@@ -24,12 +24,12 @@ Kanon aus dem Spiel (`content.de.json`) gilt. Wo die Lore Daten ändern will, st
 
 ### Herkunft hört man
 
-| Herkunft                          | Gelse heißt | sonst                              |
-| --------------------------------- | ----------- | ---------------------------------- |
-| Tirol                             | Muggen      | Bua, isch, zach, koa Stress        |
-| „Ostblock" (Wien, Oberösterreich) | Gelsen      | Paradeiser, Sackerl, leiwand       |
-| Deutschland                       | Mücken      | Tüte, lecker, Brötchen             |
-| Südtirol                          | Muggen      | Marend', italienische Einsprengsel |
+| Herkunft                          | Gelse heißt | sonst                                       |
+| --------------------------------- | ----------- | ------------------------------------------- |
+| Tirol                             | Muggen      | Bua, isch, zach, koa Stress                 |
+| „Ostblock" (Wien, Oberösterreich) | Gelsen      | Paradeiser, Sackerl, leiwand                |
+| Deutschland                       | Mücken      | Tüte, lecker, Brötchen                      |
+| Südtirol                          | Muggen      | Marend', italienische Einsprengsel, Putaner |
 
 ## Der Council (7)
 
