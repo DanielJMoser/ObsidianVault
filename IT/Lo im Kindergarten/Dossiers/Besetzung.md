@@ -41,12 +41,19 @@ Kanon aus dem Spiel (`content.de.json`) gilt. Wo die Lore Daten ändern will, st
 | Lichtenau  | [[Ferdinand Lichtenau]]  | Schriftführer | 2    | Gruber        | Gruber                                                   | Timotheus     |
 | Aigner     | [[Barbara Aigner]]       | Mitglied      | 1    | Pichler       | Pichler, bis sie die Wahrheit über die Nusstorte erfährt | Susanne       |
 | Brunner    | [[Katharina Brunner]]    | Mitglied      | 1    | Gruber        | **Pichler**                                              | Timotheus     |
-| Eder       | [[Thomas Eder]]          | Mitglied      | 1    | Gruber        | Gruber, wackelt                                          | Timotheus     |
+| Eder       | [[Thomas Eder]]          | Mitglied      | 1    | Pichler       | **Gruber**, wackelt                                      | Susanne       |
 
 **Stand:**
-- Gezeigt steht es 4:3 für Gruber, wahr auch. Aber mit anderen Leuten.
-- Susanne zählt Holzknecht zu sich und glaubt, sie verliert. Timotheus zählt Brunner zu sich und glaubt, er gewinnt 5:2.
-- Wer Aigner, Brunner, Eder oder Holzknecht dreht, entscheidet die Hauptversammlung.
+- **Auf dem Papier ist es ausgeglichen.** Der Vorstand steht 5:5 (Sway 3+2 gegen 3+2).
+- **Gezeigt:** 4:3 für Pichler. Nach Sway 7:6.
+- **Wie Susanne zählt:** Katharina Brunner hat ihr im Vertrauen gesagt, dass sie eigentlich zu ihr hält. Also rechnet Susanne mit 5:2 und hält die Hauptversammlung für eine Formalität.
+- **In Wahrheit:** 3:4 gegen sie, nach Sway 5:8.
+  - Verena schläft mit Timotheus.
+  - Thomas Eder verdankt Susanne zwar den Sitz, aber Timotheus seinen Job.
+- **Wie Timotheus zählt:** Er kennt Verena und Thomas und traut Brunner nicht. Also rechnet er mit 4:3. Das ist ihm zu knapp für eine geheime Wahl, und beide Stimmen sind verdeckt und zerbrechlich. Er braucht noch eine sichere Stimme: Aigner, über die Wahrheit zur Nusstorte, oder Brunner, über den Mietvertrag.
+- **Wer entscheidet:** wer Aigner, Brunner, Eder oder Holzknecht dreht.
+
+Susanne hat Thomas Eder den Sitz gegeben, um Timotheus einen Mann abzuwerben. Timotheus hat ihn über das Büro zurückgeholt, und davon weiß sie nichts.
 
 ## Die Kinder (12)
 
@@ -82,23 +89,23 @@ Die übrigen Partner (Herr Aigner, Frau Lichtenau) bleiben ohne eigene Notiz, bi
 
 ### Die Familien draußen
 
-| Familie | Wer | Warum draußen | Lager | Aufhänger |
-|---|---|---|---|---|
-| Behrens | Prof. Dr. Jan-Hendrik (Uni, Politikwissenschaft), Dr. Friederike (Oberärztin, Klinik) | Piefke. Keiner holt sie. | Pichler | Würden alles zahlen, um dazuzugehören. Susanne hat ihnen den nächsten Sitz versprochen. |
-| Pixner | Monika (Hausbetreuerin der Gruber-Villa, aus dem Passeier), Stefano (Koch, Trentino) | Kein Geld, falsche Klasse. | Gruber | Treu zur Freifrau, nicht zum Freiherrn. Weiß alles, was im Haus passiert. |
-| Plattner | Ing. Martin (Bank, Ex-Kassier), Sandra | Alter Skandal: vor zwei Jahren als Kassier geschasst. | Pichler | Das Loch in der Kassa war nicht seins. Susanne hat ihm die Rehabilitierung versprochen, und den nächsten Sitz. |
-| Kirchmair | Josef „Sepp" (Installateurmeister, eigene Firma) | Hat abgelehnt: „I hock mi nit zu dene Gstudierten." | Gruber | Der echte Arbeiter, der Susannes Pose durchschaut. Timotheus schuldet ihm 14.000 €. Ein Gläubiger will, dass sein Schuldner überlebt. |
-| Haidacher | Hannes, Evelyn (Hotel im Zillertal, neu in Saggen) | Warteliste. | Pichler | Haben Susanne bezahlt. Auch ihnen hat sie den nächsten Sitz versprochen. |
+| Familie   | Wer                                                                                   | Warum draußen                                          | Lager   | Aufhänger                                                                                                                             |
+| --------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------ | ------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Behrens   | Prof. Dr. Jan-Hendrik (Uni, Politikwissenschaft), Dr. Friederike (Oberärztin, Klinik) | Piefke. Keiner versteht sie.                           | Pichler | Würden alles zahlen, um dazuzugehören. Susanne hat ihnen den nächsten Sitz versprochen.                                               |
+| Pixner    | Monika (Hausbetreuerin der Gruber-Villa, aus dem Passeier), Stefano (Koch, Trentino)  | Kein Geld, falsche Klasse.                             | Gruber  | Treu zur Freifrau, nicht zum Freiherrn. Weiß alles, was im Haus passiert.                                                             |
+| Plattner  | Ing. Manni (Bank, Ex-Kassier), Sandra                                                 | Alter Skandal: vor zwei Jahren als Kassier beschissen. | Pichler | Das Loch in der Kassa war nicht seins. Susanne hat ihm die Rehabilitierung versprochen, und den nächsten Sitz.                        |
+| Kirchmair | Josef „Sepp" (Installateurmeister, eigene Firma)                                      | Hat abgelehnt: „I hock mi nit zu dene Gstudierten."    | Gruber  | Der echte Arbeiter, der Susannes Pose durchschaut. Timotheus schuldet ihm 14.000 €. Ein Gläubiger will, dass sein Schuldner überlebt. |
+| Haidacher | Hannes, Evelyn (Hotel im Zillertal, neu in Saggen)                                    | Warteliste.                                            | Pichler | Haben Susanne bezahlt. Auch ihnen hat sie den nächsten Sitz versprochen.                                                              |
 
 ### Umfeld
 
-| Name | Wer | Aufhänger |
-|---|---|---|
-| [[Notburga Hofer]] | Die Frau Inspektor vom Land Tirol. | Hat 2003 mit Susanne in einer WG in Wilten gewohnt. Weiß, wer damals die Miete gezahlt hat. |
-| [[Maria Kofler]] | Los Vorgängerin. | Nach der Nusstorte gekündigt, ihr Foto von der Teamtafel gerissen. Wusste von früheren Platzkäufen. Arbeitet jetzt in einer Krippe in Hall. |
-| [[Lo]] | Lorelie, die Kindergartenpädagogin. | Kanon und wie die Welt sie sieht. Private Details nur als Vorschlag, du entscheidest. |
-| [[Daniel]] | Los Freund. | Wie bei Lo. Seine Mama gehört zu ihm. |
-| Jonas' Opa | Bauer im Mühlviertel. | Krank. Deswegen ist Birgit an den Wochenenden weg. |
+| Name               | Wer                                 | Aufhänger                                                                                                                                   |
+| ------------------ | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Notburga Hofer]] | Die Frau Inspektor vom Land Tirol.  | Hat 2003 mit Susanne in einer WG in Wilten gewohnt. Weiß, wer damals die Miete gezahlt hat.                                                 |
+| [[Maria Kofler]]   | Los Vorgängerin.                    | Nach der Nusstorte gekündigt, ihr Foto von der Teamtafel gerissen. Wusste von früheren Platzkäufen. Arbeitet jetzt in einer Krippe in Hall. |
+| [[Lo]]             | Lorelie, die Kindergartenpädagogin. | Kanon und wie die Welt sie sieht. Für LLMs: Private Details nur als Vorschlag, der Entwickler entscheidet.                                  |
+| [[Daniel]]         | Los Freund.                         | Wie bei Lo. Seine Mama gehört zu ihm.                                                                                                       |
+| Jonas' Opa         | Bauer im Mühlviertel.               | Krank. Deswegen ist Birgit an den Wochenenden weg.                                                                                          |
 
 ## Intrigen (Saat)
 
@@ -115,13 +122,17 @@ Jede wird ein Dossier in `Intrigen/`.
 9. **[[Die Erdbeertorte]]:** Nici verträgt keine Erdbeeren. Timotheus richtet das Herbstfest aus. Susannes „Gefallen": Lo serviert eine Erdbeertorte. Nici landet im Krankenhaus, Timotheus steht blamiert da. Das Muster der Nusstorte, diesmal mit Absicht.
 10. **[[Das WG-Jahr]]:** 2003 in Wilten wohnten Susanne und Notburga zusammen. Papa Pichler zahlte die Miete, Susanne erzählt es als ihr Arbeiterinnen-Jahr. Notburga weiß es. Beide wissen, dass die andere es weiß.
 11. **[[Hochbegabt]]:** Susanne will für Jassi eine Förderung, „vielleicht hochbegabt". Der Einzige, der es wirklich ist, ist Konstantin, und er kommt aus dem anderen Lager.
-12. **[[Die Hauptversammlung]]:** Abgewählt wird nur hier. Der Stand steht unter *Der Council*.
+12. **[[Die Hauptversammlung]]:** Abgewählt wird nur hier. Susanne hält sie für eine Formalität. Der Stand steht unter *Der Council*.
+13. **[[Die Runde]]:** Donnerstags nach Dienstschluss im Notariat Lichtenau. Timotheus, Ferdinand, Verena, seit Kurzem Thomas. Protokoll wird keines geführt. Hier wird der Sturz der Vorständin vorbereitet.
+14. **Wenn die drei es erfahren:** Die Behrens, die Plattners und die Haidachers haben keine Stimme. Aber sobald sie merken, dass Susanne ihnen allen denselben Sitz versprochen hat, haben sie Geld, Zungen und Kinder im Kindergarten.
 
 ## Offene Fragen
 
 - **Datenänderungen:**
   - Lenis Geburtstag vom 21. Jänner auf den 16. Oktober (Tag 25), damit er zu ihrer Geburtstags-Aufgabe (Tage 23–26) passt.
   - Nici bekommt eine Erdbeerallergie als neuen Fact.
+  - Timotheus bekommt Sway 3 statt 2, so dass beide Köpfe gleich viel Gewicht haben. Das betrifft die Parent-Zeile in `content.de.json`, fr-052 (Sway-Summe 8 → 9) und `ShippedDataTests.cs:1611`, der die 2 festschreibt.
+- **Stimmen:** Laut Grilling gilt eine Familie, eine Stimme, und Sway ist Gewicht gegenüber Lo. Der Stand oben geht aber auf, egal ob nach Köpfen oder nach Sway gezählt wird.
 - **Hauptversammlung:** Wann ist sie? Vorschlag: Tag 30, Freitag, 23. Oktober. Dann endet der Lauf mit der Abwahl.
 - **Gewalt:** noch nirgends gesetzt, nur wenn die Geschichte es verlangt. Idas Vernachlässigung ist der einzige schwere Faden bisher.
 - **Namen:** Lichtenau, Holzknecht, Haidacher, Plattner, Kirchmair, Pixner und Behrens sind erfunden. Maria Kofler grüßt die Maria aus dem Vorgänger-Projekt.
