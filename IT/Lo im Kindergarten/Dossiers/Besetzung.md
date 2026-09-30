@@ -71,12 +71,12 @@ Jassi und Nici sind beste Freundinnen. Ihre Eltern führen die beiden Lager.
 
 ### Eltern im Council, ohne eigenen Sitz
 
-| Name | Wer | Lager gezeigt / wahr | Aufhänger |
-|---|---|---|---|
-| [[Florian Pichler]] | Susannes Mann, geboren Hauser. Hat ihren Namen angenommen. Hausmann. | Pichler / Pichler | Hat den Umschlag der Haidachers gesehen. Schweigt. Noch. |
-| [[Amelie von Gruber]] | Nicis Mama, aus Meran, halb dort. | Gruber / **Pichler** | Weiß von Verena. Würde Timotheus gern fallen sehen. Die Villa aber nicht. |
-| [[Markus Holzknecht]] | Emils Papa. Bergretter, Skilehrer. | Pichler / Pichler | Ahnt nichts. |
-| [[Birgit Eder]] | Jonas' Mama, aus dem Mühlviertel. | Pichler / Pichler | Pflegt an den Wochenenden den Opa am Hof. Die Ehe kriselt. Sie hasst den Chef ihres Mannes, weil der Lohn zu spät kommt. |
+| Name                  | Wer                                                                  | Lager gezeigt / wahr | Aufhänger                                                                                                                |
+| --------------------- | -------------------------------------------------------------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [[Florian Pichler]]   | Susannes Mann, geboren Hauser. Hat ihren Namen angenommen. Hausmann. | Pichler / Pichler    | Hat den Umschlag der Haidachers gesehen. Schweigt. Noch.                                                                 |
+| [[Amelie von Gruber]] | Nicis Mama, aus Meran, halb dort.                                    | Gruber / **Pichler** | Weiß von Verena. Würde Timotheus gern fallen sehen. Die Villa aber nicht.                                                |
+| [[Markus Holzknecht]] | Emils Papa. Bergretter, Skilehrer.                                   | Pichler / Pichler    | Ahnt nichts.                                                                                                             |
+| [[Birgit Eder]]       | Jonas' Mama, aus dem Mühlviertel.                                    | Pichler / Pichler    | Pflegt an den Wochenenden den Opa am Hof. Die Ehe kriselt. Sie hasst den Chef ihres Mannes, weil der Lohn zu spät kommt. |
 
 Die übrigen Partner (Herr Aigner, Frau Lichtenau) bleiben ohne eigene Notiz, bis eine Intrige sie braucht.
 
