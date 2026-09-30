@@ -50,20 +50,20 @@ Kanon aus dem Spiel (`content.de.json`) gilt. Wo die Lore Daten ändern will, st
 
 ## Die Kinder (12)
 
-| Kind | Alter | Familie | Herkunft | Aufhänger |
-|---|---|---|---|---|
-| [[Mira]] | 4 | Aigner | Tirol | Redet wenig, merkt sich alles. Als Einzige weiß sie noch, wer die Nusstorte gebracht hat. Gefragt hat sie nie wer. |
-| [[Jonas]] | 4, am 3.10. fünf | Eder | Tirol; Mama aus dem Mühlviertel | Gesteht, bevor wer fragt. Verbringt die Samstage bei Leni, weil sein Papa dann bei Lenis Mama sitzt. |
-| [[Leni]] | 3, am 16.10. vier | Brunner | Wien | Neu und die Jüngste. Verhandelt wie über einen Mietvertrag, weil die Mama daheim mit dem Vermieter streitet. Der Vermieter ist Nicis Papa. Mit Nici spielen ist verboten. |
-| [[Jassi]] | 5, Vorschuljahr | Pichler | Tirol | Stellt jede, die schummelt, zur Rede. Die größte Schummlerin sitzt daheim am Frühstückstisch. Hat die Nusstorte mitgebacken und weiß nicht, was danach war. |
-| [[Nici]] | 5, Vorschuljahr | v. Gruber | Tirol; Mama aus Meran | Gibt ihren Steinen die Namen der Ahnen, deren Bilder aus der Villa verschwinden. Vergräbt ihre Schätze unter der Rutsche, damit sie keiner abholt. |
-| [[Emil]] | 5 | Holzknecht | Tirol | Sagt „Onkel Timo" zu Nicis Papa. Der kommt, wenn der eigene Papa am Berg ist. |
-| [[Konstantin]] | 5, im November sechs | Lichtenau | Tirol, früher Adel | Redet wie ein Notariatsakt: Weltkrieg, Habsburg, Adelsaufhebungsgesetz 1919. Wollte schon in die Schule und durfte nicht. Weiß, dass „Freiherr" verboten ist, weil es der Papa beim Abendessen sagt. |
-| [[Ida]] | 5 | Behrens | Hamburg | Sagt Mücken, Tüte, lecker. Wird jeden Tag als Letzte abgeholt, jede Woche von einem anderen Au-pair. ⚠ schwer |
-| [[Matteo]] | 4 | Pixner | Südtirol; Papa aus dem Trentino | Wohnt im Souterrain der Gruber-Villa. Weiß, wann der Exekutor kommt, und nennt ihn „den Mann mit den Pickerln". |
-| [[Hannah]] | 5 | Plattner | Tirol | Sagt beim Mittagessen, was der Papa beim Abendessen über den „Herrn Baron" gesagt hat. Wort für Wort. |
-| [[Valentina]] | 5 | Kirchmair | Tirol, durch und durch | Klettert höher als erlaubt. „Gstudierte kennen sich bei nix aus." |
-| [[Max]] | 4 | Haidacher | Zillertal | Kommt mitten im Lauf. „Mei Papa hat's Klettergerüst kauft, damit i einidarf." |
+| Kind           | Alter                | Familie    | Herkunft                        | Aufhänger                                                                                                                                                                                            |
+| -------------- | -------------------- | ---------- | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Mira]]       | 4                    | Aigner     | Tirol                           | Redet wenig, merkt sich alles. Als Einzige weiß sie noch, wer die Nusstorte gebracht hat. Gefragt hat sie nie wer.                                                                                   |
+| [[Jonas]]      | 4, am 3.10. fünf     | Eder       | Tirol; Mama aus dem Mühlviertel | Verbringt die Samstage bei Leni, weil sein Papa dann Lenis Mama vögelt. Die Affäre wird ungefragt "gestanden", Jonas versteht nicht genau was passiert.                                              |
+| [[Leni]]       | 3, am 16.10. vier    | Brunner    | Wien                            | Neu und die Jüngste. Verhandelt wie über einen Mietvertrag, weil die Mama daheim mit dem Vermieter streitet. Der Vermieter ist Nicis Papa. Mit Nici spielen ist verboten.                            |
+| [[Jassi]]      | 5, Vorschuljahr      | Pichler    | Tirol                           | Stellt jede, die schummelt, zur Rede. Die größte Schummlerin sitzt daheim am Frühstückstisch. Hat die Nusstorte mitgebacken und weiß nicht, was danach war.                                          |
+| [[Nici]]       | 5, Vorschuljahr      | v. Gruber  | Tirol; Mama aus Meran           | Gibt ihren Steinen die Namen der Ahnen, deren Bilder aus der Villa verschwinden. Vergräbt ihre Schätze unter der Rutsche, damit sie keiner abholt.                                                   |
+| [[Emil]]       | 5                    | Holzknecht | Tirol                           | Sagt „Onkel Timo" zu Nicis Papa. Der kommt, wenn der eigene Papa am Berg ist.                                                                                                                        |
+| [[Konstantin]] | 5, im November sechs | Lichtenau  | Tirol, früher Adel              | Redet wie ein Notariatsakt: Weltkrieg, Habsburg, Adelsaufhebungsgesetz 1919. Wollte schon in die Schule und durfte nicht. Weiß, dass „Freiherr" verboten ist, weil es der Papa beim Abendessen sagt. |
+| [[Ida]]        | 5                    | Behrens    | Hamburg                         | Sagt Mücken, Tüte, lecker. Wird jeden Tag als Letzte abgeholt, jede Woche von einem anderen Au-pair. ⚠ schwer                                                                                        |
+| [[Matteo]]     | 4                    | Pixner     | Südtirol; Papa aus dem Trentino | Wohnt im Souterrain der Gruber-Villa. Weiß, wann der Exekutor kommt, und nennt ihn „den Mann mit den Pickerln".                                                                                      |
+| [[Hannah]]     | 5                    | Plattner   | Tirol                           | Erzählt Lo Wort für Wort, was der Papa beim Abendessen über den „Herrn Baron" gesagt hat.                                                                                                            |
+| [[Valentina]]  | 5                    | Kirchmair  | Tirol, durch und durch          | Klettert höher als erlaubt. „Gstudierte kennen sich bei nix aus."                                                                                                                                    |
+| [[Max]]        | 4                    | Haidacher  | Zillertal                       | Kommt mitten im Lauf. „Mei Papa hat's Klettergerüst kauft, damit i einidarf."                                                                                                                        |
 
 Jassi und Nici sind beste Freundinnen. Ihre Eltern führen die beiden Lager.
 
