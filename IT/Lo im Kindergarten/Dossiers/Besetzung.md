@@ -24,24 +24,24 @@ Kanon aus dem Spiel (`content.de.json`) gilt. Wo die Lore Daten ändern will, st
 
 ### Herkunft hört man
 
-| Herkunft | Gelse heißt | sonst |
-|---|---|---|
-| Tirol | Muggen | Gitsch, Bua, isch, Marende |
-| „Ostblock" (Wien, Oberösterreich) | Gelsen | Paradeiser, Sackerl, leiwand |
-| Deutschland | Mücken | Tüte, lecker, Brötchen |
-| Südtirol | Muggen | Marende, italienische Einsprengsel |
+| Herkunft                          | Gelse heißt | sonst                              |
+| --------------------------------- | ----------- | ---------------------------------- |
+| Tirol                             | Muggen      | Bua, isch, zach, koa Stress        |
+| „Ostblock" (Wien, Oberösterreich) | Gelsen      | Paradeiser, Sackerl, leiwand       |
+| Deutschland                       | Mücken      | Tüte, lecker, Brötchen             |
+| Südtirol                          | Muggen      | Marend', italienische Einsprengsel |
 
 ## Der Council (7)
 
-| Familie | Sitz | Funktion | Sway | Lager gezeigt | Lager wahr | Sitz verdankt |
-|---|---|---|---|---|---|---|
-| Pichler | [[Susanne Pichler]] | Vorständin | 3 | Pichler | Pichler | — |
-| v. Gruber | [[Timotheus von Gruber]] | Vizepräsident | 2 | Gruber | Gruber | — |
-| Holzknecht | [[Verena Holzknecht]] | Kassierin | 2 | Pichler | **Gruber** | Susanne |
-| Lichtenau | [[Ferdinand Lichtenau]] | Schriftführer | 2 | Gruber | Gruber | Timotheus |
-| Aigner | [[Barbara Aigner]] | Mitglied | 1 | Pichler | Pichler, bis sie die Wahrheit über die Nusstorte erfährt | Susanne |
-| Brunner | [[Katharina Brunner]] | Mitglied | 1 | Gruber | **Pichler** | Timotheus |
-| Eder | [[Thomas Eder]] | Mitglied | 1 | Gruber | Gruber, wackelt | Timotheus |
+| Familie    | Sitz                     | Funktion      | Sway | Lager gezeigt | Lager wahr                                               | Sitz verdankt |
+| ---------- | ------------------------ | ------------- | ---- | ------------- | -------------------------------------------------------- | ------------- |
+| Pichler    | [[Susanne Pichler]]      | Vorständin    | 3    | Pichler       | Pichler                                                  | —             |
+| v. Gruber  | [[Timotheus von Gruber]] | Vizepräsident | 3    | Gruber        | Gruber                                                   | —             |
+| Holzknecht | [[Verena Holzknecht]]    | Kassierin     | 2    | Pichler       | **Gruber**                                               | Susanne       |
+| Lichtenau  | [[Ferdinand Lichtenau]]  | Schriftführer | 2    | Gruber        | Gruber                                                   | Timotheus     |
+| Aigner     | [[Barbara Aigner]]       | Mitglied      | 1    | Pichler       | Pichler, bis sie die Wahrheit über die Nusstorte erfährt | Susanne       |
+| Brunner    | [[Katharina Brunner]]    | Mitglied      | 1    | Gruber        | **Pichler**                                              | Timotheus     |
+| Eder       | [[Thomas Eder]]          | Mitglied      | 1    | Gruber        | Gruber, wackelt                                          | Timotheus     |
 
 **Stand:**
 - Gezeigt steht es 4:3 für Gruber, wahr auch. Aber mit anderen Leuten.
