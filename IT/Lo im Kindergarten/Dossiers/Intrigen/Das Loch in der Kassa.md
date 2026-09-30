@@ -12,9 +12,12 @@ stand: 2026-09-30
 ## Was war
 
 - **Herbst 2024:** Timotheus stellt dem Verein 8.000 € in Rechnung. „Statikgutachten Gartenhütte." Die Gartenhütte war nie geplant.
-- **Die Zahlung:** Kassier Martin Plattner zahlt sie auf Vorschuss, weil der Vizepräsident drängt.
-- **November 2024:** Die zwei Rechnungsprüfer finden kein Gutachten. Timotheus sagt: „In Arbeit." Plattner hat unterschrieben, also fliegt Plattner. Er tritt zurück, und der Council wirft die Familie hinaus.
-- **Susanne** lässt es geschehen. So bekommt sie eine Kassierin von ihr: Verena, ab Jänner 2025.
+- **Die Zahlung:** Kassier Manni Plattner zahlt sie auf Vorschuss, weil der Vizepräsident drängt. Timotheus braucht das Geld für die Grundsteuer und einen Anwalt gegen die Bank.
+- **November 2024, Hauptversammlung:**
+  - Die zwei Rechnungsprüfer finden kein Gutachten. Timotheus sagt: „In Arbeit."
+  - Plattner hat unterschrieben, also fliegt Plattner. Er tritt zurück, und der Council wirft die Familie hinaus.
+  - Der Vorsitz ist frei, weil die alte Vorständin mit ihrem Vorschulkind gegangen ist. Timotheus wollte ihn, aber er stand zu nah am Loch. Im Chaos gewinnt die „saubere Neue": Susanne. Das ist Timotheus' alter Groll.
+  - Susanne lässt Plattners Sturz geschehen und bekommt so eine Kassierin von ihr: Verena.
 - **Februar 2025:** Timotheus überweist die 8.000 € still zurück, „Gutachten storniert". Lichtenau protokolliert: „Buchungsfehler, bereinigt."
 
 ## Wer weiß was
@@ -24,8 +27,8 @@ stand: 2026-09-30
 | [[Timotheus von Gruber]] | alles | alles | dass es begraben bleibt |
 | [[Ferdinand Lichtenau]] | alles. Er hat das Protokoll geschrieben. | dass er es geschönt hat | Ruhe. Er verachtet Timotheus dafür und schweigt aus Standesgründen. |
 | [[Susanne Pichler]] | ahnt es und hat es zugelassen | ihren Anteil | eine Karte, die sie ausspielen kann |
-| [[Verena Holzknecht]] | Sie hat die Stornobuchung 2025 in den Büchern gefunden. | es | — sie ist ohnehin seine |
-| Martin Plattner | dass man ihn hineingelegt hat | — | Rehabilitierung, und die Wahrheit |
+| [[Verena Holzknecht]] | Als seine Steuerberaterin hat sie die 8.000 € gehen und im Februar 2025 zurückkommen sehen. | es | — sie ist ohnehin seine |
+| Manni Plattner | dass man ihn hineingelegt hat | — | Rehabilitierung, und die Wahrheit |
 | [[Hannah]] | was der Papa beim Abendessen sagt | nichts | — |
 
 ## Wie es herauskommen kann

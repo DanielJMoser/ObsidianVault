@@ -86,5 +86,5 @@ lager: pichler
 ## Offene Fragen
 - Ihr jüngerer Bruder mit den Geschäften: Name, und ob er eine eigene Notiz braucht.
 - Susannes Patron-Aufgaben (fr-012): Erdbeertorte, Allergieliste, Max' Eingewöhnung?
-- (geteilt) Seit wann ist sie Vorständin? Vorschlag: seit der Hauptversammlung im Herbst 2024, gleich nach dem Loch in der Kassa. Timotheus wollte den Vorsitz selbst, im Chaos gewann die „saubere Neue". Das wäre sein alter Groll.
-- (geteilt) Seit der Nusstorte führt sie die Allergieliste selbst. Die Gruber- und Kofler-Dossiers müssen davon wissen.
+- (geteilt, übernommen) Seit wann ist sie Vorständin? Vorschlag: seit der Hauptversammlung im Herbst 2024, gleich nach dem Loch in der Kassa. Timotheus wollte den Vorsitz selbst, im Chaos gewann die „saubere Neue". Das wäre sein alter Groll.
+- (geteilt, übernommen) Seit der Nusstorte führt sie die Allergieliste selbst. Die Gruber- und Kofler-Dossiers müssen davon wissen.

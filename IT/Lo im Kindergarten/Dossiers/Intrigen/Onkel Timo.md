@@ -12,12 +12,13 @@ stand: 2026-09-30
 ## Was läuft
 
 - **Wie sie sich kennen:** Seit 2023 ist Verena Timotheus' Steuerberaterin. Sie kennt seine Zahlen, also weiß sie, dass er pleite ist. Den Namen liebt sie trotzdem.
-- **Seit Jänner 2025** ist Verena Kassierin. Susanne hat sie nach Plattners Sturz geholt: „Frauen in Führung."
+- **Seit November 2024** ist Verena Kassierin. Susanne hat sie nach Plattners Sturz geholt: „Frauen in Führung."
 - **Dezember 2025, Adventfeier des Elternvereins:** Es beginnt.
 - **Wann sie sich sehen:**
   - wenn Markus am Berg ist (Einsätze, Touren) im Penthouse
   - sonst nach 19 Uhr in Timotheus' Büro im Erdgeschoss der Villa, als „Steuertermin"
-- **Emil** kennt ihn als „Onkel Timo". Onkel Timo bringt ihm alte Schilling-Münzen mit. (Vorschlag)
+- **Emil** kennt ihn als „Onkel Timo". Den Namen hat Verena erfunden, als Tarnung. Onkel Timo bringt Emil alte Schilling-Münzen mit. (Vorschlag)
+- **Das Versprechen:** Fällt Susanne, wird Verena Vizepräsidentin.
 - **Seit dem Sommer 2026** ist Verena Timotheus' Maulwurf. Sie bringt die Zahlen in [[Die Runde]] und hat die Belege zu [[Der zwölfte Platz]] kopiert.
 
 ## Wer weiß was

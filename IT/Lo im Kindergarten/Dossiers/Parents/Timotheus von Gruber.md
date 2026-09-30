@@ -95,7 +95,7 @@ lager: gruber
 ## Offene Fragen
 - **Sway:** 3 in der Lore, 2 in den Daten. Eigenes Ticket.
 - **Brief:** `patron.offer.timotheus` ist ein Platzhalter, der Ton passt aber schon.
-- **(geteilt)** Wofür waren die 8.000 € im Herbst 2024? Vorschlag: Grundsteuer und ein Anwalt gegen die Bank.
-- **(geteilt)** Woher kommen die 14.000 € Schulden bei Kirchmair? Vorschlag: die neue Heizung der Villa, 2025.
-- **(geteilt)** Wofür will er Brunners Wohnung? Vorschlag: um den zweiten Stock als Eigentumswohnung zu verkaufen.
-- **(geteilt)** Thomas Eder wird eine Juniorpartnerschaft im Büro versprochen. (Vorschlag)
+- **(geteilt, übernommen)** Wofür waren die 8.000 € im Herbst 2024? Vorschlag: Grundsteuer und ein Anwalt gegen die Bank.
+- **(geteilt, übernommen)** Woher kommen die 14.000 € Schulden bei Kirchmair? Vorschlag: die neue Heizung der Villa, 2025.
+- **(geteilt, übernommen)** Wofür will er Brunners Wohnung? Vorschlag: um den zweiten Stock als Eigentumswohnung zu verkaufen.
+- **(geteilt, übernommen)** Thomas Eder wird eine Juniorpartnerschaft im Büro versprochen. (Vorschlag)

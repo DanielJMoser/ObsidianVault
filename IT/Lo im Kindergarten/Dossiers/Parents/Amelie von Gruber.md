@@ -71,7 +71,7 @@ lager_wahr: pichler
 
 ## Offene Fragen
 - Geborene Pircher? Der Name ist offen.
-- **(geteilt)** Monika Pixner kam 2015 mit Amelie aus dem Passeier. (Vorschlag)
-- **(geteilt)** Bei einer Zwangsversteigerung will Amelie die Villa über die Firma ihres Bruders kaufen. (Vorschlag)
-- **(geteilt)** Donnerstag bis Sonntag in Meran: Dadurch ist Timotheus an den Runden-Abenden frei, und Verena hat freie Bahn.
+- **(geteilt, übernommen)** Monika Pixner kam 2015 mit Amelie aus dem Passeier. (Vorschlag)
+- **(geteilt, übernommen)** Bei einer Zwangsversteigerung will Amelie die Villa über die Firma ihres Bruders kaufen. (Vorschlag)
+- **(geteilt, übernommen)** Donnerstag bis Sonntag in Meran: Dadurch ist Timotheus an den Runden-Abenden frei, und Verena hat freie Bahn.
 - Braucht Amelie jemals eine Rolle im Spiel, oder bleibt sie Hintergrund?

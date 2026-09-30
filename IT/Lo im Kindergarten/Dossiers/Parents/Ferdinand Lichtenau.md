@@ -8,16 +8,17 @@ funktion: schriftführer
 lager: gruber
 ---
 # Ferdinand Lichtenau
-> Notar, Schriftführer, ehemals Graf. Schreibt auf, was bleiben soll, und lässt weg, was nicht bleiben darf.
+> Notar, Schriftführer, ehemals Graf. Schreibt auf, was sein soll, und lässt weg, was nicht bleiben darf. (guter Satz, oder?)
 
+Name ist Anspielung auf Peter Ruml von Lichtenau.
 ## Eckdaten
 - **Alter:** 56, geboren 1970.
 - **Beruf:** Dr. iur., öffentlicher Notar. Notariat im Saggen.
 - **Wohnen:** Villa Lichtenau im Saggen. Seit Generationen in der Familie, schuldenfrei.
-- **Herkunft:** Tiroler Adel, bis 1919 Grafen von Lichtenau. Das Geld ist alt, still und intakt.
+- **Herkunft:** Tiroler Adel, bis 1919 Grafen von Lichtenau. Altes Geld, intaktes und Vermögen.
 - **Familie:** Frau Elisabeth, geboren 1982, Kinderärztin, ohne eigene Notiz. Konstantin ist ihr einziges Kind, ein spätes.
 - **Allergien:** keine bekannt.
-- **Stimme:** leise, gewählt, Hochdeutsch mit Innsbrucker Färbung. Hebt sie nie. „Das nehme ich zu Protokoll. Oder eben nicht."
+- **Stimme:** leise, gewählt, Hochdeutsch mit Innsbrucker Färbung. Hebt sie nie. „Das nehme ich zu Protokoll..." (ob ers dann echt aufschreibt, naja, wer weiß des schon...)
 
 ## Kanon
 - Noch nicht im Spiel. Quelle: Besetzung und Grilling vom 30.09.2026.
@@ -69,5 +70,5 @@ lager: gruber
 
 ## Offene Fragen
 - Woher kommt das alte Geld? Vorschlag: ein Forstgut im Oberland, verpachtet.
-- (geteilt) War Elisabeth beim Frühlingsfest am 22. Mai? Vorschlag: Sie hat Mira den Adrenalin-Pen gegeben, bis der Notarzt kam, und gesehen, wessen Torte es war. Das würde [[Die Nusstorte]] einen Zeugen im Gruber-Lager geben.
+- (geteilt, übernommen) War Elisabeth beim Frühlingsfest am 22. Mai? Vorschlag: Sie hat Mira den Adrenalin-Pen gegeben, bis der Notarzt kam, und gesehen, wessen Torte es war. Das würde [[Die Nusstorte]] einen Zeugen im Gruber-Lager geben.
 - Lässt er Timotheus fallen, wenn der Titel öffentlich wird? Die Standesdisziplin gegen die Blamage.

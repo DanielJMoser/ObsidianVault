@@ -80,5 +80,5 @@ im_spiel: true
 ## Offene Fragen
 - **Datenänderung:** Erdbeerallergie als neuer Fact.
 - **Vorschlag für neue Zeilen:** eine Reaktion oder ein Fact „Herbert ist ein Bild", freigeschaltet über die Steinsammlung.
-- **(geteilt)** Nici isst oft bei den Pixners im Souterrain, und Matteo erzählt ihr vom Exekutor.
+- **(geteilt, übernommen)** Nici isst oft bei den Pixners im Souterrain, und Matteo erzählt ihr vom Exekutor.
 - **Vorbild:** Nici ist nach einer echten Freundin gezeichnet. Alles oben ist Fiktion im Kinderformat, echte Insider-Witze kommen nur vom Entwickler.

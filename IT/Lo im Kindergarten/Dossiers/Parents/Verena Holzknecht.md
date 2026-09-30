@@ -78,8 +78,8 @@ lager_wahr: gruber
 
 ## Offene Fragen
 
-- **(geteilt)** Seit wann ist sie Kassierin? Vorschlag: seit November 2024. Susanne holte sie als Nachfolgerin des geschassten Plattner.
-- **(geteilt)** Hat sie in Timotheus' Büchern die 8.000 € hinaus und im Februar 2025 wieder hinein gesehen? Dann weiß sie vom [[Das Loch in der Kassa|Loch in der Kassa]], seit sie Kassierin ist.
+- **(geteilt, übernommen)** Seit wann ist sie Kassierin? Vorschlag: seit November 2024. Susanne holte sie als Nachfolgerin des geschassten Plattner.
+- **(geteilt, übernommen)** Hat sie in Timotheus' Büchern die 8.000 € hinaus und im Februar 2025 wieder hinein gesehen? Dann weiß sie vom [[Das Loch in der Kassa|Loch in der Kassa]], seit sie Kassierin ist.
 - **(geteilt)** Hat sie Timotheus' Bilanz für 2025 geschönt, damit die Bank bei der Hypothek stillhält?
-- **(geteilt)** Was hat Timotheus ihr für die Zeit nach Susannes Sturz versprochen? Vorschlag: das Amt der Vizepräsidentin.
+- **(geteilt, übernommen)** Was hat Timotheus ihr für die Zeit nach Susannes Sturz versprochen? Vorschlag: das Amt der Vizepräsidentin.
 - Wer ist die Oma, die donnerstags abholt? Vorschlag: Markus' Mutter aus dem Zillertal.

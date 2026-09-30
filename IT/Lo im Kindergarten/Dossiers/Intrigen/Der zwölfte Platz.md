@@ -15,7 +15,7 @@ stand: 2026-09-30
 - **Die Haidachers:** Hotel im Zillertal, seit dem Frühjahr 2026 in einer frisch renovierten Villa im Saggen. Max ist 4.
 - **Die andere Bewerbung:** eine alleinerziehende Mutter aus Pradl, ein echter Härtefall. Abgelehnt. (Vorschlag: ohne eigene Notiz)
 - **Juli 2026, die Zahlung:**
-  - 5.000 € bar im Kuvert für Susanne, „für die Stiftung". In der Stiftung verbucht wurde das Geld nie.
+  - 5.000 € bar im Kuvert für Susanne, „für die Stiftung". Evelyn Haidacher bringt es persönlich in die Maisonette. In der Stiftung verbucht wurde das Geld nie.
   - 18.000 € als „Spende" fürs Klettergerüst, überwiesen an den Verein, zwei Tage vor der Vorstandssitzung.
 - **Die Vorstandssitzung:** Susanne und Verena stimmen dafür. Timotheus lässt es durchgehen, weil er den Beweis will, nicht die Blockade. Lichtenau enthält sich.
 - **August:** Das Klettergerüst steht.
@@ -35,7 +35,8 @@ stand: 2026-09-30
 
 ## Wie es herauskommen kann
 
-- **Max:** „Mei Papa hat's Klettergerüst kauft, damit i einidarf." Bei höherem Vertrauen: „Und der Jassi-Mama hat er a Kuvert geben." (Vorschlag)
+- **Max:** „Mei Papa hat's Klettergerüst kauft, damit i einidarf." Bei höherem Vertrauen: „Und d'Mama hat der Jassi-Mama a Kuvert brocht." (Vorschlag)
+- **Jassi:** „Eine Frau hat der Mama ein Kuvert gebracht. Dann hat der Papa ganz lang nix geredet."
 - **Verenas Kopien:** wenn Lo an sie herankommt, oder wenn Timotheus sie Lo als Patron zeigt.
 - **Florian:** wenn er bricht.
 - **Die Stiftung:** Eine Spende der Haidachers taucht in den Büchern der Stiftung nicht auf.
