@@ -15,7 +15,7 @@ Name ist Anspielung auf Peter Ruml von Lichtenau.
 - **Alter:** 56, geboren 1970.
 - **Beruf:** Dr. iur., öffentlicher Notar. Notariat im Saggen.
 - **Wohnen:** Villa Lichtenau im Saggen. Seit Generationen in der Familie, schuldenfrei.
-- **Herkunft:** Tiroler Adel, bis 1919 Grafen von Lichtenau. Altes Geld, intaktes und Vermögen.
+- **Herkunft:** Tiroler Adel, bis 1919 Grafen von Lichtenau. Altes Geld, intaktes und stilles Vermögen.
 - **Familie:** Frau Elisabeth, geboren 1982, Kinderärztin, ohne eigene Notiz. Konstantin ist ihr einziges Kind, ein spätes.
 - **Allergien:** keine bekannt.
 - **Stimme:** leise, gewählt, Hochdeutsch mit Innsbrucker Färbung. Hebt sie nie. „Das nehme ich zu Protokoll..." (ob ers dann echt aufschreibt, naja, wer weiß des schon...)
@@ -25,11 +25,11 @@ Name ist Anspielung auf Peter Ruml von Lichtenau.
 - Sway in der Lore 2. Im Spiel keine Parent-Zeile.
 
 ## Oberfläche
-- Bringt Konstantin jeden Tag um Viertel vor acht. Auf die Minute.
-- Anzug, Krawatte, Schirm, auch bei Föhn.
-- Grüßt Lo mit Handschlag und „Grüß Gott". Duzt niemanden.
+- Bringt Konstantin jeden Tag um Viertel vor acht. Auf die Minute genau, ohne Ausnahme.
+- Anzug, Krawatte, Schirm, das zur Gelfrisur skulptierte Resthaar trotzt auch stärkerem Föhn.
+- Grüßt Lo mit bestimmten Händedruck und „Grüß Gott". Duzt niemanden, auch nicht seinen Sohn (Vorschlag, nicht sicher).
 - Der einzige Vater, der die Hausordnung gelesen hat. Zitiert sie.
-- Seine Protokolle kommen getippt, nummeriert, mit Inhaltsverzeichnis.
+- Seine Protokolle kommen getippt, nummeriert, mit Inhaltsverzeichnis. LaTeX statt Word.
 - Sitzt im Vorstand neben Timotheus und stimmt mit ihm, ohne Kommentar.
 
 ## Entdeckbar
