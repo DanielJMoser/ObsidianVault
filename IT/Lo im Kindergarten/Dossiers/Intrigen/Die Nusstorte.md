@@ -13,7 +13,7 @@ stand: 2026-09-30
 
 - **Freitag, 22. Mai 2026:** Frühlingsfest im Garten.
 - **Die Regel:** Seit Jänner hängt Marias Allergieliste in der Küche, in ihrer Handschrift. Mira: Nüsse. Maria hat allen Eltern geschrieben, dass das Buffet nussfrei ist.
-- **Die Torte:** Am Vorabend backen Susanne und Jassi eine Nusstorte aus Jassis Kochbuch. Die Haselnüsse hat Florian gekauft. Susanne hält die Regel für „Allergie-Hysterie". Ein Schild gibt es nicht.
+- **Die Torte:** Am Vorabend backen Susanne und Jassi eine Nusstorte aus Jassis Kochbuch. Die Haselnüsse hat Florian gekauft. Susanne hält die Regel für „Allergie-Hysterie". Keine Allergen-Markierung.
 - **Das Stück:** Susanne schneidet es selbst ab und gibt es Mira. „Für dich, Mausi."
 - **Der Schock:** Mira bekommt einen anaphylaktischen Schock. Maria holt den Adrenalin-Pen aus dem Notfallkasten und ruft 144. Elisabeth Lichtenau, Kinderärztin und als Mutter da, setzt ihn und bleibt bei Mira, bis der Notarzt kommt. Dabei sieht sie, wessen Torte es war. Mira bleibt eine Nacht in der Klinik.
 - **Die Sitzung:** Barbara Aigner ist dabei nicht im Raum, sie sitzt mit Mira in der Klinik. Susanne erzählt dem Council eine unbeschriftete Torte „von irgendwem". Die Pädagogin habe das Buffet nicht kontrolliert.
