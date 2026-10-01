@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "575f80e5954599ba",
+        "id": "44ad23745f70ff32",
         "type": "tabs",
         "children": [
           {
-            "id": "47b90154d733ec52",
+            "id": "56d12432d2788593",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Lo im Kindergarten/Dossiers/Intrigen/Die Nusstorte.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Die Nusstorte"
+              "title": "New tab"
             }
           }
         ]
@@ -179,19 +175,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "47b90154d733ec52",
+  "active": "56d12432d2788593",
   "lastOpenFiles": [
+    "IT/Lo im Kindergarten/Dossiers/Parents/Verena Holzknecht.md",
+    "IT/Lo im Kindergarten/Dossiers/Parents/Timotheus von Gruber.md",
+    "IT/Lo im Kindergarten/Dossiers/Andere Kinder.md",
+    "IT/Lo im Kindergarten/Dossiers/Kids/Emil.md",
+    "IT/Lo im Kindergarten/Dossiers/Intrigen/Die Runde.md",
+    "IT/Lo im Kindergarten/Dossiers/Intrigen/Die Nusstorte.md",
     "IT/Lo im Kindergarten/Dossiers/Zeitleiste.md",
     "IT/Lo im Kindergarten/Dossiers/Besetzung.md",
-    "IT/Lo im Kindergarten/Dossiers/Andere Kinder.md",
     "IT/Lo im Kindergarten/Dossiers/Kids/Nici.md",
-    "IT/Lo im Kindergarten/Dossiers/Kids/Emil.md",
-    "IT/Lo im Kindergarten/Dossiers/Intrigen/Die Nusstorte.md",
     "IT/Lo im Kindergarten/Dossiers/Intrigen/Die Erdbeertorte.md",
     "IT/Lo im Kindergarten/Dossiers/Intrigen/Das Loch in der Kassa.md",
-    "IT/Lo im Kindergarten/Dossiers/Intrigen/Die Runde.md",
     "IT/Lo im Kindergarten/Dossiers/Intrigen/Onkel Timo.md",
-    "IT/Lo im Kindergarten/Dossiers/Parents/Timotheus von Gruber.md",
     "IT/Lo im Kindergarten/Dossiers/Parents/Markus Holzknecht.md",
     "IT/Lo im Kindergarten/Dossiers/Parents/Florian Pichler.md",
     "IT/Lo im Kindergarten/Dossiers/Intrigen/Hochbegabt.md",
@@ -201,7 +198,6 @@
     "IT/Lo im Kindergarten/Dossiers/Parents/Amelie von Gruber.md",
     "01-Active/Learning-Current/Kindergartensimulator Scene Editing Workflow.md",
     "01-Active/Learning-Current/btw.md",
-    "IT/Lo im Kindergarten/Dossiers/Parents/Verena Holzknecht.md",
     "IT/Lo im Kindergarten/Dossiers/Parents/Susanne Pichler.md",
     "IT/Lo im Kindergarten/Dossiers/Parents/Ferdinand Lichtenau.md",
     "IT/Lo im Kindergarten/Dossiers/Kids/Konstantin.md",
