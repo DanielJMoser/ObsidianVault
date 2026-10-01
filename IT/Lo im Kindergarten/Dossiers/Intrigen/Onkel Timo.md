@@ -11,7 +11,7 @@ stand: 2026-09-30
 
 ## Was läuft
 
-- **Wie sie sich kennen:** Seit 2023 ist Verena Timotheus' Steuerberaterin. Sie kennt seine Zahlen, also weiß sie, dass er pleite ist. Den Namen liebt sie trotzdem.
+- **Wie sie sich kennen:** Seit 2023 ist Verena Timotheus' Steuerberaterin. Sie kennt seine Zahlen, also weiß sie, dass er pleite ist. Der Name verspricht aber trotzdem Prestige.
 - **Seit November 2024** ist Verena Kassierin. Susanne hat sie nach Plattners Sturz geholt: „Frauen in Führung."
 - **Dezember 2025, Adventfeier des Elternvereins:** Es beginnt.
 - **Wann sie sich sehen:**
