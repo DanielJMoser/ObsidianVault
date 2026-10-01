@@ -4,33 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "df8f65e42b2c442b",
+        "id": "575f80e5954599ba",
         "type": "tabs",
         "children": [
           {
-            "id": "b0cd8e4e5a433bb5",
+            "id": "47b90154d733ec52",
             "type": "leaf",
             "state": {
-              "type": "reveal-preview-view",
+              "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "Slide Preview"
-            }
-          },
-          {
-            "id": "9f11591319da6d54",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "01-Active/Presentation-Matrix-Client/Screenshot_20260727_174836.png"
-              },
-              "icon": "lucide-image",
-              "title": "Screenshot_20260727_174836"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,14 +175,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9f11591319da6d54",
+  "active": "47b90154d733ec52",
   "lastOpenFiles": [
+    "01-Active/Presentation-Matrix-Client/Screenshot_20260727_174836.png",
     "01-Active/Presentation-Matrix-Client/Red-impostor.webp",
     "01-Active/Presentation-Matrix-Client/Presentation.md",
     "01-Active/Presentation-Matrix-Client/Presentation-Canvas.canvas",
     "01-Active/Learning-Current/btw.md",
     "01-Active/Presentation-Matrix-Client/Screenshot_20260727_175017.png",
-    "01-Active/Presentation-Matrix-Client/Screenshot_20260727_174836.png",
     "2026-07-27_17-49.png",
     "01-Active/Presentation-Matrix-Client/2.md",
     "Untitled.md",
