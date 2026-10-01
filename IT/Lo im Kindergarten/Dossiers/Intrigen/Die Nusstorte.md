@@ -25,15 +25,15 @@ stand: 2026-09-30
 
 ## Wer weiß was
 
-| Wer | weiß | verbirgt | will |
-|---|---|---|---|
-| [[Susanne Pichler]] | alles | alles | dass es vergessen ist |
-| [[Florian Pichler]] | wer die Torte gebracht und angeschnitten hat | es, aus Loyalität, und weil er Angst hat | nicht daran denken |
-| [[Jassi]] | dass sie mit der Mama eine Nusstorte gebacken hat. Was danach war, weiß sie nicht. | dass sie gebacken hat. Die Mama hat gesagt, das bleibt ein Geheimnis. | wieder backen |
-| [[Mira]] | wer ihr das Stück gegeben hat: „die Jassi-Mama" | nichts, sie wurde nur nie gefragt | nicht übers Essen reden |
-| [[Barbara Aigner]] | nur Susannes Version | — | Sicherheit für Mira, und sie ist Susanne dankbar |
-| [[Maria Kofler]] | dass Susanne die Torte gebracht hat | nichts, aber ihr glaubt keiner | Rehabilitierung |
-| Elisabeth Lichtenau | wessen Torte es war | es, aus Diskretion. Ob Ferdinand es weiß, ist offen. | dass man sich nicht einmischt |
+| Wer                 | weiß                                                                               | verbirgt                                                              | will                                             |
+| ------------------- | ---------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------ |
+| [[Susanne Pichler]] | alles                                                                              | alles                                                                 | dass es vergessen ist                            |
+| [[Florian Pichler]] | wer die Torte gebracht und angeschnitten hat                                       | es, aus Loyalität, und weil er Angst hat                              | nicht daran denken                               |
+| [[Jassi]]           | dass sie mit der Mama eine Nusstorte gebacken hat. Was danach war, weiß sie nicht. | dass sie gebacken hat. Die Mama hat gesagt, das bleibt ein Geheimnis. | wieder backen                                    |
+| [[Mira]]            | wer ihr das Stück gegeben hat: „die Jassi-Mama"                                    | nichts, sie wurde nur nie gefragt                                     | nicht übers Essen reden                          |
+| [[Barbara Aigner]]  | nur Susannes Version                                                               | —                                                                     | Sicherheit für Mira, und sie ist Susanne dankbar |
+| [[Maria Kofler]]    | dass Susanne die Torte gebracht hat                                                | nichts, aber ihr glaubt keiner                                        | Rehabilitierung                                  |
+| Elisabeth Lichtenau | wessen Torte es war                                                                | es, aus Diskretion. Ob Ferdinand es weiß, ist offen.                  | dass man sich nicht einmischt                    |
 
 ## Warum Mira heute so ist
 
