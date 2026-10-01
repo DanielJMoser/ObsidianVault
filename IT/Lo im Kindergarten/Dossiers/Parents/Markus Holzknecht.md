@@ -8,15 +8,15 @@ lager: pichler
 ---
 # Markus Holzknecht
 
-> Der Bergretter, der jeden am Berg findet, nur nicht das, was daheim passiert.
+> Bergretter extraordinnaire, checkt aber nit ganz was daheim abgeht.
 
 ## Eckdaten
 
 - **Alter:** 41, Jahrgang 1985.
 - **Beruf:** Bergretter. Im Sommer Bergführer, im Winter Skilehrer im Stubai.
-- **Wohnen:** das Neubau-Penthouse am Rand des Saggen. Meistens ist er woanders.
-- **Herkunft:** Zillertal. Der Name ist von dort, der Dialekt auch.
-- **Allergien:** keine. Bienenstiche steckt er weg.
+- **Wohnen:** das Neubau-Penthouse am Rand von Saggen. Meistens ist er woanders.
+- **Herkunft:** Zillertal. Name und Dialekt spiegelns wider.
+- **Allergien:** keine. Bienenstiche steckt er weg. 8).
 - **Stimme:** wenige Wörter, alle im Dialekt. „Passt scho." „Da obn isch's eh einfacher."
 
 ## Kanon
