@@ -25,10 +25,10 @@ lager: pichler
 
 ## Oberfläche
 
-- Braungebrannt, das Funkgerät am Gürtel, der Rucksack über einer Schulter.
+- Braungebrannt, Funkgerät und Pager am Gürtel, der Rucksack über einer Schulter.
 - Holt Emil selten ab. Wenn er kommt, schauen alle Mütter in der Garderobe.
 - Kommt zu keiner Council-Sitzung. „Des macht die Verena."
-- Lacht mit Lo über den Kindergarten, als wäre er ein Berg mit schlechtem Wetter.
+- Lacht mit Lo über den Kindergarten, heiter, locker, extrem cool. Playboyesque.
 
 ## Entdeckbar
 
@@ -38,7 +38,7 @@ lager: pichler
 
 ## Verborgen
 
-- **Er ahnt nichts.** Nicht aus Dummheit: Er vertraut. Oben lernt man, wem man trauen muss, und herunten hat er es verlernt.
+- **Er ahnt nichts.** Nicht aus Dummheit: Er vertraut. Oben, im Seil, ist Vertrauen eine Grundlage. Herunten hat ers Filtern verlernt.
 - **Die Bergung:** Im Frühjahr 2026 ging eine Bergung schief, ein Tourengeher kam nicht mehr heim. Markus redet nicht darüber. Seither ist er noch öfter oben.
 - **Die Politik:** Sie ist ihm egal. Pichler ist er nur, weil die Verena bei der Susanne ist, glaubt er.
 - **Emil:** Er merkt, dass Emil sich auf dem Klettergerüst nicht nach oben traut. Er sagt nichts, weil er nicht weiß, wie man darüber redet.
