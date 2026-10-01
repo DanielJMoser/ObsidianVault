@@ -1,0 +1,2 @@
+- Symbol im HUD für "(1) neue Nachricht" bzw. "(2) neue Nachrichten", wenn Lo eine neue SMS erhalten hat. **Status: Fehlt noch**
+- Lo kann mit jedem Kind 1x täglich über jedes Thema verfügbare Thema quatschen. Status: **Kann 1x täglich mit jedem Kind quatschen**
