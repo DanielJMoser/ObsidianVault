@@ -23,15 +23,15 @@ stand: 2026-09-30
 
 ## Wer weiß was
 
-| Wer | weiß | verbirgt | will |
-|---|---|---|---|
-| [[Timotheus von Gruber]] | alles | alles | Verenas Stimme und ihre Belege |
-| [[Verena Holzknecht]] | alles, auch dass er sie braucht | alles | mehr als Steuertermine |
-| [[Amelie von Gruber]] | die Affäre. Sie hat die Nachrichten gelesen. | dass sie es weiß | es verwenden, wenn es ihr nützt: Scheidung zu ihren Bedingungen |
-| [[Markus Holzknecht]] | nichts | — | — |
-| [[Emil]] | dass Onkel Timo kommt, wenn der Papa weg ist | nichts | Schillinge |
-| Monika Pixner | dass die Frau mit dem roten Auto abends zum Herrn Baron ins Büro geht | es, sie ist diskret | ihre Stelle behalten |
-| [[Ferdinand Lichtenau]] | ahnt es | — | Diskretion |
+| Wer                      | weiß                                                                  | verbirgt            | will                                                            |
+| ------------------------ | --------------------------------------------------------------------- | ------------------- | --------------------------------------------------------------- |
+| [[Timotheus von Gruber]] | alles                                                                 | alles               | Verenas Stimme und ihre Belege                                  |
+| [[Verena Holzknecht]]    | alles, auch dass er sie braucht                                       | alles               | mehr als Steuertermine                                          |
+| [[Amelie von Gruber]]    | die Affäre. Sie hat die Nachrichten gelesen.                          | dass sie es weiß    | es verwenden, wenn es ihr nützt: Scheidung zu ihren Bedingungen |
+| [[Markus Holzknecht]]    | nichts                                                                | —                   | —                                                               |
+| [[Emil]]                 | dass Onkel Timo kommt, wenn der Papa weg ist                          | nichts              | Schillinge                                                      |
+| Monika Pixner            | dass die Frau mit dem roten Auto abends zum Herrn Baron ins Büro geht | es, sie ist diskret | ihre Stelle behalten                                            |
+| [[Ferdinand Lichtenau]]  | ahnt es                                                               | —                   | Diskretion                                                      |
 
 ## Wie es herauskommen kann
 
