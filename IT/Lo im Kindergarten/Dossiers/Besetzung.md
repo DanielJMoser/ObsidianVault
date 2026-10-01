@@ -3,7 +3,6 @@ typ: übersicht
 stand: 2026-09-30
 status: entwurf
 ---
-
 # Besetzung
 
 Die ganze Landkarte: zwölf Kinder, ihre Familien, das Umfeld. Jede Zeile ist ein Vorschlag. Was hier durchgeht, wird ein Dossier.
