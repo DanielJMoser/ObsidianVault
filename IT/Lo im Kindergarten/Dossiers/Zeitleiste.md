@@ -42,17 +42,17 @@ Eine Quelle für jedes Datum. Dossiers verweisen hierher, statt Daten neu zu erf
 
 Gespielt werden nur Werktage.
 
-| Tag | Datum | Was |
-|---|---|---|
-| 1 | Mo 14.9. | Lo fängt an. Susannes Brief. |
-| 2–4 | Di 15.9.–Do 17.9. | Lenis Eingewöhnung. |
-| 3 | Mi 16.9. | Timotheus' Brief. |
-| 4 | Do 17.9. | Thomas Eder zum ersten Mal in der Runde. |
-| 11 | Mo 28.9. | Max kommt von der Warteliste (Vorschlag). |
-| 15 | Fr 2.10. | Tag vor Jonas' fünftem Geburtstag (Sa 3.10.). |
-| 20 | Fr 9.10. | Herbstfest, Timotheus richtet es aus. Frist für den Abwahlantrag (Vorschlag). |
-| 25 | Fr 16.10. | Leni wird vier (Vorschlag, Datenänderung). |
-| 30 | Fr 23.10. | Hauptversammlung (Vorschlag). |
+| Tag | Datum             | Was                                                                           |
+| --- | ----------------- | ----------------------------------------------------------------------------- |
+| 1   | Mo 14.9.          | Lo fängt an. Susannes Brief.                                                  |
+| 2–4 | Di 15.9.–Do 17.9. | Lenis Eingewöhnung.                                                           |
+| 3   | Mi 16.9.          | Timotheus' Brief.                                                             |
+| 4   | Do 17.9.          | Thomas Eder zum ersten Mal in der Runde.                                      |
+| 11  | Mo 28.9.          | Max kommt von der Warteliste (Vorschlag).                                     |
+| 15  | Fr 2.10.          | Tag vor Jonas' fünftem Geburtstag (Sa 3.10.).                                 |
+| 20  | Fr 9.10.          | Herbstfest, Timotheus richtet es aus. Frist für den Abwahlantrag (Vorschlag). |
+| 25  | Fr 16.10.         | Leni wird vier (Vorschlag, Datenänderung).                                    |
+| 30  | Fr 23.10.         | Hauptversammlung (Vorschlag).                                                 |
 
 ## Danach
 
