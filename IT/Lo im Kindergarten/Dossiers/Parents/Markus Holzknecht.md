@@ -8,15 +8,15 @@ lager: pichler
 ---
 # Markus Holzknecht
 
-> Der Bergretter, der jeden am Berg findet, nur nicht das, was daheim passiert.
+> Bergretter extraordinnaire, checkt aber nit ganz was daheim abgeht.
 
 ## Eckdaten
 
 - **Alter:** 41, Jahrgang 1985.
 - **Beruf:** Bergretter. Im Sommer Bergführer, im Winter Skilehrer im Stubai.
-- **Wohnen:** das Neubau-Penthouse am Rand des Saggen. Meistens ist er woanders.
-- **Herkunft:** Zillertal. Der Name ist von dort, der Dialekt auch.
-- **Allergien:** keine. Bienenstiche steckt er weg.
+- **Wohnen:** das Neubau-Penthouse am Rand von Saggen. Meistens ist er woanders.
+- **Herkunft:** Zillertal. Name und Dialekt spiegelns wider.
+- **Allergien:** keine. Bienenstiche steckt er weg. 8).
 - **Stimme:** wenige Wörter, alle im Dialekt. „Passt scho." „Da obn isch's eh einfacher."
 
 ## Kanon
@@ -25,10 +25,10 @@ lager: pichler
 
 ## Oberfläche
 
-- Braungebrannt, das Funkgerät am Gürtel, der Rucksack über einer Schulter.
+- Braungebrannt, Funkgerät und Pager am Gürtel, der Rucksack über einer Schulter.
 - Holt Emil selten ab. Wenn er kommt, schauen alle Mütter in der Garderobe.
 - Kommt zu keiner Council-Sitzung. „Des macht die Verena."
-- Lacht mit Lo über den Kindergarten, als wäre er ein Berg mit schlechtem Wetter.
+- Lacht mit Lo über den Kindergarten, heiter, locker, extrem cool. Playboyesque.
 
 ## Entdeckbar
 
@@ -38,7 +38,7 @@ lager: pichler
 
 ## Verborgen
 
-- **Er ahnt nichts.** Nicht aus Dummheit: Er vertraut. Oben lernt man, wem man trauen muss, und herunten hat er es verlernt.
+- **Er ahnt nichts.** Nicht aus Dummheit: Er vertraut. Oben, im Seil, ist Vertrauen eine Grundlage. Herunten hat ers Filtern verlernt.
 - **Die Bergung:** Im Frühjahr 2026 ging eine Bergung schief, ein Tourengeher kam nicht mehr heim. Markus redet nicht darüber. Seither ist er noch öfter oben.
 - **Die Politik:** Sie ist ihm egal. Pichler ist er nur, weil die Verena bei der Susanne ist, glaubt er.
 - **Emil:** Er merkt, dass Emil sich auf dem Klettergerüst nicht nach oben traut. Er sagt nichts, weil er nicht weiß, wie man darüber redet.

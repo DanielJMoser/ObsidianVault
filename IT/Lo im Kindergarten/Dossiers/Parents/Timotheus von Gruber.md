@@ -44,7 +44,7 @@ lager: gruber
 - **Er ist pleite.**
   - Nicis Steine heißen wie die Ahnen, deren Bilder verschwinden (Talk: Steinsammlung).
   - Matteo weiß, wann „der Mann mit den Pickerln" kommt.
-- **Verena.** Emil sagt „Onkel Timo" zu ihm.
+- **Affäre mit Verena.** Emil sagt „Onkel Timo" zu ihm, weil er so oft da ist.
 - **Die Kassa.** Hannah wiederholt Wort für Wort, was Martin Plattner über den „Herrn Baron" sagt.
 - **Schulden beim Installateur.** Valentina: „Der Baron zahlt nit." (Vorschlag)
 - **Die Runde.** Donnerstags brennt im Notariat Lichtenau lang Licht. Der Weg ins Spiel ist offen.
@@ -76,7 +76,7 @@ lager: gruber
 - **[[Ferdinand Lichtenau]]:** Sein Schriftführer, hält zu ihm. Die Verachtung spürt er nicht, oder er will sie nicht spüren.
 - **[[Thomas Eder]]:** Sein Bauleiter, zu spät bezahlt, mit einem Versprechen gehalten.
 - **[[Katharina Brunner]]:** Mieterin im zweiten Stock. Er hat ihr den Sitz gegeben und traut ihr nicht.
-- **[[Susanne Pichler]]:** Die Gegnerin. Er hält sie für eine Aufsteigerin mit Doppelmoral, und das stimmt sogar zur Hälfte.
+- **[[Susanne Pichler]]:** Die Gegnerin. Er hält sie für eine Aufsteigerin mit Doppelmoral (und das stimmt ja auch zur Hälfte).
 - **Martin Plattner:** Sein Sündenbock von 2024.
 - **Sepp Kirchmair:** Sein Gläubiger, 14.000 €.
 - **Monika Pixner:** Hausbetreuerin. Er merkt nicht, dass sie alles sieht.

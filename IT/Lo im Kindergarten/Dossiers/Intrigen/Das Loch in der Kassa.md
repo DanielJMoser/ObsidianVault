@@ -7,7 +7,7 @@ stand: 2026-09-30
 
 # Das Loch in der Kassa
 
-> Ein Statikgutachten für eine Gartenhütte, die es nie gab.
+> Ein Statikgutachten für eine Gartenhütte, die dann nie gebaut wurde...
 
 ## Was war
 

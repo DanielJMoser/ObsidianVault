@@ -32,7 +32,7 @@ im_spiel: false
 - **„Onkel Timo"** (Talk Essen): „Der Onkel Timo trinkt den Kaffee aus der Papa-Tasse."
 - **Die „Steuern":** „Die Mama und der Onkel Timo machen Steuern. Da muss die Tür zu, weil Steuern geheim sind."
 - **Wer Onkel Timo ist:** „Der Onkel Timo ist der Papa von der Nici. Aber bei uns ist er der Onkel." Das sagt er, wenn Nici in der Nähe ist.
-- **Die Höhe** (hohes Vertrauen, eigenes Thema): Er kommt auf dem Klettergerüst nur bis zur zweiten Sprosse. Oben tut er so, als würde er abseilen. In Wahrheit hält er sich fest.
+- **Die Höhe** (hohes Vertrauen, eigenes Thema): Er kommt auf dem Klettergerüst nur bis zur zweiten Sprosse. Oben tut er so, als würde er abseilen. Klammert sich fest, lässt sich aber nix anmerken.
 
 ## Verborgen
 
@@ -44,7 +44,7 @@ im_spiel: false
 
 - **Will:** dass der Papa ihn einmal mitnimmt, ganz rauf.
 - **Fürchtet:** die Höhe. Und dass es wer merkt.
-- **Würde nie:** zugeben, dass er vom Klettergerüst allein nicht mehr runterkommt.
+- **Würde nie:** zugeben, dass er vom Klettergerüst manchmal allein nicht mehr runterkommt.
 
 ## Beziehungen
 

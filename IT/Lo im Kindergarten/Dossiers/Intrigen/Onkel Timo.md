@@ -11,7 +11,7 @@ stand: 2026-09-30
 
 ## Was läuft
 
-- **Wie sie sich kennen:** Seit 2023 ist Verena Timotheus' Steuerberaterin. Sie kennt seine Zahlen, also weiß sie, dass er pleite ist. Den Namen liebt sie trotzdem.
+- **Wie sie sich kennen:** Seit 2023 ist Verena Timotheus' Steuerberaterin. Sie kennt seine Zahlen, also weiß sie, dass er pleite ist. Der Name verspricht aber trotzdem Prestige.
 - **Seit November 2024** ist Verena Kassierin. Susanne hat sie nach Plattners Sturz geholt: „Frauen in Führung."
 - **Dezember 2025, Adventfeier des Elternvereins:** Es beginnt.
 - **Wann sie sich sehen:**
@@ -23,15 +23,15 @@ stand: 2026-09-30
 
 ## Wer weiß was
 
-| Wer | weiß | verbirgt | will |
-|---|---|---|---|
-| [[Timotheus von Gruber]] | alles | alles | Verenas Stimme und ihre Belege |
-| [[Verena Holzknecht]] | alles, auch dass er sie braucht | alles | mehr als Steuertermine |
-| [[Amelie von Gruber]] | die Affäre. Sie hat die Nachrichten gelesen. | dass sie es weiß | es verwenden, wenn es ihr nützt: Scheidung zu ihren Bedingungen |
-| [[Markus Holzknecht]] | nichts | — | — |
-| [[Emil]] | dass Onkel Timo kommt, wenn der Papa weg ist | nichts | Schillinge |
-| Monika Pixner | dass die Frau mit dem roten Auto abends zum Herrn Baron ins Büro geht | es, sie ist diskret | ihre Stelle behalten |
-| [[Ferdinand Lichtenau]] | ahnt es | — | Diskretion |
+| Wer                      | weiß                                                                  | verbirgt            | will                                                            |
+| ------------------------ | --------------------------------------------------------------------- | ------------------- | --------------------------------------------------------------- |
+| [[Timotheus von Gruber]] | alles                                                                 | alles               | Verenas Stimme und ihre Belege                                  |
+| [[Verena Holzknecht]]    | alles, auch dass er sie braucht                                       | alles               | mehr als Steuertermine                                          |
+| [[Amelie von Gruber]]    | die Affäre. Sie hat die Nachrichten gelesen.                          | dass sie es weiß    | es verwenden, wenn es ihr nützt: Scheidung zu ihren Bedingungen |
+| [[Markus Holzknecht]]    | nichts                                                                | —                   | —                                                               |
+| [[Emil]]                 | dass Onkel Timo kommt, wenn der Papa weg ist                          | nichts              | Schillinge                                                      |
+| Monika Pixner            | dass die Frau mit dem roten Auto abends zum Herrn Baron ins Büro geht | es, sie ist diskret | ihre Stelle behalten                                            |
+| [[Ferdinand Lichtenau]]  | ahnt es                                                               | —                   | Diskretion                                                      |
 
 ## Wie es herauskommen kann
 

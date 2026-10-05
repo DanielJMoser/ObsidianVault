@@ -4,7 +4,7 @@ familie: ["[[Susanne Pichler]]", "[[Florian Pichler]]"]
 im_spiel: true
 ---
 # Jassi
-> Hat zu allem eine Frage, führt jeden Vormittag ein Restaurant und stellt alle, die schummeln, persönlich zur Rede. Nur die eigene Mama nicht, weil sie nicht weiß, dass die schummelt.
+> Hat zu allem eine Frage, führt jeden Vormittag ein Restaurant und stellt alle, die schummeln, persönlich zur Rede.
 
 ## Eckdaten
 - **Alter:** 5, geboren am 9. März 2021. Vorschuljahr.
