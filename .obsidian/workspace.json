@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Lo im Kindergarten/Dossiers/Beziehungsnetz.md",
+                "file": "IT/Lo im Kindergarten/Dossiers/Parents/Barbara Aigner.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Beziehungsnetz"
+              "title": "Barbara Aigner"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "schlafmittel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -194,10 +195,11 @@
   },
   "active": "41bf6f8c38b09aee",
   "lastOpenFiles": [
+    "IT/Lo im Kindergarten/Dossiers/Parents/Florian Pichler.md",
+    "IT/Lo im Kindergarten/Dossiers/Parents/Ferdinand Lichtenau.md",
+    "IT/Lo im Kindergarten/Dossiers/Beziehungsnetz.md",
     "IT/Lo im Kindergarten/Dossiers/Zeitleiste.md",
     "IT/Lo im Kindergarten/Notizen.md",
-    "IT/Lo im Kindergarten/Dossiers/Parents/Florian Pichler.md",
-    "IT/Lo im Kindergarten/Dossiers/Beziehungsnetz.md",
     "IT/Lo im Kindergarten/Dossiers/Beziehungsnetz.md.tmp.8642.cd1b3f2ab697",
     "IT/Lo im Kindergarten/Dossiers/Umfeld/Notburga Hofer.md",
     "IT/Lo im Kindergarten/Dossiers/Umfeld/Notburga Hofer.md.tmp.8642.7e884759e61d",
@@ -227,7 +229,6 @@
     "IT/Lo im Kindergarten/Dossiers/Parents/Sepp Kirchmair.md",
     "IT/Lo im Kindergarten/Dossiers/Parents/Monika Pixner.md",
     "IT/Lo im Kindergarten/Dossiers/Kids/Ida.md",
-    "IT/Lo im Kindergarten/Dossiers/Parents/Jan-Hendrik Behrens.md",
     "IT/Lo im Kindergarten/Dossiers/Parents/Friederike Behrens.md.tmp.8642.def9d6081662",
     "IT/Lo im Kindergarten/Dossiers/Kids/Max.md.tmp.8642.ee1583169e7e",
     "Assets/Excalidraw/Scripts/Downloaded/Concatenate lines.svg",
