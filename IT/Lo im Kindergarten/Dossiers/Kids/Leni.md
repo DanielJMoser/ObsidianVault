@@ -80,6 +80,7 @@ Alles ist ein Vorschlag, kindgroß. Leni versteht es selbst nur halb.
 - [[Nici]]: das Mädchen unten. Verboten. Hört zu, wenn Leni singt.
 - [[Matteo]]: wohnt ganz unten im Haus.
 - [[Thomas Eder]]: Jonas' Papa. Repariert Sachen, auch die Haustür.
+- [[Ida]]: die andere Neue. Ida mag sie. (Vorschlag)
 
 ## Intrigen
 

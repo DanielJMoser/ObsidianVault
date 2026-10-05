@@ -71,6 +71,7 @@ im_spiel: true
 - **[[Timotheus von Gruber]]:** Papa. Holt sie pünktlich ab und redet wenig. Genau wie sie.
 - **[[Amelie von Gruber]]:** Mama. Oft in Meran, bringt Steine vom Fluss mit.
 - **Gerti:** die Schnecke im Garten (Kanon).
+- [[Hannah]]: Hannah hat ihr gesagt, ihr Papa ist ein Dieb. Seitdem gehen sich die zwei aus dem Weg. (Vorschlag)
 
 ## Intrigen
 - **[[Die Villa]]:** Weiß nicht, was sie weiß, und vergräbt es.

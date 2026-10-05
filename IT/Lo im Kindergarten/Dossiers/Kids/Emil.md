@@ -56,6 +56,7 @@ im_spiel: false
 - [[Jonas]]: auch ein Fahrzeug-Bub. Traktor gegen Hubschrauber, das wird ernsthaft verhandelt.
 - [[Konstantin]]: erklärt ihm, dass ein Hubschrauber ein „Drehflügler" ist. Emil nickt und glaubt ihm kein Wort.
 - [[Max]]: sagt, das Klettergerüst gehört ihm, weil es sein Papa gekauft hat. Emil findet, es gehört der Bergrettung. (Vorschlag)
+- [[Max]]: Sie streiten, wem das Klettergerüst gehört, und spielen dann doch zusammen Bergung. (Vorschlag)
 
 ## Intrigen
 
@@ -75,5 +76,5 @@ im_spiel: false
 
 ## Offene Fragen
 
-- **(geteilt)** Streiten Emil und Max ums Klettergerüst? Das gehört auch in Max' Dossier.
+- **(geteilt, übernommen)** Streiten Emil und Max ums Klettergerüst? Das gehört auch in Max' Dossier.
 - Merkt Verena, dass „Onkel Timo" durch Emil die Runde macht? Wenn ja, verbietet sie ihm das Wort, und dann sagt Emil es erst recht.

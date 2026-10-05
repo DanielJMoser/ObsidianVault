@@ -11,7 +11,7 @@ stand: 2026-09-30
 
 ## Was war
 
-- **Herbst 2024:** Timotheus stellt dem Verein 8.000 € in Rechnung. „Statikgutachten Gartenhütte." Die Gartenhütte war nie geplant.
+- **Herbst 2024:** Timotheus stellt dem Verein 8.000 € in Rechnung. „Statikgutachten Gartenhütte." Gebaut wurde die Gartenhütte nie.
 - **Die Zahlung:** Kassier Manni Plattner zahlt sie auf Vorschuss, weil der Vizepräsident drängt. Timotheus braucht das Geld für die Grundsteuer und einen Anwalt gegen die Bank.
 - **November 2024, Hauptversammlung:**
   - Die zwei Rechnungsprüfer finden kein Gutachten. Timotheus sagt: „In Arbeit."
@@ -28,7 +28,7 @@ stand: 2026-09-30
 | [[Ferdinand Lichtenau]] | alles. Er hat das Protokoll geschrieben. | dass er es geschönt hat | Ruhe. Er verachtet Timotheus dafür und schweigt aus Standesgründen. |
 | [[Susanne Pichler]] | ahnt es und hat es zugelassen | ihren Anteil | eine Karte, die sie ausspielen kann |
 | [[Verena Holzknecht]] | Als seine Steuerberaterin hat sie die 8.000 € gehen und im Februar 2025 zurückkommen sehen. | es | — sie ist ohnehin seine |
-| Manni Plattner | dass man ihn hineingelegt hat | — | Rehabilitierung, und die Wahrheit |
+| Manni Plattner | dass man ihn hineingelegt hat. Er hat eine Kopie der Rechnung daheim. Von der stillen Rückzahlung 2025 weiß er nichts. | — | Rehabilitierung, und die Wahrheit |
 | [[Hannah]] | was der Papa beim Abendessen sagt | nichts | — |
 
 ## Wie es herauskommen kann
@@ -37,6 +37,7 @@ stand: 2026-09-30
 - **Die Bücher:** die Rechnung von 2024 und die Storno-Überweisung von 2025. Verena hat beides.
 - **Das Protokoll:** Lichtenaus „Buchungsfehler" liegt neben dem Prüfbericht von 2024.
 - **Plattner:** wenn Lo ihn beim Abholen anspricht.
+- **Der Beweis:** Mannis Kopie der Rechnung und Verenas Beleg der Rückzahlung, zusammen.
 
 ## Was es kippt
 

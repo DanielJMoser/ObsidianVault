@@ -29,7 +29,7 @@ stand: 2026-09-30
 - **Das Büro zahlt** Thomas Eder seit zwei Monaten zu spät. Dafür hat Timotheus ihm eine Juniorpartnerschaft versprochen.
 - **Amelies Familie** in Meran zahlt nicht. Das regelt der Ehevertrag.
 - **Amelies Plan:** Kommt es zur Zwangsversteigerung, kauft sie die Villa über die Weingut-Firma ihres Bruders. Dann gehört ihr das Haus, und er nicht mehr dazu.
-- **Monika Pixner** ist 2015 mit Amelie aus dem Passeier gekommen und ist ihre Vertraute. Nici isst oft unten bei den Pixners.
+- **Monika Pixner** ist 2015 mit Amelie aus dem Passeier gekommen und ist ihre Vertraute. Nici isst oft unten bei den Pixners. Monikas Lohn zahlt seit dem Frühjahr Amelie, privat und bar.
 - **Der Plan:** Die Villa parifizieren und die Etagen einzeln verkaufen. Dafür sind die Brunners im Weg.
 - **Katharinas Hebel** (Vorschlag): Die Villa ist ein Gründerzeitbau, also gilt der Richtwertmietzins. Katharinas Miete liegt weit darüber. Eine Mietzinsüberprüfung bei der Schlichtungsstelle würde Timotheus die Überzahlung kosten und die Sache öffentlich machen.
 - **Timotheus' Hebel:** der Council-Sitz, den er ihr gegeben hat, und die Laune des Vermieters.

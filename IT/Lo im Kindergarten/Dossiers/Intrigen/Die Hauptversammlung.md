@@ -42,7 +42,7 @@ Die Stimmen, die sich drehen lassen:
 - **Susanne bleibt.** Timotheus' Stimmen brechen weg.
 - **Timotheus gewinnt.** Er übernimmt Spenden und Plätze, also Susannes Geschäftsmodell. Verena wird Vize.
 - **Beide fallen.** Kuvert und Kassa zugleich auf dem Tisch, Neuwahl. Wer dann?
-- **Die Revolte:** Die Familien draußen reden. Die drei mit dem [[Der versprochene Sitz|versprochenen Sitz]] fordern eine Satzungsänderung: Jede Familie stimmt. Der Council verliert sein Privileg.
+- **Die Revolte:** Die Familien draußen reden. Die drei mit dem [[Der versprochene Sitz|versprochenen Sitz]] fordern eine Satzungsänderung: Jede Familie stimmt. Der Council verliert sein Privileg. Den Antrag schreibt Jan-Hendrik Behrens, Politikwissenschaftler, Fachgebiet Mitbestimmung. (Vorschlag)
 
 ## Lo
 

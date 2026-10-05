@@ -65,6 +65,7 @@ lager: pichler
 - [[Timotheus von Gruber]]: der Chef, der nicht zahlt. Sie hasst ihn.
 - [[Susanne Pichler]]: Sie hört ihr gern zu und weiß nichts über sie.
 - [[Lo]]: die Einzige, die sie nach der Brunner fragen kann.
+- [[Friederike Behrens]]: kennt sie vom Sehen aus der Klinik. Friederike kennt ihren Namen nicht.
 
 ## Intrigen
 - [[Samstage]]: **weiß** nichts sicher und ahnt das Richtige. **Verbirgt** den Verdacht. **Will** die Wahrheit, oder doch nicht.
@@ -73,5 +74,5 @@ lager: pichler
 - [[Die Hauptversammlung]]: keine Stimme. Würde Thomas zu Susanne drängen, wenn sie wüsste, dass er wackelt.
 
 ## Offene Fragen
-- (geteilt) Kennt Birgit Dr. Friederike Behrens von der Klinik? Das wäre eine Brücke zu den Familien draußen.
+- (geteilt, übernommen) Kennt Birgit Dr. Friederike Behrens von der Klinik? Das wäre eine Brücke zu den Familien draußen.
 - Die Stelle in Linz: behalten? Damit hätte Birgit einen eigenen Ausweg.

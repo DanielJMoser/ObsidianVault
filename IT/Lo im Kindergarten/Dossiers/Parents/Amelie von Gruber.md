@@ -62,6 +62,7 @@ lager_wahr: pichler
 - **[[Katharina Brunner]]:** Die Mieterin im zweiten Stock. Amelie findet sie gut und darf es nicht zeigen. Dass Leni nicht mit Nici spielen darf, findet sie traurig.
 - **Monika Pixner:** Vertraute, Südtirolerin wie sie. (Vorschlag)
 - **Lo:** Sie kennt sie kaum.
+- [[Monika Pixner]]: Seit dem Frühjahr zahlt Amelie ihr den Lohn, privat und bar, weil Timotheus nicht mehr pünktlich zahlt. Matteos Kindergartenplatz hat sie besorgt und zahlt mit. (Vorschlag)
 
 ## Intrigen
 - **[[Onkel Timo]]:** Weiß es seit Jänner, verbirgt, dass sie es weiß. Will es für den richtigen Moment aufheben.

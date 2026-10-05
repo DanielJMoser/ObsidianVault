@@ -71,6 +71,7 @@ lager: pichler
 - [[Maria Kofler]]: Ihr Sündenbock. Denkt nicht mehr an sie. Das stimmt nicht ganz.
 - [[Nici]]: Die Tochter des Rivalen und Jassis beste Freundin. Lässt sie spüren, dass sie keinen guten Umgang abgibt.
 - **Behrens, Plattner, Haidacher:** Jede dieser Familien hat den nächsten freien Sitz versprochen bekommen.
+- [[Sepp Kirchmair]]: 2025 wollte sie ihn für ihr Bild gewinnen, und er hat gelacht. Er hat die Bäder der Maisonette gemacht, und die Rechnung ging an KR Walter Pichler. Ein Zeuge, dass Papa zahlt. (Vorschlag)
 
 ## Intrigen
 - [[Die Nusstorte]]: weiß alles. Verbirgt, dass die Torte ihre war. Will, dass es vergessen bleibt.

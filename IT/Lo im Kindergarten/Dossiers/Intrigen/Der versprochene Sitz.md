@@ -11,7 +11,7 @@ stand: 2026-10-05
 
 ## Was läuft
 
-- **Die Behrens:** „Ihr gehört zu uns. Der nächste freie Sitz." Susanne braucht ihr Geld und ihr Ansehen an der Uni.
+- **Die Behrens:** „Ihr gehört zu uns. Der nächste freie Sitz." Susanne braucht ihr Geld und ihr Ansehen an der Uni. Nach dem Versprechen spenden sie rund 3.000 € an die Pichler-Stiftung. (Vorschlag)
 - **Die Plattners:** „Rehabilitierung, Manni, und der nächste freie Sitz." Susanne braucht seine Wut auf Timotheus.
 - **Die Haidachers:** Sie haben für den Platz gezahlt, und den Sitz gab es obendrauf versprochen. Susanne braucht ihr Schweigen. Siehe [[Der zwölfte Platz]].
 - **Keiner der drei weiß von den anderen.** Alle drei halten zum Pichler-Lager, ohne Stimme, aber mit Hoffnung.

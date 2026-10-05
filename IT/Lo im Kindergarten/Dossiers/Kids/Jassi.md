@@ -70,6 +70,7 @@ Alles hier ist ein Vorschlag, kindgroß, und Jassi versteht es selbst nicht.
 - [[Mira]]: war beim Frühlingsfest krank. Jassi bringt das nicht mit der Torte zusammen.
 - [[Konstantin]]: redet mit großen Wörtern. Jassi fragt so lange nach, bis er sie erklären muss.
 - [[Max]]: sagt, das Klettergerüst gehöre seinem Papa. Jassi: „Das Klettergerüst gehört allen!" (Vorschlag)
+- [[Matteo]]: der Koch in ihrem Restaurant. (Vorschlag)
 
 ## Intrigen
 - [[Die Nusstorte]]: hat mitgebacken. Weiß nicht, was danach war. Hütet das Geheimnis, weil Mama es gesagt hat.

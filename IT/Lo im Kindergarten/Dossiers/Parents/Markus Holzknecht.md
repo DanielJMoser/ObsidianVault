@@ -56,6 +56,7 @@ lager: pichler
 - [[Emil]]: sein Bub. Er ist stolz, aber meistens aus der Ferne.
 - [[Timotheus von Gruber]]: „a Mandant vo da Verena". Ein bisschen zu oft da, findet er, aber das denkt er nie zu Ende.
 - [[Susanne Pichler]]: kennt er vom Sehen. Ihr Lachen ist ihm zu laut.
+- [[Sepp Kirchmair]]: dieselbe Ortsstelle der Bergrettung. (Vorschlag)
 
 ## Intrigen
 
@@ -63,6 +64,6 @@ lager: pichler
 
 ## Offene Fragen
 
-- **(geteilt)** Kennt er Sepp Kirchmair von der Bergrettung? Das wäre eine Brücke zwischen einer Familie drinnen und einer draußen.
+- **(geteilt, übernommen)** Kennt er Sepp Kirchmair von der Bergrettung? Das wäre eine Brücke zwischen einer Familie drinnen und einer draußen.
 - **(geteilt)** Wer behält den Sitz, wenn sich die Holzknechts trennen? Das ist eine Frage an die Satzung: ein Sitz pro Familie, aber welche Familie ist es dann?
 - Die schiefgegangene Bergung: Wann genau war sie, wer war der Tourengeher? Das bleibt verborgen und wird ernst erzählt.
