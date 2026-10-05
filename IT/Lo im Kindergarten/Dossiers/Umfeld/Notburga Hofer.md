@@ -64,6 +64,6 @@ lager: keins
 ## Offene Fragen
 - Ist sie wirklich unbestechlich? Noch nicht entschieden.
 - Wie oft kommt sie im Lauf, und was müsste sie sehen, um Lo zu „ertappen"? Das entscheidet fr-012.
-- **(geteilt)** Susanne zog im Sommer 2004 ohne Kündigung aus und ließ Notburga drei Monate auf der ganzen Miete sitzen. Gehört in [[Das WG-Jahr]] und in Susannes Dossier.
-- **(geteilt)** Notburga hat wie Susanne an der Uni Innsbruck studiert, Erziehungswissenschaft, und ist Mag.ᵃ phil. wie sie. Den Titel benutzt sie nie. Gehört in [[Das WG-Jahr]].
-- **(geteilt)** Notburga kannte Maria Kofler von früheren Inspektionen und hielt sie für eine gute Pädagogin. Gehört in Marias Dossier.
+- **(geteilt, übernommen)** Susanne zog im Sommer 2004 ohne Kündigung aus und ließ Notburga drei Monate auf der ganzen Miete sitzen. Gehört in [[Das WG-Jahr]] und in Susannes Dossier.
+- **(geteilt, übernommen)** Notburga hat wie Susanne an der Uni Innsbruck studiert, Erziehungswissenschaft, und ist Mag.ᵃ phil. wie sie. Den Titel benutzt sie nie. Gehört in [[Das WG-Jahr]].
+- **(geteilt, übernommen)** Notburga kannte Maria Kofler von früheren Inspektionen und hielt sie für eine gute Pädagogin. Gehört in Marias Dossier.

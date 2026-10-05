@@ -72,6 +72,8 @@ lager: pichler
 - [[Nici]]: Die Tochter des Rivalen und Jassis beste Freundin. Lässt sie spüren, dass sie keinen guten Umgang abgibt.
 - **Behrens, Plattner, Haidacher:** Jede dieser Familien hat den nächsten freien Sitz versprochen bekommen.
 - [[Sepp Kirchmair]]: 2025 wollte sie ihn für ihr Bild gewinnen, und er hat gelacht. Er hat die Bäder der Maisonette gemacht, und die Rechnung ging an KR Walter Pichler. Ein Zeuge, dass Papa zahlt. (Vorschlag)
+- [[Notburga Hofer]]: die WG von 2003/04. Im Sommer 2004 ist Susanne ohne Kündigung ausgezogen und hat Notburga drei Monate auf der ganzen Miete sitzen lassen. Siehe [[Das WG-Jahr]]. (Vorschlag)
+- [[Maria Kofler]]: Maria hat sie 2025 einmal unter vier Augen auf einen merkwürdig frei gewordenen Platz angesprochen. Ab da war Maria erledigt. Die Nusstorte war nur die Gelegenheit. (Vorschlag)
 
 ## Intrigen
 - [[Die Nusstorte]]: weiß alles. Verbirgt, dass die Torte ihre war. Will, dass es vergessen bleibt.

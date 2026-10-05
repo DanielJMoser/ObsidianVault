@@ -11,6 +11,7 @@ stand: 2026-09-30
 
 ## Was war
 
+- **Vorgeschichte:** Es ist nicht der erste gekaufte Platz. 2025 hat Maria Kofler Susanne unter vier Augen auf einen merkwürdig frei gewordenen Platz angesprochen. Siehe [[Die Nusstorte]]. (Vorschlag)
 - **Die Gruppe:** Sie hat elf Plätze plus einen Reserveplatz „für Härtefälle". Laut Satzung vergibt der Vorstand ihn.
 - **Die Haidachers:** Hotel im Zillertal, seit dem Frühjahr 2026 in einer frisch renovierten Villa im Saggen. Max ist 4.
 - **Die andere Bewerbung:** eine alleinerziehende Mutter aus Pradl, ein echter Härtefall. Abgelehnt. (Vorschlag: ohne eigene Notiz)

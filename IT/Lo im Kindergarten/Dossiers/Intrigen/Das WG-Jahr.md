@@ -11,10 +11,10 @@ stand: 2026-10-05
 
 ## Was war
 
-- **2003/04, eine WG in Wilten.** Susanne Pichler und Notburga Hofer, beide Studentinnen, beide um die zwanzig.
+- **2003/04, eine WG in Wilten.** Susanne Pichler und Notburga Hofer, beide Studentinnen an der Uni Innsbruck, beide um die zwanzig. Beide werden Mag.ᵃ phil., Notburga in Erziehungswissenschaft. Sie benutzt den Titel nie.
 - **Susannes Miete** zahlt Papa, KR Walter Pichler.
 - **Notburga** zahlt ihre selbst, mit Nachtschichten am Würstelstand. (Vorschlag, siehe ihr Dossier)
-- **Am Ende des Jahres** gehen sie im Streit auseinander.
+- **Im Sommer 2004** zieht Susanne ohne Kündigung aus. Notburga sitzt drei Monate auf der ganzen Miete. (Vorschlag)
 - **Seitdem** erzählt Susanne das Jahr als ihre Zeit „eher schlecht als recht": die junge Frau, die sich hochgearbeitet hat. Es steht so in ihrem Brief an Lo, und sie sagt es bei jeder Gelegenheit.
 - **Notburga ist heute Inspektorin vom Land Tirol,** die einzige Instanz über dem Council. Beide wissen, was die andere weiß.
 
@@ -41,4 +41,4 @@ stand: 2026-10-05
 
 ## Offene Fragen
 
-- Worüber haben sie sich damals zerstritten? Offen. Ihr Dossier kann es vorschlagen.
+- Worüber haben sie sich zerstritten? Entschieden: über die Miete, die Susanne ihr hinterlassen hat. Siehe [[Notburga Hofer]].

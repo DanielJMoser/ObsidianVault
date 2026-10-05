@@ -43,7 +43,7 @@ Der Kanon passt dazu. Mira isst ihre Jause allein beim Legoturm und nimmt nichts
 
 - **Mira:** Bei hohem Vertrauen sagt sie: „Die Jassi-Mama hat mir das Stück gegeben. Da waren Nüsse drin." (Vorschlag: ein neuer Fact)
 - **Jassi:** beim Restaurant oder beim Thema Essen: „Bei mir gibt's keine Nüsse mehr. Hat die Mama gesagt." Bei hohem Vertrauen bricht sie das Geheimnis: „Im Mai hab ich mit der Mama eine Nusstorte gebacken. Aber das darf ich nicht sagen." Zusammen mit Miras Satz ist es der Beweis.
-- **Maria:** wenn Lo sie in Hall aufsucht.
+- **Maria:** wenn Lo sie in Hall aufsucht. Ihre Nummer steht noch im Notfallordner im Büro. Dass der Vorfall dem Land nie gemeldet wurde, weiß sie nicht. Erfährt sie es von Lo, führt ihr Weg zu [[Notburga Hofer]], die sie von Inspektionen kennt und für eine gute Pädagogin hält.
 - **Die Allergieliste:** Marias Foto vom Original, in ihrer Schrift und mit Datum: Mira, Nüsse. Susannes neue Liste hängt in der Küche.
 - **Elisabeth Lichtenau:** die Zeugin im Gruber-Lager. Warum hat das Gruber-Lager es nie benutzt? Barbara hat ihr eine Dankeskarte geschrieben, und darüber kommt Lo an Elisabeth heran.
 - **Frau Hofer:** Sie weiß nichts von dem Vorfall. Ein nicht gemeldeter Notarzteinsatz ist ihr Terrain.

@@ -63,8 +63,8 @@ lager: keins
 - [[Der zwölfte Platz]]: **kennt** das Muster von früher. Von den Haidachers **weiß** sie nichts. Es würde sie nicht wundern.
 
 ## Offene Fragen
-- (geteilt) Steht Marias Nummer noch im Notfallordner im Büro? Dann findet Lo sie ohne Hilfe. (Vorschlag)
-- (geteilt) Weiß Maria, dass der Vorfall dem Land nie gemeldet wurde? Hier: nein. Sie dachte, der Council meldet ihn. Erfährt sie es von Lo, führt ihr Weg zu [[Notburga Hofer]].
-- (geteilt) Die früheren Platzkäufe: Maria hat Susanne 2025 einmal darauf angesprochen. Gehört auch in [[Der zwölfte Platz]] und in Susannes Dossier.
-- (geteilt) Kennt Maria Frau Hofer von Inspektionen? Das braucht auch Hofers Dossier.
+- (geteilt, übernommen) Steht Marias Nummer noch im Notfallordner im Büro? Dann findet Lo sie ohne Hilfe. (Vorschlag)
+- (geteilt, übernommen) Weiß Maria, dass der Vorfall dem Land nie gemeldet wurde? Hier: nein. Sie dachte, der Council meldet ihn. Erfährt sie es von Lo, führt ihr Weg zu [[Notburga Hofer]].
+- (geteilt, übernommen) Die früheren Platzkäufe: Maria hat Susanne 2025 einmal darauf angesprochen. Gehört auch in [[Der zwölfte Platz]] und in Susannes Dossier.
+- (geteilt, übernommen) Kennt Maria Frau Hofer von Inspektionen? Das braucht auch Hofers Dossier.
 - Hat Maria noch Kontakt zu einer der Mütter? Hier: nein.
