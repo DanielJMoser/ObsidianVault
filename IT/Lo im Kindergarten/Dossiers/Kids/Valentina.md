@@ -35,10 +35,10 @@ im_spiel: false
 - **Gstudierte.** „Mei Papa sagt, Gstudierte kennen sich bei nix aus." Beim Talk über Arbeit oder Eltern.
 - **Der Baron zahlt nicht.** „Mei Papa hat beim Herrn Baron die Heizung gmacht. Und jetzt wart ma." Bei höherem Vertrauen: „Mei Papa sagt, der Baron zahlt nia." (Vorschlag) Siehe [[Die Villa]].
 - **Die Jassi-Mama.** „Die Jassi-Mama hat mein Papa einmal in den Council haben wollen. Der hat nur glacht." (Vorschlag)
-- **Jonas gesteht für sie.** „Ich war's! Also, die Valentina. Aber ich hab zugeschaut." Das sagt Jonas, nicht sie. Siehe [[Jonas]].
+- **Jonas petzt.** „Lo! Das Vogelhaus hat die Valentina kaputt gemacht." Das sagt Jonas, nicht sie. Siehe [[Jonas]].
 
 ## Verborgen
-- Das kaputte Vogelhaus im Garten war sie. Sie ist draufgeklettert. Jonas hat es zugegeben, bevor wer gefragt hat. Sie hat nichts gesagt und ihm dafür ihre beste Schraube geschenkt. (Vorschlag)
+- Das kaputte Vogelhaus im Garten war sie. Sie ist draufgeklettert. Jonas hat es Lo erzählt. Sie war einen Tag lang beleidigt, länger geht es bei Jonas nicht. (Vorschlag)
 - Klettern hat sie von den Brüdern. Sie will nicht die Kleine sein.
 - Dass der Papa auf Geld wartet, hat sie am Küchentisch gehört. Was eine Mahnung ist, weiß sie nicht. Sie weiß nur, dass die Mama dabei laut wird.
 
@@ -50,9 +50,10 @@ im_spiel: false
 ## Beziehungen
 - [[Sepp Kirchmair]]: Papa. Ihr Held, ihr Vorbild, ihre Sprache.
 - Martina Kirchmair: Mama. Die, die Nein sagt.
-- [[Jonas]]: gesteht für sie, also mag sie ihn.
+- [[Jonas]]: petzt. Böse sein kann sie ihm trotzdem nicht lange.
 - [[Emil]]: bewundert sie, weil sie höher klettert, als er sich traut. Sie lässt ihn mitklettern, bis zur Hälfte.
 - [[Max]]: kommt mitten im Herbst und sagt, das Klettergerüst gehört seinem Papa. Valentina: „Na und? I kimm höher auffi." (Vorschlag)
+- [[Emil]]: schaut ihr beim Klettern zu, als wäre sie ein Bergretter. Ob sie es merkt, ist offen.
 
 ## Intrigen
 - [[Die Villa]]: **weiß**, dass der Baron dem Papa Geld schuldet. **Verbirgt** nichts. **Will** nichts davon. Sie sagt es, weil der Papa es sagt.

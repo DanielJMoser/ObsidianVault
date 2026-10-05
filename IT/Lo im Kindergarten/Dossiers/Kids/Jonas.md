@@ -4,7 +4,7 @@ familie: ["[[Thomas Eder]]", "[[Birgit Eder]]"]
 im_spiel: true
 ---
 # Jonas
-> Erzählt laut von Traktoren und gesteht alles, bevor wer fragt, manchmal auch das, was andere angestellt haben.
+> Erzählt laut von Traktoren und kann Lo nichts verschweigen. Was er angestellt hat, gibt er zu, und was andere angestellt haben, petzt er. Ohne Bosheit.
 
 ## Eckdaten
 - **Alter:** 4, geboren am 3. Oktober 2021. Wird an einem Samstag im Lauf fünf. Kein Vorschuljahr.
@@ -48,10 +48,11 @@ Alles hier ist ein Vorschlag, kindgroß. Jonas versteht nicht, was er erzählt.
 - **„Die Mama hat geschimpft, weil der Papa wieder kein Geld kriegt hat vom Chef."** → [[Die Villa]]
 - **„Vielleicht wohn ich bald beim Opa. Hat die Mama am Telefon gesagt."**
 - **„Zum Geburtstag fahr ich zum Opa. Mit der Mama. Der Papa muss arbeiten."** An Tag 15, Freitag.
-- **Gesteht für andere:** „Ich war's! Also, die Valentina. Aber ich hab zugeschaut."
+- **Petzt, ohne Bosheit:** „Lo! Das Vogelhaus hat die Valentina kaputt gemacht. Die ist draufgeklettert."
 
 ## Verborgen
-- Er gesteht als Erster, weil der Papa ihn nie anlügt. Er glaubt, so machen es alle.
+- Er kann Lo nichts verschweigen. Das ist einfach so.
+- Er mag Mira. Ehrlich ist er zu allen, nur das sagt er ihr nicht. Er versteht selbst nicht, warum.
 - Seit die Mama am Wochenende weg ist, schläft er mit Licht. Darum rückt er bei Monstern zur Tür.
 - Für Mira hat er sich drei Dinosaurier gemerkt. Dinos sind ihm egal, Mira nicht.
 - Er weiß nicht, warum Mama und Papa am Wochenende nie am selben Ort sind. Er hat aufgehört zu fragen.
@@ -70,7 +71,7 @@ Alles hier ist ein Vorschlag, kindgroß. Jonas versteht nicht, was er erzählt.
 - [[Birgit Eder]]: Mama. Am Wochenende am Hof.
 - Opa Franz: der Hof, der Traktor.
 - [[Katharina Brunner]]: „die Leni-Mama". Macht Kakao.
-- [[Lo]]: Ihr gesteht er alles, ob sie fragt oder nicht.
+- [[Lo]]: Ihr erzählt er alles, ob sie fragt oder nicht: was er angestellt hat, und was die anderen angestellt haben.
 
 ## Intrigen
 - [[Samstage]]: **weiß**, dass er samstags bei Leni ist und der Papa Kaffee trinkt. **Verbirgt** nichts. **Will** Knödel.

@@ -43,7 +43,7 @@ stand: 2026-09-30
 ## Wie es herauskommt
 
 - **Konstantin:** „Am Donnerstag kommen immer Mandanten zum Papa. Abends. Mit Whisky." Bei hohem Vertrauen: „Das ist eine Fronde. Wie 1648." (Vorschlag)
-- **Jonas:** „Der Papa macht am Donnerstag immer Überstunden. Beim Herrn Lichtenau." Jonas gesteht ja alles, auch für andere. (Vorschlag)
+- **Jonas:** „Der Papa macht am Donnerstag immer Überstunden. Beim Herrn Lichtenau." Jonas kann Lo nichts verschweigen. (Vorschlag)
 - **Birgit Eder** hält die Überstunden für Katharina. Sie liegt falsch, aber nicht ganz. Siehe [[Samstage]].
 
 ## Was es kippt

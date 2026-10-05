@@ -57,6 +57,7 @@ im_spiel: false
 - [[Konstantin]]: erklärt ihm, dass ein Hubschrauber ein „Drehflügler" ist. Emil nickt und glaubt ihm kein Wort.
 - [[Max]]: sagt, das Klettergerüst gehört ihm, weil es sein Papa gekauft hat. Emil findet, es gehört der Bergrettung. (Vorschlag)
 - [[Max]]: Sie streiten, wem das Klettergerüst gehört, und spielen dann doch zusammen Bergung. (Vorschlag)
+- [[Valentina]]: Er ist hin und weg, wie sie klettert. Er selbst kommt nur bis zur zweiten Sprosse, sie bis ganz oben. Verliebt, auf seine Art.
 
 ## Intrigen
 
