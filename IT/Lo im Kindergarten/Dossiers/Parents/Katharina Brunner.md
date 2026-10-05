@@ -25,9 +25,7 @@ lager_wahr: pichler
 ## Kanon
 
 - **Parent-Zeile `frau_brunner`:** Kind `leni`, Name „Frau Brunner", Sway 1, kein Patron. Lore und Daten stimmen überein.
-- **Aufgaben aus dem Council, die Leni nennen:**
-  - `leni_eingewoehnung` (Tage 2–4): „…eine Eingewöhnungsstunde für die Leni: Sie soll bis zum Stichtag einmal ganz für sich allein drankommen."
-  - `leni_geburtstag` (Tage 23–26): „…dass bis zum Stichtag ein Kuchen besorgt und ausgeteilt wird."
+- **Aufgaben, die Leni nennen:** `leni_eingewoehnung` (Tage 2–4) und `leni_geburtstag` (Tage 23–26). Ihre Zeilen werden entfernt.
 - **Name in Lore und Spiel:** Den Vornamen gibt es nur in der Lore. Im Spiel bleibt sie „Frau Brunner".
 
 ## Oberfläche

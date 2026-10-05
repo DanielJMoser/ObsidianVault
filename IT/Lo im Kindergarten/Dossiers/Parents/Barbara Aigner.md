@@ -22,7 +22,7 @@ lager: pichler
 
 ## Kanon
 - **Parent-Zeile `frau_aigner`:** Kind `mira`, Name „Frau Aigner", Sway 1 (Daten und Lore gleich), keine Patronin.
-- **Aufgabe `mira_vorlesestunde`** (Tage 17–19, Di 6.10.–Do 8.10.): „Der Council of Parents® ersucht um eine Vorlesestunde, und die Mira möchte vorher persönlich gefragt werden." Den Antrag hat Barbara gestellt. (Vorschlag)
+- **Aufgabe `mira_vorlesestunde`** (Tage 17–19, Di 6.10.–Do 8.10.). Ihre Zeile wird entfernt.
 - Einen Vornamen hat sie nur in der Lore. Im Spiel bleibt sie „Frau Aigner".
 
 ## Oberfläche
@@ -71,5 +71,4 @@ lager: pichler
 - (geteilt, übernommen) Miras Pen im Notfallkasten hat Barbara im Jänner gebracht. Passt das zu [[Die Nusstorte]]?
 - (geteilt, übernommen) Barbara hat Elisabeth Lichtenau eine Dankeskarte geschrieben. Ist das für Lo ein Weg zu Elisabeth?
 - (geteilt, übernommen) Florian Pichler holt seit Mai Schlafmittel in ihrer Apotheke. Sie weiß nicht, warum er nicht schläft, und würde es nie sagen. Der Vater der Torte kauft bei der Mutter des Kindes.
-- Hat Barbara die Vorlesestunde beantragt? Und hat sie selbst geschrieben, dass Mira vorher gefragt werden will?
 - Datenänderung: Miras Satz „die Jassi-Mama" als Fact, siehe [[Mira]].

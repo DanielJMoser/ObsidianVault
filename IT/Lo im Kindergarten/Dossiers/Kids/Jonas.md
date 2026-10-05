@@ -65,7 +65,7 @@ Alles hier ist ein Vorschlag, kindgroß. Jonas versteht nicht, was er erzählt.
 ## Beziehungen
 - [[Leni]]: Freundin. Die Samstage, Knödel, Teeparty mit Frau Hoppel, bei der er mitspielen darf, wenn er leise ist.
 - [[Jassi]]: Freundin. Er isst in ihrem Restaurant alles, am liebsten Nudeln.
-- [[Mira]]: Er mag sie, sie ihn nicht. Er gibt nicht auf. Im September hat er ihr ungefragt beim Legoturm geholfen. Seitdem ist es verscherzt, ganz nach Miras Kanon.
+- [[Mira]]: Er mag sie, sie ihn nicht. Er gibt nicht auf.
 - [[Thomas Eder]]: Papa. Sagt ihm immer die Wahrheit.
 - [[Birgit Eder]]: Mama. Am Wochenende am Hof.
 - Opa Franz: der Hof, der Traktor.

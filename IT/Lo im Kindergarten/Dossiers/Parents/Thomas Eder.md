@@ -21,15 +21,14 @@ lager_wahr: gruber
 
 ## Kanon
 - **Parent-Zeile `herr_eder`:** Kind `jonas`, Name „Herr Eder", Sway 1. Den Vornamen gibt es nur in der Lore.
-- **Aufgabe `jonas_basteltisch`** (angekündigt an Tag 9, fällig an Tag 11; `action:crafts`, `with_kid:jonas`): „Herr Eder wünscht sich, dass beim Basteltisch wieder einmal etwas entsteht — und dass sich jemand eigens Zeit für den Jonas nimmt."
-- **Wenn die Aufgabe verpasst wird:** „Beim {0} ist die Bastelstunde ausgefallen, und geredet hat auch niemand mit ihm."
+- **Aufgabe `jonas_basteltisch`** (Tage 9–11; `action:crafts`, `with_kid:jonas`). Ihre Zeile wird entfernt.
 - **Jonas, Talk Wochenende:** „Am Samstag war ich bei der Leni." Hingebracht hat ihn Thomas.
 
 ## Oberfläche
 - Funktionsjacke, Baustellenschuhe, fester Händedruck. Holt Jonas oft als Letzter, staubig.
 - Sitzt im Council neben Susanne und gilt als ihr Mann.
 - Fragt Lo nach Jonas' Tag, ehrlich interessiert und immer in Eile.
-- Die Aufgabe an Tag 9 ist sein schlechtes Gewissen, schriftlich: Jemand soll sich Zeit für Jonas nehmen, weil er selbst keine hat.
+- Er hat ein schlechtes Gewissen, weil er zu wenig Zeit für Jonas hat.
 
 ## Entdeckbar
 - **Er ist in der Runde.** Jonas: „Der Papa macht am Donnerstag immer Überstunden. Beim Herrn Lichtenau." (Vorschlag)

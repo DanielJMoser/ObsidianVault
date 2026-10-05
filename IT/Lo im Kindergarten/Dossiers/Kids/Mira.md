@@ -38,7 +38,7 @@ im_spiel: true
 - **likedKids:** leni, nici. Jonas mag sie, sie ihn nicht.
 - **groupActivityDislikes** `crafts`: „Da greift immer wer meine Sachen an."
 - **`loo.storm_in.mira`:** „Ah." Sie macht die Tür ganz langsam wieder zu.
-- **Aufgabe `mira_vorlesestunde`** (Tage 17–19): „die Mira möchte vorher persönlich gefragt werden."
+- **Aufgabe `mira_vorlesestunde`** (Tage 17–19). Ihre Zeile wird entfernt.
 - **fr-055:** Puppenspiel-Paare Leni und Mira, Nici und Mira.
 
 ## Oberfläche
@@ -53,20 +53,17 @@ im_spiel: true
 - **Der Turm** (Kanon): über Leni.
 - **Das Stück:** Talk Essen, sonst ein Nein. Bei hohem Vertrauen: „Die Jassi-Mama hat mir das Stück gegeben. ‚Für dich, Mausi.' Da waren Nüsse drin." Siehe [[Die Nusstorte]]. (Vorschlag, als neuer Fact)
 - **Die Mama war nicht da:** „Die Mama war in der Apotheke, wie ich krank war." (Vorschlag)
-- **Gefragt werden:** Fragt Lo sie vor der Vorlesestunde persönlich, sagt sie: „Du hast gefragt. Die anderen fragen nie." (Vorschlag)
 - **Fremdes Essen:** Bietet Lo ihr etwas an, fragt sie zuerst: „Wer hat das gemacht?" (Vorschlag)
 
 ## Verborgen
 - Sie glaubt, sie war selber schuld. Sie hat das Stück ja genommen. Darum nimmt sie nichts mehr.
 - Die Maria hat ihr die Hand gehalten. Dann war die Maria weg. Mira glaubt, wegen ihr.
-- Bei einem Martinshorn hält sie sich die Ohren zu, genau wie beim Wort Monster. (Vorschlag)
 - Der Ankylosaurus ist ihr Liebling, weil er einen Panzer hat. Den kann keiner angreifen.
 - Der Turm soll bis zur Decke, damit keiner mehr drüber kann.
-- Jonas hat ihr im September beim Turm geholfen, ohne zu fragen. Das war's. (Vorschlag)
 
 ## Motive
-- **Will:** den Turm bis zur Decke. Gefragt werden. Ruhe.
-- **Fürchtet:** Essen, das sie nicht kennt. Hände an ihren Sachen. Das Martinshorn.
+- **Will:** den Turm bis zur Decke. Ruhe.
+- **Fürchtet:** Essen, das sie nicht kennt. Hände an ihren Sachen.
 - **Würde nie:** etwas aus einer fremden Jause essen. Lügen.
 
 ## Beziehungen
@@ -74,7 +71,7 @@ im_spiel: true
 - Georg Aigner: Papa, Schichtdienst. Baut am Wochenende mit am Turm, aber nur, wenn er fragt.
 - [[Leni]]: Freundin. Kuschelecke, Bücherregal, Puppenspiel.
 - [[Nici]]: Freundin. Sandkiste, Puppenspiel. Bringt ihr manchmal einen Stein mit Namen.
-- [[Jonas]]: mag sie. Sie ihn nicht, weil er beim Turm einfach mitgebaut hat.
+- [[Jonas]]: mag sie. Sie ihn nicht.
 - [[Jassi]]: keine Feindin. Aber ins Restaurant geht Mira nicht, und Jassis Mama schaut sie nicht an.
 - [[Susanne Pichler]]: „die Jassi-Mama". Hat ihr das Stück gegeben.
 - [[Maria Kofler]]: die frühere Pädagogin, die ihr die Hand gehalten hat.
@@ -88,4 +85,3 @@ im_spiel: true
 ## Offene Fragen
 - Datenänderung: der Satz über die „Jassi-Mama" als Fact, revealed über `essen` bei hohem Vertrauen.
 - Bekommt Mira einen Fact für den eigenen Pen im Rucksack?
-- (geteilt, übernommen) Ist Jonas' ungefragte Hilfe am Turm der Grund, warum sie ihn nicht mag? Das berührt auch das Jonas-Dossier.
