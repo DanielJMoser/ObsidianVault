@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a63f5ecbd6b4689a",
+        "id": "163e84c1b1ce68e2",
         "type": "tabs",
         "children": [
           {
-            "id": "41bf6f8c38b09aee",
+            "id": "108234d3e8f14da2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Lo im Kindergarten/Dossiers/Parents/Barbara Aigner.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Barbara Aigner"
+              "title": "New tab"
             }
           }
         ]
@@ -84,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "96c396c539319d40",
@@ -193,10 +189,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "41bf6f8c38b09aee",
+  "active": "06f21473ba215e94",
   "lastOpenFiles": [
-    "IT/Lo im Kindergarten/Dossiers/Parents/Florian Pichler.md",
     "IT/Lo im Kindergarten/Dossiers/Parents/Barbara Aigner.md",
+    "IT/Lo im Kindergarten/Dossiers/Parents/Florian Pichler.md",
     "IT/Lo im Kindergarten/Dossiers/Parents/Ferdinand Lichtenau.md",
     "IT/Lo im Kindergarten/Dossiers/Beziehungsnetz.md",
     "IT/Lo im Kindergarten/Dossiers/Zeitleiste.md",
