@@ -14,6 +14,10 @@ stand: 2026-09-30
 - **Ordentliche Mitglieder:** die sieben Council-Familien, mit Stimmrecht. Eine Familie, eine Stimme.
 - **Außerordentliche Mitglieder:** die fünf Familien draußen. Sie zahlen Beitrag, dürfen kommen und reden, aber nicht stimmen.
 - **Abwahl des Vorstands:** mit einfacher Mehrheit, 4 von 7.
+- **Wenn sich eine Familie trennt:** Die Satzung sagt dazu nichts. Im Council gilt:
+  1. Den Sitz behält, wer sich klar mehr um das Kind kümmert und es nach der Trennung hauptsächlich betreuen wird.
+  2. Ist das nicht klar, behält ihn der einflussreichere Elternteil.
+  3. Bei gleichem Einfluss behält ihn der dominantere.
 - **Der Antrag** muss zwei Wochen vorher eingebracht werden.
 - **Geheime Wahl**, wenn ein Mitglied es verlangt. Timotheus wird es verlangen, denn geheim können seine verdeckten Stimmen gegen Susanne stimmen, ohne sich zu zeigen. Nur prüfen kann er sie dann auch nicht.
 

@@ -65,5 +65,5 @@ lager: pichler
 ## Offene Fragen
 
 - **(geteilt, übernommen)** Kennt er Sepp Kirchmair von der Bergrettung? Das wäre eine Brücke zwischen einer Familie drinnen und einer draußen.
-- **(geteilt)** Wer behält den Sitz, wenn sich die Holzknechts trennen? Das ist eine Frage an die Satzung: ein Sitz pro Familie, aber welche Familie ist es dann?
+- **(geteilt, entschieden)** Wer behält den Sitz, wenn sich die Holzknechts trennen? Verena. Sie kümmert sich mehr um Felix, Markus ist am Berg. Die Regel steht in [[Die Hauptversammlung]].
 - Die schiefgegangene Bergung: Wann genau war sie, wer war der Tourengeher? Das bleibt verborgen und wird ernst erzählt.

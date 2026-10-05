@@ -49,9 +49,9 @@ stand: 2026-10-05
 
 - **Katharina dreht Thomas:** Susanne gewinnt wahr 4:3. Und Thomas weiß, dass Verena in der Runde sitzt. Mit ihm erfährt Susanne, dass ihre Kassierin sie verrät.
 - **Timotheus erfährt es:** Er hat einen Hebel gegen beide, Thomas über Birgit, Katharina über den Skandal. Oder er feuert Thomas, und dann kippt Thomas ohnehin.
-- **Birgit erfährt es:** Die Eders trennen sich. Wer behält den Sitz?
+- **Birgit erfährt es:** Die Eders trennen sich. Den Sitz behält, wer Jonas hauptsächlich betreut. Bleibt Jonas in Innsbruck, ist es Thomas. Nimmt Birgit ihn mit nach Linz (die Stelle, auf die sie sich beworben hat), verlassen die Eders den Kindergarten, und ein Sitz wird frei. Siehe [[Der versprochene Sitz]].
 
 ## Offene Fragen
 
 - Wird es eine Affäre? Vorschlag: nach dem 3. Oktober.
-- Wer behält den Sitz einer Familie, die sich trennt? Dieselbe Frage stellt sich bei den Holzknechts. Das ist eine Frage an die Satzung.
+- Wer behält den Sitz einer Familie, die sich trennt? Entschieden, siehe [[Die Hauptversammlung]].
