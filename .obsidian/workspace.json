@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "schlafmittel",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -196,6 +196,7 @@
   "active": "41bf6f8c38b09aee",
   "lastOpenFiles": [
     "IT/Lo im Kindergarten/Dossiers/Parents/Florian Pichler.md",
+    "IT/Lo im Kindergarten/Dossiers/Parents/Barbara Aigner.md",
     "IT/Lo im Kindergarten/Dossiers/Parents/Ferdinand Lichtenau.md",
     "IT/Lo im Kindergarten/Dossiers/Beziehungsnetz.md",
     "IT/Lo im Kindergarten/Dossiers/Zeitleiste.md",
@@ -228,7 +229,6 @@
     "IT/Lo im Kindergarten/Dossiers/Kids/Konstantin.md",
     "IT/Lo im Kindergarten/Dossiers/Parents/Sepp Kirchmair.md",
     "IT/Lo im Kindergarten/Dossiers/Parents/Monika Pixner.md",
-    "IT/Lo im Kindergarten/Dossiers/Kids/Ida.md",
     "IT/Lo im Kindergarten/Dossiers/Parents/Friederike Behrens.md.tmp.8642.def9d6081662",
     "IT/Lo im Kindergarten/Dossiers/Kids/Max.md.tmp.8642.ee1583169e7e",
     "Assets/Excalidraw/Scripts/Downloaded/Concatenate lines.svg",
