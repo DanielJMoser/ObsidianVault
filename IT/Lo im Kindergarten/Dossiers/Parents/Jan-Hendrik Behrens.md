@@ -14,7 +14,7 @@ lager: pichler
 
 - **Alter:** 47, Jahrgang 1979.
 - **Beruf:** Prof. Dr., Politikwissenschaft an der Uni Innsbruck, seit 2022. Forscht über Partizipation in lokalen Gremien.
-- **Wohnen:** mit Friederike und Ida im Saggen.
+- **Wohnen:** mit Friederike, Ida und dem Kleinen (2, Krippe) im Saggen.
 - **Herkunft:** Hamburg.
 - **Allergien:** Heuschnupfen.
 - **Stimme:** Hochdeutsch, ausführlich, freundlich belehrend. Sagt „Grüß Gott" so, als würde er es zitieren.
@@ -63,5 +63,5 @@ lager: pichler
 
 ## Offene Fragen
 
-- **(geteilt)** Jan-Hendrik als Verfasser der Satzungsänderung, wenn die Familien draußen revoltieren. Gehört in [[Die Hauptversammlung]]. (Vorschlag)
+- **(geteilt, übernommen)** Jan-Hendrik als Verfasser der Satzungsänderung, wenn die Familien draußen revoltieren. Gehört in [[Die Hauptversammlung]]. (Vorschlag)
 - Die Notizen über den Council: Sind sie ein Beweisstück, das Lo finden kann, oder bleiben sie verborgen?

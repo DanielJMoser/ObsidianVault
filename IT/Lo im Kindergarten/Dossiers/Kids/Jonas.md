@@ -32,7 +32,7 @@ im_spiel: true
 - **Sitz:** `tisch_02`.
 - **likedPlaces:** maltisch, basteltisch, kaufladen, rutsche.
 - **likedKids:** leni, mira, jassi. Mira mag ihn nicht zurück.
-- **Mag nicht** `read_aloud`: „Vorlesen? Da muss man ja so lang stillsitzen!"
+- **Mag nicht** `read_aloud`: „Vorlesen? Da muss man ja so lang stillsitzen!" Wird ersetzt: Statt der Absage nennt das Spiel, wer mitgemacht hat (#118).
 - **`loo.storm_in.jonas`** (Platzhalter): „Lo! Ich hab nix angestellt! Also fast nix!"
 - **Aufgabe `jonas_basteltisch`**, Tage 9–11.
 

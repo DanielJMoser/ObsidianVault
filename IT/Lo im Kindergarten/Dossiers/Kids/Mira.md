@@ -36,9 +36,9 @@ im_spiel: true
 - **Sitz:** `tisch_01` zur Jause und zum Mittagessen.
 - **likedPlaces:** lego, buecherregal, sandkiste, klettergeruest, puppenecke.
 - **likedKids:** leni, nici. Jonas mag sie, sie ihn nicht.
-- **groupActivityDislikes** `crafts`: „Da greift immer wer meine Sachen an."
+- **groupActivityDislikes** `crafts`: „Da greift immer wer meine Sachen an." Wird ersetzt: Statt der Absage nennt das Spiel, wer mitgemacht hat (#118).
 - **`loo.storm_in.mira`:** „Ah." Sie macht die Tür ganz langsam wieder zu.
-- **Aufgabe `mira_vorlesestunde`** (Tage 17–19). Ihre Zeile wird entfernt.
+- **Aufgabe `mira_vorlesestunde`** (Tage 17–19): „Der Council of Parents® ersucht um eine Vorlesestunde, und die Mira möchte vorher persönlich gefragt werden." Verpasst: „Die {0} hat auf ihre Vorlesestunde umsonst gewartet."
 - **fr-055:** Puppenspiel-Paare Leni und Mira, Nici und Mira.
 
 ## Oberfläche

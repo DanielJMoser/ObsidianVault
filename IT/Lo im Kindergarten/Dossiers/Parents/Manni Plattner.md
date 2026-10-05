@@ -15,7 +15,7 @@ lager: pichler
 - **Beruf:** Baufinanzierung bei einer Bank in der Innenstadt.
 - **Wohnen:** Genossenschaftswohnung in Pradl. (Vorschlag)
 - **Herkunft:** Tirol.
-- **Familie:** verheiratet mit Sandra, Volksschullehrerin, ohne eigene Notiz. Ein Kind, Hannah.
+- **Familie:** verheiratet mit Sandra, Volksschullehrerin, ohne eigene Notiz. Zwei Kinder: Hannah, und eine kleine Schwester (2) in der Krippe. Sie kommt im Herbst 2027 in den Kindergarten, wenn Hannah in die Schule geht.
 - **Stimme:** Beim Kunden Bank-Hochdeutsch. Daheim Tirolerisch, und laut, wenn es um den Council geht.
   - „Die ham mi beschissen. Und i hab a no unterschrieben."
 
@@ -60,6 +60,6 @@ lager: pichler
 - [[Die Hauptversammlung]]: keine Stimme. Würde reden, wenn man ihn ließe.
 
 ## Offene Fragen
-- (geteilt) Hat Manni eine Kopie von Timotheus' Rechnung daheim? Dann hat er die eine Hälfte des Beweises, Verena mit dem Storno die andere.
-- (geteilt) Weiß Manni, dass Timotheus im Februar 2025 still zurückgezahlt hat? Hier: nein.
+- (geteilt, übernommen) Hat Manni eine Kopie von Timotheus' Rechnung daheim? Dann hat er die eine Hälfte des Beweises, Verena mit dem Storno die andere.
+- (geteilt, übernommen) Weiß Manni, dass Timotheus im Februar 2025 still zurückgezahlt hat? Hier: nein.
 - Der Kopfsatz von [[Das Loch in der Kassa]] sagt jetzt „die dann nie gebaut wurde", der Text darunter noch „war nie geplant". Welches gilt?

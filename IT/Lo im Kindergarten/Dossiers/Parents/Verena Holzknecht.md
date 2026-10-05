@@ -1,6 +1,6 @@
 ---
 typ: elternteil
-familie: ["[[Markus Holzknecht]]", "[[Emil]]"]
+familie: ["[[Markus Holzknecht]]", "[[Felix]]"]
 im_spiel: false
 council: vorstand
 sitz: true
@@ -32,13 +32,13 @@ lager_wahr: gruber
 - In der Garderobe: Laptop auf dem Schoß, Mandant am Telefon.
 - Nickt bei Susanne an den richtigen Stellen. Sagt „Frauen in Führung", ohne zu lachen.
 - Freundlich zu Lo und knapp. Sie fragt nie etwas Persönliches.
-- Donnerstags holt die Oma Emil ab.
+- Donnerstags holt die Oma Felix ab.
 
 ## Entdeckbar
 
-- **„Onkel Timo":** Emil erzählt es im Talk (Wochenende, Essen). „Der Onkel Timo war da. Der Papa war am Berg."
-- **Die „Steuern":** Emil sagt: „Die Mama und der Onkel Timo machen Steuern. Da muss die Tür zu, weil Steuern geheim sind."
-- **Die Donnerstage:** An jedem Donnerstag holt die Oma Emil ab, nie Verena. Lo kann das merken.
+- **„Onkel Timo":** Felix erzählt es im Talk (Wochenende, Essen). „Der Onkel Timo war da. Der Papa war am Berg."
+- **Die „Steuern":** Felix sagt: „Die Mama und der Onkel Timo machen Steuern. Da muss die Tür zu, weil Steuern geheim sind."
+- **Die Donnerstage:** An jedem Donnerstag holt die Oma Felix ab, nie Verena. Lo kann das merken.
 - **Ihr Auto vor der Villa:** Monika Pixner sieht es, und Matteo erzählt, was die Mama sieht.
 - **Die Spende:** Im Kassabericht an den Council stehen 18.000 € „Spende Klettergerüst, Fam. Haidacher", ohne Zweck und ohne Gegenleistung. Wer ihn liest, kann rechnen.
 
@@ -54,14 +54,14 @@ lager_wahr: gruber
 ## Motive
 
 - **Will:** Macht, die keiner sieht. Die Kassa, die Belege, das Wissen, wer wem was schuldet. Nach der Hauptversammlung einen Platz ganz vorne.
-- **Fürchtet:** dass Emil alles ausplaudert, bevor die Stimmen gezählt sind. Und dass Markus es merkt, weil er dann nicht leise bleibt.
+- **Fürchtet:** dass Felix alles ausplaudert, bevor die Stimmen gezählt sind. Und dass Markus es merkt, weil er dann nicht leise bleibt.
 - **Würde nie:** eine Buchung fälschen, die man ihr nachweisen kann. Vor Susanne weinen.
 
 ## Beziehungen
 
 - [[Timotheus von Gruber]]: Mandant, Liebhaber, Plan. Die Reihenfolge wechselt.
 - [[Markus Holzknecht]]: ihr Mann. Nett, verlässlich, selten da.
-- [[Emil]]: ihr Sohn, ihr einziger blinder Fleck.
+- [[Felix]]: ihr Sohn, ihr einziger blinder Fleck.
 - [[Susanne Pichler]]: Hat sie geholt. Verena lächelt und zählt mit.
 - [[Ferdinand Lichtenau]]: sitzt mit ihr in der Runde. Sie misstrauen einander höflich.
 - [[Thomas Eder]]: neu in der Runde. Sie hält ihn für das schwächste Glied.

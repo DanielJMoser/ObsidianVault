@@ -18,10 +18,8 @@ stand: 2026-10-05
 
 ## Wann ein Sitz frei wird
 
-- **Regulär im Sommer 2027,** wenn die Vorschulkinder gehen.
-- **Für die Behrens und die Plattners ist das zu spät,** denn Ida und Hannah gehen dann selbst in die Schule. Ein Sitz ab Sommer 2027 ist für sie nichts wert. Das hat Susanne nicht dazugesagt.
-- **Früher frei wird ein Sitz nur, wenn eine Familie fliegt.** Ein enttarnter Verräter, eine Familie, die sich trennt, ein Skandal.
-- **Daraus folgt:** Die Familien draußen haben ein Interesse daran, dass jemand im Council auffliegt. Sie helfen Lo beim Graben, wenn sie verstehen, wozu.
+- **Regulär im Sommer 2027,** wenn die Vorschulkinder gehen. Die Behrens und die Plattners haben ein jüngeres Kind in der Krippe, das im Herbst 2027 nachkommt. Für sie ist der Sitz also etwas wert.
+- **Wer nicht warten will, braucht einen Skandal:** einen enttarnten Verräter, eine Familie, die sich trennt. Darum hören die Familien draußen genau hin.
 
 ## Wer weiß was
 
@@ -52,4 +50,4 @@ stand: 2026-10-05
 
 ## Offene Fragen
 
-- **Sommer 2027:** Nächsten Sommer gehen die Vorschulkinder: Jassi, Nici, Konstantin und Emil, außerdem Ida, Hannah und Valentina. Damit verlieren die Pichlers, die Grubers, die Lichtenaus und die Holzknechts ihre Sitze, also der ganze Vorstand, außer sie haben jüngere Geschwister. Wer in diesem Herbst Vorständin bleibt, besetzt im Sommer vier Sitze neu. Soll das der eigentliche Einsatz der Hauptversammlung sein?
+- **Hintergrund, kein Antrieb:** Im Sommer 2027 gehen die meisten Vorschulkinder, und mit ihnen viele Sitze. Die Geschichte dreht sich nicht darum.

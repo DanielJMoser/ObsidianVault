@@ -76,5 +76,5 @@ im_spiel: false
 ## Offene Fragen
 - Idas Faden ist zuerst leise. Später kann er lauter werden. Wann und wie, entscheidet die Geschichte.
 
-- **(geteilt)** Ida und Leni als die zwei „Zugereisten": Gehört das auch in Lenis Dossier? (Vorschlag)
+- **(geteilt, übernommen)** Ida und Leni als die zwei „Zugereisten": Gehört das auch in Lenis Dossier? (Vorschlag)
 - Soll Lo am Abend eine eigene Gelegenheit haben, Ida zuzuhören, etwa als Abholung, die spät kommt?

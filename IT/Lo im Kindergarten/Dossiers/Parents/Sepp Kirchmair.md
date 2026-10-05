@@ -59,7 +59,7 @@ lager: gruber
 - [[Die Hauptversammlung]]: Er hat keine Stimme und will keine. Er hält zu Gruber, solange Gruber zahlen könnte.
 
 ## Offene Fragen
-- **(geteilt)** Hat Sepp die Bäder in der Pichler-Maisonette gemacht, mit der Rechnung an KR Walter Pichler? Das wäre ein zweiter Zeuge für [[Das WG-Jahr]]-Muster: Papa zahlt, Susanne erzählt.
-- **(geteilt)** Sepp und Markus Holzknecht kennen sich aus der gleichen Ortsstelle der Bergrettung. Markus' Dossier fragt danach.
-- **(geteilt)** Hat Sepp auch die Villa der Haidachers renoviert, mit pünktlicher Bezahlung? Neues Geld zahlt, altes nicht.
+- **(geteilt, übernommen)** Hat Sepp die Bäder in der Pichler-Maisonette gemacht, mit der Rechnung an KR Walter Pichler? Das wäre ein zweiter Zeuge für [[Das WG-Jahr]]-Muster: Papa zahlt, Susanne erzählt.
+- **(geteilt, übernommen)** Sepp und Markus Holzknecht kennen sich aus der gleichen Ortsstelle der Bergrettung. Markus' Dossier fragt danach.
+- **(geteilt, übernommen)** Hat Sepp auch die Villa der Haidachers renoviert, mit pünktlicher Bezahlung? Neues Geld zahlt, altes nicht.
 - Klagt Martina, bevor die Hauptversammlung kommt? Dann wäre die Pleite öffentlich.

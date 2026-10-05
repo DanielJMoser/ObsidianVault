@@ -21,7 +21,8 @@ lager_wahr: gruber
 
 ## Kanon
 - **Parent-Zeile `herr_eder`:** Kind `jonas`, Name „Herr Eder", Sway 1. Den Vornamen gibt es nur in der Lore.
-- **Aufgabe `jonas_basteltisch`** (Tage 9–11; `action:crafts`, `with_kid:jonas`). Ihre Zeile wird entfernt.
+- **Aufgabe `jonas_basteltisch`** (Tage 9–11; `action:crafts`, `with_kid:jonas`): „Herr Eder wünscht sich, dass beim Basteltisch wieder einmal etwas entsteht — und dass sich jemand eigens Zeit für den Jonas nimmt."
+- **Wenn die Aufgabe verpasst wird:** „Beim {0} ist die Bastelstunde ausgefallen, und geredet hat auch niemand mit ihm."
 - **Jonas, Talk Wochenende:** „Am Samstag war ich bei der Leni." Hingebracht hat ihn Thomas.
 
 ## Oberfläche

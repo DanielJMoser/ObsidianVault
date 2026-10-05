@@ -16,6 +16,7 @@ lager: pichler
 - **Beruf:** Dr. med., Oberärztin an der Klinik, Innere Medizin. Dienste, Nachtdienste, Rufbereitschaft.
 - **Wohnen:** Altbauwohnung im Saggen, frisch saniert, viel Weiß, wenig Möbel.
 - **Herkunft:** Hamburg. 2022 mit Jan-Hendrik nach Innsbruck gekommen, als er die Professur bekam.
+- **Kinder:** Ida, und ein kleiner Bruder (2) in der Krippe. Er kommt im Herbst 2027 in den Kindergarten, wenn Ida in die Schule geht.
 - **Allergien:** keine.
 - **Stimme:** norddeutsch, knapp, freundlich. Sagt Brotdose statt Jausenbox und versteht „Muggen" nicht.
   - „Das kriegen wir hin. Ich schreib Ihnen eine Mail."
@@ -65,6 +66,6 @@ lager: pichler
 
 ## Offene Fragen
 
-- **(geteilt)** Haben die Behrens nach Susannes Versprechen an die Pichler-Stiftung gespendet, etwa 3.000 €? Das würde in Susannes Muster passen und in [[Der versprochene Sitz]] gehören. (Vorschlag)
-- **(geteilt)** Birgit Eder kennt Friederike vom Sehen aus der Klinik. Gehört auch in Birgits Dossier. (Vorschlag)
+- **(geteilt, übernommen)** Haben die Behrens nach Susannes Versprechen an die Pichler-Stiftung gespendet, etwa 3.000 €? Das würde in Susannes Muster passen und in [[Der versprochene Sitz]] gehören. (Vorschlag)
+- **(geteilt, übernommen)** Birgit Eder kennt Friederike vom Sehen aus der Klinik. Gehört auch in Birgits Dossier. (Vorschlag)
 - Welche Station genau? Hier steht Innere Medizin.

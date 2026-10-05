@@ -71,5 +71,5 @@ im_spiel: false
 
 ## Offene Fragen
 
-- **(geteilt)** Ist Matteo der Koch in Jassis Restaurant? Das gehört auch in Jassis Dossier. (Vorschlag)
+- **(geteilt, übernommen)** Ist Matteo der Koch in Jassis Restaurant? Das gehört auch in Jassis Dossier. (Vorschlag)
 - Sein Geburtstag ist ein Vorschlag.

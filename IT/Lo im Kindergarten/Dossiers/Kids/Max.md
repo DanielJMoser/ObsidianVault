@@ -48,7 +48,7 @@ im_spiel: false
 
 - [[Hannes Haidacher]]: Papa. Ist oft im Tal. Wenn er da ist, gibt's was.
 - [[Evelyn Haidacher]]: Mama. Holt ihn immer zu früh ab.
-- [[Emil]]: Streit ums Klettergerüst. Max sagt, es gehört ihm, weil es sein Papa gekauft hat. Emil sagt, es gehört der Bergrettung. Am Ende spielen sie trotzdem zusammen Bergung.
+- [[Felix]]: Streit ums Klettergerüst. Max sagt, es gehört ihm, weil es sein Papa gekauft hat. Felix sagt, es gehört der Bergrettung. Am Ende spielen sie trotzdem zusammen Bergung.
 - [[Jassi]]: kennt er vom Kuvert, sie ihn vom Fenster. Sonst nix.
 
 ## Intrigen
@@ -63,12 +63,12 @@ im_spiel: false
 - **Eigenes Thema** `hotel`, „Das Hotel": „Bei uns im Hotel gibt's an Pool. Drinnen! Und an Koch, der macht ma Pommes, wann i will."
 - **Eigene Aktivität** `gipfel`, „Wer zuerst oben ist": aufs Klettergerüst um die Wette.
 - **likedPlaces:** klettergeruest, sandkiste, rutsche.
-- **likedKids:** emil, jonas.
+- **likedKids:** felix, jonas.
 - **Refusal:** „I red heut nit mit dir. Du host nix zum Hergeben."
 - **Reaktion auf Essen:** „Bei uns daheim gibt's a Buffet. Do kannst nehmen, so viel du willst." (likes)
 - **Storm-in:** „Is des Klo a für Gäst?"
 
 ## Offene Fragen
 
-- **(geteilt)** Emil und Max streiten ums Klettergerüst und spielen am Ende trotzdem zusammen. Passt das zu Emils Dossier? Dort steht der Streit schon als Vorschlag.
+- **(geteilt, übernommen)** Felix und Max streiten ums Klettergerüst und spielen am Ende trotzdem zusammen. Passt das zu Felix' Dossier? Dort steht der Streit schon als Vorschlag.
 - Wann kommt Max genau? Vorschlag: Tag 11, wie in [[Der zwölfte Platz]].

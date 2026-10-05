@@ -3,7 +3,7 @@ typ: kind
 familie: ["[[Verena Holzknecht]]", "[[Markus Holzknecht]]"]
 im_spiel: false
 ---
-# Emil
+# Felix
 
 > Der Sohn des Bergretters, der sich auf dem Klettergerüst nicht nach oben traut und überall „Onkel Timo" sagt.
 
@@ -37,7 +37,7 @@ im_spiel: false
 ## Verborgen
 
 - Er weiß nicht, was er weiß. Für ihn ist Onkel Timo einer, der Schokolade mitbringt und leise redet.
-- Er glaubt, der Papa ist so oft weg, weil Emil nicht mutig genug ist. Wenn er sich traut, bleibt der Papa da. Das ist Kinderlogik, und sie wird ernst erzählt.
+- Er glaubt, der Papa ist so oft weg, weil Felix nicht mutig genug ist. Wenn er sich traut, bleibt der Papa da. Das ist Kinderlogik, und sie wird ernst erzählt.
 - Er vermisst den Papa mehr, als er je sagen würde. Die Hubschrauber sind Briefe.
 
 ## Motive
@@ -50,11 +50,11 @@ im_spiel: false
 
 - [[Verena Holzknecht]]: Mama. Arbeitet immer, auch am Wochenende, „mit dem Onkel Timo".
 - [[Markus Holzknecht]]: Papa, der Held. Meistens am Berg.
-- [[Timotheus von Gruber]]: „Onkel Timo". Bringt Schokolade mit. Emil mag ihn, ein bisschen.
+- [[Timotheus von Gruber]]: „Onkel Timo". Bringt Schokolade mit. Felix mag ihn, ein bisschen.
 - [[Nici]]: die Tochter vom Onkel Timo. Ihre Steine findet er fad, ihre Schatzkarten nicht.
 - [[Jonas]]: auch ein Fahrzeug-Bub. Traktor gegen Hubschrauber, das wird ernsthaft verhandelt.
-- [[Konstantin]]: erklärt ihm, dass ein Hubschrauber ein „Drehflügler" ist. Emil nickt und glaubt ihm kein Wort.
-- [[Max]]: sagt, das Klettergerüst gehört ihm, weil es sein Papa gekauft hat. Emil findet, es gehört der Bergrettung. (Vorschlag)
+- [[Konstantin]]: erklärt ihm, dass ein Hubschrauber ein „Drehflügler" ist. Felix nickt und glaubt ihm kein Wort.
+- [[Max]]: sagt, das Klettergerüst gehört ihm, weil es sein Papa gekauft hat. Felix findet, es gehört der Bergrettung. (Vorschlag)
 - [[Max]]: Sie streiten, wem das Klettergerüst gehört, und spielen dann doch zusammen Bergung. (Vorschlag)
 - [[Valentina]]: Er ist hin und weg, wie sie klettert. Er selbst kommt nur bis zur zweiten Sprosse, sie bis ganz oben. Verliebt, auf seine Art.
 
@@ -70,11 +70,11 @@ im_spiel: false
 - **Eigene Aktivität** `bergung`, „Bergrettung spielen": Stofftiere vom Klettergerüst abseilen.
 - **likedPlaces:** klettergeruest, rutsche, sandkiste.
 - **likedKids:** jonas, valentina.
-- **Refusal:** „Heut nicht. Heut bin i im Einsatz." Emil dreht sich weg und funkt ins Leere.
+- **Refusal:** „Heut nicht. Heut bin i im Einsatz." Felix dreht sich weg und funkt ins Leere.
 - **Reaktion auf Monster:** „Monster gibt's nit. Aber Lawinen gibt's." (dislikes)
 - **Storm-in:** „Bergrettung! Is wer verletzt?"
 
 ## Offene Fragen
 
-- **(geteilt, übernommen)** Streiten Emil und Max ums Klettergerüst? Das gehört auch in Max' Dossier.
-- Merkt Verena, dass „Onkel Timo" durch Emil die Runde macht? Wenn ja, verbietet sie ihm das Wort, und dann sagt Emil es erst recht.
+- **(geteilt, übernommen)** Streiten Felix und Max ums Klettergerüst? Das gehört auch in Max' Dossier.
+- Merkt Verena, dass „Onkel Timo" durch Felix die Runde macht? Wenn ja, verbietet sie ihm das Wort, und dann sagt Felix es erst recht.

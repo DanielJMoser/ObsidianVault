@@ -80,6 +80,6 @@ lager: gruber
 
 ## Offene Fragen
 
-- **(geteilt)** Zahlt Amelie Monikas Lohn privat, seit Timotheus nicht mehr pünktlich zahlt? Das gehört auch in Amelies Dossier und in [[Die Villa]].
-- **(geteilt)** Wer zahlt Matteos Beitrag beim Elternverein? Vorschlag: Amelie hat den Platz besorgt und zahlt mit.
+- **(geteilt, übernommen)** Zahlt Amelie Monikas Lohn privat, seit Timotheus nicht mehr pünktlich zahlt? Das gehört auch in Amelies Dossier und in [[Die Villa]].
+- **(geteilt, übernommen)** Wer zahlt Matteos Beitrag beim Elternverein? Vorschlag: Amelie hat den Platz besorgt und zahlt mit.
 - Bekommt Monika im Spiel eine Rolle, zum Beispiel beim Abholen?

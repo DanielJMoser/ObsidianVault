@@ -17,7 +17,7 @@ Eine Quelle für jedes Datum. Dossiers verweisen hierher, statt Daten neu zu erf
 - **2015:** Timotheus heiratet Amelie aus Meran. Monika Pixner kommt mit ihr aus dem Passeier.
 - **2019:** Thomas Eder fängt als Bauleiter im Ingenieurbüro von Gruber an.
 - **2. November 2020:** Konstantin Lichtenau geboren.
-- **2021:** Jassi (9. März), Emil (12. Juni), Nici (27. August) geboren.
+- **2021:** Jassi (9. März), Felix (12. Juni), Nici (27. August) geboren.
 - **2023:** Verena Holzknecht wird Timotheus' Steuerberaterin.
 - **Herbst 2024:** Timotheus nimmt 8.000 € aus der Vereinskassa, „Statikgutachten Gartenhütte", für Grundsteuer und Anwalt.
 - **November 2024, Hauptversammlung:** Die Rechnungsprüfer finden das Loch. Kassier Manni Plattner hat unterschrieben und fliegt. Susanne wird Vorständin statt Timotheus, und Verena wird Kassierin.

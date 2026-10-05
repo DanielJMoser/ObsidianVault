@@ -44,7 +44,7 @@ lager: gruber
 - **Er ist pleite.**
   - Nicis Steine heißen wie die Ahnen, deren Bilder verschwinden (Talk: Steinsammlung).
   - Matteo weiß, wann „der Mann mit den Pickerln" kommt.
-- **Affäre mit Verena.** Emil sagt „Onkel Timo" zu ihm, weil er so oft da ist.
+- **Affäre mit Verena.** Felix sagt „Onkel Timo" zu ihm, weil er so oft da ist.
 - **Die Kassa.** Hannah wiederholt Wort für Wort, was Manni Plattner über den „Herrn Baron" sagt.
 - **Schulden beim Installateur.** Valentina: „Der Baron zahlt nit." (Vorschlag)
 - **Die Runde.** Donnerstags brennt im Notariat Lichtenau lang Licht. Der Weg ins Spiel ist offen.

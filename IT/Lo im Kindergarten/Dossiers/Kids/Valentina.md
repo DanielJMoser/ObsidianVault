@@ -24,7 +24,7 @@ im_spiel: false
 - **facts:** `birthday` (18. Februar), `brueder` („Hat zwei große Brüder, die schon in die Schule gehen."), `werkstatt` („Darf in Papas Werkstatt die Schrauben sortieren.").
 - **topic** `werkstatt` „Papas Werkstatt", unlocked by `werkstatt`.
 - **likedPlaces:** klettergeruest, rutsche, sandkiste, schaukel.
-- **likedKids:** jonas, emil.
+- **likedKids:** jonas, felix.
 
 ## Oberfläche
 - Immer oben: Klettergerüst, Rutschenturm, Fensterbank, wenn keiner schaut.
@@ -51,13 +51,12 @@ im_spiel: false
 - [[Sepp Kirchmair]]: Papa. Ihr Held, ihr Vorbild, ihre Sprache.
 - Martina Kirchmair: Mama. Die, die Nein sagt.
 - [[Jonas]]: petzt. Böse sein kann sie ihm trotzdem nicht lange.
-- [[Emil]]: bewundert sie, weil sie höher klettert, als er sich traut. Sie lässt ihn mitklettern, bis zur Hälfte.
 - [[Max]]: kommt mitten im Herbst und sagt, das Klettergerüst gehört seinem Papa. Valentina: „Na und? I kimm höher auffi." (Vorschlag)
-- [[Emil]]: schaut ihr beim Klettern zu, als wäre sie ein Bergretter. Ob sie es merkt, ist offen.
+- [[Felix]]: schaut ihr beim Klettern zu, als wäre sie ein Bergretter. Verliebt, auf seine Art. Sie lässt ihn mitklettern, bis zur Hälfte. Ob sie merkt, was los ist, ist offen.
 
 ## Intrigen
 - [[Die Villa]]: **weiß**, dass der Baron dem Papa Geld schuldet. **Verbirgt** nichts. **Will** nichts davon. Sie sagt es, weil der Papa es sagt.
 
 ## Offene Fragen
 - Kommt Valentina einmal auf den Roster? Dann braucht sie Sitz, Seat und Reaktionen.
-- **(geteilt)** Max und das Klettergerüst: Streitet Valentina mit ihm, oder ist das nur Emils Streit? Max' Dossier entscheidet.
+- **(geteilt)** Max und das Klettergerüst: Streitet Valentina mit ihm, oder ist das nur Felix' Streit? Max' Dossier entscheidet.

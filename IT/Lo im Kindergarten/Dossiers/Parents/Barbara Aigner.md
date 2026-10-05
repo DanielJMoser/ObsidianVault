@@ -22,7 +22,7 @@ lager: pichler
 
 ## Kanon
 - **Parent-Zeile `frau_aigner`:** Kind `mira`, Name „Frau Aigner", Sway 1 (Daten und Lore gleich), keine Patronin.
-- **Aufgabe `mira_vorlesestunde`** (Tage 17–19, Di 6.10.–Do 8.10.). Ihre Zeile wird entfernt.
+- **Aufgabe `mira_vorlesestunde`** (Tage 17–19, Di 6.10.–Do 8.10.): „Der Council of Parents® ersucht um eine Vorlesestunde, und die Mira möchte vorher persönlich gefragt werden."
 - Einen Vornamen hat sie nur in der Lore. Im Spiel bleibt sie „Frau Aigner".
 
 ## Oberfläche

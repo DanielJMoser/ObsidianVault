@@ -56,5 +56,5 @@ im_spiel: false
 - [[Das Loch in der Kassa]]: **weiß**, was der Papa sagt. **Verbirgt** nichts. **Will** nichts davon, sie ist fünf.
 
 ## Offene Fragen
-- (geteilt) Hannah hat Nici gesagt, ihr Papa sei ein Dieb, und seitdem meiden sich die beiden. Das gehört auch in Nicis Dossier.
+- (geteilt, übernommen) Hannah hat Nici gesagt, ihr Papa sei ein Dieb, und seitdem meiden sich die beiden. Das gehört auch in Nicis Dossier.
 - Kommt Hannah je ins Spiel? Dann bräuchte sie ein volles Kid-Profil.
