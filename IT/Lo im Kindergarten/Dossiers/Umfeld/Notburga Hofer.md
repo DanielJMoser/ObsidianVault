@@ -32,8 +32,8 @@ lager: keins
 
 ## Entdeckbar
 - **Sie kennt Susanne vom Studium.** Erzählt Lo, wie hart sich die Frau Vorständin alles erkämpft hat, sagt sie nur: „So, so." Bei hohem Vertrauen kommt mehr: „Mit der Susi hab i ein Jahr gwohnt. Die Miete hat ihr Papa zahlt." Jassis „Der Opa Walter hat der Mama die Wohnung geschenkt" passt dazu. Siehe [[Das WG-Jahr]].
-- **Die Allergieliste.** Sie fragt nach ihr und bekommt Susannes getippte Liste. Erzählt Lo ihr von der Nusstorte, sagt sie: „A Notarzt im Mai, und beim Land liegt nix auf? Des schau i ma an." Siehe [[Die Nusstorte]].
-- **Der Freiherr.** Steckt Lo ihr, dass der Titel seit 1919 verboten ist, sagt sie: „Des is nit mei Ressort." Pause. „Aber i kenn wen, dem's eins is." Sie gibt es weiter, mit Genuss. Siehe [[Freiherr von]].
+- **Die Allergieliste.** Sie fragt nach ihr und bekommt Susannes getippte Liste. Erzählt Lo ihr von der Nusstorte, sagt sie: „Im Mai isch der Notarzt dogwesnt? Sall muas i ma woll dechtasch anschaugn…" Siehe [[Die Nusstorte]].
+- **Der Freiherr.** Steckt Lo ihr, dass der Titel seit 1919 verboten ist, sagt sie: „Sall isch it mei Ressort…" Pause. „Aber i kenn in Zuaständign!" Sie gibt es weiter, mit Genuss. Siehe [[Freiherr von]].
 
 ## Verborgen
 - **Das WG-Jahr, 2003/04 in Wilten** (Vorschlag):

@@ -127,11 +127,12 @@ Jede wird ein Dossier in `Intrigen/`.
 
 ## Offene Fragen
 
-- **Datenänderungen:**
+- **Datenänderungen, angenommen am 2026-10-05, noch nicht im Spiel:**
   - Lenis Geburtstag vom 21. Jänner auf den 16. Oktober (Tag 25), damit er zu ihrer Geburtstags-Aufgabe (Tage 23–26) passt.
   - Nici bekommt eine Erdbeerallergie als neuen Fact.
+  - Mira bekommt den Satz über die „Jassi-Mama" als neuen Fact, zu entdecken über `essen` bei hohem Vertrauen.
   - Timotheus hat Sway 3, das ist entschieden. Im Spiel steht noch 2: in der Parent-Zeile in `content.de.json`, in fr-052 (Sway-Summe 8 → 9) und in `ShippedDataTests.cs:1611`. Das wird ein eigenes Ticket.
-- **Hauptversammlung:** Wann ist sie? Vorschlag: Tag 30, Freitag, 23. Oktober. Dann endet der Lauf mit der Abwahl.
+- **Hauptversammlung:** entschieden. Sie ist an Tag 30 und beendet das Spiel. Lo ist dabei, und das Ende hat Versionen, je nach ihren Entscheidungen. Siehe [[Die Hauptversammlung]].
 - **Gewalt:** noch nirgends gesetzt, nur wenn die Geschichte es verlangt. Idas Vernachlässigung ist der einzige schwere Faden bisher.
 - **Namen:** Lichtenau, Holzknecht, Haidacher, Plattner, Kirchmair, Pixner und Behrens sind erfunden. Maria Kofler grüßt die Maria aus dem Vorgänger-Projekt.
 - **Vornamen für Frau Aigner, Frau Brunner und Herrn Eder:** Die gelten nur in der Lore. Im Spiel bleiben sie „Frau Aigner", „Frau Brunner" und „Herr Eder".

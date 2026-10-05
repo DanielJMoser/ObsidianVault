@@ -23,7 +23,7 @@ stand: 2026-09-30
 
 ## Wann
 
-- **Vorschlag: Tag 30, Freitag 23. Oktober.** Der Lauf endet mit der Abstimmung.
+- **Tag 30, Freitag 23. Oktober.** Entschieden. Die Hauptversammlung beendet das Spiel in jedem Fall. Andere Enden können vorher kommen, etwa eine Kündigung.
 - **Die Antragsfrist** fällt dann auf Tag 20, Freitag 9. Oktober, das Herbstfest. Timotheus bringt den Antrag am selben Tag ein, an dem Susanne ihn mit der [[Die Erdbeertorte|Erdbeertorte]] blamieren will.
 
 ## Der Stand
@@ -50,11 +50,10 @@ Die Stimmen, die sich drehen lassen:
 
 ## Lo
 
-- Sie ist Angestellte ohne Stimme. Wer ihr Beweise verdankt, verdankt ihr viel.
+- Sie ist dabei, als Angestellte ohne Stimme. Wer ihr Beweise verdankt, verdankt ihr viel.
 - Die Belege, die sie gesammelt hat, und die Kinder, denen sie zugehört hat, entscheiden, wer oben bleibt.
+- **Das Ende hat Versionen.** Was hier passiert, folgt aus Los Entscheidungen im Lauf: welche Eltern sie umgestimmt hat, wen sie unterstützt hat, und ob diese Unterstützung gehalten hat oder gewackelt hat.
 
 ## Offene Fragen
 
-- Tag 30 als Termin: behalten?
-- Darf Lo in der Hauptversammlung sein, als Gast oder für das Protokoll?
 - Die Revolte der Familien draußen: Ist sie ein eigenes Ende, oder eine Wendung?

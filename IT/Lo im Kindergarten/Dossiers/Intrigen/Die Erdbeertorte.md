@@ -9,7 +9,7 @@ stand: 2026-09-30
 
 > Das Muster der Nusstorte, diesmal mit Absicht. Servieren soll es Lo.
 
-Setzt eine Datenänderung voraus: Nici bekommt eine Erdbeerallergie als Fact. (Vorschlag)
+Nicis Erdbeerallergie ist als Datenänderung angenommen, aber noch nicht in den Daten.
 
 ## Der Plan
 

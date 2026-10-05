@@ -48,7 +48,7 @@ im_spiel: true
 - **Der Schatz unter der Rutsche.** Bei der Schatzsuche findet Lo einen Silberlöffel mit Wappen. „Was ein Pickerl kriegt, kommt weg. Drum vergrab ich's vorher." (Vorschlag)
 - **Leni darf nicht.** „Die Leni darf nicht mit mir spielen. Wegen der Miete." (Vorschlag)
 - **Die Frau mit dem Schal.** „Wenn die Mama in Meran isch, kommt die Frau mit dem Schal zum Papa ins Büro." Sie versteht es nicht, sie sagt es nur. (Vorschlag)
-- **Erdbeeren.** „Von Erdbeeren krieg ich Flecken und muss ins Spital." Setzt die Datenänderung voraus. (Vorschlag)
+- **Erdbeeren.** „Von Erdbeeren krieg ich Flecken und muss ins Spital." Setzt die Datenänderung voraus, angenommen.
 
 ## Verborgen
 - Sie glaubt, dass alles weggeht, was ein Pickerl kriegt, so wie die Bilder. Darum vergräbt sie, was sie liebt.
@@ -79,7 +79,7 @@ im_spiel: true
 - **[[Die Erdbeertorte]]:** Sie wäre das Ziel. (Vorschlag)
 
 ## Offene Fragen
-- **Datenänderung:** Erdbeerallergie als neuer Fact.
+- **Datenänderung:** Erdbeerallergie als neuer Fact. Angenommen, aber noch nicht in den Daten.
 - **Vorschlag für neue Zeilen:** eine Reaktion oder ein Fact „Herbert ist ein Bild", freigeschaltet über die Steinsammlung.
 - **(geteilt, übernommen)** Nici isst oft bei den Pixners im Souterrain, und Matteo erzählt ihr vom Exekutor.
 - **Vorbild:** Nici ist nach einer echten Freundin gezeichnet. Alles oben ist Fiktion im Kinderformat, echte Insider-Witze kommen nur vom Entwickler.

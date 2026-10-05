@@ -51,7 +51,7 @@ im_spiel: true
 ## Entdeckbar
 - **Die Dinosaurier** (Kanon): Talk Tiere.
 - **Der Turm** (Kanon): über Leni.
-- **Das Stück:** Talk Essen, sonst ein Nein. Bei hohem Vertrauen: „Die Jassi-Mama hat mir das Stück gegeben. ‚Für dich, Mausi.' Da waren Nüsse drin." Siehe [[Die Nusstorte]]. (Vorschlag, als neuer Fact)
+- **Das Stück:** Talk Essen, sonst ein Nein. Bei hohem Vertrauen: „Die Jassi-Mama hat mir das Stück gegeben. ‚Für dich, Mausi.' Da waren Nüsse drin." Siehe [[Die Nusstorte]]. (neuer Fact, angenommen)
 - **Die Mama war nicht da:** „Die Mama war in der Apotheke, wie ich krank war." (Vorschlag)
 - **Fremdes Essen:** Bietet Lo ihr etwas an, fragt sie zuerst: „Wer hat das gemacht?" (Vorschlag)
 
@@ -83,5 +83,5 @@ im_spiel: true
 - [[Die Hauptversammlung]]: Ihr Satz entscheidet, wohin die Stimme ihrer Mama geht. Davon weiß sie nichts.
 
 ## Offene Fragen
-- Datenänderung: der Satz über die „Jassi-Mama" als Fact, revealed über `essen` bei hohem Vertrauen.
+- Datenänderung: der Satz über die „Jassi-Mama" als Fact, revealed über `essen` bei hohem Vertrauen. Angenommen, aber noch nicht in den Daten.
 - Bekommt Mira einen Fact für den eigenen Pen im Rucksack?

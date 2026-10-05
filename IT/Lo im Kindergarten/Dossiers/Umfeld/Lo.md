@@ -63,4 +63,4 @@ Noch nichts ist fix. Vorschläge kommen nur auf deinen Wunsch, und du entscheide
 
 ## Offene Fragen
 
-- Darf Lo in die Hauptversammlung? Siehe [[Die Hauptversammlung]].
+- Entschieden: Lo ist in der Hauptversammlung dabei. Sie beendet das Spiel, und ihre Entscheidungen bestimmen, welche Version des Endes kommt. Siehe [[Die Hauptversammlung]].

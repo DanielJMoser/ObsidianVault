@@ -41,7 +41,7 @@ Der Kanon passt dazu. Mira isst ihre Jause allein beim Legoturm und nimmt nichts
 
 ## Wie es herauskommen kann
 
-- **Mira:** Bei hohem Vertrauen sagt sie: „Die Jassi-Mama hat mir das Stück gegeben. Da waren Nüsse drin." (Vorschlag: ein neuer Fact)
+- **Mira:** Bei hohem Vertrauen sagt sie: „Die Jassi-Mama hat mir das Stück gegeben. Da waren Nüsse drin." (neuer Fact, angenommen)
 - **Jassi:** beim Restaurant oder beim Thema Essen: „Bei mir gibt's keine Nüsse mehr. Hat die Mama gesagt." Bei hohem Vertrauen bricht sie das Geheimnis: „Im Mai hab ich mit der Mama eine Nusstorte gebacken. Aber das darf ich nicht sagen." Zusammen mit Miras Satz ist es der Beweis.
 - **Maria:** wenn Lo sie in Hall aufsucht. Ihre Nummer steht noch im Notfallordner im Büro. Dass der Vorfall dem Land nie gemeldet wurde, weiß sie nicht. Erfährt sie es von Lo, führt ihr Weg zu [[Notburga Hofer]], die sie von Inspektionen kennt und für eine gute Pädagogin hält.
 - **Die Allergieliste:** Marias Foto vom Original, in ihrer Schrift und mit Datum: Mira, Nüsse. Susannes neue Liste hängt in der Küche.
@@ -56,6 +56,6 @@ Der Kanon passt dazu. Mira isst ihre Jause allein beim Legoturm und nimmt nichts
 
 ## Offene Fragen
 
-- Soll Miras Satz ein Fact im Spiel werden? (Datenänderung)
+- Miras Satz wird ein Fact im Spiel. Angenommen, aber noch nicht in den Daten.
 - Bekommt die Allergieliste in der Küche ein Szenen-Prop?
 - Weiß Ferdinand, was Elisabeth gesehen hat? Wenn ja, hält er es als Karte zurück, bis zur Hauptversammlung.
