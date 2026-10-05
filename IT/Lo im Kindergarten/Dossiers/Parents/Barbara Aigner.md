@@ -70,5 +70,5 @@ lager: pichler
 ## Offene Fragen
 - (geteilt, übernommen) Miras Pen im Notfallkasten hat Barbara im Jänner gebracht. Passt das zu [[Die Nusstorte]]?
 - (geteilt, übernommen) Barbara hat Elisabeth Lichtenau eine Dankeskarte geschrieben. Ist das für Lo ein Weg zu Elisabeth?
-- (geteilt, übernommen) Florian Pichler holt seit Mai Schlafmittel in ihrer Apotheke. Sie weiß nicht, warum er nicht schläft, und würde es nie sagen. Der Vater der Torte kauft bei der Mutter des Kindes.
+- (geteilt, übernommen) Florian Pichler holt seit Mai Schlafmittel in ihrer Apotheke. Sie weiß nicht, warum er nicht schläft, und würde es nie sagen. "Der Mann, der die Nüsse gekauft hat, holt sein Schlafmittel bei der Mutter des Kindes, das fast daran gestorben ist.
 - Datenänderung: Miras Satz „die Jassi-Mama" als Fact, siehe [[Mira]]. Angenommen.
