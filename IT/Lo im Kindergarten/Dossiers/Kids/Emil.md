@@ -52,7 +52,6 @@ im_spiel: false
 - [[Markus Holzknecht]]: Papa, der Held. Meistens am Berg.
 - [[Timotheus von Gruber]]: „Onkel Timo". Bringt Schokolade mit. Emil mag ihn, ein bisschen.
 - [[Nici]]: die Tochter vom Onkel Timo. Ihre Steine findet er fad, ihre Schatzkarten nicht.
-- [[Valentina]]: klettert höher, als Emil sich traut. Er bewundert sie und ist ein bisschen neidisch.
 - [[Jonas]]: auch ein Fahrzeug-Bub. Traktor gegen Hubschrauber, das wird ernsthaft verhandelt.
 - [[Konstantin]]: erklärt ihm, dass ein Hubschrauber ein „Drehflügler" ist. Emil nickt und glaubt ihm kein Wort.
 - [[Max]]: sagt, das Klettergerüst gehört ihm, weil es sein Papa gekauft hat. Emil findet, es gehört der Bergrettung. (Vorschlag)
