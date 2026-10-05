@@ -50,6 +50,7 @@ im_spiel: false
 - [[Evelyn Haidacher]]: Mama. Holt ihn immer zu früh ab.
 - [[Felix]]: Streit ums Klettergerüst. Max sagt, es gehört ihm, weil es sein Papa gekauft hat. Felix sagt, es gehört der Bergrettung. Am Ende spielen sie trotzdem zusammen Bergung.
 - [[Jassi]]: kennt er vom Kuvert, sie ihn vom Fenster. Sonst nix.
+- [[Valentina]]: Er sagt, das Klettergerüst gehört seinem Papa. Sie sagt: „Kauft hast es du. Obn bin i." Und klettert höher. Er mault. (Vorschlag)
 
 ## Intrigen
 

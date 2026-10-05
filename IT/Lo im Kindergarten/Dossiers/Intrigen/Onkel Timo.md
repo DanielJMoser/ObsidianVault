@@ -42,7 +42,7 @@ stand: 2026-09-30
 ## Was es kippt
 
 - **Susanne** erfährt, dass ihre Kassierin Gruber ist. Verena muss gehen, oder Susanne behält sie und weiß es. Timotheus zählt dann nur noch 3:4.
-- **Markus:** Die Ehe ist vorbei. Felix ist mittendrin.
+- **Markus:** Ob die Ehe hält, hängt von Los Entscheidungen ab. Beide Wege sind möglich. Felix ist mittendrin.
 - **Amelie** bekommt ihren Hebel.
 
 ## Offene Fragen

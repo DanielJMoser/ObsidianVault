@@ -51,7 +51,7 @@ im_spiel: false
 - [[Sepp Kirchmair]]: Papa. Ihr Held, ihr Vorbild, ihre Sprache.
 - Martina Kirchmair: Mama. Die, die Nein sagt.
 - [[Jonas]]: petzt. Böse sein kann sie ihm trotzdem nicht lange.
-- [[Max]]: kommt mitten im Herbst und sagt, das Klettergerüst gehört seinem Papa. Valentina: „Na und? I kimm höher auffi." (Vorschlag)
+- [[Max]]: kommt mitten im Herbst und sagt, das Klettergerüst gehört seinem Papa. Sie streitet nicht. Wem es gehört, ist ihr wurscht; sie klärt es, indem sie höher klettert: „Kauft hast es du. Obn bin i." Max mault, Felix bewundert sie noch mehr. (Vorschlag)
 - [[Felix]]: schaut ihr beim Klettern zu, als wäre sie ein Bergretter. Verliebt, auf seine Art. Sie lässt ihn mitklettern, bis zur Hälfte. Ob sie merkt, was los ist, ist offen.
 
 ## Intrigen
@@ -59,4 +59,4 @@ im_spiel: false
 
 ## Offene Fragen
 - Kommt Valentina einmal auf den Roster? Dann braucht sie Sitz, Seat und Reaktionen.
-- **(geteilt)** Max und das Klettergerüst: Streitet Valentina mit ihm, oder ist das nur Felix' Streit? Max' Dossier entscheidet.
+- **(geteilt, entschieden)** Max und das Klettergerüst: Streitet Valentina mit ihm, oder ist das nur Felix' Streit? Max' Dossier entscheidet.

@@ -75,4 +75,4 @@ lager: pichler
 
 ## Offene Fragen
 - (geteilt, übernommen) Kennt Birgit Dr. Friederike Behrens von der Klinik? Das wäre eine Brücke zu den Familien draußen.
-- Die Stelle in Linz: behalten? Damit hätte Birgit einen eigenen Ausweg.
+- Die Stelle in Linz bleibt. Ob sie sie nimmt und Jonas mitgeht, hängt von Los Entscheidungen ab. Beide Wege sind möglich.

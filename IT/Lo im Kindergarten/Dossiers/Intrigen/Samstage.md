@@ -50,6 +50,7 @@ stand: 2026-10-05
 - **Katharina dreht Thomas:** Susanne gewinnt wahr 4:3. Und Thomas weiß, dass Verena in der Runde sitzt. Mit ihm erfährt Susanne, dass ihre Kassierin sie verrät.
 - **Timotheus erfährt es:** Er hat einen Hebel gegen beide, Thomas über Birgit, Katharina über den Skandal. Oder er feuert Thomas, und dann kippt Thomas ohnehin.
 - **Birgit erfährt es:** Die Eders trennen sich. Den Sitz behält, wer Jonas hauptsächlich betreut. Bleibt Jonas in Innsbruck, ist es Thomas. Nimmt Birgit ihn mit nach Linz (die Stelle, auf die sie sich beworben hat), verlassen die Eders den Kindergarten, und ein Sitz wird frei. Siehe [[Der versprochene Sitz]].
+- **Ob es so weit kommt,** ob sich die Eders trennen und ob Birgit die Stelle nimmt und Jonas umzieht, hängt von Los Entscheidungen ab. Beide Wege sind möglich.
 
 ## Offene Fragen
 

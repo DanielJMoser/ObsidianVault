@@ -50,6 +50,7 @@ lager_wahr: gruber
 - **Die Belege:** Im Juli hat sie die Haidacher-Spende gebucht und die Belege für Timotheus kopiert. Vom Umschlag weiß sie nichts Sicheres. Sie ahnt ihn: 18.000 € für einen Platz, der offiziell nichts kostet, sind zu viel für reine Nächstenliebe.
 - **Liebe oder Plan:** Sie liebt ihn nicht ganz, sie rechnet mit ihm. Der Freiherr hat den Namen, sie hat den Kopf. Nach Susannes Sturz, so hofft sie, führt sie den Council und er darf davor sitzen.
 - **Markus:** Die Ehe ist nicht kaputt, nur leer. Sie hat einen Mann geheiratet, der immer woanders ist, und genau das war der Plan.
+- **Die Bilanz 2025:** grau, nicht gefälscht. Sie hat die offene Kirchmair-Rechnung später gebucht, laufende Projekte als fast sichere Einnahmen ausgewiesen und eine Verbindlichkeit ins Jahr 2026 geschoben. Das reicht, damit die Bank bei der Hypothek ein Jahr stillhält. Es bindet sie an ihn: Bricht er zusammen, schaut die Bank genauer hin, und ihre Zulassung als Steuerberaterin ist in Gefahr. Darum braucht sie, dass er den Vorsitz gewinnt, und nicht nur ihn. Das Geld des Vereins hält ihn über Wasser. (Vorschlag)
 
 ## Motive
 
@@ -80,6 +81,6 @@ lager_wahr: gruber
 
 - **(geteilt, übernommen)** Seit wann ist sie Kassierin? Vorschlag: seit November 2024. Susanne holte sie als Nachfolgerin des geschassten Plattner.
 - **(geteilt, übernommen)** Hat sie in Timotheus' Büchern die 8.000 € hinaus und im Februar 2025 wieder hinein gesehen? Dann weiß sie vom [[Das Loch in der Kassa|Loch in der Kassa]], seit sie Kassierin ist.
-- **(geteilt)** Hat sie Timotheus' Bilanz für 2025 geschönt, damit die Bank bei der Hypothek stillhält?
+- **(geteilt, entschieden: ja, grau, siehe Verborgen)** Hat sie Timotheus' Bilanz für 2025 geschönt, damit die Bank bei der Hypothek stillhält?
 - **(geteilt, übernommen)** Was hat Timotheus ihr für die Zeit nach Susannes Sturz versprochen? Vorschlag: das Amt der Vizepräsidentin.
 - Wer ist die Oma, die donnerstags abholt? Vorschlag: Markus' Mutter aus dem Zillertal.
