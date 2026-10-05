@@ -90,5 +90,5 @@ Alles ist ein Vorschlag, kindgroß. Leni versteht es selbst nur halb.
 
 - **Datenänderung:** Geburtstag vom 21. Jänner auf den 16. Oktober (Tag 25), damit er zur Aufgabe `leni_geburtstag` (Tage 23–26) passt.
 - **Frau Hoppel und der Hase:** Frau Hoppel ist nicht der Hase der Kuschelecke, der laut CONTEXT.md niemandem gehört. Sie bringt sie von daheim mit.
-- (geteilt) Klopfen Leni und Nici sich Zeichen über das Heizungsrohr, ihre geheime Freundschaft durch den Boden? Das müsste auch in Nicis Dossier. (Vorschlag)
+- (geteilt, übernommen) Klopfen Leni und Nici sich Zeichen über das Heizungsrohr, ihre geheime Freundschaft durch den Boden? Das müsste auch in Nicis Dossier. (Vorschlag)
 - Wer hat die Eingewöhnungsstunde beim Council beantragt? Vermutlich Katharina, die als neues Mitglied gleich etwas für Leni durchsetzt.

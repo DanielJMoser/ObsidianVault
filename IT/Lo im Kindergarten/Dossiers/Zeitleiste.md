@@ -34,9 +34,10 @@ Eine Quelle für jedes Datum. Dossiers verweisen hierher, statt Daten neu zu erf
   - Drei Vorschulfamilien gehen, drei Sitze werden frei. Susanne holt die Aigners und die Eders, Timotheus die Brunners. Susanne glaubt, sie hat den Sommer gewonnen.
   - Die Haidachers zahlen: 5.000 € bar an Susanne, dazu 18.000 € „Spende" fürs Klettergerüst. Verena bucht die Spende und kopiert die Belege.
 - **August:**
-  - Katharina Brunner und Leni ziehen in den zweiten Stock der Gruber-Villa, auf einen befristeten Mietvertrag über drei Jahre.
+  - Katharina Brunner und Leni ziehen in den zweiten Stock der Gruber-Villa, auf einen befristeten Mietvertrag über drei Jahre. Am Umzugstag klemmt die Haustür, und Thomas Eder aus dem Büro hilft.
   - Das Klettergerüst wird aufgebaut.
 - **Donnerstag, 3. September:** Die Runde trifft sich zum ersten Mal im Notariat Lichtenau.
+- **Ab Mitte September:** Samstags bringt Thomas Jonas zu Leni, solange Birgit am Hof ist.
 
 ## Der Lauf
 
@@ -49,7 +50,7 @@ Gespielt werden nur Werktage.
 | 3   | Mi 16.9.          | Timotheus' Brief.                                                             |
 | 4   | Do 17.9.          | Thomas Eder zum ersten Mal in der Runde.                                      |
 | 11  | Mo 28.9.          | Max kommt von der Warteliste (Vorschlag).                                     |
-| 15  | Fr 2.10.          | Tag vor Jonas' fünftem Geburtstag (Sa 3.10.).                                 |
+| 15  | Fr 2.10.          | Tag vor Jonas' fünftem Geburtstag. Am Sa 3.10. feiert er am Hof, und Thomas hat seinen ersten Samstag ohne Kinder (Vorschlag). |
 | 20  | Fr 9.10.          | Herbstfest, Timotheus richtet es aus. Frist für den Abwahlantrag (Vorschlag). |
 | 25  | Fr 16.10.         | Leni wird vier (Vorschlag, Datenänderung).                                    |
 | 30  | Fr 23.10.         | Hauptversammlung (Vorschlag).                                                 |

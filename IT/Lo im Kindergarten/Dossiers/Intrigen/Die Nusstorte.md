@@ -12,7 +12,7 @@ stand: 2026-09-30
 ## Was war
 
 - **Freitag, 22. Mai 2026:** Frühlingsfest im Garten.
-- **Die Regel:** Seit Jänner hängt Marias Allergieliste in der Küche, in ihrer Handschrift. Mira: Nüsse. Maria hat allen Eltern geschrieben, dass das Buffet nussfrei ist.
+- **Die Regel:** Seit Jänner hängt Marias Allergieliste in der Küche, in ihrer Handschrift. Miras Adrenalin-Pen hat Barbara im Jänner selbst in den Notfallkasten gebracht. Mira: Nüsse. Maria hat allen Eltern geschrieben, dass das Buffet nussfrei ist.
 - **Die Torte:** Am Vorabend backen Susanne und Jassi eine Nusstorte aus Jassis Kochbuch. Die Haselnüsse hat Florian gekauft. Susanne hält die Regel für „Allergie-Hysterie". Keine Allergen-Markierung.
 - **Das Stück:** Susanne schneidet es selbst ab und gibt es Mira. „Für dich, Mausi."
 - **Der Schock:** Mira bekommt einen anaphylaktischen Schock. Maria holt den Adrenalin-Pen aus dem Notfallkasten und ruft 144. Elisabeth Lichtenau, Kinderärztin und als Mutter da, setzt ihn und bleibt bei Mira, bis der Notarzt kommt. Dabei sieht sie, wessen Torte es war. Mira bleibt eine Nacht in der Klinik.
@@ -45,7 +45,7 @@ Der Kanon passt dazu. Mira isst ihre Jause allein beim Legoturm und nimmt nichts
 - **Jassi:** beim Restaurant oder beim Thema Essen: „Bei mir gibt's keine Nüsse mehr. Hat die Mama gesagt." Bei hohem Vertrauen bricht sie das Geheimnis: „Im Mai hab ich mit der Mama eine Nusstorte gebacken. Aber das darf ich nicht sagen." Zusammen mit Miras Satz ist es der Beweis.
 - **Maria:** wenn Lo sie in Hall aufsucht.
 - **Die Allergieliste:** Marias Foto vom Original, in ihrer Schrift und mit Datum: Mira, Nüsse. Susannes neue Liste hängt in der Küche.
-- **Elisabeth Lichtenau:** die Zeugin im Gruber-Lager. Warum hat das Gruber-Lager es nie benutzt?
+- **Elisabeth Lichtenau:** die Zeugin im Gruber-Lager. Warum hat das Gruber-Lager es nie benutzt? Barbara hat ihr eine Dankeskarte geschrieben, und darüber kommt Lo an Elisabeth heran.
 - **Frau Hofer:** Sie weiß nichts von dem Vorfall. Ein nicht gemeldeter Notarzteinsatz ist ihr Terrain.
 
 ## Was es kippt

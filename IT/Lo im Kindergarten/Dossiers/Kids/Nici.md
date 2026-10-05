@@ -55,7 +55,7 @@ im_spiel: true
 - Dass die Villa selbst weg sein könnte, weiß sie nicht. Sie merkt nur, dass die Wände leerer werden.
 - „Monster sind blöd": Beim Wort Monster hält sie die Taschen zu. Das Monster ist für sie der Mann mit den Pickerln. (Vorschlag)
 - Sie isst oft unten bei den Pixners. Dort ist es warm, und Matteo hat Zeit. (Vorschlag)
-- Eigentlich mag sie Leni. Sie hört sie durch die Decke singen.
+- Eigentlich mag sie Leni. Sie hört sie durch die Decke singen. Abends klopfen sich die beiden Zeichen über das Heizungsrohr. Eine geheime Freundschaft durch den Boden, von der keine Mama weiß. Im Spiel bleiben sie trotzdem nie Freundinnen (fr-055). (Vorschlag)
 - Die Keksdose ist aus der Villa: Blech, alt, mit dem Wappen. (Vorschlag)
 
 ## Motive

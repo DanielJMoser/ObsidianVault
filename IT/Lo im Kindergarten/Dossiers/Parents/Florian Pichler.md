@@ -52,6 +52,8 @@ lager: pichler
 - **Walter Pichler:** der Schwiegervater. Zahlt alles und lässt es ihn spüren.
 - **Evelyn Haidacher:** die Frau mit dem Umschlag. Sie grüßt ihn seitdem zu freundlich.
 
+- [[Barbara Aigner]]: Seit Mai holt er bei ihr in der Apotheke Schlafmittel. Der Vater der Torte kauft bei der Mutter des Kindes. Sie fragt nicht.
+
 ## Intrigen
 - [[Der zwölfte Platz]]: hat den Umschlag gesehen. Schweigt. Will nicht, dass Jassi einmal fragt, woher das Geld kam.
 - [[Die Nusstorte]]: hat die Nüsse gekauft. Weiß alles. Verbirgt es aus Angst. Will eigentlich reinen Tisch.
