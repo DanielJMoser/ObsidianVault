@@ -2,5 +2,6 @@
   "cssTheme": "AnuPpuccin",
   "theme": "obsidian",
   "monospaceFontFamily": "Source Code Pro",
-  "baseFontSize": 20
+  "baseFontSize": 20,
+  "enabledCssSnippets": []
 }
