@@ -35,8 +35,7 @@
               "title": "Wicked Problems"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,11 +206,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d227f52c105afa62",
+  "active": "52d5781cc228e42f",
   "lastOpenFiles": [
-    "CLAUDE.md",
-    "CLAUDE.md.tmp.21533.c4ffd44c21c8",
+    "Wicked Problems.md",
     "Design Thinking.md",
-    "Wicked Problems.md"
+    "CLAUDE.md",
+    "CLAUDE.md.tmp.21533.c4ffd44c21c8"
   ]
 }
