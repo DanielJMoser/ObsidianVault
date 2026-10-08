@@ -22,4 +22,4 @@ So entgeht uns keine gute Idee.
 Interessante Randnotiz: Um ein Problem wirklich von Grund aus verstehen zu können, muss sich ein Designer in den Kunden hineinversetzen können. Design-Gigant IDEO stellt zu dem Zwecke einen Verkleidungsraum bereit.
 
 # Ideenfindung
-Es ist wesentlich einfacher, eine Idee detailliert auszuarbeiten, als eine Vielzahl an Ideen in der selben Zeit (unabhängig von Qualität) niederzuschreiben. Dennoch ist genaue dies der effektivere Approach: Quantity over Quality, dann auf eine immer kleiner werdende Teilmenge reduzieren und 
+Es ist wesentlich einfacher, eine Idee detailliert auszuarbeiten, als eine Vielzahl an Ideen in der selben Zeit (unabhängig von Qualität) niederzuschreiben. Dennoch ist genaue dies der effektivere Approach: Quantity over Quality, dann auf eine immer kleiner werdende Teilmenge reduzieren, bis die beste Idee übrig bleibt
