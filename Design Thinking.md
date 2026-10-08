@@ -24,8 +24,8 @@ Interessante Randnotiz: Um ein Problem wirklich von Grund aus verstehen zu könn
 # Ideenfindung
 Es ist wesentlich einfacher, eine Idee detailliert auszuarbeiten, als eine Vielzahl an Ideen in der selben Zeit (unabhängig von Qualität) niederzuschreiben. Dennoch ist genaue dies der effektivere Approach: Quantity over Quality, dann auf eine immer kleiner werdende Teilmenge reduzieren, bis die beste Idee übrig bleibt. In unserer Übung haben wir dabei bewusst Legalität oder Ethik ausgeklammert, nur ein Benchmark im Vordergrund: Innovation.
 
-Dies passiert leise, wiederrum in einer limitierten Timebox, bevor die Ideen 
+Dies passiert leise, in unsrer Übung  wiederrum in einer limitierten Timebox, wieder mit Post-Its und wieder mit einer abschlienden Präsentation, wobei jedes Mitglied wieder einen limitierten, gleich langen Zeitslot zugwiesen kriegt.
 
-In Kollaboration baut ein Team auf den Ideen der Einzelmitglieder auf: Zuhorchn, dann konstruktive Kritik. Vielleicht funktioniert eine Idee zwar ihrer Originalform nicht, aber nach einiger Modifikation wunderbar! Vielleicht in eine andere Branche verlegen? Vielleicht geht's auch simpler?
+In Kollaboration baut ein Team auf den Ideen der Einzelmitglieder auf: Zuhorchn, dann konstruktive Kritik. Vielleicht funktioniert eine Idee zwar ihrer Originalform nicht, aber nach einiger Modifikation wunderbar! Vielleicht in eine andere Branche verlegen? Vielleicht geht's auch simpler? Oder billiger? 
 Dabei darauf achten, dass man einander möglichst wenig unterbricht. Nach einer Unterbrechnung liegts in der menschlichen Natur, dass man beginnt, sich und seine Idee zu verteidigen. Des killt den Prozess!
 
