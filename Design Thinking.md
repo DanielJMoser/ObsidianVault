@@ -20,3 +20,6 @@ Dadurch wird **systeminherrent** verhindert, dass eine Einzelperson das Wort an 
 So entgeht uns keine gute Idee.
 
 Interessante Randnotiz: Um ein Problem wirklich von Grund aus verstehen zu können, muss sich ein Designer in den Kunden hineinversetzen können. Design-Gigant IDEO stellt zu dem Zwecke einen Verkleidungsraum bereit.
+
+# Ideenfindung
+Es ist wesentlich einfacher, eine Idee detailliert auszuarbeiten, als eine Vielzahl an Ideen in der selben Zeit
