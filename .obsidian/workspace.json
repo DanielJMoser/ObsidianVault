@@ -49,8 +49,7 @@
               "title": "Wicked Problems"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,11 +220,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4384c98335bdd331",
+  "active": "52d5781cc228e42f",
   "lastOpenFiles": [
+    "Disruptive Innovation.md",
     "Wicked Problems.md",
     "Untitled.md",
-    "Disruptive Innovation.md",
     "Design Thinking.md",
     "Screenshot 2026-10-08 at 09-37-53 PowerPoint-Präsentation - Innovation Design Change_26_2.pdf.png",
     "CLAUDE.md",
