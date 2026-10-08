@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e86b0fdfdbf6a653",
+        "id": "e85fedd40fdac5cf",
         "type": "tabs",
         "children": [
           {
-            "id": "0b041b96b512d362",
+            "id": "878dc0aa5bec626b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Screenshot 2026-10-08 at 09-37-53 PowerPoint-Präsentation - Innovation Design Change_26_2.pdf.png"
+                "file": "Design Thinking.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Screenshot 2026-10-08 at 09-37-53 PowerPoint-Präsentation - Innovation Design Change_26_2.pdf"
+              "icon": "lucide-file",
+              "title": "Design Thinking"
             }
           }
         ]
@@ -190,13 +192,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0b041b96b512d362",
+  "active": "e589802cb46484ca",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Disruptive Innovation.md",
     "Screenshot 2026-10-08 at 09-37-53 PowerPoint-Präsentation - Innovation Design Change_26_2.pdf.png",
+    "Untitled.md",
     "Wicked Problems.md",
     "Expanding-Root-Partition-Guide.md",
-    "Disruptive Innovation.md",
     "Design Thinking.md",
     "Assets/Excalidraw/zZDrawing_Flynn_SIMD.md",
     "Assets/Excalidraw/Scripts/Downloaded/Concatenate lines.svg",

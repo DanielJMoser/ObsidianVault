@@ -29,3 +29,5 @@ Dies passiert leise, in unsrer Übung  wiederrum in einer limitierten Timebox, w
 In Kollaboration baut ein Team auf den Ideen der Einzelmitglieder auf: Zuhorchn, dann konstruktive Kritik. Vielleicht funktioniert eine Idee zwar ihrer Originalform nicht, aber nach einiger Modifikation wunderbar! Vielleicht in eine andere Branche verlegen? Vielleicht geht's auch simpler? Oder billiger? 
 Dabei darauf achten, dass man einander möglichst wenig unterbricht. Nach einer Unterbrechnung liegts in der menschlichen Natur, dass man beginnt, sich und seine Idee zu verteidigen. Des killt den Prozess!
 
+## Condensation
+Unsere Ideen, erst wild und unstrukturiert, wurden dann ganzheitlich betrachtet. Schon in der vorhergehenden Phase bauten wir auf unseren besseren Ideen auf und, 
