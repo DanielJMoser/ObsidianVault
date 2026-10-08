@@ -19,4 +19,4 @@ Künstlich herbeigeführter Zeitdruck kann zur Effizienz eines Teams beitragen; 
 Dadurch wird **systeminherrent** verhindert, dass eine Einzelperson das Wort an sich reißt und nicht mehr abgibt. Auch die nicht sonderlich laut veranlagten Mitglieder werden so gehört, demokratisch und fair.
 So entgeht uns keine gute Idee.
 
-Interessante Randnotiz: Um ein Problem wirklich von Grund aus verstehen zu können, muss sich ein Designer in den Kunden hin
+Interessante Randnotiz: Um ein Problem wirklich von Grund aus verstehen zu können, muss sich ein Designer in den Kunden hineinversetzen können. Design-Gigant IDEO stellt zu dem Zwecke einen Verkleidungsraum bereit.
