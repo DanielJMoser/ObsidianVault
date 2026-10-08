@@ -15,5 +15,10 @@ Künstlich herbeigeführter Zeitdruck kann zur Effizienz eines Teams beitragen; 
 ## Learnings aus unsrer Übung
 ![[Screenshot 2026-10-08 at 09-37-53 PowerPoint-Präsentation - Innovation Design Change_26_2.pdf.png]]
 
-Prämisse: Jedes Teammitglied hat die gleiche, nicht verhandelbare Redezeit. Dadurch wird systeminherrent verhindert, dass eine Einzelperson das Wort an sich reißt und nicht mehr abgibt. Auch die nicht sonderlich laut veranlagten Mitglieder werden so gehört, demokratisch und fair.
+**Prämisse:** Jedes Teammitglied hat die gleiche, nicht verhandelbare Redezeit. 
+Dadurch wird **systeminherrent** verhindert, dass eine Einzelperson das Wort an sich reißt und nicht mehr abgibt. Auch die nicht sonderlich laut veranlagten Mitglieder werden so gehört, demokratisch und fair.
 So entgeht uns keine gute Idee.
+Interessant auch, wenn bewusst beobachtet:
+- Wer hat mehr Zeit als Material?
+- Wer würde gerne 
+
