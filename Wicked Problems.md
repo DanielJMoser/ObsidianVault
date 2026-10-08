@@ -3,4 +3,4 @@ Nach 2. Weltkrieg, Stanford: Haufenweise organisatiorisch schwierige Probleme: B
 Gedanke: Architekten lösen solche Probleme ständig. Redma mit denen!
 Daraus entsteht: [[Design Thinking]]
 
-Speziell vis-a-vis Zeit
+Speziell vis-a-vis Zeitdruck: Flache Hierarchien scheinen hier besonders effektiv.
