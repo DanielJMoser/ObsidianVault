@@ -2,10 +2,17 @@
 Agilität und Anpassbarfähigkeit ans Team im Fokus. Siehe auch:[Wicked Problems](https://arounda.agency/blog/what-are-wicked-problems-a-design-thinking-perspective)
 
 # Chefschmees im Aufbau
+Künstliche Verknappung als bewusste Strategie
 ## Post-Its
 ...und breiten Textmarker als Medium:
 - Fokussiert, konzentriert und knapp aufs Wesentliche begrenzt
-- Tool zur 
+- Tool zum Führen strukturierter Diskussionen
+- literally kannst da nit an Roman draufschreiben -- Stift zu breit, Platz is rar.
 
 ## Timeslots
 Künstlich herbeigeführter Zeitdruck kann zur Effizienz eines Teams beitragen; Kombination mit  flacher Hierarchie zum Lösen von [[Wicked Problems]].
+
+## Learnings aus unsrer Übung
+![[Screenshot 2026-10-08 at 09-37-53 PowerPoint-Präsentation - Innovation Design Change_26_2.pdf.png]]
+
+Prämisse: Jedes Teammitglied hat die gleiche, nicht verhandelbare Redezeit. Dadurch wird systeminherrent verhindert, dass e
