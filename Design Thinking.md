@@ -30,4 +30,6 @@ In Kollaboration baut ein Team auf den Ideen der Einzelmitglieder auf: Zuhorchn,
 Dabei darauf achten, dass man einander möglichst wenig unterbricht. Nach einer Unterbrechnung liegts in der menschlichen Natur, dass man beginnt, sich und seine Idee zu verteidigen. Des killt den Prozess!
 
 ## Condensation
-Unsere Ideen, erst wild und unstrukturiert, wurden dann ganzheitlich betrachtet. Schon in der vorhergehenden Phase bauten wir auf unseren besseren Ideen auf und, 
+Unsere Ideen, erst wild und unstrukturiert, wurden dann ganzheitlich betrachtet. Im Übungsworkshop: Schon in der vorhergehenden Phase bauten wir auf unseren besseren Ideen auf, wodurch erst unsere besten Ideen entstanden. Durch diesen Prozess ergaben sich logische, natürliche Cluster: Dem Arbeitsauftrag entsprechend legten wir uns die drei interessantesten beiseite.
+
+Wie im Foto zu sehen, ward unsere Gruppe den Kühen zugewandt; hellyea. Spezifisch das Tracking der Tiere führte un
