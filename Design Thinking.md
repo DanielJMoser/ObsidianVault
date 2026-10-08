@@ -22,7 +22,10 @@ So entgeht uns keine gute Idee.
 Interessante Randnotiz: Um ein Problem wirklich von Grund aus verstehen zu können, muss sich ein Designer in den Kunden hineinversetzen können. Design-Gigant IDEO stellt zu dem Zwecke einen Verkleidungsraum bereit.
 
 # Ideenfindung
-Es ist wesentlich einfacher, eine Idee detailliert auszuarbeiten, als eine Vielzahl an Ideen in der selben Zeit (unabhängig von Qualität) niederzuschreiben. Dennoch ist genaue dies der effektivere Approach: Quantity over Quality, dann auf eine immer kleiner werdende Teilmenge reduzieren, bis die beste Idee übrig bleibt
+Es ist wesentlich einfacher, eine Idee detailliert auszuarbeiten, als eine Vielzahl an Ideen in der selben Zeit (unabhängig von Qualität) niederzuschreiben. Dennoch ist genaue dies der effektivere Approach: Quantity over Quality, dann auf eine immer kleiner werdende Teilmenge reduzieren, bis die beste Idee übrig bleibt. In unserer Übung haben wir dabei bewusst Legalität oder Ethik ausgeklammert, nur ein Benchmark im Vordergrund: Innovation.
+
+Dies passiert leise, wiederrum in einer limitierten Timebox, bevor die Ideen 
 
 In Kollaboration baut ein Team auf den Ideen der Einzelmitglieder auf: Zuhorchn, dann konstruktive Kritik. Vielleicht funktioniert eine Idee zwar ihrer Originalform nicht, aber nach einiger Modifikation wunderbar! Vielleicht in eine andere Branche verlegen? Vielleicht geht's auch simpler?
-Dabei darauf achten, dass man einander möglichst wenig unterbricht. Nach einer Unterbrechnung liegts in der menschlichen Natur, dass man beginnt, sich und seine Idee zu verteidigen. Des killt den Prozess, a bisserl.
+Dabei darauf achten, dass man einander möglichst wenig unterbricht. Nach einer Unterbrechnung liegts in der menschlichen Natur, dass man beginnt, sich und seine Idee zu verteidigen. Des killt den Prozess!
+
