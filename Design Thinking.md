@@ -33,3 +33,4 @@ Dabei darauf achten, dass man einander möglichst wenig unterbricht. Nach einer 
 Unsere Ideen, erst wild und unstrukturiert, wurden dann ganzheitlich betrachtet. Im Übungsworkshop: Schon in der vorhergehenden Phase bauten wir auf unseren besseren Ideen auf, wodurch erst unsere besten Ideen entstanden. Durch diesen Prozess ergaben sich logische, natürliche Cluster: Dem Arbeitsauftrag entsprechend legten wir uns die drei interessantesten beiseite.
 
 Wie im Foto zu sehen, ward unsere Gruppe den Kühen zugewandt; hellyea. Spezifisch das Tracking der Tiere führte unweigerlich zu Gamechangern, reichend von GPS-Steuerung der Herde zur Vermeidung von Killerkuh- bzw. Wolf-Incidents oder Lawineprävention (durch gesteuertes Grasen) bis hin zu Cowfluencern mit eigenem Streamingangebot, aufgenommen aus Sicht der Kuh (5 Euro im Monat)
+
