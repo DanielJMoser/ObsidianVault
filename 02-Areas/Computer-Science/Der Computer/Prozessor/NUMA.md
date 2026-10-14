@@ -30,7 +30,7 @@ Moderne NUMA-Systeme nutzen **Caching-Techniken** und spezialisierte **Speicherv
 
 ## NUMA in der Praxis
 
-#### NUMA+ in Linux
+#### NUMA in Linux
 
 In Linux-Systemen, wie etwa Arch Linux, kann der **NUMA-Support** aktiviert und konfiguriert werden. Über Werkzeuge wie `numactl` lässt sich die Speicherplatzierung steuern, um die Performance von Anwendungen zu optimieren, die auf mehreren Prozessoren ausgeführt werden.
 
