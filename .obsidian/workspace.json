@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e85fedd40fdac5cf",
+        "id": "30fa3cf24cd32caf",
         "type": "tabs",
         "children": [
           {
-            "id": "878dc0aa5bec626b",
+            "id": "f1b33a639e42cf85",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Areas/Computer-Science/Der Computer/Prozessor/NUMA.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "NUMA"
+              "title": "New tab"
             }
           }
         ]
@@ -194,6 +190,10 @@
   },
   "active": "e589802cb46484ca",
   "lastOpenFiles": [
+    "CLAUDE.md",
+    "Design Thinking.md",
+    "Expanding-Root-Partition-Guide.md",
+    "02-Areas/Computer-Science/Der Computer/Prozessor/NUMA.md",
     "02-Areas/Computer-Science/Systeme/Architektur von Informationssystemen/Parallele vs. Verteilte Systeme.md",
     "02-Areas/Computer-Science/Betriebssysteme/Prozesssynchronisation/_Prozesssynchronisation.md",
     "02-Areas/Computer-Science/Daten/Datenbanken/NoSQL Databases/Neo4j/Neo4j.md",
@@ -207,14 +207,11 @@
     "Screenshot 2026-10-08 at 09-37-53 PowerPoint-Präsentation - Innovation Design Change_26_2.pdf.png",
     "Wicked Problems.md",
     "Job-to-Be-Done Theory.md",
-    "Expanding-Root-Partition-Guide.md",
-    "Design Thinking.md",
     "Customer Journey.md",
     "Disruptive Innovation.md",
     "Assets/Excalidraw/zZDrawing_Flynn_SIMD.md",
     "Assets/Excalidraw/Scripts/Downloaded/Concatenate lines.svg",
     "Assets/Excalidraw/zzDrawing_ArduinoLibs.md",
-    "CLAUDE.md",
     "CLAUDE.md.tmp.21533.c4ffd44c21c8"
   ]
 }
