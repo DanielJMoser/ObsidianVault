@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "verteilte systeme",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +79,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,7 +192,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "878dc0aa5bec626b",
+  "active": "e589802cb46484ca",
   "lastOpenFiles": [
     "02-Areas/Computer-Science/Systeme/Architektur von Informationssystemen/Parallele vs. Verteilte Systeme.md",
     "02-Areas/Computer-Science/Betriebssysteme/Prozesssynchronisation/_Prozesssynchronisation.md",
