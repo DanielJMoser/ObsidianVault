@@ -11,12 +11,14 @@
             "id": "878dc0aa5bec626b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Screenshot 2026-10-08 at 09-37-53 PowerPoint-Präsentation - Innovation Design Change_26_2.pdf.png"
+                "file": "02-Areas/Computer-Science/Systeme/Architektur von Informationssystemen/Parallele vs. Verteilte Systeme.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Screenshot 2026-10-08 at 09-37-53 PowerPoint-Präsentation - Innovation Design Change_26_2.pdf"
+              "icon": "lucide-file",
+              "title": "Parallele vs. Verteilte Systeme"
             }
           }
         ]
@@ -53,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "verteilte systeme",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +79,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -192,13 +195,20 @@
   },
   "active": "878dc0aa5bec626b",
   "lastOpenFiles": [
+    "02-Areas/Academia/Bachelor DiBSE/Digital Business/Bachelorprüfung/Stichwortlisten/Architektur von Informationssystemen.md",
+    "02-Areas/Computer-Science/Systeme/Architektur von Informationssystemen/Memory-Systeme/Shared-Memory Computer/_Shared-Memory Computer.md",
+    "02-Areas/Computer-Science/Systeme/ERP-Systeme/_Enterprise Software.md",
+    "02-Areas/Computer-Science/Systeme/ERP-Systeme/Technische Grundlagen/_Technische Grundlagen.md",
+    "02-Areas/Computer-Science/Systeme/ERP-Systeme/Marktführer und -entwicklungen.md",
+    "02-Areas/Computer-Science/Systeme/Sonstige Systeme/IoT-Systeme.md",
+    "02-Areas/Academia/Bachelor DiBSE/Digital Business/Bachelorprüfung/Stichwortlisten/Verteilte Systeme.md",
+    "Screenshot 2026-10-08 at 09-37-53 PowerPoint-Präsentation - Innovation Design Change_26_2.pdf.png",
     "Wicked Problems.md",
     "Job-to-Be-Done Theory.md",
     "Expanding-Root-Partition-Guide.md",
     "Design Thinking.md",
     "Customer Journey.md",
     "Disruptive Innovation.md",
-    "Screenshot 2026-10-08 at 09-37-53 PowerPoint-Präsentation - Innovation Design Change_26_2.pdf.png",
     "Assets/Excalidraw/zZDrawing_Flynn_SIMD.md",
     "Assets/Excalidraw/Scripts/Downloaded/Concatenate lines.svg",
     "Assets/Excalidraw/zzDrawing_ArduinoLibs.md",
