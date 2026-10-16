@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "163e84c1b1ce68e2",
+        "id": "84dbd90e1dbb7117",
         "type": "tabs",
         "children": [
           {
-            "id": "108234d3e8f14da2",
+            "id": "f64a8a9efabfce7e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.14.4"
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.14.4"
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -191,8 +193,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "108234d3e8f14da2",
+  "active": "f64a8a9efabfce7e",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Wicked Problems.md",
+    "Screenshot 2026-10-08 at 09-37-53 PowerPoint-Präsentation - Innovation Design Change_26_2.pdf.png",
+    "Job-to-Be-Done Theory.md",
+    "Disruptive Innovation.md",
+    "Design Thinking.md",
+    "CLAUDE.md",
     "IT/Lo im Kindergarten/Dossiers/Parents/Barbara Aigner.md",
     "IT/Lo im Kindergarten/Dossiers/Parents/Florian Pichler.md",
     "IT/Lo im Kindergarten/Dossiers/Parents/Ferdinand Lichtenau.md",
@@ -221,12 +230,6 @@
     "IT/Lo im Kindergarten/Dossiers/Kids/Jonas.md",
     "IT/Lo im Kindergarten/Dossiers/Andere Kinder.md",
     "IT/Lo im Kindergarten/Dossiers/Parents/Hannes Haidacher.md",
-    "IT/Lo im Kindergarten/Dossiers/Kids/Hannah.md",
-    "IT/Lo im Kindergarten/Dossiers/Kids/Matteo.md",
-    "IT/Lo im Kindergarten/Dossiers/Kids/Leni.md",
-    "IT/Lo im Kindergarten/Dossiers/Kids/Konstantin.md",
-    "IT/Lo im Kindergarten/Dossiers/Parents/Sepp Kirchmair.md",
-    "IT/Lo im Kindergarten/Dossiers/Parents/Monika Pixner.md",
     "IT/Lo im Kindergarten/Dossiers/Parents/Friederike Behrens.md.tmp.8642.def9d6081662",
     "IT/Lo im Kindergarten/Dossiers/Kids/Max.md.tmp.8642.ee1583169e7e",
     "Assets/Excalidraw/Scripts/Downloaded/Concatenate lines.svg",
@@ -238,7 +241,6 @@
     "Assets/Images/zzDrawings/zzDrawing_MachProgramm.png",
     "Assets/Images/zzDrawings/zzDrawing_Classification.png",
     "Assets/Images/Latex.svg",
-    "Assets/Documents/manifesto-short.png",
     "01-Active/Presentation-Matrix-Client/Presentation-Canvas.canvas"
   ]
 }
