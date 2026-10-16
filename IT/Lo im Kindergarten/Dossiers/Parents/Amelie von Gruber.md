@@ -1,6 +1,8 @@
 ---
 typ: elternteil
-familie: ["[[Timotheus von Gruber]]", "[[Nici]]"]
+familie:
+  - "[[Timotheus von Gruber]]"
+  - "[[Nici]]"
 im_spiel: false
 council: vorstand
 sitz: false
