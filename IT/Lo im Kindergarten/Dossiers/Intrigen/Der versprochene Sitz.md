@@ -37,6 +37,7 @@ stand: 2026-10-05
   - Ida: „Mama sagt, wir kommen bald in den Council."
   - Max: „Mei Papa kriagt an Sitz."
   - Hannah: „Der Papa kriegt seinen Sitz zurück."
+    - **Im Spiel (#163):** Talk Papas Bank, ihr eigenes Topic, das Talk Tiere freischaltet. Es ist ein gewöhnliches Reveal, kein Anvertrauen (Fact `sitz`), und die Zeile nennt die Jassi-Mama: „Aber er kriegt sein Sitz eh zruck, hat die Jassi-Mama versprochen." Hannah ist damit der leichte Weg hinein; Idas und Max' Zeile dürfen hinter einem Anvertrauen liegen.
   - Alle drei im selben Sandkasten. (Vorschlag)
 - **Lo** hört es von allen drei Kindern und zählt eins und eins zusammen.
 

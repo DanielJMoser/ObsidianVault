@@ -34,6 +34,7 @@ im_spiel: true
 - **likedPlaces:** maltisch, lego, sandkiste, rutsche, puppenecke.
 - **likedKids:** mira, jassi.
 - **Geplant (#155):** likedKids dazu `matteo`, beidseitig. Felix mag sie, einseitig.
+- **Geplant (#163):** Nicis Daten ändern sich nicht. Hannahs Zeile beim Lieblingsessen sagt, dass der Herr Baron, der ihr das Geld gestohlen haben soll, Nicis Papa ist. Sie sagt auch, dass Hannah es Nici gesagt hat „und jetzt spielt sie nimmer mit mir". Das ist das Nicht-Befreundet aus #155.
 - **`loo.storm_in.nici`:** „Schau, eine Schnecke!"
 - **fr-055:** Nie mit Leni befreundet, nichts macht sie zu Freundinnen.
 
@@ -73,7 +74,7 @@ im_spiel: true
 - **[[Amelie von Gruber]]:** Mama. Oft in Meran, bringt Steine vom Fluss mit.
 - **Gerti:** die Schnecke im Garten (Kanon).
 - [[Felix]]: findet ihre Steine fad, ihre Schatzkarten nicht. Er mag sie, einseitig (#155).
-- [[Hannah]]: Hannah hat ihr gesagt, ihr Papa ist ein Dieb. Seitdem gehen sich die zwei aus dem Weg. (Vorschlag)
+- [[Hannah]]: Hannah hat ihr gesagt, ihr Papa ist ein Dieb. Seitdem gehen sich die zwei aus dem Weg. (Vorschlag; im Spiel über Hannahs Zeile, #163)
 
 ## Intrigen
 - **[[Die Villa]]:** Weiß nicht, was sie weiß, und vergräbt es.
