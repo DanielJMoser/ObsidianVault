@@ -73,6 +73,7 @@ im_spiel: false
 - **groupActivityDislikes:** keine (#155).
 - **Refusal:** „Heute erzähl ich nichts." Ida räumt Stifte ein, einen nach dem anderen.
 - **Reaktion auf Monster:** „Monster gibt es nicht. Hat der Papa erklärt. Ausführlich." (indifferent)
+- **Reaktion auf Tiere** (likes, verrät Leopolds `erklaert_gern`; #155, Q21). Entwurf: „Leopold sagt, Mücken heißen eigentlich Culex pipiens. Er weiß immer etwas Interessantes, und er erklärt es mir ganz geduldig." Leopold sagt Culex pipiens, Ida Mücken, die anderen Muggen.
 - **Storm-in:** „Oh. Tschüss!" Die Tür geht so schnell zu, wie sie aufgegangen ist.
 
 ## Offene Fragen

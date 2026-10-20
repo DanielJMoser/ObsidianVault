@@ -182,7 +182,7 @@ flowchart LR
 - **Leni und Nici** sind im Spiel nie Freundinnen (fr-055). Durch den Boden schon.
 - **Valentina und Max** sind keine Freunde. Wer zuerst am Klettergerüst ist, hält den anderen fern, und Max kommt oft nicht auf „sein" Gerüst.
 - **Hannah und Nici** sind keine Freundinnen. Am Maltisch, den beide mögen, sperrt jede die andere aus.
-- **Leopold weiß nicht, dass er Freunde hat.** Fragt Lo ihn, sagt er, Jassi und Ida interessierten sich für Geschichte, mehr nicht, und das glaubt er. Jassi und Ida sagen Lo, sie mögen ihn, weil er immer etwas Interessantes weiß und alles nett und geduldig erklärt.
+- **Leopold weiß nicht, dass er Freunde hat.** Fragt Lo ihn, sagt er, Jassi und Ida interessierten sich für Geschichte, mehr nicht, und das glaubt er. Jassi und Ida sagen Lo, sie mögen ihn, weil er immer etwas Interessantes weiß und alles nett und geduldig erklärt. Jassi ist sich nicht sicher, ob er sie auch mag, und glaubt, er wisse nicht, dass sie gern seine Freundin wäre. Lo erfährt es über Leopolds eigenes Thema `freunde`, das Idas Tiere-Zeile oder Jassis Anvertrauen beim Mond freischaltet (#155, Q21).
 
 ## 7. Wer plaudert was aus
 

@@ -70,6 +70,7 @@ Alles hier ist ein Vorschlag, kindgroß, und Jassi versteht es selbst nicht.
 - [[Florian Pichler]]: Papa. Der, der Zeit hat. Der fährt ins Planetarium.
 - [[Mira]]: war beim Frühlingsfest krank. Jassi bringt das nicht mit der Torte zusammen.
 - [[Leopold]]: redet mit großen Wörtern. Jassi fragt so lange nach, bis er sie erklären muss. Freund, beidseitig (#155). Sie mag ihn, weil er immer etwas Interessantes zu erzählen weiß und ihr alles nett und geduldig erklärt. Das kann Lo von ihr erfahren (#155, Q14).
+  - **Anvertrauen beim Mond** (#155, Q21; fr-066). Ihre gewöhnliche `mond`-Zeile bleibt, wie sie ist, und verrät nichts, also hängt das Anvertrauen nur an der Vertrauensschwelle. Statt ihr sagt sie dann, dass Leopold ihr erklärt hat, warum man auf dem Mond fast nichts wiegt; er weiß immer etwas und erklärt es so lange, bis sie es versteht (Entwurf). Dazu, in den Worten des Entwicklers: „Ich bin mir nicht sicher, ob Leopold mich auch mag. Manchmal hab' ich das Gefühl, dass er nicht weiß, dass ich gern seine Freundin wäre. Ich mag ihn jedenfalls total gern!" Verrät Leopolds `erklaert_gern`.
 - [[Max]]: sagt, das Klettergerüst gehöre seinem Papa. Jassi: „Das Klettergerüst gehört allen!" (Vorschlag)
 - [[Matteo]]: der Koch in ihrem Restaurant. Freund, beidseitig (#155).
 - [[Hannah]]: die Kassiererin in ihrem Restaurant. Freundin, beidseitig (#155).

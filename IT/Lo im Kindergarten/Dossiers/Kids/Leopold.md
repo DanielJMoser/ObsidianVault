@@ -31,7 +31,7 @@ im_spiel: false
 - **Die Runde:** „Donnerstags darf ich nicht ins Büro vom Papa. Da ist der Herr Baron da, und die Frau Steuerberaterin. Sie trinken den Sherry vom Urgroßvater."
 - **Die Schule:** „Man hat mich für sozial-emotional unreif befunden. Das ist ein Gutachten, kein Urteil. Man kann Berufung einlegen. Glaube ich."
 - **Radetzky** (Talk: Wochenende, erst bei hohem Vertrauen): Er schläft mit einem Stoffhund, der Radetzky heißt. Das darf niemand wissen.
-- **Keine Freunde, nur Interesse** (Talk, eigenes Thema; #155, Q14 und Q20): Fragt Lo ihn nach Freunden, sagt er, Jassi und Ida interessierten sich für Geschichte, mehr nicht. Das glaubt er wirklich. Jassi und Ida sagen Lo, warum sie ihn mögen: Er weiß immer etwas Interessantes zu erzählen und erklärt ihnen alles nett und geduldig. Er hat also zwei Freundinnen und weiß es nicht.
+- **Keine Freunde, nur Interesse** (Talk, eigenes Thema `freunde`; #155, Q14, Q20 und Q21): Fragt Lo ihn nach Freunden, sagt er, Jassi und Ida interessierten sich für Geschichte, mehr nicht. Das glaubt er wirklich. Jassi und Ida sagen Lo, warum sie ihn mögen: Er weiß immer etwas Interessantes zu erzählen und erklärt ihnen alles nett und geduldig. Er hat also zwei Freundinnen und weiß es nicht.
 
 ## Verborgen
 - Hat Angst vor Gewitter. Ausgerechnet er, der jede Artillerieschlacht aufzählen kann.
@@ -66,9 +66,11 @@ im_spiel: false
   - Kann alle zwölf Isonzoschlachten aufzählen.
   - Weiß, dass es seit 1919 keine Freiherren mehr gibt. (Der Schlüssel.)
   - Schläft mit einem Stoffhund namens Radetzky.
+  - `erklaert_gern`: „Erklärt Jassi und Ida alles, was sie wissen wollen." Lo erfährt es von Ida (Thema Tiere) oder von Jassi (Anvertrauen beim Mond) und kann ihn erst dann nach Freunden fragen (#155, Q21).
 - **Eigenes Thema „Der Erste Weltkrieg":**
   - „Am 28. Juni 1914 hat sich in Sarajevo der Chauffeur verfahren. Deshalb stand das Auto genau vor dem Attentäter. Das ist belegt."
   - Reveal, versteckt im Haufen: „…und Kaiser Karl hat am 11. November 1918 verzichtet, und am 3. April 1919 kam das Habsburgergesetz und das Adelsaufhebungsgesetz, Staatsgesetzblatt Nummer zweihundertelf. Seitdem gibt es keine Freiherren mehr. Wer sich trotzdem so nennt, bricht das Gesetz, sagt der Papa. Am Isonzo waren es übrigens zwölf Schlachten."
+- **Eigenes Thema `freunde` „Freunde"**, freigeschaltet über `erklaert_gern` (#155, Q21). Entwurf: „Jassi und Ida interessieren sich für Geschichte. Mehr nicht." Das glaubt er wirklich.
 - **Generische Themen:**
   - Wetter, likes: „Der Föhn ist ein warmer Fallwind. Adiabatische Erwärmung. Deshalb hat die Mama Kopfweh."
   - Monster, indifferent: „Monster sind Folklore. Das Tiroler Beispiel ist der Tatzelwurm. Nicht belegt."
