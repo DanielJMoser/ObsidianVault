@@ -49,7 +49,7 @@ Gespielt werden nur Werktage.
 | 2–4 | Di 15.9.–Do 17.9. | Lenis Eingewöhnung.                                                           |
 | 3   | Mi 16.9.          | Timotheus' Brief.                                                             |
 | 4   | Do 17.9.          | Thomas Eder zum ersten Mal in der Runde.                                      |
-| 11  | Mo 28.9.          | Max kommt von der Warteliste (Vorschlag).                                     |
+| 11  | Mo 28.9.          | Max' Aufnahme auf den Notfallplatz. Der Morgenbericht kündigt ihn an (#157).  |
 | 15  | Fr 2.10.          | Tag vor Jonas' fünftem Geburtstag. Am Sa 3.10. feiert er am Hof, und Thomas hat seinen ersten Samstag ohne Kinder (Vorschlag). |
 | 20  | Fr 9.10.          | Herbstfest, Timotheus richtet es aus. Frist für den Abwahlantrag (Vorschlag). |
 | 25  | Fr 16.10.         | Leni wird vier (Datenänderung angenommen).                                    |

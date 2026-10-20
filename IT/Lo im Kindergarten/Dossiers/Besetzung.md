@@ -15,7 +15,7 @@ Kanon aus dem Spiel (`content.de.json`) gilt. Wo die Lore Daten ändern will, st
 - **Träger:** ein Elternverein. Er stellt Lo an und zahlt sie. Sein Vorstand und seine Mitglieder sind der Council of Parents®.
 - **Aufsicht:** das Land Tirol. „Die Frau Inspektor Hofer isch vom Land Tirol."
 - **Kalender:** Kindergartenjahr 2026/27. Tag 1 = Montag, 14. September 2026. Gespielt werden nur Werktage. Tag 30 = Freitag, 23. Oktober.
-- **Gruppe:** zwölf Plätze. An Tag 1 sind es elf Kinder. Max kommt von der Warteliste nach.
+- **Gruppe:** zwölf Plätze, der zwölfte ist der Notfallplatz. An Tag 1 sind es elf Kinder. Max kommt von der Warteliste nach, seine Aufnahme ist an Tag 11, Mo 28.9. (#157).
 - **Council:** sieben Familien. Eine Familie, eine Stimme, einfache Mehrheit. Hinein kommt nur, wen einer der beiden Köpfe holt. Ein Sitz ist eine Schuld.
 - **Draußen:** fünf Familien. Sie haben keine Stimme, aber Hoffnung, und jede hängt an einem Lager.
   - **Im Spiel (#156):** Jede Familie draußen bekommt eine Parent-Zeile mit Sway 0,5. Der Council hört sie, Gutes wie Schlechtes bei ihren Kindern, gewichtet es aber schwächer als bei den eigenen Mitgliedern. Welcher Elternteil die Zeile bekommt und wie der Name lautet, entscheidet das Profil-Ticket des Kindes (#161–#165). Standard ist „Frau/Herr X".

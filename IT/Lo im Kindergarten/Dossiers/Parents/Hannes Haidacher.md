@@ -38,7 +38,7 @@ lager: pichler
 ## Verborgen
 
 - Er weiß, dass es ein gekaufter Platz war. Schlecht fühlt er sich nicht dabei.
-- Dass ein echter Härtefall dafür abgelehnt wurde, weiß er nicht. Er hat nie gefragt, wer sonst noch auf der Liste stand.
+- Dass ein echter Notfall dafür abgelehnt wurde, weiß er nicht (#157). Er hat nie gefragt, wer sonst noch auf der Liste stand.
 - Den Umzug nach Innsbruck wollte Evelyn. Er pendelt, so viel er muss, und ist im Saggen nicht daheim.
 
 ## Motive
