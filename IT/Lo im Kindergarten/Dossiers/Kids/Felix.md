@@ -53,7 +53,7 @@ im_spiel: false
 - [[Timotheus von Gruber]]: „Onkel Timo". Bringt Schokolade mit. Felix mag ihn, ein bisschen.
 - [[Nici]]: die Tochter vom Onkel Timo. Ihre Steine findet er fad, ihre Schatzkarten nicht.
 - [[Jonas]]: auch ein Fahrzeug-Bub. Traktor gegen Hubschrauber, das wird ernsthaft verhandelt.
-- [[Konstantin]]: erklärt ihm, dass ein Hubschrauber ein „Drehflügler" ist. Felix nickt und glaubt ihm kein Wort.
+- [[Leopold]]: erklärt ihm, dass ein Hubschrauber ein „Drehflügler" ist. Felix nickt und glaubt ihm kein Wort.
 - [[Max]]: sagt, das Klettergerüst gehört ihm, weil es sein Papa gekauft hat. Felix findet, es gehört der Bergrettung. (Vorschlag)
 - [[Max]]: Sie streiten, wem das Klettergerüst gehört, und spielen dann doch zusammen Bergung. (Vorschlag)
 - [[Valentina]]: Er ist hin und weg, wie sie klettert. Er selbst kommt nur bis zur zweiten Sprosse, sie bis ganz oben. Verliebt, auf seine Art.

@@ -68,7 +68,7 @@ Alles hier ist ein Vorschlag, kindgroß, und Jassi versteht es selbst nicht.
 - [[Susanne Pichler]]: Mama. Bewundert sie.
 - [[Florian Pichler]]: Papa. Der, der Zeit hat. Der fährt ins Planetarium.
 - [[Mira]]: war beim Frühlingsfest krank. Jassi bringt das nicht mit der Torte zusammen.
-- [[Konstantin]]: redet mit großen Wörtern. Jassi fragt so lange nach, bis er sie erklären muss.
+- [[Leopold]]: redet mit großen Wörtern. Jassi fragt so lange nach, bis er sie erklären muss.
 - [[Max]]: sagt, das Klettergerüst gehöre seinem Papa. Jassi: „Das Klettergerüst gehört allen!" (Vorschlag)
 - [[Matteo]]: der Koch in ihrem Restaurant. (Vorschlag)
 

@@ -3,7 +3,7 @@ typ: kind
 familie: ["[[Ferdinand Lichtenau]]"]
 im_spiel: false
 ---
-# Konstantin
+# Leopold
 > Der Älteste der Gruppe. Redet wie ein Notariatsakt und weiß mehr über 1914 bis 1919 als die meisten Erwachsenen im Saggen.
 
 ## Eckdaten
@@ -45,9 +45,9 @@ im_spiel: false
 - **Würde nie:** zugeben, dass er etwas nicht weiß. Radetzky mitnehmen.
 
 ## Beziehungen
-- [[Ferdinand Lichtenau]]: Vorbild. Er sagt am Tisch Sätze, die Konstantin im Kindergarten wiederholt.
+- [[Ferdinand Lichtenau]]: Vorbild. Er sagt am Tisch Sätze, die Leopold im Kindergarten wiederholt.
 - [[Jassi]]: die Einzige, die „warum" fragt und die Antwort auch wissen will. Er mag sie. Dass ihre Mama die Gegnerin seines Papas ist, weiß er nicht. (Vorschlag)
-- [[Matteo]]: hört zu. Konstantin erklärt ihm, warum seine Mama aus Italien kommt: Saint-Germain, 10. September 1919. (Vorschlag)
+- [[Matteo]]: hört zu. Leopold erklärt ihm, warum seine Mama aus Italien kommt: Saint-Germain, 10. September 1919. (Vorschlag)
 - [[Nici]]: Tochter des Herrn Baron. Er sagt ihr ohne Bosheit, dass ihr Papa gegen das Gesetz verstößt. (Vorschlag)
 
 ## Intrigen
@@ -56,7 +56,7 @@ im_spiel: false
 - [[Die Runde]]: **weiß**, dass donnerstags Besuch im Büro ist. Mehr nicht.
 
 ## Vorschlag fürs Kid-Profil
-- **Summary:** „Konstantin ist der Älteste und redet wie ein Lexikon mit Hemdkragen. Wer ihn nach dem Ersten Weltkrieg fragt, sollte Zeit haben. Mit den anderen spielt er selten, er baut lieber allein Befestigungen."
+- **Summary:** „Leopold ist der Älteste und redet wie ein Lexikon mit Hemdkragen. Wer ihn nach dem Ersten Weltkrieg fragt, sollte Zeit haben. Mit den anderen spielt er selten, er baut lieber allein Befestigungen."
 - **Refusal:** „Ich lehne dieses Gespräch ab. Formal und inhaltlich."
 - **Facts:**
   - Hat am 2. November Geburtstag.

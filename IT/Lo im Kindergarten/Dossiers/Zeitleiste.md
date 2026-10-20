@@ -16,7 +16,7 @@ Eine Quelle für jedes Datum. Dossiers verweisen hierher, statt Daten neu zu erf
 - **2003/04:** Susanne Pichler und Notburga Hofer wohnen in einer WG in Wilten. Die Miete zahlt Papa Pichler.
 - **2015:** Timotheus heiratet Amelie aus Meran. Monika Pixner kommt mit ihr aus dem Passeier.
 - **2019:** Thomas Eder fängt als Bauleiter im Ingenieurbüro von Gruber an.
-- **2. November 2020:** Konstantin Lichtenau geboren.
+- **2. November 2020:** Leopold Lichtenau geboren.
 - **2021:** Jassi (9. März), Felix (12. Juni), Nici (27. August) geboren.
 - **2023:** Verena Holzknecht wird Timotheus' Steuerberaterin.
 - **Herbst 2024:** Timotheus nimmt 8.000 € aus der Vereinskassa, „Statikgutachten Gartenhütte", für Grundsteuer und Anwalt.
@@ -27,7 +27,7 @@ Eine Quelle für jedes Datum. Dossiers verweisen hierher, statt Daten neu zu erf
 
 ## 2026
 
-- **Frühjahr:** Das Herbert-Porträt und zwei weitere Ahnenbilder werden in Wien versteigert. Der Exekutor kommt zum ersten Mal in die Villa. Konstantins vorzeitige Einschulung wird abgelehnt.
+- **Frühjahr:** Das Herbert-Porträt und zwei weitere Ahnenbilder werden in Wien versteigert. Der Exekutor kommt zum ersten Mal in die Villa. Leopolds vorzeitige Einschulung wird abgelehnt.
 - **Freitag, 22. Mai:** Frühlingsfest. Eine Nusstorte aus der Pichler-Küche. Mira bekommt einen anaphylaktischen Schock. Maria holt den Pen und ruft 144, Elisabeth Lichtenau setzt ihn. Danach führt Susanne die Allergieliste selbst.
 - **Juni:** Der Council kündigt Maria Kofler.
 - **Juli:**
@@ -58,4 +58,4 @@ Gespielt werden nur Werktage.
 ## Danach
 
 - **Mo 26. Oktober:** Nationalfeiertag.
-- **2. November:** Konstantin wird sechs.
+- **2. November:** Leopold wird sechs.

@@ -40,7 +40,7 @@ lager: gruber
 - An Tag 3 schreibt er Lo: Anerkennung gegen Loyalität.
 
 ## Entdeckbar
-- **Der Titel ist verboten.** Konstantin erzählt es Lo im Talk, irgendwo zwischen Weltkrieg und Habsburg. Lo kann es Susanne stecken, oder Frau Hofer.
+- **Der Titel ist verboten.** Leopold erzählt es Lo im Talk, irgendwo zwischen Weltkrieg und Habsburg. Lo kann es Susanne stecken, oder Frau Hofer.
 - **Er ist pleite.**
   - Nicis Steine heißen wie die Ahnen, deren Bilder verschwinden (Talk: Steinsammlung).
   - Matteo weiß, wann „der Mann mit den Pickerln" kommt.

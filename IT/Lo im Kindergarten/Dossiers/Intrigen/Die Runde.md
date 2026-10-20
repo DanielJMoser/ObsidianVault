@@ -1,6 +1,6 @@
 ---
 typ: intrige
-beteiligte: ["[[Timotheus von Gruber]]", "[[Ferdinand Lichtenau]]", "[[Verena Holzknecht]]", "[[Thomas Eder]]", "[[Konstantin]]"]
+beteiligte: ["[[Timotheus von Gruber]]", "[[Ferdinand Lichtenau]]", "[[Verena Holzknecht]]", "[[Thomas Eder]]", "[[Leopold]]"]
 zeit: läuft
 stand: 2026-09-30
 ---
@@ -37,12 +37,12 @@ stand: 2026-09-30
 | [[Ferdinand Lichtenau]] | alles | sein privates Protokoll | die Vorständin stürzen, ohne selbst sichtbar zu sein |
 | [[Verena Holzknecht]] | jedes Wort, und mehr über Timotheus als Ferdinand | wie schlimm seine Zahlen sind | dass sie gewinnt |
 | [[Thomas Eder]] | die Pläne | die Runde, vor Birgit („Überstunden") | seinen Job und die Partnerschaft |
-| [[Konstantin]] | dass donnerstags Besuch im Büro ist | nichts | — |
+| [[Leopold]] | dass donnerstags Besuch im Büro ist | nichts | — |
 | Elisabeth Lichtenau | wer donnerstags kommt | — | ihre Ruhe |
 
 ## Wie es herauskommt
 
-- **Konstantin:** „Am Donnerstag kommen immer Mandanten zum Papa. Abends. Mit Whisky." Bei hohem Vertrauen: „Das ist eine Fronde. Wie 1648." (Vorschlag)
+- **Leopold:** „Am Donnerstag kommen immer Mandanten zum Papa. Abends. Mit Whisky." Bei hohem Vertrauen: „Das ist eine Fronde. Wie 1648." (Vorschlag)
 - **Jonas:** „Der Papa macht am Donnerstag immer Überstunden. Beim Herrn Lichtenau." Jonas kann Lo nichts verschweigen. (Vorschlag)
 - **Birgit Eder** hält die Überstunden für Katharina. Sie liegt falsch, aber nicht ganz. Siehe [[Samstage]].
 

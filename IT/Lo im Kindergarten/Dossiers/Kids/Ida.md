@@ -54,7 +54,7 @@ im_spiel: false
 - [[Friederike Behrens]]: Mama. Meistens im Dienst.
 - [[Jan-Hendrik Behrens]]: Papa. Meistens in der Vorlesung.
 - [[Leni]]: auch neu, auch nicht von hier. Leni sagt Gelsen, Ida sagt Mücken, die anderen sagen Muggen. Das verbindet. (Vorschlag)
-- [[Konstantin]]: redet so, dass sie ihn gut versteht. Hört ihm als Einzige bis zum Ende zu.
+- [[Leopold]]: redet so, dass sie ihn gut versteht. Hört ihm als Einzige bis zum Ende zu.
 - [[Jassi]]: In Jassis Restaurant bestellt Ida immer „ein Brötchen". Jassi hat es auf die Karte geschrieben.
 
 ## Intrigen
@@ -68,7 +68,7 @@ im_spiel: false
 - **Eigenes Thema** `hafen`, „Der Hafen": „In Hamburg sind die Schiffe so groß wie ein Berg. Wirklich!"
 - **Eigene Aktivität** `schiffe`, „Papierschiffe falten".
 - **likedPlaces:** maltisch, buecherregal, kaufladen.
-- **likedKids:** leni, konstantin.
+- **likedKids:** leni, leopold.
 - **Refusal:** „Heute erzähl ich nichts." Ida räumt Stifte ein, einen nach dem anderen.
 - **Reaktion auf Monster:** „Monster gibt es nicht. Hat der Papa erklärt. Ausführlich." (indifferent)
 - **Storm-in:** „Oh. Tschüss!" Die Tür geht so schnell zu, wie sie aufgegangen ist.

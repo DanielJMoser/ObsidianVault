@@ -75,7 +75,7 @@ im_spiel: true
 - [[Jassi]]: keine Feindin. Aber ins Restaurant geht Mira nicht, und Jassis Mama schaut sie nicht an.
 - [[Susanne Pichler]]: „die Jassi-Mama". Hat ihr das Stück gegeben.
 - [[Maria Kofler]]: die frühere Pädagogin, die ihr die Hand gehalten hat.
-- Elisabeth Lichtenau: „Die Konstantin-Mama hat mich gestochen." Mit dem Pen. (Vorschlag)
+- Elisabeth Lichtenau: „Die Leopold-Mama hat mich gestochen." Mit dem Pen. (Vorschlag)
 - [[Lo]]: die Neue. Muss erst fragen lernen.
 
 ## Intrigen

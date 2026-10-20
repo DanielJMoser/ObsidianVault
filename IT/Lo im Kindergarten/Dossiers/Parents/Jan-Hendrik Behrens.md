@@ -54,7 +54,7 @@ lager: pichler
 - [[Friederike Behrens]]: Frau. Ein gutes Team, das sich selten sieht.
 - [[Ida]]: Tochter. Er liebt sie und hört ihr mit einem Ohr zu, das andere ist bei der Arbeit.
 - [[Susanne Pichler]]: Sie schmeichelt seinem Fach: „Sie als Experte". Er glaubt, er durchschaut sie, und durchschaut sie nicht.
-- [[Konstantin]]: findet er faszinierend. Ein Bub, der wie ein Seminar redet. Ferdinand Lichtenau grüßt ihn knapp.
+- [[Leopold]]: findet er faszinierend. Ein Bub, der wie ein Seminar redet. Ferdinand Lichtenau grüßt ihn knapp.
 
 ## Intrigen
 

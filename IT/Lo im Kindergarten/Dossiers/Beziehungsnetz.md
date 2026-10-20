@@ -145,12 +145,12 @@ flowchart LR
   Matteo ---|Koch im Restaurant| Jassi
   Hannah ---|Kassiererin| Jassi
   Ida -. mag .-> Leni
-  Ida -. mag .-> Konstantin
+  Ida -. mag .-> Leopold
   Felix ---|Streit, dann Bergung| Max
   Valentina -->|klettert höher| Max
   Jonas -->|petzt| Valentina
-  Konstantin -->|erklärt alles| Felix
-  class Mira,Leni,Nici,Jonas,Jassi,Felix,Valentina,Hannah,Matteo,Ida,Max,Konstantin internal-link;
+  Leopold -->|erklärt alles| Felix
+  class Mira,Leni,Nici,Jonas,Jassi,Felix,Valentina,Hannah,Matteo,Ida,Max,Leopold internal-link;
 ```
 
 - **Kanon-Freundschaften** (beidseitig): Mira–Leni, Mira–Nici, Jonas–Leni, Jonas–Jassi, Jassi–Nici.
@@ -174,8 +174,8 @@ flowchart LR
   Leni --> VI
   Valentina --> VI
   Hannah --> K["Das Loch in der Kassa"]
-  Konstantin --> F["Freiherr von"]
-  Konstantin --> R["Die Runde"]
+  Leopold --> F["Freiherr von"]
+  Leopold --> R["Die Runde"]
   Jonas --> R
   Jonas --> S["Samstage"]
   Leni --> S
@@ -184,7 +184,7 @@ flowchart LR
   Ida --> VS["Der versprochene Sitz"]
   Hannah --> VS
   Max --> VS
-  class Mira,Jassi,Max,Felix,Matteo,Nici,Leni,Valentina,Hannah,Konstantin,Jonas,Ida,N,Z,O,VI,K,F,R,S,W,VS internal-link;
+  class Mira,Jassi,Max,Felix,Matteo,Nici,Leni,Valentina,Hannah,Leopold,Jonas,Ida,N,Z,O,VI,K,F,R,S,W,VS internal-link;
 ```
 
 ## 8. Erwachsene, die etwas wissen
