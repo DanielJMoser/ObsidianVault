@@ -34,6 +34,7 @@ stand: 2026-09-30
 ## Wie es herauskommen kann
 
 - **Hannah:** „Der Papa sagt, der Herr Baron hat ihm das Geld gestohlen." Kindlich falsch verstanden, aber im Kern wahr.
+  - **Im Spiel (#163):** Talk Lieblingsessen, ohne Vertrauens-Schranke. Dieselbe Zeile sagt, dass der Herr Baron Nicis Papa ist (Fact `baron`). Bei Papas Bank erzählt sie, dass der Papa Kassier war, „bis ihn die beschissen ham". Die Gartenhütte nennt keine Zeile; die Verbindung zur Absperrung im Garten zieht der Spieler über deren Bemerkung (fr-067).
 - **Die Bücher:** die Rechnung von 2024 und die Storno-Überweisung von 2025. Verena hat beides.
 - **Das Protokoll:** Lichtenaus „Buchungsfehler" liegt neben dem Prüfbericht von 2024.
 - **Plattner:** wenn Lo ihn beim Abholen anspricht.

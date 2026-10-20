@@ -22,6 +22,12 @@ lager: pichler
 ## Kanon
 - — noch nicht im Spiel. Quelle: [[Besetzung]], [[Zeitleiste]], [[Das Loch in der Kassa]].
 
+## Geplant (#163)
+- **Parent-Zeile:** `herr_plattner`, Kind `hannah`, „Herr Plattner", Sway 0,5 wie jede Familie draußen (#156), kein Patron. Er bekommt die Zeile, weil er Hannah abholt. Kein „Ing.": Er ist nicht eitel.
+- **Seine Sätze** kommen über Hannah ins Spiel, Wort für Wort: der Herr Baron und das Geld beim Lieblingsessen, die Gauner im Council bei den Monstern, und bei Papas Bank, dass er Kassier war, „bis ihn die beschissen ham", und dass er seinen Sitz zurückkriegt. Das Anvertrauen bringt Sandras „Er soll's endlich gut sein lassen". Siehe [[Hannah]], *Kid-Profile (entschieden, #163)*.
+- **Die Gartenhütte** bleibt in seinem Verborgen; keine Zeile nennt sie.
+- **Die kleine Schwester** gilt; Hannahs Dossier sagte bisher „Einzelkind" und ist korrigiert.
+
 ## Oberfläche
 - Holt Hannah pünktlich ab, im Anzug, die Krawatte schon gelockert.
 - Grüßt die Council-Eltern knapp. Timotheus grüßt er nicht.
