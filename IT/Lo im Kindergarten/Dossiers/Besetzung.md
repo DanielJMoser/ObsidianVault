@@ -19,6 +19,7 @@ Kanon aus dem Spiel (`content.de.json`) gilt. Wo die Lore Daten ändern will, st
 - **Council:** sieben Familien. Eine Familie, eine Stimme, einfache Mehrheit. Hinein kommt nur, wen einer der beiden Köpfe holt. Ein Sitz ist eine Schuld.
 - **Draußen:** fünf Familien. Sie haben keine Stimme, aber Hoffnung, und jede hängt an einem Lager.
   - **Im Spiel (#156):** Jede Familie draußen bekommt eine Parent-Zeile mit Sway 0,5. Der Council hört sie, Gutes wie Schlechtes bei ihren Kindern, gewichtet es aber schwächer als bei den eigenen Mitgliedern. Welcher Elternteil die Zeile bekommt und wie der Name lautet, entscheidet das Profil-Ticket des Kindes (#161–#165). Standard ist „Frau/Herr X".
+    - **Pixner (#162):** `frau_pixner`, „Frau Pixner". Monika holt Matteo ab.
 - **Kreislauf:** Jeden Sommer gehen die Vorschulkinder, ihre Sitze werden frei. Um diese Sitze wird gekämpft.
 - **Abwahl:** nur in der Hauptversammlung.
 

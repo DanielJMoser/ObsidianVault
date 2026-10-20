@@ -52,6 +52,7 @@ stand: 2026-09-30
 
 - **Nici:** Ihre Steine tragen die Namen der verschwundenen Ahnen. Herbert ist der älteste. Die Schätze vergräbt sie unter der Rutsche, „damit sie keiner abholt".
 - **Matteo:** „Heut war wieder der Mann mit den Pickerln beim Herrn Baron."
+  - **Im Spiel (#162):** über Matteos eigenes Topic Villa, das Talk Monster freischaltet (Fact `pickerl`). Die Bilder erwähnt er bei Talk Wetter, ohne Fact: „Da hängen jetzt keine Bilder mehr, nur die Nägel."
 - **Leni:** Sie verhandelt wie über einen Mietvertrag. „Die Mama sagt, der Herr Gruber ist ein Wucherer." (Vorschlag)
 - **Valentina:** „Mei Papa sagt, der Baron zahlt nia." (Vorschlag)
 

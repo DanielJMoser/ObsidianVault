@@ -37,6 +37,7 @@ stand: 2026-09-30
 
 - **Felix:** „Der Onkel Timo war wieder da. Der hat mir einen Schilling geschenkt." Oder beim Abholen, wenn Timotheus Nici holt: „Servus, Onkel Timo!"
 - **Matteo:** „Die Frau mit dem roten Auto kommt immer am Abend zum Herrn Baron."
+  - **Im Spiel (#162):** Matteos Anvertrauen auf sein Topic Villa, erst bei hohem Vertrauen und wenn Lo die Pickerl schon kennt (Fact `rotes_auto`). Felix' „Onkel Timo" sollte nicht ebenso hinter einem Anvertrauen liegen (#159).
 - **Amelie:** wenn sie beschließt, dass es ihr nützt.
 
 ## Was es kippt

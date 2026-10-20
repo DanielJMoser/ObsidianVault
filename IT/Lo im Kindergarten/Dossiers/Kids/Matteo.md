@@ -15,6 +15,8 @@ im_spiel: false
 - **Allergien:** keine.
 - **Stimme:** Deutsch mit italienischen Brocken: „dai", „basta", „ecco", „Mamma mia".
   - „Ecco, schau. Der Mann mit den Pickerln war wieder da."
+  - **Im Spiel (#162):** höchstens ein Brocken pro Zeile, nicht in jeder. Am liebsten ein deutsches Wort, das ihm fehlt und für das das italienische einspringt („den großen … den armadio"), sonst „ecco", „dai", „basta", „scusa". Kein „Mamma mia", das ist Klischee. Zur Mama sagt er „Mama", weil Monika mit ihm Deutsch redet. Südtiroler Wörter: Muggen, Marende.
+  - **Flüche (#162):** „Dio cane!" (vom Papa aus dem Trentino) und „Putaner!" (Südtirol). Er plappert sie nach, ohne zu wissen, was sie heißen. Nur an zwei Stellen: „Dio cane" beim Topic Hotelküche, „Putaner" in der Refusal.
 
 ## Kanon
 
@@ -30,9 +32,13 @@ im_spiel: false
 ## Entdeckbar
 
 - **Der Mann mit den Pickerln.** Talk Wochenende: „Heut war wieder der Mann mit den Pickerln beim Herrn Baron. Der hat auf den großen Kasten ein Pickerl gepickt." Daraus erfährt Lo vom Exekutor. (Vorschlag)
+  - **Im Spiel (#162):** nicht beim Wochenende, denn der Exekutor kommt an Werktagen. Stattdessen Talk Villa, das eigene Topic, das Talk Monster freischaltet. Fact `pickerl`.
 - **Das rote Auto.** „Die Frau mit dem roten Auto kommt immer am Abend zum Herrn Baron." Siehe [[Onkel Timo]]. (Vorschlag)
+  - **Im Spiel (#162):** sein einziges Anvertrauen, auf Talk Villa. Fact `rotes_auto`. Er versteckt nichts. Er kommt nur erst darauf, wenn er mit Lo warm ist und länger erzählt.
 - **Die Samstage.** „Der Herr vom Büro geht am Samstag immer hinauf." Siehe [[Samstage]]. (Vorschlag)
+  - **Im Spiel (#162):** Talk Wochenende. Fact `samstag`. Neben Jonas' Kanon-Zeile („Am Samstag war ich bei der Leni") kann der Spieler selbst darauf kommen, wer da hinaufgeht.
 - **Die Bilder.** „Bei der Nici sind die Wände jetzt leer. Die Bilder sind nach Wien gefahren." (Vorschlag)
+  - **Im Spiel (#162):** nur eine Zeile, kein Fact. Talk Wetter, wenn er abschweift. Den Fact dazu hätte erst Nicis „Herbert ist ein Bild".
 
 ## Verborgen
 
@@ -46,15 +52,53 @@ im_spiel: false
 - **Fürchtet:** dass die Nici weggeht.
 - **Würde nie:** ein Geheimnis behalten, wenn jemand fragt. Er weiß gar nicht, dass es Geheimnisse sind.
 
-## Kid-Profile (Vorschlag)
+## Kid-Profile (entschieden, #162)
 
-- **Fact** `papa_koch`: „Sein Papa ist Koch in einem Hotel."
-- **Topic** `kochen`: „Wie der Papa kocht", freigeschaltet über `papa_koch`.
+Gegrillt mit dem Entwickler am 2026-10-20. Das Profil ist `placeholder: true`; jede Zeile ist ein Entwurf für den Durchgang des Entwicklers. Die Fäden aus *Entdeckbar* kommen über Facts, `reveals` und ein Anvertrauen hinein; *Verborgen* bleibt draußen.
+
+- **name:** Matteo
+- **summary:** „Matteo kennt jedes Küchenwort und erzählt gern und viel, auf Deutsch, bis ihm ein Wort fehlt. Dann geht es auf Italienisch weiter. Meistens steht er in der Sandkiste oder beim Kaufladen. Mit Nici spielt er, als wären sie Geschwister. Sie ist die Große."
+  - Kein „weil der Papa Koch ist": keine erklärten Eigenheiten, und sonst wäre `papa_koch` ab Tag 1 verraten.
+- **refusal:** „Putaner!" Matteo dreht dir den Rücken zu und erzählt den Rest der Sandkiste, auf Italienisch.
+- **Facts:**
+  - `birthday`: „Hat am 11. Februar Geburtstag."
+  - `papa_koch`: „Sein Papa ist Koch in einem Hotel."
+  - `keller`: „Wohnt ganz unten in der Villa von den Grubers, unter der Nici."
+  - `pickerl`: „Sagt, beim Herrn Baron war wieder der Mann mit den Pickerln und hat ein Pickerl auf den großen Kasten gepickt."
+  - `samstag`: „Sagt, der Herr vom Büro geht am Samstag immer hinauf."
+  - `rotes_auto`: „Sagt, die Frau mit dem roten Auto kommt immer am Abend zum Herrn Baron ins Büro."
+  - Die drei Fäden stehen als „Sagt, …", wie Miras `stueck`: Die Notizen halten fest, was er gesagt hat, nicht, was es heißt. Das Wort „Exekutor" steht nirgends.
+  - Die Bilder bekommen keinen Fact.
+- **Eigene Topics:**
+  - `kochen`, „Die Hotelküche", freigeschaltet über `papa_koch`. Statt „Wie der Papa kocht": passt zu den Kanon-Labels und zu seinem Motiv.
+  - `villa`, „Die Villa", freigeschaltet über `keller`.
+- **Eigene Activity:** `sandrisotto`, „Sandrisotto kochen", freigeschaltet über `papa_koch` (wie Jassis `kochbuch` → `restaurant`).
+- **Reaktionen:**
+
+| Topic | Taste | Zeile | reveals |
+|---|---|---|---|
+| `wetter` | likes | „Wenn's regnet, spiel ich mit der Nici oben im Gang. Da hängen jetzt keine Bilder mehr, nur die Nägel. Die Bilder sind nach Wien gefahren." | — |
+| `tiere` | dislikes | „Bei uns unten gibt's nur Muggen. Der Papa sagt zanzare, die Mama sagt Muggen, und ich sag: basta!" Matteo haut nach einer, die gar nicht da ist. | — |
+| `essen` | likes | „Mein Papa kocht Risotto. Für hundert Leute! Und am Sonntag für uns." | `papa_koch` |
+| `wochenende` | indifferent | „Am Samstag hab ich mit der Mama die Post geholt. Der Herr vom Büro ist wieder hinaufgegangen, ganz hinauf. Ecco, am Samstag geht der immer hinauf." | `samstag` |
+| `monster` | likes | „Monster wohnen im Keller. Wir wohnen auch im Keller, und ich hab noch nie eins gesehen. Nur die Waschmaschine." | `keller` |
+| `kochen` | likes | „In der Hotelküche ist der Topf so groß wie ich, sagt der Papa. Einmal darf ich mit. Und wenn beim Papa was anbrennt, sagt er: ‚Dio cane!'" Matteo schaut, ob du jetzt schimpfst. | — |
+| `villa` | indifferent | „Beim Herrn Baron war wieder der Mann mit den Pickerln. Der hat ein Pickerl auf den großen … den armadio gepickt. Mir hat er keins gegeben." Matteo ist ein bisschen beleidigt. | `pickerl` |
+| ↳ Anvertrauen | likes | „Weißt du was? Am Abend kommt immer die Frau mit dem roten Auto zum Herrn Baron. Ins Büro, wenn alle anderen schon heim sind. Die Mama sagt, sie sieht nie was." | `rotes_auto` |
+
+  - **Die Kette:** `monster` → `keller` → Topic `villa` → `pickerl`; ab `confideThreshold`, wenn Lo `pickerl` kennt, das rote Auto.
+  - **„Keller"** steht nur in der Monster-Zeile; bei `tiere` sagt er „unten".
+  - **„Am Sonntag für uns"** bleibt: harmlose Oberfläche. Dass er den Papa unter der Woche kaum sieht, kommt in keine Zeile.
+  - **„Die Mama sagt, sie sieht nie was"** zitiert Monikas Spruch („I sich nia wos"). Die Ironie liest der Spieler; ihr *Verborgen* wird nicht ausgesprochen.
+  - Geschmack: vier likes, zwei indifferent, ein dislikes, dazu das Anvertrauen likes.
+- **`loo.storm_in.matteo`:** „Scusa!" Matteo macht die Tür zu und gleich wieder auf. „Bist du bald fertig? Die Marende ist schon da." (Platzhalter)
+- **restrictions:** keine.
+- **Parent-Zeile:** `frau_pixner`, „Frau Pixner", Sway 0,5, kein Patron. Monika holt ihn ab; siehe [[Monika Pixner]].
 - **likedPlaces:** sandkiste, kaufladen (#155). „garten" ist kein Place, und zwei reichen: „Ist immer in der Sandkiste oder beim Kaufladen."
 - **likedKids:** nici, jassi, beide beidseitig (#155).
 - **Sitz:** `tisch_06`, neben Nici (#155).
 - **groupActivityDislikes:** keine (#155).
-- **Reaktion** auf `essen`, likes, reveals `papa_koch`: „Mein Papa kocht Risotto. Für hundert Leute! Und am Sonntag für uns."
+- **Platzhalter:** `placeholder: true` am Profil, keine Endung „(Platzhalter)" an den Profilzeilen; die Klo-Zeile endet darauf wie die der Kanon-Kinder.
 
 ## Beziehungen
 
@@ -83,4 +127,4 @@ Entschieden mit dem Entwickler am 2026-10-20 (Figuren-Matrix). Gebaut wird aus `
 ## Offene Fragen
 
 - **(geteilt, übernommen)** Ist Matteo der Koch in Jassis Restaurant? Das gehört auch in Jassis Dossier. (Vorschlag)
-- Sein Geburtstag ist ein Vorschlag.
+- ~~Sein Geburtstag ist ein Vorschlag.~~ Entschieden: 11. Februar (#162).

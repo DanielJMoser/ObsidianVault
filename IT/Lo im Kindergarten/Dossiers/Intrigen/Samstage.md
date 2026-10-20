@@ -43,6 +43,7 @@ stand: 2026-10-05
 - **Leni:** „Der Jonas-Papa repariert immer was bei uns. Diesmal den Wasserhahn." (Vorschlag)
 - **Jonas,** nach dem 3. Oktober: „Am Samstag war ich beim Opa. Der Papa war bei der Leni-Mama." (Vorschlag)
 - **Matteo:** „Der Herr vom Büro geht am Samstag immer hinauf." (Vorschlag)
+  - **Im Spiel (#162):** Talk Wochenende, Fact `samstag`. Neben Jonas' Kanon-Zeile über dasselbe Thema.
 - **Birgit,** beim Abholen: Sie fragt Lo, wer die Mama von der Leni ist.
 
 ## Was es kippt

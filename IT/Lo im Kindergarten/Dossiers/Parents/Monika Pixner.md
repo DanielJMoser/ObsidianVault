@@ -25,6 +25,11 @@ lager: gruber
 
 — noch nicht im Spiel. Quelle: die Besetzung.
 
+## Geplant (#162)
+
+- **Parent-Zeile:** `frau_pixner`, Kind `matteo`, „Frau Pixner", Sway 0,5 wie jede Familie draußen (#156), kein Patron. Sie bekommt die Zeile, weil sie Matteo abholt; Stefano arbeitet bis Mitternacht.
+- **Ihr Spruch** steckt in Matteos Anvertrauen: „Die Mama sagt, sie sieht nie was." Die Ironie liest der Spieler; was sie wirklich sieht, sagt keine Zeile.
+
 ## Oberfläche
 
 - Holt Matteo pünktlich ab, in Arbeitsschürze, die Schlüssel am Gürtel.
@@ -83,3 +88,4 @@ lager: gruber
 - **(geteilt, übernommen)** Zahlt Amelie Monikas Lohn privat, seit Timotheus nicht mehr pünktlich zahlt? Das gehört auch in Amelies Dossier und in [[Die Villa]].
 - **(geteilt, übernommen)** Wer zahlt Matteos Beitrag beim Elternverein? Vorschlag: Amelie hat den Platz besorgt und zahlt mit.
 - Bekommt Monika im Spiel eine Rolle, zum Beispiel beim Abholen?
+  - **Teils (#162):** Sie ist die Zeugin an der Tür, als Parent-Zeile. Eine eigene Rolle beim Abholen oder in Nachrichten bleibt offen (fr-012).
