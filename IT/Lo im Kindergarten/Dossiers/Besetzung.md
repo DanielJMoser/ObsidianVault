@@ -18,6 +18,7 @@ Kanon aus dem Spiel (`content.de.json`) gilt. Wo die Lore Daten ändern will, st
 - **Gruppe:** zwölf Plätze. An Tag 1 sind es elf Kinder. Max kommt von der Warteliste nach.
 - **Council:** sieben Familien. Eine Familie, eine Stimme, einfache Mehrheit. Hinein kommt nur, wen einer der beiden Köpfe holt. Ein Sitz ist eine Schuld.
 - **Draußen:** fünf Familien. Sie haben keine Stimme, aber Hoffnung, und jede hängt an einem Lager.
+  - **Im Spiel (#156):** Jede Familie draußen bekommt eine Parent-Zeile mit Sway 0,5. Der Council hört sie, Gutes wie Schlechtes bei ihren Kindern, gewichtet es aber schwächer als bei den eigenen Mitgliedern. Welcher Elternteil die Zeile bekommt und wie der Name lautet, entscheidet das Profil-Ticket des Kindes (#161–#165). Standard ist „Frau/Herr X".
 - **Kreislauf:** Jeden Sommer gehen die Vorschulkinder, ihre Sitze werden frei. Um diese Sitze wird gekämpft.
 - **Abwahl:** nur in der Hauptversammlung.
 
@@ -51,6 +52,7 @@ Kanon aus dem Spiel (`content.de.json`) gilt. Wo die Lore Daten ändern will, st
   - Thomas Eder verdankt Susanne zwar den Sitz, aber Timotheus seinen Job.
 - **Wie Timotheus zählt:** Er kennt Verena und Thomas und traut Brunner nicht. Also rechnet er mit 4:3. Das ist ihm zu knapp für eine geheime Wahl, und beide Stimmen sind verdeckt und zerbrechlich. Er braucht noch eine sichere Stimme: Aigner, über die Wahrheit zur Nusstorte, oder Brunner, über den Mietvertrag.
 - **Wer entscheidet:** wer Aigner, Brunner, Eder oder Holzknecht dreht.
+- **Sway im Spiel (#156):** Sway folgt dem Platz im Elternrat: die Köpfe 3, Kassierin und Schriftführer 2, die Mitglieder 1, die Familien draußen 0,5. Zusammen 15,5. Sway ist kein Stimmrecht. Die neuen Parent-Zeilen heißen „Mag.ᵃ Verena Holzknecht" und „Dr. Ferdinand Lichtenau". Keiner der beiden ist Patron, vorerst. Das Lager steht in keiner Zeile.
 
 Susanne hat Thomas Eder den Sitz gegeben, um Timotheus einen Mann abzuwerben. Timotheus hat ihn über das Büro zurückgeholt, und davon weiß sie nichts.
 
@@ -132,6 +134,7 @@ Jede wird ein Dossier in `Intrigen/`.
   - Nici bekommt eine Erdbeerallergie als neuen Fact.
   - Mira bekommt den Satz über die „Jassi-Mama" als neuen Fact, zu entdecken über `essen` bei hohem Vertrauen.
   - Timotheus hat Sway 3, das ist entschieden. Im Spiel steht noch 2: in der Parent-Zeile in `content.de.json`, in fr-052 (Sway-Summe 8 → 9) und in `ShippedDataTests.cs:1611`. Das wird ein eigenes Ticket.
+    - **Erledigt (#156 geprüft):** Im Spiel steht seit #117 Sway 3, die Summe ist 9.
 - **Hauptversammlung:** entschieden. Sie ist an Tag 30 und beendet das Spiel. Lo ist dabei, und das Ende hat Versionen, je nach ihren Entscheidungen. Siehe [[Die Hauptversammlung]].
 - **Gewalt:** noch nirgends gesetzt, nur wenn die Geschichte es verlangt. Idas Vernachlässigung ist der einzige schwere Faden bisher.
 - **Namen:** Lichtenau, Holzknecht, Haidacher, Plattner, Kirchmair, Pixner und Behrens sind erfunden. Maria Kofler grüßt die Maria aus dem Vorgänger-Projekt.

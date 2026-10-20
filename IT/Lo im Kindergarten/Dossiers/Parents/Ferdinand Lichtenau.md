@@ -24,6 +24,15 @@ Name ist Anspielung auf Peter Ruml von Lichtenau.
 - Noch nicht im Spiel. Quelle: Besetzung und Grilling vom 30.09.2026.
 - Sway in der Lore 2. Im Spiel keine Parent-Zeile.
 
+## Geplant (#156)
+Entschieden im Grilling am 2026-10-20.
+- **Parent-Zeile:** id `ferdinand_lichtenau`, Kind `leopold`, Name „Dr. Ferdinand Lichtenau", Sway 2. Sie kommt mit Leopolds Profil (#160), weil der Loader keinen Parent ohne Kind annimmt.
+- **Name:** Titel und Vorname wie bei den beiden Köpfen, denn er sitzt im Vorstand. Nur „Dr.", kein „iur." und kein „von": das Gegenstück zum titelgestapelten „Dipl.-Ing. Dr. Timotheus v. Gruber".
+- **Sway folgt dem Platz im Elternrat:** die Köpfe 3, Kassierin und Schriftführer 2, die Mitglieder 1, die Familien draußen 0,5. Sway ist kein Stimmrecht.
+- **Kein Patron**, vorerst. Er will den Sturz der Vorständin, ohne selbst sichtbar zu sein, und ein Angebot an Lo wäre sichtbar.
+- **Nachrichten:** Mit der Zeile ist er nach fr-012 (1b) ein möglicher Absender. Ob und was er schreibt, ist ein fr-012-Strang und noch offen. Der Ton liegt nahe: „Das nehme ich zu Protokoll."
+- **Lager:** in keiner Zeile, nirgends gezeigt.
+
 ## Oberfläche
 - Bringt Leopold jeden Tag um Viertel vor acht. Auf die Minute genau, ohne Ausnahme.
 - Anzug, Krawatte, Schirm, das zur Gelfrisur skulptierte Resthaar trotzt auch stärkerem Föhn.

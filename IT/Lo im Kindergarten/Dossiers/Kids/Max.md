@@ -13,7 +13,7 @@ im_spiel: false
 - **Wohnen:** die renovierte Villa im Saggen. Vorher das Hotel im Zillertal, wo immer wer da war, der ihm was gebracht hat.
 - **Herkunft:** Zillertal.
 - **Allergien:** keine.
-- **Ab wann:** Tag 11, Montag 28. September (Vorschlag).
+- **Ab wann:** Tag 11, Montag 28. September. Seine Aufnahme auf den Notfallplatz (#157).
 - **Stimme:** Zillertaler Dialekt, laut, direkt. „Mei Papa hat's Klettergerüst kauft, damit i einidarf."
 
 ## Kanon
@@ -66,13 +66,28 @@ im_spiel: false
 - **Eigene Aktivität** `gipfel`, „Wer zuerst oben ist": aufs Klettergerüst um die Wette.
 - **likedPlaces:** klettergeruest, sandkiste, rutsche, lego (#155). Er bringt jeden Tag etwas Neues mit, und an der Legokiste baut er dem Traktor eine Garage.
 - **likedKids:** felix beidseitig, jonas einseitig (#155). Mit Valentina nicht befreundet: Ist sie oben am Klettergerüst, kommt er nicht auf „sein" Gerüst.
-- **Sitz:** `tisch_12`, neben Los Stuhl. Bis zu seiner Ankunft ist er der leere zwölfte Platz (#155).
+- **Sitz:** `tisch_12`, neben Los Stuhl. Bis zu seiner Aufnahme ist er der leere zwölfte Platz (#155, #157).
 - **groupActivityDislikes:** `crafts` (#155).
 - **Refusal:** „I red heut nit mit dir. Du host nix zum Hergeben."
 - **Reaktion auf Essen:** „Bei uns daheim gibt's a Buffet. Do kannst nehmen, so viel du willst." (likes)
 - **Storm-in:** „Is des Klo a für Gäst?"
 
+## Aufnahme (#157)
+
+Entschieden mit dem Entwickler am 2026-10-20. Die Regel gilt für jedes Kind; Max ist das einzige, das sie braucht.
+
+- **Config:** Seine Roster-Zeile ist `{ "id": "max", "admittedOn": 11 }`. Alle anderen werden an Tag 1 aufgenommen.
+- **Vor Tag 11 ist er nirgends.** Er hat keine Notizbuch-Seite, keine Zeile bei der Abholung, keine Beschäftigung, keine Incidents, kein Petzen. Er steht nicht in der Essensausgabe-Schlange, zählt für keine Vorschrift und macht bei keiner Gruppenaktivität mit. Beim Storm-in kommt er nicht vor. `tisch_12` bleibt leer, und er zieht nichts aus dem Zufall: Die Tage 1–10 laufen wie ohne ihn.
+- **Der Morgenbericht an Tag 11** kündigt ihn an, einmal, und die Zeile bleibt in den Notizbuch-Berichten. Entwurf (`morgenbericht.aufnahme.max`, Platzhalter): „Der Council of Parents®: Ab heute besucht Max den Notfallplatz Ihrer Gruppe." Der Notfallplatz ist für den dringendsten Fall gedacht. Dass er an die Familie geht, die bezahlt hat, erklärt die Zeile nicht; das versteht, wer später „Mei Papa hat's Klettergerüst kauft" hört.
+- **Vertrauen:** Er startet am Tag 11 mit dem Startwert wie jedes Kind an Tag 1, also „ist zurückhaltend". Der tägliche Verlust beginnt am Abend seines ersten Tages. Das passt zu „Am ersten Tag weint er nicht, er schaut."
+- **In der Szene:**
+  - Er steht bei der Tageseröffnung an der Garderobe, bei seinem Haken, und läuft von dort in die Bringzeit.
+  - Sein Garderobenzeichen klebt ab Tag 1 über dem Haken, weil der Platz seit Juli vergeben ist. Jacke und Hausschuhe hängen erst ab Tag 11 dort (#171).
+  - An den Tagen 1–10 sieht Lo also einen zwölften Haken und einen zwölften Stuhl, zu denen kein Kind gehört.
+- **Die Haidacher-Zeile** (#156, Sway 0.5) gibt es ab Tag 1. Bis zur Aufnahme sieht sie nichts und zählt nichts.
+- **Aufgabe:** #157 verlangt keine. Ob es eine Eingewöhnungsaufgabe für Max gibt, wie die von Leni, entscheidet #165.
+
 ## Offene Fragen
 
 - **(geteilt, übernommen)** Felix und Max streiten ums Klettergerüst und spielen am Ende trotzdem zusammen. Passt das zu Felix' Dossier? Dort steht der Streit schon als Vorschlag.
-- Wann kommt Max genau? Vorschlag: Tag 11, wie in [[Der zwölfte Platz]].
+- ~~Wann kommt Max genau?~~ Entschieden: Tag 11, Montag 28. September (#157).

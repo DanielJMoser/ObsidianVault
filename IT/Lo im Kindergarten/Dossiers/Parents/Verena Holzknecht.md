@@ -26,6 +26,18 @@ lager_wahr: gruber
 - Noch nicht im Spiel. Quelle: [[Besetzung]].
 - Keine Parent-Zeile. Sway 2 gilt nur in der Lore.
 
+## Geplant (#156)
+
+Entschieden im Grilling am 2026-10-20.
+
+- **Parent-Zeile:** id `verena_holzknecht`, Kind `felix`, Name „Mag.ᵃ Verena Holzknecht", Sway 2. Sie kommt mit Felix' Profil (#159), weil der Loader keinen Parent ohne Kind annimmt.
+- **Name:** Titel und Vorname wie bei den beiden Köpfen, denn sie sitzt im Vorstand. Nur „Mag.ᵃ", ohne „rer. soc. oec.": Sie sagt nie ein Wort zu viel.
+- **Sway folgt dem Platz im Elternrat:** die Köpfe 3, Kassierin und Schriftführer 2, die Mitglieder 1, die Familien draußen 0,5. Sway ist kein Stimmrecht.
+- **Keine Patronin**, vorerst. Sie will Macht, die keiner sieht, und ein Angebot an Lo wäre sichtbar.
+- **Nachrichten:** Mit der Zeile ist sie nach fr-012 (1b) eine mögliche Absenderin. Ob und was sie schreibt, ist ein fr-012-Strang und noch offen.
+- **Lager:** in keiner Zeile, nirgends gezeigt. Wem sie wirklich dient, schließt der Spieler aus Felix' Zeilen.
+- **Donnerstags holt die Oma ab:** Das ändert nichts an ihrer Opinion. Sie zählt den Abholzustand jeden Tag.
+
 ## Oberfläche
 
 - Tadellos. Die Belege in Klarsichthüllen, der Kassabericht auf die Minute pünktlich.

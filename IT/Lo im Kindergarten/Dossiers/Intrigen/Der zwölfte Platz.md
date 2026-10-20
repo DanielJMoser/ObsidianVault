@@ -7,20 +7,20 @@ stand: 2026-09-30
 
 # Der zwölfte Platz
 
-> Ein Härtefallplatz, gekauft von einer Hoteliersfamilie.
+> Ein Notfallplatz, gekauft von einer Hoteliersfamilie (#157).
 
 ## Was war
 
 - **Vorgeschichte:** Es ist nicht der erste gekaufte Platz. 2025 hat Maria Kofler Susanne unter vier Augen auf einen merkwürdig frei gewordenen Platz angesprochen. Siehe [[Die Nusstorte]]. (Vorschlag)
-- **Die Gruppe:** Sie hat elf Plätze plus einen Reserveplatz „für Härtefälle". Laut Satzung vergibt der Vorstand ihn.
+- **Die Gruppe:** Sie hat elf Plätze plus einen Notfallplatz, freigehalten für den dringendsten Fall auf der Warteliste. Laut Satzung vergibt der Vorstand ihn (#157).
 - **Die Haidachers:** Hotel im Zillertal, seit dem Frühjahr 2026 in einer frisch renovierten Villa im Saggen. Max ist 4.
-- **Die andere Bewerbung:** eine alleinerziehende Mutter aus Pradl, ein echter Härtefall. Abgelehnt. (Vorschlag: ohne eigene Notiz)
+- **Die andere Bewerbung:** eine alleinerziehende Mutter aus Pradl, ein echter Notfall (#157). Abgelehnt. (Vorschlag: ohne eigene Notiz)
 - **Juli 2026, die Zahlung:**
   - 5.000 € bar im Kuvert für Susanne, „für die Stiftung". Evelyn Haidacher bringt es persönlich in die Maisonette. In der Stiftung verbucht wurde das Geld nie.
   - 18.000 € als „Spende" fürs Klettergerüst, überwiesen an den Verein, zwei Tage vor der Vorstandssitzung.
 - **Die Vorstandssitzung:** Susanne und Verena stimmen dafür. Timotheus lässt es durchgehen, weil er den Beweis will, nicht die Blockade. Lichtenau enthält sich.
 - **August:** Das Klettergerüst steht.
-- **Tag 11 (Mo 28.9.):** Max kommt (Vorschlag).
+- **Tag 11 (Mo 28.9.):** Max wird aufgenommen. Der Morgenbericht kündigt ihn an. Vorher ist er nirgends im Spiel, nur sein Garderobenzeichen und der leere `tisch_12` stehen schon da (#157).
 - **Obendrauf:** Susanne hat den Haidachers auch den nächsten Council-Sitz versprochen. Siehe [[Der versprochene Sitz]].
 
 ## Wer weiß was
@@ -41,6 +41,7 @@ stand: 2026-09-30
 - **Verenas Kopien:** wenn Lo an sie herankommt, oder wenn Timotheus sie Lo als Patron zeigt.
 - **Florian:** wenn er bricht.
 - **Die Stiftung:** Eine Spende der Haidachers taucht in den Büchern der Stiftung nicht auf.
+- **Der Morgenbericht an Tag 11:** „Der Council of Parents®: Ab heute besucht Max den Notfallplatz Ihrer Gruppe." (Platzhalter) Die Zeile erklärt nichts. Wer später hört, dass Max' Papa das Klettergerüst gekauft hat, merkt, wer den Platz für den dringendsten Fall bekommen hat (#157).
 
 ## Was es kippt
 
@@ -49,5 +50,5 @@ stand: 2026-09-30
 
 ## Offene Fragen
 
-- An welchem Tag kommt Max? Vorschlag: Tag 11.
+- ~~An welchem Tag kommt Max?~~ Entschieden: Tag 11, seine Aufnahme (#157).
 - Stimmt Lichtenau dafür oder enthält er sich? Hier steht Enthaltung, damit er sauber bleibt.
