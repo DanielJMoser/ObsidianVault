@@ -37,6 +37,7 @@ stand: 2026-10-05
   - Ida: „Mama sagt, wir kommen bald in den Council."
     - **Im Spiel (#161):** ein Anvertrauen auf `wochenende` (Fact `versprechen`). Die gewöhnliche Reaktion dort verrät `dienst` („Die Mama hat Dienst. Der Papa hat Vorlesung."); ab `confideThreshold`, wenn Lo das kennt, sagt sie: „Die Jassi-Mama hat gesagt, wir dürfen bald mitmachen. Im Council. Und dann ist die Mama bestimmt öfter da." (Platzhalter) Ihr Wort ist „bald mitmachen", Hannahs „zurück". Wer Ida vernachlässigt, hört es von ihr nie.
   - Max: „Mei Papa kriagt an Sitz."
+    - **Im Spiel (#165):** Es ist die Mama, nicht der Papa: Evelyn will den Sitz, Hannes will ihn nur für sie. Ein gewöhnliches Reveal auf `essen` (Fact `sitz`), ohne Hürde, und die Zeile nennt die Jassi-Mama: „Beim Abendessen hat d'Mama gsagt, nächstes Jahr kimmt sie in den Council. Des hat ihr d'Jassi-Mama versprochen." (Platzhalter) Max ist erst ab Tag 11 da, aber sein Weg hinein ist offen; sein Anvertrauen ist das Kuvert ([[Der zwölfte Platz]]).
   - Hannah: „Der Papa kriegt seinen Sitz zurück."
     - **Im Spiel (#163):** Talk Papas Bank, ihr eigenes Topic, das Talk Tiere freischaltet. Es ist ein gewöhnliches Reveal, kein Anvertrauen (Fact `sitz`), und die Zeile nennt die Jassi-Mama: „Aber er kriegt sein Sitz eh zruck, hat die Jassi-Mama versprochen." Hannah ist damit der leichte Weg hinein; Idas und Max' Zeile dürfen hinter einem Anvertrauen liegen.
   - Alle drei im selben Sandkasten. (Vorschlag)

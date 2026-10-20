@@ -23,6 +23,7 @@ Kanon aus dem Spiel (`content.de.json`) gilt. Wo die Lore Daten ändern will, st
     - **Plattner (#163):** `herr_plattner`, „Herr Plattner". Manni holt Hannah ab.
     - **Behrens (#161):** `frau_behrens`, „Frau Dr. Behrens". Ida holen Au-pairs ab; Friederike meldet sich und wartet am meisten auf den Sitz. „Frau Dr." trennt sie von den Council-Zeilen mit Vornamen.
     - **Kirchmair (#164):** `herr_kirchmair`, „Herr Kirchmair", ohne Titel. Sepp holt Valentina ab.
+    - **Haidacher (#165):** `frau_haidacher`, „Frau Haidacher", ohne Titel. Evelyn holt Max ab, immer zu früh. Die Zeile gibt es ab Tag 1; bis zu Max' Aufnahme an Tag 11 sieht sie nichts (#157).
 - **Kreislauf:** Jeden Sommer gehen die Vorschulkinder, ihre Sitze werden frei. Um diese Sitze wird gekämpft.
 - **Abwahl:** nur in der Hauptversammlung.
 

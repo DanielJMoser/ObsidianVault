@@ -37,6 +37,8 @@ stand: 2026-09-30
 ## Wie es herauskommen kann
 
 - **Max:** „Mei Papa hat's Klettergerüst kauft, damit i einidarf." Bei höherem Vertrauen: „Und d'Mama hat der Jassi-Mama a Kuvert brocht." (Vorschlag)
+  - **Im Spiel (#165):** Das Klettergerüst ist ein gewöhnliches Reveal auf `wetter` (Fact `klettergeruest`), ohne Hürde, denn er sagt es jedem. Die Spenderplakette (fr-051) sagt nur „Gespendet von Familie Haidacher"; erst „damit i einidarf" macht aus der Spende einen gekauften Platz. Das Kuvert ist das Anvertrauen auf demselben Topic (Fact `kuvert`): ab `confideThreshold`, wenn Lo `klettergeruest` kennt, sagt er: „Des Klettergerüst hat mei Papa kauft. Und d'Mama hat der Jassi-Mama a Kuvert brocht, a ganz a dicks. I war dabei, an der Tür. […] Die Jassi war am Fenster." (Platzhalter) Max fängt an Tag 11 frisch an; kümmert sich Lo um ihn, kommt das Kuvert frühestens um Tag 13 oder 14.
+  - **Jassis Satz** unten bringt kein Ticket ins Spiel; im Spiel ist Max der einzige Weg zum Kuvert (offen auf der Map #152).
 - **Jassi:** „Eine Frau hat der Mama ein Kuvert gebracht. Dann hat der Papa ganz lang nix geredet."
 - **Verenas Kopien:** wenn Lo an sie herankommt, oder wenn Timotheus sie Lo als Patron zeigt.
 - **Florian:** wenn er bricht.

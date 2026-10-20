@@ -23,6 +23,12 @@ lager: pichler
 
 - Noch nicht im Spiel. Quelle: [[Besetzung]], [[Der zwölfte Platz]].
 
+## Geplant (#165)
+
+- **Parent-Zeile:** `frau_haidacher`, „Frau Haidacher", Kind `max`, Sway 0,5 (#156), kein Patron. Sie bekommt die Zeile, weil sie Max abholt, immer zu früh (Oberfläche), wie bei den Pixners und den Plattners. Kein Titel. Die Zeile gibt es ab Tag 1; bis zu Max' Aufnahme an Tag 11 sieht sie nichts und zählt nichts (#157).
+- **Was Max über sie sagt:** auf `essen` den Sitz („nächstes Jahr kimmt sie in den Council. Des hat ihr d'Jassi-Mama versprochen."), offen; auf `wetter` das Kuvert, als Anvertrauen ab `confideThreshold`. Siehe [[Max]], *Kid-Profile (entschieden, #165)*.
+- **Max' Eingewöhnung** (`max_eingewoehnung`, Tage 11–13): Versäumt Lo sie, ist Frau Haidacher die Zeugin.
+
 ## Oberfläche
 
 - Immer perfekt angezogen, immer zu früh beim Abholen, immer mit dem Handy in der Hand.

@@ -51,26 +51,66 @@ im_spiel: false
 - [[Felix]]: Streit ums Klettergerüst. Max sagt, es gehört ihm, weil es sein Papa gekauft hat. Felix sagt, es gehört der Bergrettung. Am Ende spielen sie trotzdem zusammen Bergung. Freunde, beidseitig (#155).
 - [[Jonas]]: Max mag ihn, einseitig (#155).
 - [[Jassi]]: kennt er vom Kuvert, sie ihn vom Fenster. Sonst nix.
-- [[Valentina]]: Er sagt, das Klettergerüst gehört seinem Papa. Sie sagt: „Kauft hast es du. Obn bin i." Und klettert höher. Er mault. (Vorschlag)
+- [[Valentina]]: Er sagt, das Klettergerüst gehört seinem Papa. Sie sagt: „Kauft hast es du. Obn bin i." Und klettert höher. Er mault. Entschieden (#165): Sie streitet nicht, sie klettert höher, und im Spiel hört man ihren Satz nur aus Max' Mund, auf `wetter`.
 
 ## Intrigen
 
 - [[Der zwölfte Platz]]: **weiß** „Papa hat's Klettergerüst kauft" und das Kuvert. **Verbirgt** nichts. **Will** klettern.
 - [[Der versprochene Sitz]]: hat beim Abendessen gehört, dass die Mama „nächstes Jahr" in den Council kommt. Erzählt es weiter.
 
-## Kid-Profile (Vorschlag)
+## Kid-Profile (entschieden, #165)
 
-- **birthday:** „Hat am 19. Februar Geburtstag."
-- **klettergeruest:** „Sagt, das Klettergerüst gehört seinem Papa." Das schaltet das Thema frei.
-- **Eigenes Thema** `hotel`, „Das Hotel": „Bei uns im Hotel gibt's an Pool. Drinnen! Und an Koch, der macht ma Pommes, wann i will."
-- **Eigene Aktivität** `gipfel`, „Wer zuerst oben ist": aufs Klettergerüst um die Wette.
-- **likedPlaces:** klettergeruest, sandkiste, rutsche, lego (#155). Er bringt jeden Tag etwas Neues mit, und an der Legokiste baut er dem Traktor eine Garage.
-- **likedKids:** felix beidseitig, jonas einseitig (#155). Mit Valentina nicht befreundet: Ist sie oben am Klettergerüst, kommt er nicht auf „sein" Gerüst.
-- **Sitz:** `tisch_12`, neben Los Stuhl. Bis zu seiner Aufnahme ist er der leere zwölfte Platz (#155, #157).
-- **groupActivityDislikes:** `crafts` (#155).
-- **Refusal:** „I red heut nit mit dir. Du host nix zum Hergeben."
-- **Reaktion auf Essen:** „Bei uns daheim gibt's a Buffet. Do kannst nehmen, so viel du willst." (likes)
-- **Storm-in:** „Is des Klo a für Gäst?"
+Gegrillt mit dem Entwickler am 2026-10-20. Das Profil ist `placeholder: true`; jede Zeile ist ein Entwurf für den Durchgang des Entwicklers. Die Fäden aus *Entdeckbar* kommen über Facts, `reveals` und zwei Anvertrauen hinein; *Verborgen* bleibt draußen.
+
+**Die Leitregel:** Max verbirgt nichts ([[Der zwölfte Platz]], Wer weiß was). Was herauskommt, entscheidet also das Thema, nach dem Lo fragt. Vertrauen hält zwei Zeilen zurück: das Kuvert, weil es das Explosivste ist und im Spiel keinen anderen Weg hat, und den ersten Tag, weil er das Einzige ist, was er wirklich nie zugeben würde (Motive), wie Felix' zweite Sprosse. Max fängt an Tag 11 bei Vertrauen 6 an; kümmert sich Lo jeden Tag ganz um ihn, erreicht er `confideThreshold` (12) um Tag 13 oder 14, mit nur einem Talk am Tag um Tag 23.
+
+- **name:** Max
+- **Stimme:** Zillertaler Dialekt, laut, direkt, mit „is" statt „isch" („i", „mei", „nit", „kimmt", „einidarf"), wie die Sprachproben oben. So hört man das Zillertal gegen Innsbruck. Ob „is" passt, entscheidet der Durchgang des Entwicklers. Summary und Facts hochdeutsch, wie bei den Kanon-Kindern.
+- **summary:** „Max ist neu und kam, als sich die anderen schon alle kannten. Er weint nicht, er schaut. Das Klettergerüst nennt er ‚meins', und zu Lo sagt er: ‚Bringst ma a Wasser?' Jeden Tag hat er etwas Neues mit: einen Traktor, eine Taschenlampe, ein Pickerlbuch."
+  - Nur *Oberfläche*. Das Hotel fehlt mit Absicht, und das Summary erklärt nicht, warum er Lo wie Personal anspricht.
+- **refusal:** Max dreht dir den Rücken zu. „I red heut nit mit dir. Du host nix zum Hergeben."
+  - Passt zu Hannes' *Entdeckbar*: Im Tal legt hin, wer was will.
+- **Facts:**
+  - `birthday`: „Hat am 19. Februar Geburtstag." Von nichts aufgedeckt, wie bei jedem Kanon-Kind.
+  - `hotel`: „Sein Papa hat ein Hotel im Zillertal. Dort hat Max bis zum Frühjahr gewohnt."
+  - `klettergeruest`: „Sagt, sein Papa hat das Klettergerüst gekauft, damit er in den Kindergarten darf."
+  - `sitz`: „Sagt, seine Mama kommt nächstes Jahr in den Council. Die Jassi-Mama hat es versprochen."
+  - `kuvert`: „Sagt, seine Mama hat der Jassi-Mama ein Kuvert gebracht. Er war dabei."
+  - `haken`: „Hat am ersten Tag seinen Haken an der Garderobe nicht gefunden und niemanden gefragt."
+  - Was er erzählt, steht als „Sagt, …", wie bei Felix und Hannah: Die Notizen halten fest, was er gesagt hat, nicht, was es heißt.
+- **Eigenes Topic:** `hotel`, „Papas Hotel", freigeschaltet über `hotel`. Parallel zu Hannahs „Papas Bank": Bei Max gehört alles dem Papa. Neben Matteos „Die Hotelküche" liest man den Klassenunterschied, ohne dass es wer erklärt. Das Hotel bekommt keinen Namen.
+- **Eigene Activity:** `gipfel`, „Wer zuerst oben ist", aufs Klettergerüst um die Wette, freigeschaltet über `klettergeruest`.
+- **Reaktionen:**
+
+| Topic | Taste | Zeile | reveals |
+|---|---|---|---|
+| `wetter` | likes | „Wenn d'Sunn scheint, geh i aufs Klettergerüst. Des is meins! Mei Papa hat's kauft, damit i einidarf." Max verschränkt die Arme. „Der Felix sagt, des ghört der Bergrettung. Und d'Valentina sagt: ‚Kauft hast es du. Obn bin i.'" | `klettergeruest` |
+| ↳ Anvertrauen | indifferent | „Des Klettergerüst hat mei Papa kauft. Und d'Mama hat der Jassi-Mama a Kuvert brocht, a ganz a dicks. I war dabei, an der Tür." Max zeigt mit den Händen, wie dick. „Die Jassi war am Fenster." | `kuvert` |
+| `tiere` | indifferent | „Tiere? I hab heut an Traktor mit. Mit Anhänger! Den derf nur der Jonas angreifen." | — |
+| `essen` | likes | „Beim Abendessen hat d'Mama gsagt, nächstes Jahr kimmt sie in den Council. Des hat ihr d'Jassi-Mama versprochen." Max nickt wichtig. „Dann gibt's a Fest. Mit Buffet, wie im Hotel." | `sitz` |
+| `wochenende` | likes | „Am Wochenende fahr ma ins Tal, ins Hotel vom Papa. Do bringt ma jeder was, wenn i will. A Wasser, an Kakao, alles." | `hotel` |
+| `monster` | dislikes | „Monster nehmen oam Sachen weg." Max steckt die Hand in die Hosentasche. „Drum nimm i mein Traktor mit ins Bett." | — |
+| `hotel` | likes | „Im Hotel vom Papa gibt's an Pool. Drinnen! Und an Koch, der macht ma Pommes, wann i will." Max schaut zur Küche. „Do herin muss ma warten, bis Mittag is." | — |
+| ↳ Anvertrauen | indifferent | „Im Hotel hat jede Tür a Nummer. Do herin san lauter Bildln." Max schaut auf seine Schuhe. „Am ersten Tag hab i mein Hakn nit gfunden. Gfragt hab i koan. Des braucht neamd wissen." | `haken` |
+
+  - **Die Klettergerüst-Kette:** `wetter` deckt `klettergeruest` auf, ohne Hürde (*Entdeckbar*: er sagt es am ersten Tag jedem), und schaltet `gipfel` frei. Ab `confideThreshold`, wenn Lo `klettergeruest` kennt, kommt auf `wetter` das Kuvert. Die Spenderplakette am Gerüst (fr-051, eine Bemerkung) sagt schon „Gespendet von Familie Haidacher"; erst „damit i einidarf" macht aus der Spende einen gekauften Platz.
+  - **Das Kuvert** steht für sich, weil es statt der gewöhnlichen Zeile kommt. „Die Jassi war am Fenster": Er kennt sie vom Kuvert, sie ihn vom Fenster (Beziehungen).
+  - **Der Sitz** ist ein gewöhnliches Reveal auf `essen` („beim Abendessen gehört"), ohne Hürde. Es ist die Mama, nicht der Papa: Evelyn will den Sitz, Hannes will ihn nur für sie. Die Zeile nennt die Jassi-Mama, wie Hannahs (#163) und Idas, damit Lo aus drei Kindern auf dieselbe Frau kommt.
+  - **Die Hotel-Kette:** `wochenende` deckt `hotel` auf („Ist oft im Tal. Wenn er da ist, gibt's was.") und schaltet „Papas Hotel" frei. Die gewöhnliche `hotel`-Zeile deckt nichts auf, also zählt für das Anvertrauen dort nur das Vertrauen, wie bei Felix' `bergrettung`.
+  - **Der Haken** macht das Motiv konkret. An Tag 11 steht er an seinem Haken (#157), an Tag 1 hat ihn Hannes gebracht (Hannes, *Oberfläche*). Das Klo hat schon die Klo-Zeile.
+  - **`monster`** zeigt seine Angst, dass ihm wer was wegnimmt (Motive), ohne sie zu erklären. **`tiere`**: Er mag Jonas, einseitig (#155); der Traktor ist eines seiner täglichen Mitbringsel.
+  - **Wen er nennt:** Felix, Valentina, Jonas und die Jassi-Mama; alle sind ab Tag 1 da. Valentina „streitet" nicht, sie klettert höher, und man hört sie nur aus Max' Mund ([[Valentina]], #164). Felix' Höhe nennt er nie, sonst wäre dessen Anvertrauen `zweite_sprosse` entwertet. Kein anderes Kind nennt Max: Vor Tag 11 gibt es ihn im Spiel nicht.
+  - Geschmack: drei likes, ein indifferent, ein dislikes bei den generischen Topics; `hotel` likes; beide Anvertrauen indifferent.
+- **`loo.storm_in.max`:** „Is des Klo a für Gäst?" Max bleibt in der Tür stehen und wartet auf eine Antwort. (Platzhalter)
+- **restrictions:** keine. Allergien keine (Eckdaten), keine Familienregel in der Lore.
+- **Parent-Zeile:** `frau_haidacher`, „Frau Haidacher", Kind `max`, Sway 0,5, kein Patron (#156). Evelyn holt ihn ab, immer zu früh; bei Pixner und Plattner bekam die Zeile auch, wer abholt. Kein Titel. Die Zeile gibt es ab Tag 1; bis zur Aufnahme sieht sie nichts (#157).
+- **Aufgabe:** `max_eingewoehnung`, Kind `max`, `announcedOn` 11, `dueOn` 13 (Mi 30.9.), `with_kid:max`, nach dem Vorbild von `leni_eingewoehnung`. Sie wird im selben Morgenbericht angekündigt wie die Aufnahme. Versäumt verliert Max 1,5 Vertrauen, und Frau Haidacher sieht es. Die Zahlen darf die Balance (#166) verschieben.
+  - `task.max_eingewoehnung`: „Der Council of Parents® legt Wert darauf, dass sich Max rasch eingewöhnt: Er soll bis zum Stichtag einmal ganz für sich allein drankommen. Die Familie Haidacher hat sich um den Kindergarten sehr verdient gemacht."
+  - `bericht.task.missed.max_eingewoehnung`: „Um {0} hat sich in seinen ersten Tagen niemand eigens gekümmert."
+  - Der letzte Satz der Aufgabe zeigt, dass der Vorstand vor den Zahlern buckelt, ohne Spende oder Platz beim Namen zu nennen. Eine Patron-Aufgabe für Susanne geht nicht: `with_kid:max` in einer Patron-Aufgabe ist ein Ladefehler (#157).
+- **Aus #155 und #157, unverändert:** Roster-Zeile `{ "id": "max", "admittedOn": 11 }`; `morgenbericht.aufnahme.max` wie in *Aufnahme* unten; likedPlaces klettergeruest, sandkiste, rutsche, lego; likedKids felix beidseitig, jonas einseitig; Sitz `tisch_12` zur Jause und zum Mittagessen; groupActivityDislikes `crafts`; mit Valentina nicht befreundet.
+- **Platzhalter:** `placeholder: true` am Profil, keine Endung „(Platzhalter)" an den Profilzeilen; die Klo-Zeile endet darauf wie die der Kanon-Kinder. Die Parent-Zeile hat kein Flag.
+- **Nicht im Profil:** sein *Verborgen* (im Hotel nie allein, selten bei den Eltern; dass er nicht weiß, was ein Platz ist); was er jeden Tag Neues mitbringt, über das Summary und den Traktor hinaus (offen auf der Map, #158); dass er mit Felix am Ende Bergung spielt (steckt in der Freundschaft, #155).
 
 ## Aufnahme (#157)
 
@@ -86,6 +126,7 @@ Entschieden mit dem Entwickler am 2026-10-20. Die Regel gilt für jedes Kind; Ma
   - An den Tagen 1–10 sieht Lo also einen zwölften Haken und einen zwölften Stuhl, zu denen kein Kind gehört.
 - **Die Haidacher-Zeile** (#156, Sway 0.5) gibt es ab Tag 1. Bis zur Aufnahme sieht sie nichts und zählt nichts.
 - **Aufgabe:** #157 verlangt keine. Ob es eine Eingewöhnungsaufgabe für Max gibt, wie die von Leni, entscheidet #165.
+  - **Entschieden (#165):** ja, `max_eingewoehnung`, Tage 11–13; siehe *Kid-Profile* oben.
 
 ## Figur (geplant, #158)
 
@@ -98,5 +139,5 @@ Entschieden mit dem Entwickler am 2026-10-20 (Figuren-Matrix). Gebaut wird aus `
 
 ## Offene Fragen
 
-- **(geteilt, übernommen)** Felix und Max streiten ums Klettergerüst und spielen am Ende trotzdem zusammen. Passt das zu Felix' Dossier? Dort steht der Streit schon als Vorschlag.
+- **(geteilt, entschieden)** Felix und Max streiten ums Klettergerüst und spielen am Ende trotzdem zusammen. Passt das zu Felix' Dossier? Dort steht der Streit schon als Vorschlag. Ja (#155, #165): Sie sind Freunde, beidseitig, und den Streit hört man nur aus Max' `wetter`-Zeile („Der Felix sagt, des ghört der Bergrettung."). Felix nennt Max nie (#159).
 - ~~Wann kommt Max genau?~~ Entschieden: Tag 11, Montag 28. September (#157).

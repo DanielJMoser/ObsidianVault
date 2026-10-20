@@ -89,5 +89,6 @@ lager: pichler
 ## Offene Fragen
 - Ihr jüngerer Bruder mit den Geschäften: Name, und ob er eine eigene Notiz braucht.
 - Susannes Patron-Aufgaben (fr-012): Erdbeertorte, Allergieliste, Max' Eingewöhnung?
+  - **(#165)** Max' Eingewöhnung ist keine Patron-Aufgabe, sondern eine Aufgabe auf der Tafel (`max_eingewoehnung`, Tage 11–13): `with_kid:max` in einer Patron-Aufgabe ist ein Ladefehler (#157). Ihr Wortlaut lässt den Vorstand buckeln: „Die Familie Haidacher hat sich um den Kindergarten sehr verdient gemacht." Siehe [[Max]].
 - (geteilt, übernommen) Seit wann ist sie Vorständin? Vorschlag: seit der Hauptversammlung im Herbst 2024, gleich nach dem Loch in der Kassa. Timotheus wollte den Vorsitz selbst, im Chaos gewann die „saubere Neue". Das wäre sein alter Groll.
 - (geteilt, übernommen) Seit der Nusstorte führt sie die Allergieliste selbst. Die Gruber- und Kofler-Dossiers müssen davon wissen.
