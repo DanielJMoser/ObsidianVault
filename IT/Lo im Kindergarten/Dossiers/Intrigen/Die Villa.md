@@ -55,6 +55,7 @@ stand: 2026-09-30
   - **Im Spiel (#162):** über Matteos eigenes Topic Villa, das Talk Monster freischaltet (Fact `pickerl`). Die Bilder erwähnt er bei Talk Wetter, ohne Fact: „Da hängen jetzt keine Bilder mehr, nur die Nägel."
 - **Leni:** Sie verhandelt wie über einen Mietvertrag. „Die Mama sagt, der Herr Gruber ist ein Wucherer." (Vorschlag)
 - **Valentina:** „Mei Papa sagt, der Baron zahlt nia." (Vorschlag)
+  - **Im Spiel (#164):** über Valentinas eigenes Topic `werkstatt`, das Talk Wochenende freischaltet. Die gewöhnliche Zeile erzählt die Heizung beim Herrn Baron, „und jetzt wart ma" (Fact `heizung`); ab `confideThreshold` das Anvertrauen „Mei Papa sagt, der Baron zahlt nia." (Fact `zahlt_nie`). Hinter Vertrauen, weil es der Hebel unter „Was es kippt" ist: ein pleiter Vizepräsident.
 
 ## Was es kippt
 

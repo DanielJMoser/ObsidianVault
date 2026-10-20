@@ -33,6 +33,7 @@ im_spiel: true
 - **likedPlaces:** maltisch, basteltisch, kaufladen, rutsche.
 - **likedKids:** leni, mira, jassi. Mira mag ihn nicht zurück.
 - **Geplant (#155):** likedKids dazu `felix`, beidseitig. Valentina und Max mögen ihn, einseitig.
+- **Geplant (#164):** ein Anvertrauen auf `tiere` (die gewöhnliche Reaktion bleibt, sie deckt `grandpa_farm` auf). Ab `confideThreshold`, wenn Lo `grandpa_farm` kennt: likes, reveals `valentina/vogelhaus`, „Lo! Das Vogelhaus im Garten hat die Valentina kaputt gemacht. Die ist draufgeklettert, bis ganz oben! Ich hab nur zugeschaut. Also fast nur." (Platzhalter) Sein erstes Anvertrauen; „Also fast nur" greift seine Klo-Zeile auf. Siehe [[Valentina]].
 - **Mag nicht** `read_aloud`: „Vorlesen? Da muss man ja so lang stillsitzen!" Wird ersetzt: Statt der Absage nennt das Spiel, wer mitgemacht hat (#118).
 - **`loo.storm_in.jonas`** (Platzhalter): „Lo! Ich hab nix angestellt! Also fast nix!"
 - **Aufgabe `jonas_basteltisch`**, Tage 9–11.
@@ -50,6 +51,7 @@ Alles hier ist ein Vorschlag, kindgroß. Jonas versteht nicht, was er erzählt.
 - **„Vielleicht wohn ich bald beim Opa. Hat die Mama am Telefon gesagt."**
 - **„Zum Geburtstag fahr ich zum Opa. Mit der Mama. Der Papa muss arbeiten."** An Tag 15, Freitag.
 - **Petzt, ohne Bosheit:** „Lo! Das Vogelhaus hat die Valentina kaputt gemacht. Die ist draufgeklettert."
+  - **Im Spiel (#164):** das Anvertrauen auf `tiere`, siehe Kanon, „Geplant (#164)". Das Vogelhaus hängt schief in der Rosskastanie (fr-051).
 
 ## Verborgen
 - Er kann Lo nichts verschweigen. Das ist einfach so.

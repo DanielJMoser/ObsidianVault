@@ -23,6 +23,7 @@ lager: gruber
 
 ## Kanon
 - — noch nicht im Spiel. Quelle: [[Besetzung]].
+- **Geplant (#164):** Parent-Zeile `herr_kirchmair`, Kind `valentina`, „Herr Kirchmair", Sway 0,5 (#156), kein Patron, kein Titel. Er holt Valentina ab.
 
 ## Oberfläche
 - Holt Valentina im Firmenbus ab, in Arbeitshose, pünktlich.
@@ -32,7 +33,9 @@ lager: gruber
 
 ## Entdeckbar
 - **Der Sitz, den er abgelehnt hat.** Susanne hat ihn 2025 in den Council geholt, „ein echter Handwerker, das wär so ein Zeichen". Er hat gelacht und nein gesagt. Kommt über Valentina heraus, oder über ihn selbst, wenn Lo beim Abholen fragt.
+  - **Im Spiel (#164):** über Valentinas `essen`-Zeile, offen (Fact `council`). Über ihn selbst nicht: Beim Abholen redet im Spiel kein Elternteil.
 - **Der Baron zahlt nicht.** 14.000 € für die neue Heizung der Villa, seit 2025 offen. Valentina: „Mei Papa sagt, der Baron zahlt nia." (Vorschlag)
+  - **Im Spiel (#164):** Valentinas Thema `werkstatt`: die Heizung offen (Fact `heizung`), „der Baron zahlt nia" als Anvertrauen (Fact `zahlt_nie`). Die 14.000 € nennt sie nicht.
 - **Er weiß, wer Susannes Bad bezahlt hat.** Er hat die Bäder in der Pichler-Maisonette gemacht, und die Rechnung ging an den Kommerzialrat Walter Pichler. Er sagt es nur, wenn sie ihm zu laut von der Arbeiterklasse redet. (Vorschlag, geteilt)
 
 ## Verborgen
