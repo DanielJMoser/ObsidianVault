@@ -13,6 +13,7 @@ stand: 2026-09-30
 
 - **Das Gesetz:** Das Adelsaufhebungsgesetz vom 3. April 1919 (StGBl. Nr. 211) hebt den Adel und seine Titel auf, das „von" eingeschlossen. Die Vollzugsanweisung stellt das Führen unter Strafe.
 - **Timotheus** schreibt „Dipl.-Ing. Dr. techn. Timotheus Freiherr von Gruber" auf die Visitenkarte. Im Council unterschreibt er mit „T. v. Gruber". Im Vereinsregister steht er als „Timotheus Gruber". So heißt er.
+- **Mit Absicht, aus Stolz (#160):** Er weiß, dass er das Gesetz bricht, und bricht es trotzdem. Er hält das Gesetz für falsch und den Titel für verdient. Für die Lichtenaus ist genau das die Frechheit.
 - **Die Lichtenaus** waren Grafen und haben es 1919 gelassen. Seitdem bleibt es gelassen, so gehört es sich. Einen Freiherrn, der es nicht lässt, verachten sie doppelt: weil er das Gesetz bricht, und weil er protokollarisch unter einem Grafen steht. „Ein besserer Bauer."
 - **Beim Abendessen** sagt Ferdinand es laut. Leopold hört zu.
 - **Leopold** erzählt es Lo zwischen Sarajevo und dem Isonzo, versteckt in einem Haufen anderer Dinge. Lo muss zuhören, um es zu finden.
@@ -21,7 +22,7 @@ stand: 2026-09-30
 
 | Wer | weiß | verbirgt | will |
 |---|---|---|---|
-| [[Timotheus von Gruber]] | dass es verboten ist. Er hält es für eine Formsache. | — | nie darauf angesprochen werden |
+| [[Timotheus von Gruber]] | dass es verboten ist. Er führt den Titel mit Absicht, weil er das Gesetz für falsch und den Titel für verdient hält. Stolz. (#160; vorher: „hält es für eine Formsache") | — | als Freiherr gelten, und dass ihm keiner öffentlich das Gesetz vorhält (#160) |
 | [[Ferdinand Lichtenau]] | alles, juristisch genau | es, außer am eigenen Tisch | dass es keiner benutzt, weil Standesloyalität |
 | [[Leopold]] | es, vom Abendessen | nichts | dass es stimmt |
 | [[Susanne Pichler]] | nichts | — | würde es sofort benutzen |
@@ -30,6 +31,7 @@ stand: 2026-09-30
 ## Wie es herauskommt
 
 - **Leopold**, im Talk über den Weltkrieg. Die Stelle über den Freiherrn ist ein Satz von zwanzig.
+  - **Im Spiel (#160):** Der Haufen hat etwa zehn Sätze, der Freiherr ist der letzte: „Wer sich hingegen heute noch Freiherr nennt, handelt rechtswidrig – eine ausgemachte Frechheit, wie der Papa beim Abendessen stets zu bemerken pflegt!" Der Fact, den die Zeile in Los Notizen schreibt, nennt nur die Grafen. Dass es um Gruber geht, schließt die Spielerin selbst aus dem „v." in seinem Namen. Nur unter Vertrauen 12 zu hören; darüber spricht Leopold beim Weltkrieg von der Schule.
 - **Lo** kann es einsetzen, wem sie will:
   - **Susanne:** Sie trägt es in die Hauptversammlung. Timotheus wird ausgelacht, von allen. Die Strafe ist lächerlich klein, der Spott nicht.
   - **Frau Hofer:** Das ist nicht ihr Ressort, aber sie liebt Regeln. Sie gibt es weiter, mit Genuss.
@@ -39,6 +41,7 @@ stand: 2026-09-30
 
 - Juristisch passiert fast nichts. Gesellschaftlich ist es Timotheus' Ende im Saggen. In Tirol vergisst man so etwas nicht.
 - Ferdinand Lichtenau steht vor der Wahl: Standesloyalität, oder sich mit dem Gespött gemein machen.
+- Sein Stolz macht es schlimmer (#160): Wer den Titel mit Absicht führt, kann nicht behaupten, er habe es nicht gewusst.
 
 ## Offene Fragen
 

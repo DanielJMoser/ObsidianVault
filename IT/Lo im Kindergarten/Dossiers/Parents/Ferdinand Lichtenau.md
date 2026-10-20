@@ -14,6 +14,7 @@ Name ist Anspielung auf Peter Ruml von Lichtenau.
 ## Eckdaten
 - **Alter:** 56, geboren 1970.
 - **Beruf:** Dr. iur., öffentlicher Notar. Notariat im Saggen.
+  - **(#160)** Das Notariat liegt im Erdgeschoss der Villa Lichtenau, die Familie wohnt darüber.
 - **Wohnen:** Villa Lichtenau im Saggen. Seit Generationen in der Familie, schuldenfrei.
 - **Herkunft:** Tiroler Adel, bis 1919 Grafen von Lichtenau. Altes Geld, intaktes und stilles Vermögen.
 - **Familie:** Frau Elisabeth, geboren 1982, Kinderärztin, ohne eigene Notiz. Leopold ist ihr einziges Kind, ein spätes.
@@ -44,6 +45,7 @@ Entschieden im Grilling am 2026-10-20.
 ## Entdeckbar
 - **Einst Adel:** Leopold erzählt es beim Thema Weltkrieg. „Wir waren Grafen. Dann kam der dritte April 1919."
 - **Die Runde:** Leopold plaudert. „Donnerstags darf ich nicht ins Büro vom Papa. Da ist der Herr Baron da, und die Frau Steuerberaterin. Sie trinken den Sherry vom Urgroßvater."
+  - **(#160)** Die Wortlaute von „Einst Adel" und „Die Runde" stehen jetzt in Leopolds Kid-Profil: die Grafen im Haufen seines Weltkriegs-Themas, die Runde beim Essen. Er sagt „der Herr Gruber", nie „Baron". Bei hohem Vertrauen kommt die „Steuerberatung" danach dazu, siehe [[Onkel Timo]].
 - **Das Protokoll:** Wer im November 2024 im Council saß, weiß, wer „Buchungsfehler" geschrieben hat. Möglicher Weg: Hannah Plattners Tischgespräche (Vorschlag).
 - **Die Verachtung:** Leopold wiederholt den Satz vom Abendessen. „Ein Freiherr ist eh nur ein besserer Bauer. Sagt der Papa."
 
@@ -53,6 +55,7 @@ Entschieden im Grilling am 2026-10-20.
 - Hat das Loch in der Kassa nicht aus Freundschaft zugedeckt. Er wollte etwas gegen Timotheus in der Hand haben. Wer das Protokoll schreibt, schreibt die Geschichte.
 - Die Runde führt offiziell kein Protokoll. Ferdinand führt trotzdem eines. Handschriftlich, datiert, im Tresor des Notariats. Als Versicherung.
 - Weiß von Verena und Timotheus, seit dem zweiten Donnerstag. Findet es geschmacklos. Sagt nichts.
+  - **(#160)** Es geschieht unter seinem Dach: Nach der Runde bleiben die beiden im Besprechungszimmer und sperren ab. Er geht hinauf und duldet es aus Standesdisziplin. Dass sein Sohn es bis in den ersten Stock hört, weiß er nicht.
 - Traut Thomas Eder nicht. „Der Bauleiter" trinkt Bier statt Sherry und redet zu viel.
 - Die Ablehnung von Leopolds Einschulung trifft ihn mehr, als er zugibt. Er hält die Schulbehörde für mittelmäßig. Elisabeth hält den Buben für einsam. Darüber streiten sie nicht, sie schweigen.
 

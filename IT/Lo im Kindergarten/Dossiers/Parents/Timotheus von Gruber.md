@@ -17,6 +17,7 @@ lager: gruber
 - **Herkunft:**
   - Alte Tiroler Linie, Freiherren von Gruber.
   - Der Titel ist seit 1919 abgeschafft. Er schreibt das „v." trotzdem, auf jedes Briefpapier.
+  - **Mit Absicht (#160):** Er weiß, dass er das Gesetz bricht. Er hält es für falsch und den Titel für verdient, und er ist stolz darauf.
 - **Allergien:** keine.
 - **Stimme:** förmlich, Sie, Genitiv, lange Sätze. Nie ein Dialektwort, außer wenn er wütend wird. Dann kommt der Innsbrucker durch.
   - „Ich darf Sie ersuchen, diese Angelegenheit mit der gebotenen Diskretion zu behandeln."
@@ -86,6 +87,7 @@ lager: gruber
 - **[[Onkel Timo]]:** Verbirgt die Affäre vor Amelie (vergeblich) und vor Markus. Will Verenas Belege und ihre Stimme.
 - **[[Das Loch in der Kassa]]:** Weiß es und verbirgt es. Will, dass es beim „Buchungsfehler" bleibt.
 - **[[Freiherr von]]:** Weiß, dass es verboten ist, und hält es für eine Formsache. Will nie darauf angesprochen werden.
+  - **Geändert (#160):** Keine Formsache. Er führt den Titel mit Absicht und aus Stolz, weil er das Gesetz für falsch und den Titel für verdient hält. Will als Freiherr gelten, und dass ihm keiner öffentlich das Gesetz vorhält.
 - **[[Der zwölfte Platz]]:** Weiß von Susannes Umschlag, verbirgt, dass er die Belege hat. Will sie in der Hauptversammlung auf den Tisch legen.
 - **[[Die Nusstorte]]:** Ahnt, dass die Torte von den Pichlers kam, hat aber keinen Beweis. Kommt es heraus, hat er Aigner, und damit seine fünfte Stimme.
 - **[[Die Runde]]:** Sein Kriegsrat, donnerstags.

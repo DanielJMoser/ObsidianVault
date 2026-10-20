@@ -50,13 +50,16 @@ Entschieden im Grilling am 2026-10-20.
 
 - **„Onkel Timo":** Felix erzählt es im Talk (Wochenende, Essen). „Der Onkel Timo war da. Der Papa war am Berg."
 - **Die „Steuern":** Felix sagt: „Die Mama und der Onkel Timo machen Steuern. Da muss die Tür zu, weil Steuern geheim sind."
+  - **Im Spiel (#159):** über Felix' Topic „Der Onkel Timo"; die Steuern sind dort sein Anvertrauen. Siehe [[Felix]], Kid-Profile.
 - **Die Donnerstage:** An jedem Donnerstag holt die Oma Felix ab, nie Verena. Lo kann das merken.
+  - **Nicht im Spiel (#159):** Beim Abholen gibt es im Spiel keine Person, also nichts zu merken. Offen auf der Map #152.
 - **Ihr Auto vor der Villa:** Monika Pixner sieht es, und Matteo erzählt, was die Mama sieht.
 - **Die Spende:** Im Kassabericht an den Council stehen 18.000 € „Spende Klettergerüst, Fam. Haidacher", ohne Zweck und ohne Gegenleistung. Wer ihn liest, kann rechnen.
 
 ## Verborgen
 
 - **Die Affäre:** Sie hat Timotheus seit der Adventfeier im Dezember 2025. Sie treffen sich in der Villa, wenn Amelie in Meran ist, und im Penthouse, wenn Markus am Berg ist.
+  - **Donnerstags (#160)** nach der [[Die Runde|Runde]] im Besprechungszimmer des Notariats Lichtenau, „noch für die Zahlen", hinter versperrter Tür. Ferdinand weiß es und schweigt. Leopold hört sie oben und hält es für Steuerberatung.
 - **Seine Bücher:** Sie ist seit 2023 seine Steuerberaterin und kennt seine Zahlen besser als er selbst. Er ist pleite. Sie hat es nie jemandem gesagt, auch nicht der Runde.
 - **Onkel Timo als Tarnung:** Den Namen hat sie selbst erfunden. „Onkel" klingt harmlos. Dass ein Fünfjähriger ihn laut und überall sagt, hat sie nicht bedacht.
 - **Die Belege:** Im Juli hat sie die Haidacher-Spende gebucht und die Belege für Timotheus kopiert. Vom Umschlag weiß sie nichts Sicheres. Sie ahnt ihn: 18.000 € für einen Platz, der offiziell nichts kostet, sind zu viel für reine Nächstenliebe.

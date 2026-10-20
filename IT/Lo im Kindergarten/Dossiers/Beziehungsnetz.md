@@ -204,6 +204,8 @@ flowchart LR
   Hannah --> K["Das Loch in der Kassa"]
   Leopold --> F["Freiherr von"]
   Leopold --> R["Die Runde"]
+  %% (#160) Leopold hört die Affäre und hält sie für Steuerberatung
+  Leopold --> O
   Jonas --> R
   Jonas --> S["Samstage"]
   Leni --> S
@@ -215,6 +217,8 @@ flowchart LR
   class Mira,Jassi,Max,Felix,Matteo,Nici,Leni,Valentina,Hannah,Leopold,Jonas,Ida,N,Z,O,VI,K,F,R,S,W,VS internal-link;
 ```
 
+- **Leopold → Onkel Timo (#160):** Donnerstags nach der Runde sperren sich der Herr Gruber und die Frau Steuerberaterin im Besprechungszimmer des Notariats ein. Leopold hört sie bis in den ersten Stock keuchen und stöhnen und hält es für eine anstrengende Steuerberatung. Er sieht es und versteht nicht, was er sieht, wie Felix mit seinen „Steuern".
+
 ## 8. Erwachsene, die etwas wissen
 
 | Wer | weiß | über |
@@ -225,7 +229,7 @@ flowchart LR
 | [[Notburga Hofer]] | wer im WG-Jahr gezahlt hat | Susanne |
 | [[Sepp Kirchmair]] | dass Papa Pichler bis heute zahlt | Susanne |
 | [[Verena Holzknecht]] | die Bücher, die Kassa, die Belege zum Kuvert | [[Timotheus von Gruber]], Susanne |
-| [[Ferdinand Lichtenau]] | das Loch in der Kassa, das Gesetz von 1919 | Timotheus |
+| [[Ferdinand Lichtenau]] | das Loch in der Kassa, das Gesetz von 1919; die Affäre, unter seinem Dach (#160) | Timotheus, Verena |
 | [[Amelie von Gruber]] | die Affäre, die Schulden | Timotheus, Verena |
 | [[Monika Pixner]] | den Exekutor, das rote Auto, die Samstage | Timotheus, Verena, [[Thomas Eder]] |
 | [[Manni Plattner]] | eine Kopie der Rechnung | Timotheus |
