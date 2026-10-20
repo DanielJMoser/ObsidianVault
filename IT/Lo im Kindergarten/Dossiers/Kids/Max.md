@@ -87,6 +87,15 @@ Entschieden mit dem Entwickler am 2026-10-20. Die Regel gilt für jedes Kind; Ma
 - **Die Haidacher-Zeile** (#156, Sway 0.5) gibt es ab Tag 1. Bis zur Aufnahme sieht sie nichts und zählt nichts.
 - **Aufgabe:** #157 verlangt keine. Ob es eine Eingewöhnungsaufgabe für Max gibt, wie die von Leni, entscheidet #165.
 
+## Figur (geplant, #158)
+
+Entschieden mit dem Entwickler am 2026-10-20 (Figuren-Matrix). Gebaut wird aus `kinder.py` und dem Bauplan; der Konzept-Frame ist nur ein Leitbild für den Charakter.
+
+- **Steckbrief:** Blond, eine hoch aufgestellte Tolle. Keine Brille. Gelber Pulli, darüber eine dunkelblaue Steppweste, schwarze Hose. Hervorstechend: Tolle und Weste.
+- **Parameter:** `haare` tolle (kräftiger als bisher: steht hoch und nach vorn), `merkmal` keins, `accessoire` steppweste (neu, eigener Slot Marine), `haut` HautHell, `haar` HaarBlond, Pulli ChairYolk, Hose InkBlack, `asymmetrie` rechts. Gesicht: schaut (`make_face`: seed 29, eyes 0.21, eye_size 0.055, brows −2, mouth 0.10, smile 0.1, blush 0.8).
+- **Warum:** Die Mama ist „Immer perfekt angezogen" (Evelyn Haidacher, Oberfläche). Der Papa sagt über die Villa „alles neu, was alt aussehen soll" (Hannes Haidacher, Eckdaten). Max selbst, Oberfläche: „Am ersten Tag weint er nicht, er schaut." Was er jeden Tag Neues mitbringt, kann eine starre Figur nicht zeigen.
+- **Konzept-Frame:** FLUX `fr158_max_seed15802`.
+
 ## Offene Fragen
 
 - **(geteilt, übernommen)** Felix und Max streiten ums Klettergerüst und spielen am Ende trotzdem zusammen. Passt das zu Felix' Dossier? Dort steht der Streit schon als Vorschlag.

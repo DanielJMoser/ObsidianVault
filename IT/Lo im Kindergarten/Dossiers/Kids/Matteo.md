@@ -71,6 +71,15 @@ im_spiel: false
 - **[[Onkel Timo]]:** **Weiß** vom roten Auto. Plaudert es aus, ohne es zu verstehen.
 - **[[Samstage]]:** **Weiß**, dass der Herr vom Büro hinaufgeht. Plaudert es aus.
 
+## Figur (geplant, #158)
+
+Entschieden mit dem Entwickler am 2026-10-20 (Figuren-Matrix). Gebaut wird aus `kinder.py` und dem Bauplan; der Konzept-Frame ist nur ein Leitbild für den Charakter.
+
+- **Steckbrief:** Ein Mopp aus schwarzen Locken. Keine Brille. Terrakottafarbener Pulli, Jeans. Trägt eine weiße Küchenschürze. Hervorstechend: die Locken.
+- **Parameter:** `haare` locken (kräftiger als bisher: breiter als der Kopf, bis zu den Ohren), `merkmal` keins, `accessoire` schuerze (neu, eigener Slot FrameChalk), `haut` HautMittel, `haar` HaarSchwarz, Pulli RoofTile, Hose BookBlue, `asymmetrie` links. Gesicht: warm (`make_face`: seed 26, eyes 0.20, brows −2, mouth 0.20, smile 0.8, blush 1.2).
+- **Warum:** Oberfläche: „Kennt jedes Küchenwort, weil der Papa Koch ist." Die Mama trägt die Arbeitsschürze (Monika Pixner, Oberfläche). Keine Kochmütze: Sie wäre ein Kostüm, und sie ist Jassis Garderobe-Zeichen.
+- **Konzept-Frame:** FLUX `fr158_matteo_seed15802`. FLUX malt seine Haut dunkler als HautMittel; gebaut wird HautMittel.
+
 ## Offene Fragen
 
 - **(geteilt, übernommen)** Ist Matteo der Koch in Jassis Restaurant? Das gehört auch in Jassis Dossier. (Vorschlag)

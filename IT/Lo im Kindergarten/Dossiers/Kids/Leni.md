@@ -88,9 +88,18 @@ Alles ist ein Vorschlag, kindgroß. Leni versteht es selbst nur halb.
 - [[Die Villa]]: Sie weiß, dass die Miete zu hoch ist, weil die Mama es sagt. Sie verbirgt nichts. Sie will mit der Nici spielen dürfen.
 - [[Samstage]]: Sie ist, ohne es zu wissen, die Tarnung. Sie weiß, dass die Großen leise reden. Sie will, dass der Jonas jeden Samstag kommt.
 
+## Figur (geplant, #158)
+
+Entschieden mit dem Entwickler am 2026-10-20 (Figuren-Matrix). Gebaut wird aus `kinder.py` und dem Bauplan; der Konzept-Frame ist nur ein Leitbild für den Charakter.
+
+- **Steckbrief:** Kupferroter Bob. Keine Brille. Dottergelber Pulli, himbeerfarbene Leggings. Trägt Frau Hoppel, an einem Ohr, fast am Boden schleifend. Hervorstechend: die Kleinste.
+- **Parameter:** `haare` bob, `merkmal` klein, `accessoire` stoffhase (neu, eigener Slot Leather), `haut` HautHell, `haar` HaarRot, Pulli ChairYolk, Hose Himbeer (neue Familie), `asymmetrie` links. Gesicht: entschlossen (`make_face`: seed 22, eyes 0.18, eye_size 0.05, brows 8, mouth 0.11, smile 0.2).
+- **Warum:** Oberfläche: „Neu, klein, und trotzdem die mit dem Plan." Sie ist die Jüngste (Eckdaten). Kanon-Fakt: Frau Hoppel kommt überall mit. Frau Hoppel ist braun, der Hase der Kuschelecke ist weiß, also verwechselt sie niemand.
+- **Konzept-Frame:** FLUX `fr158_leni_seed15801`.
+
 ## Offene Fragen
 
 - **Datenänderung:** Geburtstag vom 21. Jänner auf den 16. Oktober (Tag 25), damit er zur Aufgabe `leni_geburtstag` (Tage 23–26) passt. Angenommen, aber noch nicht in den Daten.
-- **Frau Hoppel und der Hase:** Frau Hoppel ist nicht der Hase der Kuschelecke, der laut CONTEXT.md niemandem gehört. Sie bringt sie von daheim mit.
+- **Frau Hoppel und der Hase:** Frau Hoppel ist nicht der Hase der Kuschelecke, der laut CONTEXT.md niemandem gehört. Sie bringt sie von daheim mit. **Beantwortet (#158):** Frau Hoppel ist braun, der Hase der Kuschelecke weiß; siehe „Figur" oben.
 - (geteilt, übernommen) Klopfen Leni und Nici sich Zeichen über das Heizungsrohr, ihre geheime Freundschaft durch den Boden? Das müsste auch in Nicis Dossier. (Vorschlag)
 - Wer hat die Eingewöhnungsstunde beim Council beantragt? Vermutlich Katharina, die als neues Mitglied gleich etwas für Leni durchsetzt.

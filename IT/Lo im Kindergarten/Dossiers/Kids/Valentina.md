@@ -60,6 +60,15 @@ im_spiel: false
 ## Intrigen
 - [[Die Villa]]: **weiß**, dass der Baron dem Papa Geld schuldet. **Verbirgt** nichts. **Will** nichts davon. Sie sagt es, weil der Papa es sagt.
 
+## Figur (geplant, #158)
+
+Entschieden mit dem Entwickler am 2026-10-20 (Figuren-Matrix). Gebaut wird aus `kinder.py` und dem Bauplan; der Konzept-Frame ist nur ein Leitbild für den Charakter.
+
+- **Steckbrief:** Schwarzes Haar, ein Dutt oben auf dem Kopf. Keine Brille. Gelber Pulli, blaue Latzhose. Hervorstechend: der Dutt.
+- **Parameter:** `haare` dutt (neu), `merkmal` keins, `accessoire` latzhose (neu, in der Familie der Hose, kein eigener Slot), `haut` HautMittel, `haar` HaarSchwarz, Pulli ChairYolk, Hose BookBlue, `asymmetrie` links. Gesicht: trotzig (`make_face`: seed 28, brows 10, lift −0.03, mouth 0.16, smile 0.4).
+- **Warum:** Oberfläche: „Immer oben: Klettergerüst, Rutschenturm, Fensterbank, wenn keiner schaut." Der Papa trägt die Arbeitshose (Sepp Kirchmair, Oberfläche), und sie ist sein Ebenbild (Sepp Kirchmair, Beziehungen).
+- **Konzept-Frame:** FLUX `fr158_valentina_seed15801`.
+
 ## Offene Fragen
 - **(entschieden)** Valentina kommt auf den Roster, ab Tag 1 (Map #152); ihr Kid-Profil ist #164. Sitz und Places stehen seit #155 oben.
 - **(geteilt, entschieden)** Max und das Klettergerüst: Streitet Valentina mit ihm, oder ist das nur Felix' Streit? Max' Dossier entscheidet.

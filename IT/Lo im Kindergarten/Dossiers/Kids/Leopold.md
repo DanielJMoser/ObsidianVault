@@ -80,6 +80,15 @@ im_spiel: false
 - **groupActivityDislikes:** keine (#155). Vorlesen liebt er. Dass er Lo dabei verbessert, kann das Spiel noch nicht zeigen.
 - **Storm-in:** „Pardon. Ich wusste nicht, dass die Räumlichkeit belegt ist." Er schließt die Tür, leise.
 
+## Figur (geplant, #158)
+
+Entschieden mit dem Entwickler am 2026-10-20 (Figuren-Matrix). Gebaut wird aus `kinder.py` und dem Bauplan; der Konzept-Frame ist nur ein Leitbild für den Charakter.
+
+- **Steckbrief:** Schwarzes Haar, flach gekämmt, scharfer Seitenscheitel, die Stirn frei. Keine Brille. Dunkelblauer Pullover über einem weißen Hemdkragen, dunkle Stoffhose. Hervorstechend: der Größte der Gruppe.
+- **Parameter:** `haare` scheitel (neu), `merkmal` gross, `accessoire` kragen (neu, eigener Slot FrameChalk), `haut` HautHell, `haar` HaarSchwarz, Pulli Marine (neue Familie), Hose InkBlack, `asymmetrie` links. Gesicht: ernst (`make_face`: seed 24, eyes 0.16, eye_size 0.04, brows 0, mouth 0.10, smile 0.05, blush 0.6).
+- **Warum:** Oberfläche: „Hemd mit Kragen. Findet Hosen mit Gummizug würdelos." Der Papa trägt „das zur Gelfrisur skulptierte Resthaar" (Ferdinand Lichtenau, Oberfläche). Leopold ist der Älteste und wird am 2.11. sechs (Eckdaten). Radetzky ist nie an der Figur, denn er nimmt ihn nie mit.
+- **Konzept-Frame:** FLUX `fr158_leopold_seed15801`.
+
 ## Offene Fragen
 - **(geprüft, #154)** Die Fakten seiner Zeilen stehen in `docs/research/adelsaufhebungsgesetz-1919.md` im Repo. Kurz:
   - Die Nummern stimmen: StGBl. Nr. 211/1919 vom 3. April 1919, die Vollzugsanweisung Nr. 237/1919 vom 18. April, das Habsburgergesetz Nr. 209/1919 am selben Tag wie das Adelsaufhebungsgesetz. Zwölf Isonzoschlachten.

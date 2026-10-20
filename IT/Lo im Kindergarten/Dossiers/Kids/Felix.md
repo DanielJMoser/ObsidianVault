@@ -76,6 +76,15 @@ im_spiel: false
 - **Reaktion auf Monster:** „Monster gibt's nit. Aber Lawinen gibt's." (dislikes)
 - **Storm-in:** „Bergrettung! Is wer verletzt?"
 
+## Figur (geplant, #158)
+
+Entschieden mit dem Entwickler am 2026-10-20 (Figuren-Matrix). Gebaut wird aus `kinder.py` und dem Bauplan; der Konzept-Frame ist nur ein Leitbild für den Charakter.
+
+- **Steckbrief:** Braunes Haar, Topfschnitt. Keine Brille. Roter Pulli, dunkelblaue Hose. Trägt die Stirnlampe und die Springschnur, aufgerollt über einer Schulter wie ein Bergretter. Hervorstechend: die Lampe an der Stirn.
+- **Parameter:** `haare` topf, `merkmal` keins, `accessoire` bergretter (neu: die Stirnlampe in eigenem Slot ChairYolk, mit Band und Riemen über den Scheitel, dazu die Springschnur über eine Schulter, die Rolle an der anderen Hüfte, über den Arm hinaus), `haut` HautHell, `haar` HaarBraun, Pulli KidRed, Hose Marine (neue Familie), `asymmetrie` rechts. Gesicht: stolz (`make_face`: seed 23, brows 4, lift 0.02, mouth 0.18, smile 0.7).
+- **Warum:** Oberfläche: „Trägt eine Stirnlampe, auch drinnen." und „Seilt Stofftiere vom Klettergerüst ab, an einer Springschnur." Nur die Schnur trennt ihn aus 8 m von vorn von Mira. Darum trägt er als einziges Kind zwei Dinge, eine Ausnahme von fr-054.
+- **Konzept-Frame:** FLUX `fr158_felix_seed15801`.
+
 ## Offene Fragen
 
 - **(geteilt, übernommen)** Streiten Felix und Max ums Klettergerüst? Das gehört auch in Max' Dossier.

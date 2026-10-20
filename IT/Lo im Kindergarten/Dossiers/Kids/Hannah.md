@@ -56,6 +56,15 @@ im_spiel: false
 ## Intrigen
 - [[Das Loch in der Kassa]]: **weiß**, was der Papa sagt. **Verbirgt** nichts. **Will** nichts davon, sie ist fünf.
 
+## Figur (geplant, #158)
+
+Entschieden mit dem Entwickler am 2026-10-20 (Figuren-Matrix). Gebaut wird aus `kinder.py` und dem Bauplan; der Konzept-Frame ist nur ein Leitbild für den Charakter.
+
+- **Steckbrief:** Blond, zwei kurze Schwänzchen hoch über den Ohren, kurze Fransen. Keine Brille. Himbeerfarbener Pulli, Jeans. Trägt ein rotes Geldtascherl am Riemen quer über der Brust. Hervorstechend: die abstehenden Schwänzchen.
+- **Parameter:** `haare` schwaenzchen (neu), `merkmal` keins, `accessoire` taschl (neu, eigener Slot KidRed), `haut` HautHell, `haar` HaarBlond, Pulli Himbeer (neue Familie), Hose BookBlue, `asymmetrie` rechts. Gesicht: lacht (`make_face`: seed 27, eyes 0.20, brows −6, mouth 0.26, smile 1.0).
+- **Warum:** Oberfläche: „Fröhlich, redet viel, lacht laut." und „Will im Kaufladen immer die Kasse. Zählt jedes Spielgeld zweimal, ‚wie der Papa'."
+- **Konzept-Frame:** FLUX `fr158_hannah_seed15802`.
+
 ## Offene Fragen
 - (geteilt, übernommen) Hannah hat Nici gesagt, ihr Papa sei ein Dieb, und seitdem meiden sich die beiden. Das gehört auch in Nicis Dossier.
 - **(entschieden)** Hannah kommt ins Spiel, ab Tag 1 (Map #152); ihr Kid-Profil ist #163.

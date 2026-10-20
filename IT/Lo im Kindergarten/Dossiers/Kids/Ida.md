@@ -76,6 +76,16 @@ im_spiel: false
 - **Reaktion auf Tiere** (likes, verrät Leopolds `erklaert_gern`; #155, Q21). Entwurf: „Leopold sagt, Mücken heißen eigentlich Culex pipiens. Er weiß immer etwas Interessantes, und er erklärt es mir ganz geduldig." Leopold sagt Culex pipiens, Ida Mücken, die anderen Muggen.
 - **Storm-in:** „Oh. Tschüss!" Die Tür geht so schnell zu, wie sie aufgegangen ist.
 
+## Figur (geplant, #158)
+
+Entschieden mit dem Entwickler am 2026-10-20 (Figuren-Matrix). Gebaut wird aus `kinder.py` und dem Bauplan; der Konzept-Frame ist nur ein Leitbild für den Charakter.
+
+- **Steckbrief:** Zwei lange blonde Zöpfe. Keine Brille. Weißer Pulli, dunkelblaue Hose. Hält ein gefaltetes Papierschiff. Hervorstechend: die Zöpfe.
+- **Parameter:** `haare` zoepfe (kräftiger als bisher: bis auf die Schultern, etwas nach außen), `merkmal` keins, `accessoire` papierschiff (neu, eigener Slot FrameChalk), `haut` HautHell, `haar` HaarBlond, Pulli FrameChalk, Hose Marine (neue Familie), `asymmetrie` rechts. Gesicht: aufmerksam (`make_face`: seed 25, brows 0, mouth 0.13, smile 0.35).
+- **Bedingung:** Das Papierschiff gilt nur, solange #161 die Aktivität `schiffe` behält; sonst `accessoire` nichts.
+- **Warum:** Zum Aussehen sagt das Dossier nichts. Weiß und Dunkelblau sind ein leiser Gruß an Hamburg (Eckdaten). Sie ist ordentlich angezogen; nichts an der Figur deutet ihren Faden an.
+- **Konzept-Frame:** FLUX `fr158_ida_seed15801`.
+
 ## Offene Fragen
 - Idas Faden ist zuerst leise. Später kann er lauter werden. Wann und wie, entscheidet die Geschichte.
 

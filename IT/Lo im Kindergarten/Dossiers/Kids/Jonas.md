@@ -82,6 +82,15 @@ Alles hier ist ein Vorschlag, kindgroß. Jonas versteht nicht, was er erzählt.
 - [[Die Runde]]: **weiß** „Donnerstag, beim Herrn Lichtenau". **Verbirgt** nichts.
 - [[Die Villa]]: **weiß**, dass der Papa kein Geld kriegt. **Verbirgt** nichts.
 
+## Figur (geplant, #158)
+
+Entschieden mit dem Entwickler am 2026-10-20 (Figuren-Matrix). Gebaut wird aus `kinder.py` und dem Bauplan; der Konzept-Frame ist nur ein Leitbild für den Charakter.
+
+- **Steckbrief:** Blondes Haar, nie gekämmt, steht in Büscheln nach allen Seiten. Keine Brille. Grüner Pulli, braune Cordhose. Trägt nichts. Hervorstechend: der Strubbelkopf.
+- **Parameter:** `haare` strubbel (neu), `merkmal` keins, `accessoire` nichts, `haut` HautHell, `haar` HaarBlond, Pulli LeafGreen, Hose Leather, `asymmetrie` rechts. Gesicht: offenes Grinsen (`make_face`: seed 21, eyes 0.20, brows −4, mouth 0.24, smile 1.0).
+- **Warum:** Oberfläche: „Immer in Bewegung, immer laut, immer bei Traktoren." Kein Spielzeugtraktor in der Hand, weil Max laut seiner Oberfläche selbst einmal einen mitbringt.
+- **Konzept-Frame:** FLUX `fr158_jonas_seed15802`.
+
 ## Offene Fragen
 - Bekommt Jonas' Geburtstag (Sa 3.10.) eine Aufgabe oder eine Zeile an Tag 15?
 - Wird der Donnerstag-Satz ein Fact, der die Runde aufdeckt? (Datenänderung)
