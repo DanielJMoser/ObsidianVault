@@ -25,6 +25,11 @@ lager: pichler
 
 - Noch nicht im Spiel. Quelle: [[Besetzung]].
 
+## Geplant (#161)
+
+- **Parent-Zeile:** `frau_behrens`, Kind `ida`, „Frau Dr. Behrens", Sway 0,5 wie jede Familie draußen (#156), kein Patron. Ida wird von Au-pairs abgeholt, also gibt die Abholung keinen Ausschlag. Friederike bekommt die Zeile, weil sie sich meldet (Mails an Lo) und am meisten auf den Sitz wartet. „Frau Dr." ist die Anrede, die man im Saggen einer Oberärztin gibt, und trennt sie von den Council-Zeilen, die den Vornamen führen.
+- **Ihr Entdeckbar im Spiel:** die Au-pairs als Idas Fact `die_neue` (über `essen`), die Dienste als `dienst` (über `wochenende`), der Sitz als `versprechen`, Idas Anvertrauen auf `wochenende`. Siehe [[Ida]].
+
 ## Oberfläche
 
 - Kommt selten selbst. Wenn doch, dann im Laufschritt, das Handy am Ohr.

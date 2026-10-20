@@ -35,6 +35,7 @@ stand: 2026-10-05
 - **Beim Abholen, an der Garderobe:** Zwei der Familien reden miteinander, und eine sagt „wenn wir dann im Council sind".
 - **Die Kinder:**
   - Ida: „Mama sagt, wir kommen bald in den Council."
+    - **Im Spiel (#161):** ein Anvertrauen auf `wochenende` (Fact `versprechen`). Die gewöhnliche Reaktion dort verrät `dienst` („Die Mama hat Dienst. Der Papa hat Vorlesung."); ab `confideThreshold`, wenn Lo das kennt, sagt sie: „Die Jassi-Mama hat gesagt, wir dürfen bald mitmachen. Im Council. Und dann ist die Mama bestimmt öfter da." (Platzhalter) Ihr Wort ist „bald mitmachen", Hannahs „zurück". Wer Ida vernachlässigt, hört es von ihr nie.
   - Max: „Mei Papa kriagt an Sitz."
   - Hannah: „Der Papa kriegt seinen Sitz zurück."
     - **Im Spiel (#163):** Talk Papas Bank, ihr eigenes Topic, das Talk Tiere freischaltet. Es ist ein gewöhnliches Reveal, kein Anvertrauen (Fact `sitz`), und die Zeile nennt die Jassi-Mama: „Aber er kriegt sein Sitz eh zruck, hat die Jassi-Mama versprochen." Hannah ist damit der leichte Weg hinein; Idas und Max' Zeile dürfen hinter einem Anvertrauen liegen.

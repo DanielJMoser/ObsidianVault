@@ -24,6 +24,12 @@ lager: pichler
 
 - Noch nicht im Spiel. Quelle: [[Besetzung]].
 
+## Geplant (#161)
+
+- **Keine Parent-Zeile.** Die Familie Behrens hat eine, und die trägt Friederike (`frau_behrens`).
+- **Sein Entdeckbar im Spiel:** Die Olligarchie ist eine Zeile in Idas `monster`-Reaktion: „Der Papa erklärt alles ausführlich. Gestern die Olli… Olligarchie." Die Vorlesung steckt in Idas Fact `dienst`.
+- **Die Vorlesung in den Ferien** (Vorschlag): In Österreich beginnt das Wintersemester am 1. Oktober (UG § 52). Die Tage 1–13 (14.–30. September) fallen also in die vorlesungsfreie Zeit, und trotzdem „hat der Papa Vorlesung". Nur Lore; keine Zeile sagt es.
+
 ## Oberfläche
 
 - Neue Wanderschuhe, neue Funktionsjacke. Er gibt sich Mühe, hier anzukommen.

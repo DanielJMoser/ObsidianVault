@@ -218,6 +218,7 @@ flowchart LR
 ```
 
 - **Leopold → Onkel Timo (#160):** Donnerstags nach der Runde sperren sich der Herr Gruber und die Frau Steuerberaterin im Besprechungszimmer des Notariats ein. Leopold hört sie bis in den ersten Stock keuchen und stöhnen und hält es für eine anstrengende Steuerberatung. Er sieht es und versteht nicht, was er sieht, wie Felix mit seinen „Steuern".
+- **Ida → Der versprochene Sitz (#161):** erst als Anvertrauen auf `wochenende`, wenn Lo lange zugehört hat: „Die Jassi-Mama hat gesagt, wir dürfen bald mitmachen. Im Council. Und dann ist die Mama bestimmt öfter da." Hannah sagt es früher, als gewöhnliches Reveal und mit „zurück" (#163). Beide nennen die Jassi-Mama.
 
 ## 8. Erwachsene, die etwas wissen
 
