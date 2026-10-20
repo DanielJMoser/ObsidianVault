@@ -23,8 +23,10 @@ im_spiel: false
 - **summary:** Valentina ist als Erste oben am Klettergerüst und als Letzte wieder unten. Wer ihr sagt, dass das zu hoch ist, kriegt zu hören, dass das eh nicht hoch ist.
 - **facts:** `birthday` (18. Februar), `brueder` („Hat zwei große Brüder, die schon in die Schule gehen."), `werkstatt` („Darf in Papas Werkstatt die Schrauben sortieren.").
 - **topic** `werkstatt` „Papas Werkstatt", unlocked by `werkstatt`.
-- **likedPlaces:** klettergeruest, rutsche, sandkiste, schaukel.
-- **likedKids:** jonas, felix.
+- **likedPlaces:** klettergeruest, rutsche, schaukel, basteltisch (#155). Drinnen der Basteltisch, weil sie in Papas Werkstatt die Schrauben sortieren darf; die Sandkiste fällt weg, sie ist immer oben.
+- **likedKids:** felix und hannah beidseitig; jonas einseitig, weil er sie verpetzt hat und sie ihm trotzdem nicht lange böse sein kann (#155). Mit Max nicht befreundet: Wer zuerst am Klettergerüst ist, hält den anderen fern.
+- **Sitz:** `tisch_08`, neben Hannah, gegenüber Jonas (#155).
+- **groupActivityDislikes:** `read_aloud` (#155).
 
 ## Oberfläche
 - Immer oben: Klettergerüst, Rutschenturm, Fensterbank, wenn keiner schaut.
@@ -50,13 +52,14 @@ im_spiel: false
 ## Beziehungen
 - [[Sepp Kirchmair]]: Papa. Ihr Held, ihr Vorbild, ihre Sprache.
 - Martina Kirchmair: Mama. Die, die Nein sagt.
-- [[Jonas]]: petzt. Böse sein kann sie ihm trotzdem nicht lange.
+- [[Jonas]]: petzt. Böse sein kann sie ihm trotzdem nicht lange. Sie mag ihn, einseitig (#155).
+- [[Hannah]]: Freundin zum Schaukeln, beidseitig (#155).
 - [[Max]]: kommt mitten im Herbst und sagt, das Klettergerüst gehört seinem Papa. Sie streitet nicht. Wem es gehört, ist ihr wurscht; sie klärt es, indem sie höher klettert: „Kauft hast es du. Obn bin i." Max mault, Felix bewundert sie noch mehr. (Vorschlag)
-- [[Felix]]: schaut ihr beim Klettern zu, als wäre sie ein Bergretter. Verliebt, auf seine Art. Sie lässt ihn mitklettern, bis zur Hälfte. Ob sie merkt, was los ist, ist offen.
+- [[Felix]]: schaut ihr beim Klettern zu, als wäre sie ein Bergretter. Verliebt, auf seine Art. Sie lässt ihn mitklettern, bis zur Hälfte. Ob sie merkt, was los ist, ist offen. Freunde, beidseitig (#155).
 
 ## Intrigen
 - [[Die Villa]]: **weiß**, dass der Baron dem Papa Geld schuldet. **Verbirgt** nichts. **Will** nichts davon. Sie sagt es, weil der Papa es sagt.
 
 ## Offene Fragen
-- Kommt Valentina einmal auf den Roster? Dann braucht sie Sitz, Seat und Reaktionen.
+- **(entschieden)** Valentina kommt auf den Roster, ab Tag 1 (Map #152); ihr Kid-Profil ist #164. Sitz und Places stehen seit #155 oben.
 - **(geteilt, entschieden)** Max und das Klettergerüst: Streitet Valentina mit ihm, oder ist das nur Felix' Streit? Max' Dossier entscheidet.

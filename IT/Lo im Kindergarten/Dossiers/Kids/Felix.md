@@ -51,12 +51,12 @@ im_spiel: false
 - [[Verena Holzknecht]]: Mama. Arbeitet immer, auch am Wochenende, „mit dem Onkel Timo".
 - [[Markus Holzknecht]]: Papa, der Held. Meistens am Berg.
 - [[Timotheus von Gruber]]: „Onkel Timo". Bringt Schokolade mit. Felix mag ihn, ein bisschen.
-- [[Nici]]: die Tochter vom Onkel Timo. Ihre Steine findet er fad, ihre Schatzkarten nicht.
-- [[Jonas]]: auch ein Fahrzeug-Bub. Traktor gegen Hubschrauber, das wird ernsthaft verhandelt.
+- [[Nici]]: die Tochter vom Onkel Timo. Ihre Steine findet er fad, ihre Schatzkarten nicht. Er mag sie, einseitig (#155).
+- [[Jonas]]: auch ein Fahrzeug-Bub. Traktor gegen Hubschrauber, das wird ernsthaft verhandelt. Freunde, beidseitig (#155).
 - [[Leopold]]: erklärt ihm, dass ein Hubschrauber ein „Drehflügler" ist. Felix nickt und glaubt ihm kein Wort.
 - [[Max]]: sagt, das Klettergerüst gehört ihm, weil es sein Papa gekauft hat. Felix findet, es gehört der Bergrettung. (Vorschlag)
-- [[Max]]: Sie streiten, wem das Klettergerüst gehört, und spielen dann doch zusammen Bergung. (Vorschlag)
-- [[Valentina]]: Er ist hin und weg, wie sie klettert. Er selbst kommt nur bis zur zweiten Sprosse, sie bis ganz oben. Verliebt, auf seine Art.
+- [[Max]]: Sie streiten, wem das Klettergerüst gehört, und spielen dann doch zusammen Bergung. Freunde, beidseitig (#155).
+- [[Valentina]]: Er ist hin und weg, wie sie klettert. Er selbst kommt nur bis zur zweiten Sprosse, sie bis ganz oben. Verliebt, auf seine Art. Freunde, beidseitig (#155).
 
 ## Intrigen
 
@@ -68,8 +68,10 @@ im_spiel: false
 - **papa_bergretter:** „Sein Papa ist bei der Bergrettung." Das schaltet das Thema frei.
 - **Eigenes Thema** `bergrettung`, „Die Bergrettung": „Wenn wer am Berg feststeckt, kommt mei Papa. Immer."
 - **Eigene Aktivität** `bergung`, „Bergrettung spielen": Stofftiere vom Klettergerüst abseilen.
-- **likedPlaces:** klettergeruest, rutsche, sandkiste.
-- **likedKids:** jonas, valentina.
+- **likedPlaces:** klettergeruest, rutsche, sandkiste, maltisch (#155). Am Maltisch zeichnet er seine roten Hubschrauber.
+- **likedKids:** jonas, valentina, max, alle beidseitig; nici einseitig, wegen ihrer Schatzkarten (#155).
+- **Sitz:** `tisch_11`, neben Max, gegenüber Nici (#155).
+- **groupActivityDislikes:** keine (#155).
 - **Refusal:** „Heut nicht. Heut bin i im Einsatz." Felix dreht sich weg und funkt ins Leere.
 - **Reaktion auf Monster:** „Monster gibt's nit. Aber Lawinen gibt's." (dislikes)
 - **Storm-in:** „Bergrettung! Is wer verletzt?"

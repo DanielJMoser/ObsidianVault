@@ -22,6 +22,7 @@ im_spiel: false
   - Topic `bank`: „Papas Bank"
   - likedPlaces: kaufladen, maltisch, schaukel.
   - likedKids: jassi, valentina. Im Kaufladen ist sie die Kassiererin, Jassi die Köchin.
+  - **Entschieden (#155):** die Places wie oben; jassi und valentina beide beidseitig; Sitz `tisch_07`, weit weg von Nici; groupActivityDislikes keine. Mit Nici nicht befreundet: Am Maltisch, den beide mögen, sperrt jede die andere aus.
 
 ## Oberfläche
 - Fröhlich, redet viel, lacht laut.
@@ -48,8 +49,8 @@ im_spiel: false
 ## Beziehungen
 - [[Manni Plattner]]: Papa. Sie liebt ihn und plappert ihn nach.
 - Sandra: Mama. Sagt „Hannah, das sagt man nicht", und Hannah sagt es trotzdem.
-- [[Jassi]]: Restaurant-Partnerin. Jassi kocht, Hannah kassiert.
-- [[Valentina]]: Freundin zum Schaukeln. (Vorschlag)
+- [[Jassi]]: Restaurant-Partnerin. Jassi kocht, Hannah kassiert. Freundinnen, beidseitig (#155).
+- [[Valentina]]: Freundin zum Schaukeln. Beidseitig (#155).
 - [[Nici]]: Der „Herr Baron" ist Nicis Papa. Hannah hat es Nici einmal gesagt, seitdem gehen sie sich aus dem Weg. (Vorschlag)
 
 ## Intrigen
@@ -57,4 +58,4 @@ im_spiel: false
 
 ## Offene Fragen
 - (geteilt, übernommen) Hannah hat Nici gesagt, ihr Papa sei ein Dieb, und seitdem meiden sich die beiden. Das gehört auch in Nicis Dossier.
-- Kommt Hannah je ins Spiel? Dann bräuchte sie ein volles Kid-Profil.
+- **(entschieden)** Hannah kommt ins Spiel, ab Tag 1 (Map #152); ihr Kid-Profil ist #163.

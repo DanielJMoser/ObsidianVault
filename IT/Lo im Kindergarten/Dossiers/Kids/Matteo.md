@@ -50,16 +50,18 @@ im_spiel: false
 
 - **Fact** `papa_koch`: „Sein Papa ist Koch in einem Hotel."
 - **Topic** `kochen`: „Wie der Papa kocht", freigeschaltet über `papa_koch`.
-- **likedPlaces:** sandkiste, kaufladen, garten.
-- **likedKids:** nici, jassi.
+- **likedPlaces:** sandkiste, kaufladen (#155). „garten" ist kein Place, und zwei reichen: „Ist immer in der Sandkiste oder beim Kaufladen."
+- **likedKids:** nici, jassi, beide beidseitig (#155).
+- **Sitz:** `tisch_06`, neben Nici (#155).
+- **groupActivityDislikes:** keine (#155).
 - **Reaktion** auf `essen`, likes, reveals `papa_koch`: „Mein Papa kocht Risotto. Für hundert Leute! Und am Sonntag für uns."
 
 ## Beziehungen
 
 - **[[Monika Pixner]]:** Mama. Hat alle Schlüssel.
 - **Stefano:** Papa. Koch, kommt heim, wenn Matteo schläft.
-- **[[Nici]]:** Fast eine Schwester. Isst oft bei ihnen unten.
-- **[[Jassi]]:** Ihr Restaurant braucht einen Koch. Er wäre gern der Koch. (Vorschlag)
+- **[[Nici]]:** Fast eine Schwester. Isst oft bei ihnen unten. Freunde, beidseitig (#155).
+- **[[Jassi]]:** Ihr Restaurant braucht einen Koch. Er wäre gern der Koch. Freunde, beidseitig (#155). Im Kaufladen ist nur Platz für zwei, also kommt er nur hinein, wenn Hannah nicht an der Kasse steht.
 - **[[Leni]]:** Wohnt ganz oben. Er hört sie singen.
 - **[[Timotheus von Gruber]]:** Der Herr Baron. Redet nie mit ihm.
 

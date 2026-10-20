@@ -1,6 +1,6 @@
 ---
 typ: übersicht
-stand: 2026-10-05
+stand: 2026-10-20
 status: entwurf
 ---
 
@@ -130,6 +130,8 @@ flowchart LR
 
 ## 6. Die Kinder
 
+Eine Linie ohne Pfeil ist eine beidseitige Freundschaft im Spiel (`likedKids`, beide Richtungen). Eine gepunktete Linie mit Pfeil heißt: mag, aber nicht zurück. Ein beschrifteter Pfeil ist eine Beziehung ohne Freundschaft. Entschieden in #155 am 2026-10-20.
+
 ```mermaid
 flowchart LR
   Mira --- Leni
@@ -137,24 +139,50 @@ flowchart LR
   Jonas --- Leni
   Jonas --- Jassi
   Jassi --- Nici
-  Jonas -. verliebt .-> Mira
-  Felix -. verliebt .-> Valentina
-  Leni -. Klopfzeichen, verboten .- Nici
-  Hannah -. meiden sich .- Nici
   Matteo ---|wie Geschwister| Nici
   Matteo ---|Koch im Restaurant| Jassi
   Hannah ---|Kassiererin| Jassi
-  Ida -. mag .-> Leni
-  Ida -. mag .-> Leopold
+  Hannah ---|Schaukel| Valentina
+  Felix ---|verliebt, auf seine Art| Valentina
   Felix ---|Streit, dann Bergung| Max
+  Felix ---|Traktor gegen Hubschrauber| Jonas
+  Leopold ---|fragt warum| Jassi
+  Leopold ---|hört bis zum Ende zu| Ida
+  Ida ---|Gelsen, Mücken, Muggen| Leni
+  Jonas -. verliebt .-> Mira
+  Valentina -. mag trotzdem .-> Jonas
+  Max -. mag .-> Jonas
+  Felix -. Schatzkarten .-> Nici
+  Leni -. Klopfzeichen, verboten .- Nici
+  Hannah -. meiden sich .- Nici
   Valentina -->|klettert höher| Max
   Jonas -->|petzt| Valentina
   Leopold -->|erklärt alles| Felix
   class Mira,Leni,Nici,Jonas,Jassi,Felix,Valentina,Hannah,Matteo,Ida,Max,Leopold internal-link;
 ```
 
-- **Kanon-Freundschaften** (beidseitig): Mira–Leni, Mira–Nici, Jonas–Leni, Jonas–Jassi, Jassi–Nici.
+**Die Freundschaften im Spiel** (beidseitig):
+
+| # | Beidseitig | Begründung aus den Dossiers |
+|---|---|---|
+| 1–5 | Mira–Leni, Mira–Nici, Jonas–Leni, Jonas–Jassi, Jassi–Nici | Kanon, bleibt. |
+| 6 | Matteo–Nici | Matteo wohnt im Souterrain der Gruber-Villa, Nici darüber. Sie spielen, als wären sie Geschwister, und Nici isst oft bei den Pixners unten. |
+| 7 | Matteo–Jassi | Matteo will Koch in Jassis Restaurant am Kaufladen sein. |
+| 8 | Hannah–Jassi | Jassi kocht, Hannah kassiert, im selben Restaurant. |
+| 9 | Hannah–Valentina | Freundinnen zum Schaukeln. Nebenbei schuldet der Baron beiden Vätern Geld oder hat ihnen geschadet; die Mädchen wissen es nicht. |
+| 10 | Felix–Valentina | Felix bewundert, wie sie klettert, er selbst kommt nur bis zur zweiten Sprosse. Sie lässt ihn mitklettern, bis zur Hälfte. |
+| 11 | Felix–Max | Sie streiten, wem das Klettergerüst gehört, und spielen dann doch zusammen Bergung. |
+| 12 | Felix–Jonas | Zwei Fahrzeug-Buben: Traktor gegen Hubschrauber, das wird ernsthaft verhandelt. |
+| 13 | Leopold–Jassi | Jassi ist die Einzige, die ihn „warum?" fragt und die Antwort auch hören will. Ihre Eltern sind Gegner im Council; die Kinder wissen es nicht. |
+| 14 | Ida–Leni | Beide sind neu und nicht von hier. Leni sagt Gelsen, Ida Mücken, die anderen Muggen. |
+| 15 | Ida–Leopold | Sie versteht ihn gut und hört ihm als Einzige bis zum Ende zu. |
+
+- **Einseitig:** Jonas mag Mira (Kanon). Valentina mag Jonas, obwohl er sie verpetzt hat. Max mag Jonas. Felix mag Nici, wegen ihrer Schatzkarten. Einseitiges Mögen ändert im Spiel nichts; es steht für später in den Daten.
+- **Wie viele:** Jassi hat fünf Freunde. Nici, Leni, Jonas und Felix haben je drei; Mira, Matteo, Hannah, Valentina, Leopold und Ida je zwei. Max hat einen, Felix; er kommt erst mitten im Lauf und muss zum ersten Mal teilen. Jedes Kind hat mindestens eine beidseitige Freundschaft.
 - **Leni und Nici** sind im Spiel nie Freundinnen (fr-055). Durch den Boden schon.
+- **Valentina und Max** sind keine Freunde. Wer zuerst am Klettergerüst ist, hält den anderen fern, und Max kommt oft nicht auf „sein" Gerüst.
+- **Hannah und Nici** sind keine Freundinnen. Am Maltisch, den beide mögen, sperrt jede die andere aus.
+- **Leopold weiß nicht, dass er Freunde hat.** Fragt Lo ihn, sagt er, Jassi und Ida interessierten sich für Geschichte, mehr nicht, und das glaubt er. Jassi und Ida sagen Lo, sie mögen ihn, weil er immer etwas Interessantes weiß und alles nett und geduldig erklärt.
 
 ## 7. Wer plaudert was aus
 

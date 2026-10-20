@@ -53,8 +53,8 @@ im_spiel: false
 
 - [[Friederike Behrens]]: Mama. Meistens im Dienst.
 - [[Jan-Hendrik Behrens]]: Papa. Meistens in der Vorlesung.
-- [[Leni]]: auch neu, auch nicht von hier. Leni sagt Gelsen, Ida sagt Mücken, die anderen sagen Muggen. Das verbindet. (Vorschlag)
-- [[Leopold]]: redet so, dass sie ihn gut versteht. Hört ihm als Einzige bis zum Ende zu.
+- [[Leni]]: auch neu, auch nicht von hier. Leni sagt Gelsen, Ida sagt Mücken, die anderen sagen Muggen. Das verbindet. Freundinnen, beidseitig (#155).
+- [[Leopold]]: redet so, dass sie ihn gut versteht. Hört ihm als Einzige bis zum Ende zu. Freunde, beidseitig (#155). Sie mag ihn, weil er immer etwas Interessantes zu erzählen weiß und ihr alles nett und geduldig erklärt; das kann Lo von ihr erfahren (#155, Q14). Er hält es für Interesse an Geschichte.
 - [[Jassi]]: In Jassis Restaurant bestellt Ida immer „ein Brötchen". Jassi hat es auf die Karte geschrieben.
 
 ## Intrigen
@@ -67,8 +67,10 @@ im_spiel: false
 - **hafen:** „Kommt aus Hamburg. Dort gibt es einen Hafen mit riesigen Schiffen." Das schaltet das Thema frei.
 - **Eigenes Thema** `hafen`, „Der Hafen": „In Hamburg sind die Schiffe so groß wie ein Berg. Wirklich!"
 - **Eigene Aktivität** `schiffe`, „Papierschiffe falten".
-- **likedPlaces:** maltisch, buecherregal, kaufladen.
-- **likedKids:** leni, leopold.
+- **likedPlaces:** maltisch, buecherregal, puppenecke, schaukel (#155). Puppenspiel ist Geschichtenerzählen, mit Leni als Partnerin; auf der Schaukel ist sie mit Leni. Der Kaufladen fällt weg: Mit Jassi ist sie nicht befreundet, also käme sie nie ins Restaurant, solange Jassi dort ist.
+- **likedKids:** leni, leopold, beide beidseitig (#155).
+- **Sitz:** `tisch_09`, gegenüber Leni, neben Leopold (#155).
+- **groupActivityDislikes:** keine (#155).
 - **Refusal:** „Heute erzähl ich nichts." Ida räumt Stifte ein, einen nach dem anderen.
 - **Reaktion auf Monster:** „Monster gibt es nicht. Hat der Papa erklärt. Ausführlich." (indifferent)
 - **Storm-in:** „Oh. Tschüss!" Die Tür geht so schnell zu, wie sie aufgegangen ist.
@@ -76,5 +78,5 @@ im_spiel: false
 ## Offene Fragen
 - Idas Faden ist zuerst leise. Später kann er lauter werden. Wann und wie, entscheidet die Geschichte.
 
-- **(geteilt, übernommen)** Ida und Leni als die zwei „Zugereisten": Gehört das auch in Lenis Dossier? (Vorschlag)
+- **(geteilt, entschieden, #155)** Ida und Leni als die zwei „Zugereisten": beidseitige Freundinnen, in beiden Dossiers.
 - Soll Lo am Abend eine eigene Gelegenheit haben, Ida zuzuhören, etwa als Abholung, die spät kommt?

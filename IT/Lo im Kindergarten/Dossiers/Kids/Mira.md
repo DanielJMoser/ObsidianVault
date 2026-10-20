@@ -39,7 +39,7 @@ im_spiel: true
 - **groupActivityDislikes** `crafts`: „Da greift immer wer meine Sachen an." Wird ersetzt: Statt der Absage nennt das Spiel, wer mitgemacht hat (#118).
 - **`loo.storm_in.mira`:** „Ah." Sie macht die Tür ganz langsam wieder zu.
 - **Aufgabe `mira_vorlesestunde`** (Tage 17–19): „Der Council of Parents® ersucht um eine Vorlesestunde, und die Mira möchte vorher persönlich gefragt werden." Verpasst: „Die {0} hat auf ihre Vorlesestunde umsonst gewartet."
-- **fr-055:** Puppenspiel-Paare Leni und Mira, Nici und Mira.
+- **fr-055:** Puppenspiel-Paare Leni und Mira, Nici und Mira. Geplant (#155): dazu Leni und Ida.
 
 ## Oberfläche
 - Isst ihre Jause allein beim Legoturm. Nimmt nichts aus fremden Jausen.

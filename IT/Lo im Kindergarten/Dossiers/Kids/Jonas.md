@@ -32,6 +32,7 @@ im_spiel: true
 - **Sitz:** `tisch_02`.
 - **likedPlaces:** maltisch, basteltisch, kaufladen, rutsche.
 - **likedKids:** leni, mira, jassi. Mira mag ihn nicht zurück.
+- **Geplant (#155):** likedKids dazu `felix`, beidseitig. Valentina und Max mögen ihn, einseitig.
 - **Mag nicht** `read_aloud`: „Vorlesen? Da muss man ja so lang stillsitzen!" Wird ersetzt: Statt der Absage nennt das Spiel, wer mitgemacht hat (#118).
 - **`loo.storm_in.jonas`** (Platzhalter): „Lo! Ich hab nix angestellt! Also fast nix!"
 - **Aufgabe `jonas_basteltisch`**, Tage 9–11.
@@ -67,6 +68,9 @@ Alles hier ist ein Vorschlag, kindgroß. Jonas versteht nicht, was er erzählt.
 - [[Leni]]: Freundin. Die Samstage, Knödel, Teeparty mit Frau Hoppel, bei der er mitspielen darf, wenn er leise ist.
 - [[Jassi]]: Freundin. Er isst in ihrem Restaurant alles, am liebsten Nudeln.
 - [[Mira]]: Er mag sie, sie ihn nicht. Er gibt nicht auf.
+- [[Felix]]: Freund, beidseitig (#155). Auch ein Fahrzeug-Bub: Traktor gegen Hubschrauber, das wird ernsthaft verhandelt.
+- [[Valentina]]: Er hat Lo erzählt, dass sie das Vogelhaus kaputt gemacht hat. Sie mag ihn trotzdem, einseitig (#155).
+- [[Max]]: Max mag ihn, einseitig (#155).
 - [[Thomas Eder]]: Papa. Sagt ihm immer die Wahrheit.
 - [[Birgit Eder]]: Mama. Am Wochenende am Hof.
 - Opa Franz: der Hof, der Traktor.

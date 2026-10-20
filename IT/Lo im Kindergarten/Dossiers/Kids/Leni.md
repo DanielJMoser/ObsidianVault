@@ -37,6 +37,7 @@ im_spiel: true
   - `monster` dislikes: Sie sagt nichts mehr und verschwindet in der Kuschelecke.
   - `knoedel` likes: „Der Knödel quietscht, wenn er mich sieht."
 - **Sitz:** `tisch_03`. **likedPlaces:** kuschelecke, puppenecke, buecherregal, schaukel. **likedKids:** mira, jonas.
+- **Geplant (#155):** likedKids dazu `ida`, beidseitig. Dann spielt Leni auch mit Ida Puppen.
 - **`loo.storm_in.leni`:** „Wie lang brauchst du noch? Ich hab einen Plan, und du bist drin."
 - **Aufgaben:** `leni_eingewoehnung` (Tage 2–4), `leni_geburtstag` (Tage 23–26).
 - **Von anderen:** Jonas: „Am Samstag war ich bei der Leni." **fr-055:** nie mit Nici befreundet.
@@ -80,7 +81,7 @@ Alles ist ein Vorschlag, kindgroß. Leni versteht es selbst nur halb.
 - [[Nici]]: das Mädchen unten. Verboten. Hört zu, wenn Leni singt.
 - [[Matteo]]: wohnt ganz unten im Haus.
 - [[Thomas Eder]]: Jonas' Papa. Repariert Sachen, auch die Haustür.
-- [[Ida]]: die andere Neue. Ida mag sie. (Vorschlag)
+- [[Ida]]: die andere Neue. Freundin, beidseitig (#155). Leni sagt Gelsen, Ida Mücken, die anderen Muggen. Puppenecke und Schaukel.
 
 ## Intrigen
 

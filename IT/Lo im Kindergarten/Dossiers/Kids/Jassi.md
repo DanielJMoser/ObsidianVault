@@ -33,6 +33,7 @@ im_spiel: true
 - **Weigerung:** „Mit dir red ich heut nicht. Du fragst immer nur so langweilige Sachen."
 - **`loo.storm_in.jassi`:** „Warum sitzt du auf unserem Klo? Hast du kein eigenes?"
 - **Sitz:** `tisch_04`. **Mag die Orte:** Kaufladen, Klettergerüst, Schaukel. **Freunde:** Jonas, Nici (beide gegenseitig). Keine Gruppenaktivität, die sie nicht mag.
+- **Geplant (#155):** Freunde dazu Matteo, Hannah und Leopold, alle gegenseitig. Dann hat sie fünf, mehr als jedes andere Kind.
 - **In Susannes Brief:** „ganz besonderes Kind", „vielleicht hochbegabt".
 - **Szene:** die Speisekarte „RESTORANT" am Kaufladen, das Garderobenzeichen Kochmütze.
 
@@ -68,9 +69,10 @@ Alles hier ist ein Vorschlag, kindgroß, und Jassi versteht es selbst nicht.
 - [[Susanne Pichler]]: Mama. Bewundert sie.
 - [[Florian Pichler]]: Papa. Der, der Zeit hat. Der fährt ins Planetarium.
 - [[Mira]]: war beim Frühlingsfest krank. Jassi bringt das nicht mit der Torte zusammen.
-- [[Leopold]]: redet mit großen Wörtern. Jassi fragt so lange nach, bis er sie erklären muss.
+- [[Leopold]]: redet mit großen Wörtern. Jassi fragt so lange nach, bis er sie erklären muss. Freund, beidseitig (#155). Sie mag ihn, weil er immer etwas Interessantes zu erzählen weiß und ihr alles nett und geduldig erklärt. Das kann Lo von ihr erfahren (#155, Q14).
 - [[Max]]: sagt, das Klettergerüst gehöre seinem Papa. Jassi: „Das Klettergerüst gehört allen!" (Vorschlag)
-- [[Matteo]]: der Koch in ihrem Restaurant. (Vorschlag)
+- [[Matteo]]: der Koch in ihrem Restaurant. Freund, beidseitig (#155).
+- [[Hannah]]: die Kassiererin in ihrem Restaurant. Freundin, beidseitig (#155).
 
 ## Intrigen
 - [[Die Nusstorte]]: hat mitgebacken. Weiß nicht, was danach war. Hütet das Geheimnis, weil Mama es gesagt hat.

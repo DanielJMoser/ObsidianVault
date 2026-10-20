@@ -33,6 +33,7 @@ im_spiel: true
 - **Sitz:** `tisch_05`.
 - **likedPlaces:** maltisch, lego, sandkiste, rutsche, puppenecke.
 - **likedKids:** mira, jassi.
+- **Geplant (#155):** likedKids dazu `matteo`, beidseitig. Felix mag sie, einseitig.
 - **`loo.storm_in.nici`:** „Schau, eine Schnecke!"
 - **fr-055:** Nie mit Leni befreundet, nichts macht sie zu Freundinnen.
 
@@ -67,10 +68,11 @@ im_spiel: true
 - **[[Jassi]]:** Beste Freundin. Ihre Eltern führen die feindlichen Lager, und beiden ist das wurscht.
 - **[[Mira]]:** Freundin. Beide reden wenig, und beide merken sich viel.
 - **[[Leni]]:** Wohnt einen Stock höher. Darf nicht mit Nici spielen. Nie Freundinnen (fr-055).
-- **[[Matteo]]:** Aus dem Souterrain, kennt sie seit immer. Weiß, wann der Mann mit den Pickerln kommt, und sagt es ihr. (Vorschlag)
+- **[[Matteo]]:** Aus dem Souterrain, kennt sie seit immer. Weiß, wann der Mann mit den Pickerln kommt, und sagt es ihr. Freund, beidseitig (#155).
 - **[[Timotheus von Gruber]]:** Papa. Holt sie pünktlich ab und redet wenig. Genau wie sie.
 - **[[Amelie von Gruber]]:** Mama. Oft in Meran, bringt Steine vom Fluss mit.
 - **Gerti:** die Schnecke im Garten (Kanon).
+- [[Felix]]: findet ihre Steine fad, ihre Schatzkarten nicht. Er mag sie, einseitig (#155).
 - [[Hannah]]: Hannah hat ihr gesagt, ihr Papa ist ein Dieb. Seitdem gehen sich die zwei aus dem Weg. (Vorschlag)
 
 ## Intrigen

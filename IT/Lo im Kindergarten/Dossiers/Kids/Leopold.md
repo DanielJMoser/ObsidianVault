@@ -31,10 +31,11 @@ im_spiel: false
 - **Die Runde:** „Donnerstags darf ich nicht ins Büro vom Papa. Da ist der Herr Baron da, und die Frau Steuerberaterin. Sie trinken den Sherry vom Urgroßvater."
 - **Die Schule:** „Man hat mich für sozial-emotional unreif befunden. Das ist ein Gutachten, kein Urteil. Man kann Berufung einlegen. Glaube ich."
 - **Radetzky** (Talk: Wochenende, erst bei hohem Vertrauen): Er schläft mit einem Stoffhund, der Radetzky heißt. Das darf niemand wissen.
+- **Keine Freunde, nur Interesse** (Talk, eigenes Thema; #155, Q14 und Q20): Fragt Lo ihn nach Freunden, sagt er, Jassi und Ida interessierten sich für Geschichte, mehr nicht. Das glaubt er wirklich. Jassi und Ida sagen Lo, warum sie ihn mögen: Er weiß immer etwas Interessantes zu erzählen und erklärt ihnen alles nett und geduldig. Er hat also zwei Freundinnen und weiß es nicht.
 
 ## Verborgen
 - Hat Angst vor Gewitter. Ausgerechnet er, der jede Artillerieschlacht aufzählen kann.
-- Hat keinen Freund und wünscht sich einen. Übt zu Hause, wie man ein Gespräch anfängt.
+- Übt zu Hause, wie man ein Gespräch anfängt.
 - Versteht nicht, dass die anderen Kinder ihn anstrengend finden. Hält es für mangelndes Interesse an Geschichte.
 - Hat gehört, wie Mama sagt: „Er ist einsam, Ferdinand." Hat sich gemerkt, dass Papa nicht geantwortet hat.
 - Weiß nicht, dass das, was er über den Freiherrn weiß, jemandem schaden kann. Für ihn ist es eine Tatsache wie Sarajevo.
@@ -46,7 +47,9 @@ im_spiel: false
 
 ## Beziehungen
 - [[Ferdinand Lichtenau]]: Vorbild. Er sagt am Tisch Sätze, die Leopold im Kindergarten wiederholt.
-- [[Jassi]]: die Einzige, die „warum" fragt und die Antwort auch wissen will. Er mag sie. Dass ihre Mama die Gegnerin seines Papas ist, weiß er nicht. (Vorschlag)
+- [[Jassi]]: die Einzige, die „warum" fragt und die Antwort auch wissen will. Er mag sie. Dass ihre Mama die Gegnerin seines Papas ist, weiß er nicht. Freunde, beidseitig (#155); er hält es für Interesse an Geschichte.
+- [[Ida]]: versteht ihn gut und hört ihm als Einzige bis zum Ende zu. Freunde, beidseitig (#155); auch das hält er für Interesse an Geschichte.
+- [[Felix]]: sitzt neben ihm am Tisch. Leopold erklärt ihm, dass ein Hubschrauber ein „Drehflügler" ist; Felix nickt und glaubt ihm kein Wort.
 - [[Matteo]]: hört zu. Leopold erklärt ihm, warum seine Mama aus Italien kommt: Saint-Germain, 10. September 1919. (Vorschlag)
 - [[Nici]]: Tochter des Herrn Baron. Er sagt ihr ohne Bosheit, dass ihr Papa gegen das Gesetz verstößt. (Vorschlag)
 
@@ -69,11 +72,15 @@ im_spiel: false
 - **Generische Themen:**
   - Wetter, likes: „Der Föhn ist ein warmer Fallwind. Adiabatische Erwärmung. Deshalb hat die Mama Kopfweh."
   - Monster, indifferent: „Monster sind Folklore. Das Tiroler Beispiel ist der Tatzelwurm. Nicht belegt."
-- **Orte:** buecherregal, lego, sandkiste.
-- **Gruppenaktivität:** Vorlesen liebt er, und er verbessert.
+- **likedPlaces:** buecherregal, lego, sandkiste (#155).
+- **likedKids:** jassi, ida, beide beidseitig (#155). Mit Jassi teilt er keinen Place; die beiden chatten nur.
+- **Sitz:** `tisch_10`, gegenüber Jassi, zwischen Ida und Felix (#155).
+- **groupActivityDislikes:** keine (#155). Vorlesen liebt er. Dass er Lo dabei verbessert, kann das Spiel noch nicht zeigen.
 - **Storm-in:** „Pardon. Ich wusste nicht, dass die Räumlichkeit belegt ist." Er schließt die Tür, leise.
 
 ## Offene Fragen
-- Strafhöhe im Adelsaufhebungsgesetz prüfen. In Kronen festgesetzt, heute angeblich winzig; genaue Zahl und ob sie noch gilt, erst prüfen.
-- Vollzugsanweisung vom 18. April 1919 (StGBl. Nr. 237): Nummer vor Verwendung prüfen.
-- Freund in der Gruppe? Jassi quer über die Lager wäre der schönste Faden.
+- **(geprüft, #154)** Die Fakten seiner Zeilen stehen in `docs/research/adelsaufhebungsgesetz-1919.md` im Repo. Kurz:
+  - Die Nummern stimmen: StGBl. Nr. 211/1919 vom 3. April 1919, die Vollzugsanweisung Nr. 237/1919 vom 18. April, das Habsburgergesetz Nr. 209/1919 am selben Tag wie das Adelsaufhebungsgesetz. Zwölf Isonzoschlachten.
+  - Die Strafe: Im Gesetz steht noch „bis zu 20.000 K oder Arrest bis zu sechs Monaten“. Seit dem Verfassungsgerichtshof vom 9. Oktober 2019 (E 1851/2019) darf aber keine Geldstrafe mehr verhängt werden; es gibt nur eine Ermahnung.
+  - Zu berichtigen: Das Gesetz galt erst ab dem 10. April 1919. „Von“ steht nur in der Vollzugsanweisung. Karl hat am 11. November 1918 nicht abgedankt, sondern auf „jeden Anteil an den Staatsgeschäften“ verzichtet. In Sarajevo hat sich das erste Auto verfahren, und das des Thronfolgers ist ihm gefolgt. Saint-Germain galt erst ab dem 16. Juli 1920, und den Brenner nennt der Vertrag nicht.
+- **(entschieden, #155)** Freunde in der Gruppe: Jassi und Ida, beide beidseitig.

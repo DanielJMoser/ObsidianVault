@@ -48,7 +48,8 @@ im_spiel: false
 
 - [[Hannes Haidacher]]: Papa. Ist oft im Tal. Wenn er da ist, gibt's was.
 - [[Evelyn Haidacher]]: Mama. Holt ihn immer zu früh ab.
-- [[Felix]]: Streit ums Klettergerüst. Max sagt, es gehört ihm, weil es sein Papa gekauft hat. Felix sagt, es gehört der Bergrettung. Am Ende spielen sie trotzdem zusammen Bergung.
+- [[Felix]]: Streit ums Klettergerüst. Max sagt, es gehört ihm, weil es sein Papa gekauft hat. Felix sagt, es gehört der Bergrettung. Am Ende spielen sie trotzdem zusammen Bergung. Freunde, beidseitig (#155).
+- [[Jonas]]: Max mag ihn, einseitig (#155).
 - [[Jassi]]: kennt er vom Kuvert, sie ihn vom Fenster. Sonst nix.
 - [[Valentina]]: Er sagt, das Klettergerüst gehört seinem Papa. Sie sagt: „Kauft hast es du. Obn bin i." Und klettert höher. Er mault. (Vorschlag)
 
@@ -63,8 +64,10 @@ im_spiel: false
 - **klettergeruest:** „Sagt, das Klettergerüst gehört seinem Papa." Das schaltet das Thema frei.
 - **Eigenes Thema** `hotel`, „Das Hotel": „Bei uns im Hotel gibt's an Pool. Drinnen! Und an Koch, der macht ma Pommes, wann i will."
 - **Eigene Aktivität** `gipfel`, „Wer zuerst oben ist": aufs Klettergerüst um die Wette.
-- **likedPlaces:** klettergeruest, sandkiste, rutsche.
-- **likedKids:** felix, jonas.
+- **likedPlaces:** klettergeruest, sandkiste, rutsche, lego (#155). Er bringt jeden Tag etwas Neues mit, und an der Legokiste baut er dem Traktor eine Garage.
+- **likedKids:** felix beidseitig, jonas einseitig (#155). Mit Valentina nicht befreundet: Ist sie oben am Klettergerüst, kommt er nicht auf „sein" Gerüst.
+- **Sitz:** `tisch_12`, neben Los Stuhl. Bis zu seiner Ankunft ist er der leere zwölfte Platz (#155).
+- **groupActivityDislikes:** `crafts` (#155).
 - **Refusal:** „I red heut nit mit dir. Du host nix zum Hergeben."
 - **Reaktion auf Essen:** „Bei uns daheim gibt's a Buffet. Do kannst nehmen, so viel du willst." (likes)
 - **Storm-in:** „Is des Klo a für Gäst?"
