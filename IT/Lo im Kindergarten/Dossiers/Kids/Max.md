@@ -123,6 +123,7 @@ Entschieden mit dem Entwickler am 2026-10-20. Die Regel gilt für jedes Kind; Ma
 - **Vertrauen:** Er startet am Tag 11 mit dem Startwert wie jedes Kind an Tag 1, also „ist zurückhaltend". Der tägliche Verlust beginnt am Abend seines ersten Tages. Das passt zu „Am ersten Tag weint er nicht, er schaut."
 - **In der Szene:**
   - Er steht bei der Tageseröffnung an der Garderobe, bei seinem Haken, und läuft von dort in die Bringzeit.
+    - **Entschieden (#167):** Seine Roster-Zeile gilt ab Tag 1, also braucht die Szene seine Instanz ab dann. Das Roster-Ticket (fr-074) setzt sie als Graybox an die Garderobe, bei Haken West 6. Seine Figur (fr-077) tauscht später nur die Variante an derselben Stelle.
   - Sein Garderobenzeichen klebt ab Tag 1 über dem Haken, weil der Platz seit Juli vergeben ist. Jacke und Hausschuhe hängen erst ab Tag 11 dort (#171).
     - **Entschieden (#171):** Sein Haken ist West 6 mit dem Mond, der letzte der Reihe. Die Lücke an den Tagen 1–10 sitzt also am Ende der Reihe und sieht freigehalten aus. Ein Kind, das zur Gartentür hereinkommt, sucht diesen Haken am anderen Ende, und so wird `haken` glaubhaft, ohne dass es jemand erklärt. Jacke und Hausschuhe versteckt sein `KidView` bis zur Aufnahme, wie seine Instanz.
   - An den Tagen 1–10 sieht Lo also einen zwölften Haken und einen zwölften Stuhl, zu denen kein Kind gehört.
