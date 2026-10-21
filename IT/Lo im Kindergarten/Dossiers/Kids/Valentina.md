@@ -13,6 +13,7 @@ im_spiel: false
 - **Familie:** Papa Sepp, Mama Martina, zwei große Brüder in der Volksschule.
 - **Herkunft:** Tirol, durch und durch.
 - **Allergien:** keine.
+- **Garderobe (geplant, #171):** Zeichen Stern, grüne Jacke (LeafGreen), grüne Hausschuhe. Haken West 3. Grün statt des Gelbs ihres Pullis, weil sonst drei gelbe Jacken hängen würden (Leni, Ida, sie).
 - **Stimme:** breites Tirolerisch, laut, direkt. „Muggen", „Bua", „isch".
   - „I kimm höher auffi als du."
 

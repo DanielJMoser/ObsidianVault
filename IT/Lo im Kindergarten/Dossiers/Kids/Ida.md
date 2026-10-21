@@ -13,6 +13,7 @@ im_spiel: false
 - **Wohnen:** Altbauwohnung im Saggen.
 - **Herkunft:** Hamburg. Mit einem Jahr nach Innsbruck gekommen.
 - **Allergien:** keine.
+- **Garderobe (geplant, #171):** Zeichen Schiff, ein gelber Friesennerz mit Kapuze und Kordel (ChairYolk), gelbe Hausschuhe. Haken West 5. Der Friesennerz zeigt, dass sie nicht von hier ist, wie „Mücken" und „Tüte". Gesagt wird es nie.
 - **Stimme:** Hochdeutsch, deutlich, ein bisschen erwachsen. Sagt Mücken, Tüte, lecker, Brötchen, „Tschüss".
   - „Das ist eine Tüte, keine Sackerl." Die anderen lachen.
 

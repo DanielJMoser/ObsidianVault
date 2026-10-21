@@ -12,6 +12,7 @@ im_spiel: false
 - **Wohnen:** Villa Lichtenau im Saggen.
 - **Herkunft:** Tirol, bis 1919 Adel.
 - **Allergien:** keine.
+- **Garderobe (geplant, #171):** Zeichen Sonne, dunkelblaue Jacke (Marine), dunkelblaue Hausschuhe. Haken Ost 6, gleich nach Nici.
 - **Schule:** Die vorzeitige Einschulung wurde im Frühjahr 2026 abgelehnt, „sozial-emotional nicht schulreif". Er hat das Gutachten gelesen.
 - **Stimme:** Hochdeutsch, ganze Sätze, Fachwörter. Tirolerisch nur aus Versehen. „Culex pipiens. Auf Tirolerisch: Muggen."
   - **(#160)** Eloquent, mit präzisen, wissenschaftlichen Termini, manchmal, nicht immer, in langen Schachtelsätzen. Nie in der flachen Nacherzählung eines Erwachsenen („Dann haben wir es gelassen, weil es das Gesetz war" klingt nach keinem Kind). Er siezt Lo; das wird gezeigt, nie erklärt.

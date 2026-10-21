@@ -13,6 +13,7 @@ im_spiel: false
 - **Wohnen:** Pradl. (Vorschlag)
 - **Herkunft:** Tirol.
 - **Allergien:** keine.
+- **Garderobe (geplant, #171):** Zeichen Marienkäfer, himbeerfarbene Jacke (Himbeer), himbeerfarbene Hausschuhe. Haken West 4.
 - **Stimme:** Tirolerisch, schnell, mit Papas Sätzen dazwischen, die nicht zu einer Fünfjährigen passen.
   - „Der Papa sagt, im Council sitzen lauter Gauner. Was ist ein Gauner?"
   - **Im Spiel (#163):** Ihr eigener Satz ist leicht tirolerisch (isch, nit, koa, gell). Papas Sätze zitiert sie wörtlich, in seinem Ton, und genau das ist der Witz. **Ein** derbes Papa-Wort („beschissen") an genau einer Stelle, beim Topic Papas Bank, mit dem „Des sagt man nit" der Mama gleich dahinter, so wie Matteos Flüche. Der Dialekt-Durchgang gehört dem Entwickler.

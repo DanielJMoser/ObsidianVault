@@ -13,6 +13,7 @@ im_spiel: false
 - **Wohnen:** Penthouse, „ganz oben, fast wie am Berg".
 - **Herkunft:** Tirol, Papas Familie aus dem Zillertal.
 - **Allergien:** keine.
+- **Garderobe (geplant, #171):** Zeichen Hubschrauber, rote Jacke (KidRed), rote Hausschuhe. Haken West 2. Der Hubschrauber ist neu gezeichnet, statt des Fischs: Er zeichnet Hubschrauber, immer rot (*Oberfläche*), und Jonas hat den Traktor.
 - **Stimme:** laut und stolz, Tiroler Dialekt. „Mei Papa rettet Leut vom Berg! Mit'm Hubschrauber!"
 
 ## Kanon

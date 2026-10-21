@@ -13,6 +13,7 @@ im_spiel: false
 - **Wohnen:** im Souterrain der Gruber-Villa. Nici wohnt über ihm, Leni noch weiter oben.
 - **Herkunft:** Mama aus dem Passeier, Papa Stefano aus dem Trentino.
 - **Allergien:** keine.
+- **Garderobe (geplant, #171):** Zeichen Apfel, terrakottafarbene Jacke (RoofTile), terrakottafarbene Hausschuhe. Haken West 1. Südtirol ist Apfelland, aber das sagt niemand. Die Kochmütze ist Jassis Zeichen (#162).
 - **Stimme:** Deutsch mit italienischen Brocken: „dai", „basta", „ecco", „Mamma mia".
   - „Ecco, schau. Der Mann mit den Pickerln war wieder da."
   - **Im Spiel (#162):** höchstens ein Brocken pro Zeile, nicht in jeder. Am liebsten ein deutsches Wort, das ihm fehlt und für das das italienische einspringt („den großen … den armadio"), sonst „ecco", „dai", „basta", „scusa". Kein „Mamma mia", das ist Klischee. Zur Mama sagt er „Mama", weil Monika mit ihm Deutsch redet. Südtiroler Wörter: Muggen, Marende.
