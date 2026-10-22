@@ -47,7 +47,7 @@ lager_wahr: pichler
 
 ## Verborgen
 
-- **Die Mietzinsüberprüfung** ist ihre Waffe, und sie spart sie auf. Bei einem befristeten Vertrag kann sie noch prüfen lassen, wenn er ausläuft. Sie hat also Zeit. Am meisten weh tut es vor der Hauptversammlung.
+- **Die Mietzinsüberprüfung** ist ihre Waffe, und si45e spart sie auf. Bei einem befristeten Vertrag kann sie noch prüfen lassen, wenn er ausläuft. Sie hat also Zeit. Am meisten weh tut es vor der Hauptversammlung.
 - **Warum sie noch nicht klagt:** Sie braucht die Wohnung. Krieg mit dem Vermieter, solange Leni oben wohnt und Nici unten, will sie nicht.
 - **Der Sitz:** Timotheus hat ihr den Council-Sitz gegeben, um eine Mieterin zu binden, die er los werden will, weil er den Stock verkaufen möchte. Sie hat das durchschaut und den Sitz trotzdem genommen. Er ist auch ihr Hebel.
 - **Das Geständnis an Susanne:** „Sisterhood", unter vier Augen. Halb ehrlich, halb Kalkül. Susanne als Vorständin ist das einzige Gewicht gegen den Vermieter. Ganz glaubt sie Susannes Arbeiterkind-Pose nicht.
