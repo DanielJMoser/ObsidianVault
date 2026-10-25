@@ -21,7 +21,7 @@ im_spiel: false
 - Noch nicht im Spiel. Quelle: Besetzung und Grilling vom 30.09.2026.
 
 ## Oberfläche
-- Immer als Erster da, mit dem Papa, um Viertel vor acht.
+- Immer als Erster da, mit dem Papa, um sieben.
 - Hemd mit Kragen. Findet Hosen mit Gummizug würdelos.
 - Erzählt ungefragt, lange und korrekt.
 - Verbessert Lo beim Vorlesen, wenn im Buch etwas Falsches steht.

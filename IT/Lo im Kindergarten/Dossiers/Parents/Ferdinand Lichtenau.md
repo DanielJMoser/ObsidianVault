@@ -35,7 +35,7 @@ Entschieden im Grilling am 2026-10-20.
 - **Lager:** in keiner Zeile, nirgends gezeigt.
 
 ## Oberfläche
-- Bringt Leopold jeden Tag um Viertel vor acht. Auf die Minute genau, ohne Ausnahme.
+- Bringt Leopold jeden Tag um sieben, wenn das Gartentor aufgeht. Auf die Minute genau, ohne Ausnahme.
 - Anzug, Krawatte, Schirm, das zur Gelfrisur skulptierte Resthaar trotzt auch stärkerem Föhn.
 - Grüßt Lo mit bestimmten Händedruck und „Grüß Gott". Duzt niemanden, auch nicht seinen Sohn (Vorschlag, nicht sicher).
 - Der einzige Vater, der die Hausordnung gelesen hat. Zitiert sie.

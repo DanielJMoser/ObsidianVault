@@ -26,7 +26,7 @@ lager_wahr: gruber
 - **Jonas, Talk Wochenende:** „Am Samstag war ich bei der Leni." Hingebracht hat ihn Thomas.
 
 ## Oberfläche
-- Funktionsjacke, Baustellenschuhe, fester Händedruck. Holt Jonas oft als Letzter, staubig.
+- Funktionsjacke, Baustellenschuhe, fester Händedruck. Holt Jonas oft als einer der Letzten, staubig.
 - Sitzt im Council neben Susanne und gilt als ihr Mann.
 - Fragt Lo nach Jonas' Tag, ehrlich interessiert und immer in Eile.
 - Er hat ein schlechtes Gewissen, weil er zu wenig Zeit für Jonas hat.
