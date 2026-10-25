@@ -6,7 +6,7 @@ council: vorstand
 sitz: false
 lager: pichler
 ---
-# Florian Pichler
+# Fabian Pichler
 > Susannes Mann, geboren Hauser. Hat ihren Namen angenommen und damit mehr abgegeben als einen Namen.
 
 ## Eckdaten
@@ -61,6 +61,6 @@ lager: pichler
 - [[Hochbegabt]]: dagegen. Verliert jede Diskussion darüber.
 
 ## Offene Fragen
-- (geteilt, entschieden) Hat Florian Maria nach der Kündigung geschrieben? Nein. Dafür steht er zu sehr unter Susannes Fuchtel.
+- (geteilt, entschieden) Hat Fabian Maria nach der Kündigung geschrieben? Nein. Dafür steht er zu sehr unter Susannes Fuchtel.
 - In welchem Museum? Bleibt besser ungenannt.
 - Wann kippt er? Vorschlag: sobald die Erdbeertorte geplant wird. Eine Allergie reicht ihm, zwei nicht mehr.

@@ -1,6 +1,6 @@
 ---
 typ: elternteil
-familie: ["[[Florian Pichler]]", "[[Jassi]]"]
+familie: ["[[Fabian Pichler]]", "[[Jassi]]"]
 im_spiel: true
 council: vorstand
 sitz: true
@@ -40,7 +40,7 @@ lager: pichler
 ## Entdeckbar
 - **Das Taschengeld ist kein Einzelfall.** Lo weiß es aus dem Brief. Die Haidachers haben mehr gezahlt: kommt über Max' Satz zum Klettergerüst und über Verenas Belege heraus.
 - **Die Wohnung ist geschenkt, die Stiftung auch.** Kommt über Jassi heraus, beim Thema Wochenende oder Familie (Vorschlag für eine Zeile).
-- **Das WG-Jahr war bezahlt.** Kommt über Frau Hofer heraus, sobald Lo sie trifft, oder über Florian.
+- **Das WG-Jahr war bezahlt.** Kommt über Frau Hofer heraus, sobald Lo sie trifft, oder über Fabian.
 - **Die Nusstorte kam aus ihrer Küche.** Kommt über Mira heraus (hohes Vertrauen), über Jassis „Bei mir gibt's keine Nüsse mehr" oder über Maria Kofler.
 - **Denselben Sitz dreimal versprochen.** Kommt über die Kinder der Familien draußen heraus: Ida, Hannah, Max.
 - **Sie hat die Allergieliste.** Seit der Nusstorte hat sie sie zur Chefsache gemacht und liest sie auch. Das zeigt sich, wenn der „Gefallen" kommt.
@@ -59,7 +59,7 @@ lager: pichler
 - **Würde nie:** „Schmiergeld" sagen. Sie sagt „Taschengeld" und „Spende". Sie würde sich auch nie selbst die Hände schmutzig machen.
 
 ## Beziehungen
-- [[Florian Pichler]]: Er hat ihren Namen angenommen. Sie hält das für seinen Beitrag zur Gleichstellung, er für einen Fehler.
+- [[Fabian Pichler]]: Er hat ihren Namen angenommen. Sie hält das für seinen Beitrag zur Gleichstellung, er für einen Fehler.
 - [[Jassi]]: Liebt sie und stellt sie aus. Merkt nicht, dass Jassi alles genau beobachtet.
 - [[Timotheus von Gruber]]: Rivale. Spottet über das „v.". Würde für einen Beweis, dass es verboten ist, viel geben.
 - [[Verena Holzknecht]]: Ihr Schützling, ihre Kassierin, „eine von uns". In Wahrheit Timotheus' Frau im Pichler-Lager.

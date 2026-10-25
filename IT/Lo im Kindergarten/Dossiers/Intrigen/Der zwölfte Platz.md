@@ -1,6 +1,6 @@
 ---
 typ: intrige
-beteiligte: ["[[Susanne Pichler]]", "[[Verena Holzknecht]]", "[[Timotheus von Gruber]]", "[[Florian Pichler]]", "[[Max]]"]
+beteiligte: ["[[Susanne Pichler]]", "[[Verena Holzknecht]]", "[[Timotheus von Gruber]]", "[[Fabian Pichler]]", "[[Max]]"]
 zeit: läuft
 stand: 2026-09-30
 ---
@@ -30,7 +30,7 @@ stand: 2026-09-30
 | [[Susanne Pichler]] | alles | das Kuvert | dass das Klettergerüst als ihr Erfolg gilt |
 | [[Verena Holzknecht]] | die Überweisung und das Datum. Hat Beleg und Protokoll kopiert. | die Kopien, vor Susanne | sie Timotheus geben, wenn es zählt |
 | [[Timotheus von Gruber]] | die Überweisung. Das Kuvert ahnt er nur. | die Kopien, bis zur Hauptversammlung | Susanne damit stürzen |
-| [[Florian Pichler]] | das Kuvert. Er hat es auf dem Küchentisch liegen sehen. | es, noch | Ruhe |
+| [[Fabian Pichler]] | das Kuvert. Er hat es auf dem Küchentisch liegen sehen. | es, noch | Ruhe |
 | [[Max]] | „Mei Papa hat's Klettergerüst kauft" | nichts | klettern |
 | Hannes und Evelyn Haidacher | alles | die Summe | den Sitz |
 
@@ -41,7 +41,7 @@ stand: 2026-09-30
   - **Jassis Satz** unten bringt kein Ticket ins Spiel; im Spiel ist Max der einzige Weg zum Kuvert (offen auf der Map #152).
 - **Jassi:** „Eine Frau hat der Mama ein Kuvert gebracht. Dann hat der Papa ganz lang nix geredet."
 - **Verenas Kopien:** wenn Lo an sie herankommt, oder wenn Timotheus sie Lo als Patron zeigt.
-- **Florian:** wenn er bricht.
+- **Fabian:** wenn er bricht.
 - **Die Stiftung:** Eine Spende der Haidachers taucht in den Büchern der Stiftung nicht auf.
 - **Der Morgenbericht an Tag 11:** „Der Council of Parents®: Ab heute besucht Max den Notfallplatz Ihrer Gruppe." (Platzhalter) Die Zeile erklärt nichts. Wer später hört, dass Max' Papa das Klettergerüst gekauft hat, merkt, wer den Platz für den dringendsten Fall bekommen hat (#157).
 

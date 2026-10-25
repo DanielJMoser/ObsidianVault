@@ -1,6 +1,6 @@
 ---
 typ: intrige
-beteiligte: ["[[Susanne Pichler]]", "[[Jassi]]", "[[Florian Pichler]]", "[[Leopold]]", "[[Ferdinand Lichtenau]]"]
+beteiligte: ["[[Susanne Pichler]]", "[[Jassi]]", "[[Fabian Pichler]]", "[[Leopold]]", "[[Ferdinand Lichtenau]]"]
 zeit: läuft
 stand: 2026-09-30
 ---
@@ -14,7 +14,7 @@ stand: 2026-09-30
 - **Susannes Brief** nennt Jassi „ein ganz besonderes Kind" und „vielleicht hochbegabt".
 - **Susannes Plan:** eine Begabtenförderung im Kindergarten, bezahlt vom Verein, mit der Pichler-Stiftung als Partnerin. Das Geld läuft im Kreis, und das Lob gehört ihr.
 - **Jassi** ist neugierig, klug und fünf. Ob sie hochbegabt ist, ist Susannes Frage, nicht Jassis. Nachmittags macht sie Rätselhefte, „damit ich hochbegabt werd". Eigentlich will sie auf den Mond.
-- **Florian** ist gegen den Test und verliert jede Diskussion darüber.
+- **Fabian** ist gegen den Test und verliert jede Diskussion darüber.
 - **Leopold** ist es wirklich: getestet, bevor er vorzeitig eingeschult werden sollte. Die Schule hat trotzdem abgelehnt, „sozial-emotional nicht schulreif". Die Lichtenaus reden nicht darüber, weil man damit nicht angibt.
 - **Ferdinand** will nicht, dass Susanne für Jassi eine Förderung durchsetzt, während sein Sohn übergangen wurde.
 
@@ -26,12 +26,12 @@ stand: 2026-09-30
 | [[Ferdinand Lichtenau]] | den Test | den Test, aus Diskretion | Gerechtigkeit für den Buben, leise |
 | [[Leopold]] | nicht, dass er anders ist | — | Zuhörer |
 | [[Jassi]] | dass sie Rätselhefte machen muss | — | auf den Mond |
-| [[Florian Pichler]] | dass Jassi müde ist | — | dass sie Kind sein darf |
+| [[Fabian Pichler]] | dass Jassi müde ist | — | dass sie Kind sein darf |
 
 ## Wie es herauskommt
 
 - Lo merkt es selbst: Leopold redet wie ein Notariatsakt.
-- Florian beim Abholen, wenn Jassi müde ist.
+- Fabian beim Abholen, wenn Jassi müde ist.
 - Eine Förderung für alle Begabten würde vor allem Leopold nützen, einem Kind aus dem anderen Lager.
 
 ## Was es kippt

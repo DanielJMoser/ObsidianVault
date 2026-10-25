@@ -51,7 +51,7 @@ lager: keins
 ## Beziehungen
 - [[Lo]]: ihre Nachfolgerin. Die beiden haben sich nie getroffen. Wenn Lo kommt, ist Maria zuerst vorsichtig.
 - [[Susanne Pichler]]: hat sie geopfert. Maria nennt sie nicht beim Namen, nur „die Vorständin".
-- [[Florian Pichler]]: Sie hat ihn gemocht. Er hat sich nie gemeldet, und sie hat es auch nicht erwartet.
+- [[Fabian Pichler]]: Sie hat ihn gemocht. Er hat sich nie gemeldet, und sie hat es auch nicht erwartet.
 - [[Barbara Aigner]]: gibt ihr die Schuld. Maria versteht das, ein bisschen.
 - [[Mira]]: Sie hat ihr die Hand gehalten, bis der Notarzt kam. Verabschieden konnte sie sich nicht mehr.
 - [[Jassi]]: Maria hat sie gern. Dass Jassi die Torte mitgebacken hat, weiß sie nicht.

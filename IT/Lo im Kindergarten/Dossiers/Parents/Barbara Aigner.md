@@ -59,7 +59,7 @@ lager: pichler
 - Elisabeth Lichtenau: die Kinderärztin, die den Pen gesetzt hat. Barbara ist ihr dankbar und ahnt nicht, was sie weiß.
 - [[Lo]]: „die Neue". Sie wird beobachtet, ob sie die Liste ernst nimmt.
 - [[Timotheus von Gruber]]: kennt ihn kaum. Ihre Stimme ist die, die er braucht.
-- [[Florian Pichler]]: ein Kunde in der Apotheke. Mehr weiß sie nicht von ihm, oder sie sagt es nicht.
+- [[Fabian Pichler]]: ein Kunde in der Apotheke. Mehr weiß sie nicht von ihm, oder sie sagt es nicht.
 
 ## Intrigen
 - [[Die Nusstorte]]: **weiß** nur Susannes Version. **Verbirgt**, vor allem vor sich selbst, dass sie an dem Tag nicht da war. **Will** Sicherheit für Mira, und einen Schuldigen, der nicht sie ist.
@@ -70,5 +70,5 @@ lager: pichler
 ## Offene Fragen
 - (geteilt, übernommen) Miras Pen im Notfallkasten hat Barbara im Jänner gebracht. Passt das zu [[Die Nusstorte]]?
 - (geteilt, übernommen) Barbara hat Elisabeth Lichtenau eine Dankeskarte geschrieben. Ist das für Lo ein Weg zu Elisabeth?
-- (geteilt, übernommen) Florian Pichler holt seit Mai Schlafmittel in ihrer Apotheke. Sie weiß nicht, warum er nicht schläft, und würde es nie sagen. "Der Mann, der die Nüsse gekauft hat, holt sein Schlafmittel bei der Mutter des Kindes, das fast daran gestorben ist.
+- (geteilt, übernommen) Fabian Pichler holt seit Mai Schlafmittel in ihrer Apotheke. Sie weiß nicht, warum er nicht schläft, und würde es nie sagen. "Der Mann, der die Nüsse gekauft hat, holt sein Schlafmittel bei der Mutter des Kindes, das fast daran gestorben ist.
 - Datenänderung: Miras Satz „die Jassi-Mama" als Fact, siehe [[Mira]]. Angenommen.

@@ -76,7 +76,7 @@ flowchart LR
 
 ```mermaid
 flowchart LR
-  SP["Susanne Pichler"] ---|verheiratet| FP["Florian Pichler"]
+  SP["Susanne Pichler"] ---|verheiratet| FP["Fabian Pichler"]
   TG["Timotheus von Gruber"] ---|verheiratet| AG["Amelie von Gruber"]
   VH["Verena Holzknecht"] ---|verheiratet| MH["Markus Holzknecht"]
   TE["Thomas Eder"] ---|verheiratet| BE["Birgit Eder"]
@@ -123,7 +123,7 @@ flowchart LR
   SK ---|Bäder, bezahlt von Papa| SP["Susanne Pichler"]
   SK ---|Villa renoviert, pünktlich bezahlt| HH["Hannes Haidacher"]
   BA["Barbara Aigner"] ---|Dankeskarte| EL["Elisabeth Lichtenau"]
-  FP["Florian Pichler"] ---|Schlafmittel| BA
+  FP["Fabian Pichler"] ---|Schlafmittel| BA
   MK["Maria Kofler"] ---|Inspektionen| NH["Notburga Hofer"]
   class MH,SK,BE,FB,AG,MO,SP,HH,BA,FP,MK,NH internal-link;
 ```
@@ -226,7 +226,7 @@ flowchart LR
 |---|---|---|
 | [[Maria Kofler]] | wessen Nusstorte es war, frühere Platzkäufe. Ein Foto der Allergieliste. | [[Susanne Pichler]] |
 | Elisabeth Lichtenau | wessen Nusstorte es war | Susanne |
-| [[Florian Pichler]] | das Kuvert, die Nusstorte | Susanne |
+| [[Fabian Pichler]] | das Kuvert, die Nusstorte | Susanne |
 | [[Notburga Hofer]] | wer im WG-Jahr gezahlt hat | Susanne |
 | [[Sepp Kirchmair]] | dass Papa Pichler bis heute zahlt | Susanne |
 | [[Verena Holzknecht]] | die Bücher, die Kassa, die Belege zum Kuvert | [[Timotheus von Gruber]], Susanne |
@@ -235,4 +235,4 @@ flowchart LR
 | [[Monika Pixner]] | den Exekutor, das rote Auto, die Samstage | Timotheus, Verena, [[Thomas Eder]] |
 | [[Manni Plattner]] | eine Kopie der Rechnung | Timotheus |
 | [[Birgit Eder]] | ahnt eine Frau | Thomas, [[Katharina Brunner]] |
-| [[Barbara Aigner]] | dass Florian Schlafmittel nimmt, aber nicht warum | Florian |
+| [[Barbara Aigner]] | dass Fabian Schlafmittel nimmt, aber nicht warum | Fabian |
