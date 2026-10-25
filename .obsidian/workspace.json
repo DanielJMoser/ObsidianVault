@@ -11,10 +11,12 @@
             "id": "f1b33a639e42cf85",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.5"
             }
           }
         ]
@@ -188,7 +190,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e589802cb46484ca",
+  "active": "f1b33a639e42cf85",
   "lastOpenFiles": [
     "IT/Lo im Kindergarten/Dossiers/Kids/Leopold.md",
     "CLAUDE.md",
