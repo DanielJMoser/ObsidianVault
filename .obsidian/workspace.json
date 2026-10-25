@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "30fa3cf24cd32caf",
+        "id": "3adccd4aa37b6261",
         "type": "tabs",
         "children": [
           {
-            "id": "f1b33a639e42cf85",
+            "id": "cfd72bfb46ea95d1",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.14.5"
+                "file": "IT/Lo im Kindergarten/Dossiers/Parents/Florian Pichler.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.14.5"
+              "icon": "lucide-file",
+              "title": "Florian Pichler"
             }
           }
         ]
@@ -190,7 +192,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f1b33a639e42cf85",
+  "active": "cfd72bfb46ea95d1",
   "lastOpenFiles": [
     "IT/Lo im Kindergarten/Dossiers/Kids/Leopold.md",
     "CLAUDE.md",
