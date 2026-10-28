@@ -17,7 +17,7 @@ stand: 2026-09-30
 - **Das Stück:** Susanne schneidet es selbst ab und gibt es Mira. „Für dich, Mausi."
 - **Der Schock:** Mira bekommt einen anaphylaktischen Schock. Maria holt den Adrenalin-Pen aus dem Notfallkasten und ruft 144. Elisabeth Lichtenau, Kinderärztin und als Mutter da, setzt ihn und bleibt bei Mira, bis der Notarzt kommt. Dabei sieht sie, wessen Torte es war. Mira bleibt eine Nacht in der Klinik.
 - **Die Sitzung:** Barbara Aigner ist dabei nicht im Raum, sie sitzt mit Mira in der Klinik. Susanne erzählt dem Council eine unbeschriftete Torte „von irgendwem". Die Pädagogin habe das Buffet nicht kontrolliert.
-- **Juni:** Der Council kündigt Maria, ihr Foto wird von der Teamtafel gerissen.
+- **Eine Woche später, Ende Mai:** Der Council kündigt Maria, ihr Foto wird von der Teamtafel gerissen.
 - **Juli:** Susanne holt Barbara in den Council, „damit so etwas nie wieder passiert". Barbara ist dankbar.
 - **Der Bericht:** Dem Land wurde der Vorfall nie gemeldet.
 - **Die Liste:** Seit dem Vorfall führt Susanne die Allergieliste selbst, „Chefsache". Marias handgeschriebene Liste ist aus der Küche verschwunden. Maria hat ein Foto davon am Handy.

@@ -9,7 +9,7 @@ lager: keins
 
 ## Eckdaten
 - **Alter:** 58, Jahrgang 1968.
-- **Beruf:** Kindergartenpädagogin, über dreißig Jahre im Beruf. Bis Juni 2026 hatte sie die Gruppe im Saggen, seit 2014 (Vorschlag). Jetzt arbeitet sie in einer Kinderkrippe in Hall.
+- **Beruf:** Kindergartenpädagogin, über dreißig Jahre im Beruf. Bis Ende Mai 2026 hatte sie die Gruppe im Saggen, seit 2014 (Vorschlag). Jetzt arbeitet sie in einer Kinderkrippe in Hall.
 - **Wohnen:** Hall in Tirol, seit jeher. Früher ist sie mit dem Bus nach Innsbruck gefahren, jetzt geht sie zu Fuß.
 - **Herkunft:** Hall, Tirolerin.
 - **Familie:** zwei erwachsene Söhne, beide in Wien. (Vorschlag)

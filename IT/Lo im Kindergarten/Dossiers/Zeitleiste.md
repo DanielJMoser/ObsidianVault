@@ -29,7 +29,7 @@ Eine Quelle für jedes Datum. Dossiers verweisen hierher, statt Daten neu zu erf
 
 - **Frühjahr:** Das Herbert-Porträt und zwei weitere Ahnenbilder werden in Wien versteigert. Der Exekutor kommt zum ersten Mal in die Villa. Leopolds vorzeitige Einschulung wird abgelehnt.
 - **Freitag, 22. Mai:** Frühlingsfest. Eine Nusstorte aus der Pichler-Küche. Mira bekommt einen anaphylaktischen Schock. Maria holt den Pen und ruft 144, Elisabeth Lichtenau setzt ihn. Danach führt Susanne die Allergieliste selbst.
-- **Juni:** Der Council kündigt Maria Kofler.
+- **Freitag, 29. Mai:** Eine Woche nach dem Frühlingsfest kündigt der Council Maria Kofler.
 - **Juli:**
   - Drei Vorschulfamilien gehen, drei Sitze werden frei. Susanne holt die Aigners und die Eders, Timotheus die Brunners. Susanne glaubt, sie hat den Sommer gewonnen.
   - Die Haidachers zahlen: 5.000 € bar an Susanne, dazu 18.000 € „Spende" fürs Klettergerüst. Verena bucht die Spende und kopiert die Belege.
