@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Areas/Computer-Science/Algorithmen-Datenstrukturen/Teile-und-Herrsche-Prinzip.md",
+                "file": "02-Areas/Computer-Science/Machine Learning/Clustering/Cluster.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Teile-und-Herrsche-Prinzip"
+              "title": "Cluster"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "verteilte systeme",
+                "query": "label",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,6 +195,12 @@
   },
   "active": "f1b33a639e42cf85",
   "lastOpenFiles": [
+    "02-Areas/Computer-Science/Machine Learning/Learning/Unsupervised Learning.md",
+    "02-Areas/Computer-Science/Machine Learning/Learning/Supervised Learning.md",
+    "02-Areas/Computer-Science/Daten/Datenbanken/NoSQL Databases/Neo4j/Patterns/Nodes.md",
+    "02-Areas/Computer-Science/Systeme/Architektur von Informationssystemen/Flynn'sche Taxonomie.md",
+    "02-Areas/Academia/Bachelor DiBSE/Digital Business/Bachelorprüfung/Stichwortlisten/Verteilte Systeme.md",
+    "02-Areas/Computer-Science/Algorithmen-Datenstrukturen/Teile-und-Herrsche-Prinzip.md",
     "02-Areas/Computer-Science/Systeme/Architektur von Informationssystemen/Parallele vs. Verteilte Systeme.md",
     "02-Areas/Computer-Science/Der Computer/Prozessor/NUMA.md",
     "IT/Lo im Kindergarten/Dossiers/Parents/Fabian Pichler.md",
@@ -210,7 +216,6 @@
     "02-Areas/Computer-Science/Systeme/ERP-Systeme/Technische Grundlagen/_Technische Grundlagen.md",
     "02-Areas/Computer-Science/Systeme/ERP-Systeme/Marktführer und -entwicklungen.md",
     "02-Areas/Computer-Science/Systeme/Sonstige Systeme/IoT-Systeme.md",
-    "02-Areas/Academia/Bachelor DiBSE/Digital Business/Bachelorprüfung/Stichwortlisten/Verteilte Systeme.md",
     "Screenshot 2026-10-08 at 09-37-53 PowerPoint-Präsentation - Innovation Design Change_26_2.pdf.png",
     "Wicked Problems.md",
     "Job-to-Be-Done Theory.md",
@@ -218,7 +223,6 @@
     "Disruptive Innovation.md",
     "Assets/Excalidraw/zZDrawing_Flynn_SIMD.md",
     "Assets/Excalidraw/Scripts/Downloaded/Concatenate lines.svg",
-    "Assets/Excalidraw/zzDrawing_ArduinoLibs.md",
     "CLAUDE.md.tmp.21533.c4ffd44c21c8"
   ]
 }
