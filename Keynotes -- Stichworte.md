@@ -10,3 +10,6 @@
 
 # How to hack a car -- and fail
 
+- L2 to 3rd party apps, obviously quite large attack surface
+- Over-the-air updated -- not just the infotainment system, but various aspects
+- 
