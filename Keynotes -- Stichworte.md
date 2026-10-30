@@ -12,4 +12,5 @@
 
 - L2 to 3rd party apps, obviously quite large attack surface
 - Over-the-air updated -- not just the infotainment system, but various aspects
-- 
+- Actors moving to larger scale of attacks -- which I think is interesting. Who is the primary actor in their threat model?
+- Discusses basic separation of back and frontend, 
