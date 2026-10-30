@@ -1,0 +1,1 @@
+- SOS Kinderdorf: Ethical considerations when it comes to child models. AI-powered image and video generation as a solution
