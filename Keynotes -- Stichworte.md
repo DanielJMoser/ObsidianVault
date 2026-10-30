@@ -8,5 +8,5 @@
 - "Networking is about the others" (and their network)
 
 
-# How to hack a car (and fail)
+# How to hack a car -- and fail
 
