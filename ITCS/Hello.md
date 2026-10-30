@@ -1,2 +1,3 @@
 - SOS Kinderdorf: Ethical considerations when it comes to child models. AI-powered image and video generation as a solution
 - If sensitive data is handled, the customer's AI infrastructure might even be used (via a VM) used
+- Figma Weave as the primary tool for AI content generation.
