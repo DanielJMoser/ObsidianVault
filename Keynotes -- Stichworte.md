@@ -3,4 +3,4 @@
 - Companies lacking in networks, visibility
 - Regarding networks: Jolt down "where did we meet?"
 - Chris Stein considered smalltalk to be a weirdly essential skill, recognising the challenges that presented specifically to introverted folk
-- Merayo: Once one managed to open the 
+- Merayo: Once one (as a woman) managed to open the door: Keep it open for other women
