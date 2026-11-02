@@ -51,7 +51,7 @@ Gespielt werden nur Werktage.
 | 11  | Mo 28.9.          | Max kommt von der Warteliste (Vorschlag).                                     |
 | 15  | Fr 2.10.          | Tag vor Jonas' fünftem Geburtstag (Sa 3.10.).                                 |
 | 20  | Fr 9.10.          | Herbstfest, Timotheus richtet es aus. Frist für den Abwahlantrag (Vorschlag). |
-| 25  | Fr 16.10.         | Leni wird vier (Vorschlag, Datenänderung).                                    |
+| 25  | Fr 16.10.         | Leni wird vier (Kanon seit 5.10.).                                            |
 | 30  | Fr 23.10.         | Hauptversammlung (Vorschlag).                                                 |
 
 ## Danach

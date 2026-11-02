@@ -23,7 +23,7 @@ lager: gruber
 
 ## Kanon
 - **Parent-Zeile `timotheus_v_gruber`:** Kind `nici`, Name „Dipl.-Ing. Dr. Timotheus v. Gruber", `canBePatron: true`.
-- **Sway:** in den Daten 2, in der Lore 3 (eigenes Ticket).
+- **Sway:** 3, in den Daten und in der Lore (seit #117, 5.10.2026).
 - **`patron.offer.timotheus`** (Platzhalter), Tag 3:
   - „Vizepräsident des Council of Parents®"
   - „Engagement in diesem Haus angemessen honoriert"
@@ -93,7 +93,6 @@ lager: gruber
 - **[[Die Erdbeertorte]]:** Weiß nichts davon. Er richtet das Herbstfest aus und wäre das Ziel (Vorschlag).
 
 ## Offene Fragen
-- **Sway:** 3 in der Lore, 2 in den Daten. Eigenes Ticket.
 - **Brief:** `patron.offer.timotheus` ist ein Platzhalter, der Ton passt aber schon.
 - **(geteilt, übernommen)** Wofür waren die 8.000 € im Herbst 2024? Vorschlag: Grundsteuer und ein Anwalt gegen die Bank.
 - **(geteilt, übernommen)** Woher kommen die 14.000 € Schulden bei Kirchmair? Vorschlag: die neue Heizung der Villa, 2025.

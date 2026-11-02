@@ -80,4 +80,3 @@ Alles hier ist ein Vorschlag, kindgroß, und Jassi versteht es selbst nicht.
 ## Offene Fragen
 - Jassi ist nach einer echten Freundin gezeichnet. Ob gerade sie die Nusstorte aufdeckt, entscheidet der Entwickler.
 - Sobald das Profil aus der Lore neu geschrieben wird: welche Zeilen oben werden Kanon?
-- Die Änderung von Gelsen auf Muggen liegt noch unkommittet im Worktree `docs/elternrat-lore`.

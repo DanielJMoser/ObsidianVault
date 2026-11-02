@@ -10,7 +10,7 @@ im_spiel: true
 - **Alter:** 5, geboren am 27. August 2021. Vorschuljahr, ab 2027 in der Schule.
 - **Wohnen:** Beletage der Gruber-Villa im Saggen. Leni wohnt einen Stock höher, Matteo im Souterrain.
 - **Herkunft:** Tirol, die Mama aus Meran.
-- **Allergien:** im Spiel keine. Erdbeeren sind ein Vorschlag, siehe Offene Fragen.
+- **Allergien:** Erdbeeren (Kanon seit 5.10.: Fact `erdbeeren`, Allergie `strawberries`).
 - **Garderobe:** Zeichen Frosch, schwarze Jacke mit ausgebeulten Taschen.
 - **Stimme:** wenig Worte, genaue Worte. Tirolerisch, dazwischen ein Südtiroler Wort von der Mama.
   - „Herbert isch der Älteste."
@@ -22,11 +22,12 @@ im_spiel: true
   - `birthday`: 27. August
   - `steine`: „Steinsammlung in einer alten Keksdose, und jeder Stein hat einen Namen."
   - `schatzkarte`: „Der Schatz liegt immer unter der Rutsche."
+  - `erdbeeren`: „Verträgt keine Erdbeeren. Davon kriegt sie Flecken und muss ins Spital."
 - **Topic** `steinsammlung`, **Activity** `schatzsuche`.
 - **Reaktionen:**
   - `wetter` likes, reveals `schatzkarte`: die besten Steine nach dem Regen
   - `tiere` likes: „Gerti ist sehr langsam, aber sehr nett."
-  - `essen` indifferent: „Essen ist halt Essen."
+  - `essen` indifferent, reveals `erdbeeren`: „Essen ist halt Essen. Nur keine Erdbeeren. Von Erdbeeren krieg ich Flecken und muss ins Spital."
   - `wochenende` likes, reveals `steine`: zwölf Steine in die Keksdose
   - `monster` dislikes: „Monster sind blöd." Beide Hände tief in den Hosentaschen.
   - `steinsammlung` likes: „Der größte heißt Herbert. Herbert ist schon sehr alt. Sicher hundert Jahre."
@@ -48,7 +49,7 @@ im_spiel: true
 - **Der Schatz unter der Rutsche.** Bei der Schatzsuche findet Lo einen Silberlöffel mit Wappen. „Was ein Pickerl kriegt, kommt weg. Drum vergrab ich's vorher." (Vorschlag)
 - **Leni darf nicht.** „Die Leni darf nicht mit mir spielen. Wegen der Miete." (Vorschlag)
 - **Die Frau mit dem Schal.** „Wenn die Mama in Meran isch, kommt die Frau mit dem Schal zum Papa ins Büro." Sie versteht es nicht, sie sagt es nur. (Vorschlag)
-- **Erdbeeren.** „Von Erdbeeren krieg ich Flecken und muss ins Spital." Setzt die Datenänderung voraus. (Vorschlag)
+- **Erdbeeren.** Kanon: Talk Essen, `erdbeeren`.
 
 ## Verborgen
 - Sie glaubt, dass alles weggeht, was ein Pickerl kriegt, so wie die Bilder. Darum vergräbt sie, was sie liebt.
@@ -78,7 +79,6 @@ im_spiel: true
 - **[[Die Erdbeertorte]]:** Sie wäre das Ziel. (Vorschlag)
 
 ## Offene Fragen
-- **Datenänderung:** Erdbeerallergie als neuer Fact.
 - **Vorschlag für neue Zeilen:** eine Reaktion oder ein Fact „Herbert ist ein Bild", freigeschaltet über die Steinsammlung.
 - **(geteilt, übernommen)** Nici isst oft bei den Pixners im Souterrain, und Matteo erzählt ihr vom Exekutor.
 - **Vorbild:** Nici ist nach einer echten Freundin gezeichnet. Alles oben ist Fiktion im Kinderformat, echte Insider-Witze kommen nur vom Entwickler.
