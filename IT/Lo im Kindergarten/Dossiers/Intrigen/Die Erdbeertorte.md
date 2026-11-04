@@ -9,7 +9,11 @@ stand: 2026-09-30
 
 > Das Muster der Nusstorte, diesmal mit Absicht. Servieren soll es Lo.
 
+<<<<<<< HEAD
+Nicis Erdbeerallergie ist Kanon (Fact `erdbeeren`, seit 5.10.).
+=======
 Nicis Erdbeerallergie ist als Datenänderung angenommen, aber noch nicht in den Daten.
+>>>>>>> origin/main
 
 ## Der Plan
 

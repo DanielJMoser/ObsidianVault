@@ -53,8 +53,13 @@ Gespielt werden nur Werktage.
 | 11–13 | Mo 28.9.–Mi 30.9. | Max' Eingewöhnung, eine Aufgabe, angekündigt im selben Morgenbericht (#165). |
 | 15  | Fr 2.10.          | Tag vor Jonas' fünftem Geburtstag. Am Sa 3.10. feiert er am Hof, und Thomas hat seinen ersten Samstag ohne Kinder (Vorschlag). |
 | 20  | Fr 9.10.          | Herbstfest, Timotheus richtet es aus. Frist für den Abwahlantrag (Vorschlag). |
+<<<<<<< HEAD
+| 25  | Fr 16.10.         | Leni wird vier (Kanon seit 5.10.).                                            |
+| 30  | Fr 23.10.         | Hauptversammlung (Vorschlag).                                                 |
+=======
 | 25  | Fr 16.10.         | Leni wird vier (Datenänderung angenommen).                                    |
 | 30  | Fr 23.10.         | Hauptversammlung. Sie beendet das Spiel, Lo ist dabei.                        |
+>>>>>>> origin/main
 
 ## Danach
 

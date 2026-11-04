@@ -134,6 +134,12 @@ Jede wird ein Dossier in `Intrigen/`.
 
 ## Offene Fragen
 
+<<<<<<< HEAD
+- **Datenänderungen:**
+  - Erledigt am 5.10.2026 (Merge `docs/elternrat-lore`): Lenis Geburtstag am 16. Oktober (Tag 25), Nicis Erdbeerallergie (Fact `erdbeeren`), Timotheus' Sway 3 (#117, Sway-Summe 9), Jassis Muggen.
+  - Erledigt mit fr-066: Miras Satz zur Nusstorte ist der Fact `stueck`, ihr Anvertrauen beim Thema Essen.
+- **Hauptversammlung:** Wann ist sie? Vorschlag: Tag 30, Freitag, 23. Oktober. Dann endet der Lauf mit der Abwahl.
+=======
 - **Datenänderungen, angenommen am 2026-10-05, noch nicht im Spiel:**
   - Lenis Geburtstag vom 21. Jänner auf den 16. Oktober (Tag 25), damit er zu ihrer Geburtstags-Aufgabe (Tage 23–26) passt.
   - Nici bekommt eine Erdbeerallergie als neuen Fact.
@@ -141,6 +147,7 @@ Jede wird ein Dossier in `Intrigen/`.
   - Timotheus hat Sway 3, das ist entschieden. Im Spiel steht noch 2: in der Parent-Zeile in `content.de.json`, in fr-052 (Sway-Summe 8 → 9) und in `ShippedDataTests.cs:1611`. Das wird ein eigenes Ticket.
     - **Erledigt (#156 geprüft):** Im Spiel steht seit #117 Sway 3, die Summe ist 9.
 - **Hauptversammlung:** entschieden. Sie ist an Tag 30 und beendet das Spiel. Lo ist dabei, und das Ende hat Versionen, je nach ihren Entscheidungen. Siehe [[Die Hauptversammlung]].
+>>>>>>> origin/main
 - **Gewalt:** noch nirgends gesetzt, nur wenn die Geschichte es verlangt. Idas Vernachlässigung ist der einzige schwere Faden bisher.
 - **Namen:** Lichtenau, Holzknecht, Haidacher, Plattner, Kirchmair, Pixner und Behrens sind erfunden. Maria Kofler grüßt die Maria aus dem Vorgänger-Projekt.
 - **Vornamen für Frau Aigner, Frau Brunner und Herrn Eder:** Die gelten nur in der Lore. Im Spiel bleiben sie „Frau Aigner", „Frau Brunner" und „Herr Eder".
