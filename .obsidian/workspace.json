@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Zeitleiste"
             }
+          },
+          {
+            "id": "45e7020fc63dcc66",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,7 +206,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "56d12432d2788593",
+  "active": "45e7020fc63dcc66",
   "lastOpenFiles": [
     "IT/Lo im Kindergarten/Dossiers/Kids/Jassi.md",
     "IT/Lo im Kindergarten/Dossiers/Kids/Nici.md",
