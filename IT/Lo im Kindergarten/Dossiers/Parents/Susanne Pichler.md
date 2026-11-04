@@ -1,6 +1,6 @@
 ---
 typ: elternteil
-familie: ["[[Florian Pichler]]", "[[Jassi]]"]
+familie: ["[[Fabian Pichler]]", "[[Jassi]]"]
 im_spiel: true
 council: vorstand
 sitz: true
@@ -40,7 +40,7 @@ lager: pichler
 ## Entdeckbar
 - **Das Taschengeld ist kein Einzelfall.** Lo weiß es aus dem Brief. Die Haidachers haben mehr gezahlt: kommt über Max' Satz zum Klettergerüst und über Verenas Belege heraus.
 - **Die Wohnung ist geschenkt, die Stiftung auch.** Kommt über Jassi heraus, beim Thema Wochenende oder Familie (Vorschlag für eine Zeile).
-- **Das WG-Jahr war bezahlt.** Kommt über Frau Hofer heraus, sobald Lo sie trifft, oder über Florian.
+- **Das WG-Jahr war bezahlt.** Kommt über Frau Hofer heraus, sobald Lo sie trifft, oder über Fabian.
 - **Die Nusstorte kam aus ihrer Küche.** Kommt über Mira heraus (hohes Vertrauen), über Jassis „Bei mir gibt's keine Nüsse mehr" oder über Maria Kofler.
 - **Denselben Sitz dreimal versprochen.** Kommt über die Kinder der Familien draußen heraus: Ida, Hannah, Max.
 - **Sie hat die Allergieliste.** Seit der Nusstorte hat sie sie zur Chefsache gemacht und liest sie auch. Das zeigt sich, wenn der „Gefallen" kommt.
@@ -59,7 +59,7 @@ lager: pichler
 - **Würde nie:** „Schmiergeld" sagen. Sie sagt „Taschengeld" und „Spende". Sie würde sich auch nie selbst die Hände schmutzig machen.
 
 ## Beziehungen
-- [[Florian Pichler]]: Er hat ihren Namen angenommen. Sie hält das für seinen Beitrag zur Gleichstellung, er für einen Fehler.
+- [[Fabian Pichler]]: Er hat ihren Namen angenommen. Sie hält das für seinen Beitrag zur Gleichstellung, er für einen Fehler.
 - [[Jassi]]: Liebt sie und stellt sie aus. Merkt nicht, dass Jassi alles genau beobachtet.
 - [[Timotheus von Gruber]]: Rivale. Spottet über das „v.". Würde für einen Beweis, dass es verboten ist, viel geben.
 - [[Verena Holzknecht]]: Ihr Schützling, ihre Kassierin, „eine von uns". In Wahrheit Timotheus' Frau im Pichler-Lager.
@@ -71,6 +71,9 @@ lager: pichler
 - [[Maria Kofler]]: Ihr Sündenbock. Denkt nicht mehr an sie. Das stimmt nicht ganz.
 - [[Nici]]: Die Tochter des Rivalen und Jassis beste Freundin. Lässt sie spüren, dass sie keinen guten Umgang abgibt.
 - **Behrens, Plattner, Haidacher:** Jede dieser Familien hat den nächsten freien Sitz versprochen bekommen.
+- [[Sepp Kirchmair]]: 2025 wollte sie ihn für ihr Bild gewinnen, und er hat gelacht. Er hat die Bäder der Maisonette gemacht, und die Rechnung ging an KR Walter Pichler. Ein Zeuge, dass Papa zahlt. (Vorschlag)
+- [[Notburga Hofer]]: die WG von 2003/04. Im Sommer 2004 ist Susanne ohne Kündigung ausgezogen und hat Notburga drei Monate auf der ganzen Miete sitzen lassen. Siehe [[Das WG-Jahr]]. (Vorschlag)
+- [[Maria Kofler]]: Maria hat sie 2025 einmal unter vier Augen auf einen merkwürdig frei gewordenen Platz angesprochen. Ab da war Maria erledigt. Die Nusstorte war nur die Gelegenheit. (Vorschlag)
 
 ## Intrigen
 - [[Die Nusstorte]]: weiß alles. Verbirgt, dass die Torte ihre war. Will, dass es vergessen bleibt.
@@ -86,5 +89,6 @@ lager: pichler
 ## Offene Fragen
 - Ihr jüngerer Bruder mit den Geschäften: Name, und ob er eine eigene Notiz braucht.
 - Susannes Patron-Aufgaben (fr-012): Erdbeertorte, Allergieliste, Max' Eingewöhnung?
+  - **(#165)** Max' Eingewöhnung ist keine Patron-Aufgabe, sondern eine Aufgabe auf der Tafel (`max_eingewoehnung`, Tage 11–13): `with_kid:max` in einer Patron-Aufgabe ist ein Ladefehler (#157). Ihr Wortlaut lässt den Vorstand buckeln: „Die Familie Haidacher hat sich um den Kindergarten sehr verdient gemacht." Siehe [[Max]].
 - (geteilt, übernommen) Seit wann ist sie Vorständin? Vorschlag: seit der Hauptversammlung im Herbst 2024, gleich nach dem Loch in der Kassa. Timotheus wollte den Vorsitz selbst, im Chaos gewann die „saubere Neue". Das wäre sein alter Groll.
 - (geteilt, übernommen) Seit der Nusstorte führt sie die Allergieliste selbst. Die Gruber- und Kofler-Dossiers müssen davon wissen.

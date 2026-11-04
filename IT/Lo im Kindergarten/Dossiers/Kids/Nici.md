@@ -34,6 +34,8 @@ im_spiel: true
 - **Sitz:** `tisch_05`.
 - **likedPlaces:** maltisch, lego, sandkiste, rutsche, puppenecke.
 - **likedKids:** mira, jassi.
+- **Geplant (#155):** likedKids dazu `matteo`, beidseitig. Felix mag sie, einseitig.
+- **Geplant (#163):** Nicis Daten ändern sich nicht. Hannahs Zeile beim Lieblingsessen sagt, dass der Herr Baron, der ihr das Geld gestohlen haben soll, Nicis Papa ist. Sie sagt auch, dass Hannah es Nici gesagt hat „und jetzt spielt sie nimmer mit mir". Das ist das Nicht-Befreundet aus #155.
 - **`loo.storm_in.nici`:** „Schau, eine Schnecke!"
 - **fr-055:** Nie mit Leni befreundet, nichts macht sie zu Freundinnen.
 
@@ -49,14 +51,18 @@ im_spiel: true
 - **Der Schatz unter der Rutsche.** Bei der Schatzsuche findet Lo einen Silberlöffel mit Wappen. „Was ein Pickerl kriegt, kommt weg. Drum vergrab ich's vorher." (Vorschlag)
 - **Leni darf nicht.** „Die Leni darf nicht mit mir spielen. Wegen der Miete." (Vorschlag)
 - **Die Frau mit dem Schal.** „Wenn die Mama in Meran isch, kommt die Frau mit dem Schal zum Papa ins Büro." Sie versteht es nicht, sie sagt es nur. (Vorschlag)
+<<<<<<< HEAD
 - **Erdbeeren.** Kanon: Talk Essen, `erdbeeren`.
+=======
+- **Erdbeeren.** „Von Erdbeeren krieg ich Flecken und muss ins Spital." Setzt die Datenänderung voraus, angenommen.
+>>>>>>> origin/main
 
 ## Verborgen
 - Sie glaubt, dass alles weggeht, was ein Pickerl kriegt, so wie die Bilder. Darum vergräbt sie, was sie liebt.
 - Dass die Villa selbst weg sein könnte, weiß sie nicht. Sie merkt nur, dass die Wände leerer werden.
 - „Monster sind blöd": Beim Wort Monster hält sie die Taschen zu. Das Monster ist für sie der Mann mit den Pickerln. (Vorschlag)
 - Sie isst oft unten bei den Pixners. Dort ist es warm, und Matteo hat Zeit. (Vorschlag)
-- Eigentlich mag sie Leni. Sie hört sie durch die Decke singen.
+- Eigentlich mag sie Leni. Sie hört sie durch die Decke singen. Abends klopfen sich die beiden Zeichen über das Heizungsrohr. Eine geheime Freundschaft durch den Boden, von der keine Mama weiß. Im Spiel bleiben sie trotzdem nie Freundinnen (fr-055). (Vorschlag)
 - Die Keksdose ist aus der Villa: Blech, alt, mit dem Wappen. (Vorschlag)
 
 ## Motive
@@ -68,10 +74,12 @@ im_spiel: true
 - **[[Jassi]]:** Beste Freundin. Ihre Eltern führen die feindlichen Lager, und beiden ist das wurscht.
 - **[[Mira]]:** Freundin. Beide reden wenig, und beide merken sich viel.
 - **[[Leni]]:** Wohnt einen Stock höher. Darf nicht mit Nici spielen. Nie Freundinnen (fr-055).
-- **[[Matteo]]:** Aus dem Souterrain, kennt sie seit immer. Weiß, wann der Mann mit den Pickerln kommt, und sagt es ihr. (Vorschlag)
+- **[[Matteo]]:** Aus dem Souterrain, kennt sie seit immer. Weiß, wann der Mann mit den Pickerln kommt, und sagt es ihr. Freund, beidseitig (#155).
 - **[[Timotheus von Gruber]]:** Papa. Holt sie pünktlich ab und redet wenig. Genau wie sie.
 - **[[Amelie von Gruber]]:** Mama. Oft in Meran, bringt Steine vom Fluss mit.
 - **Gerti:** die Schnecke im Garten (Kanon).
+- [[Felix]]: findet ihre Steine fad, ihre Schatzkarten nicht. Er mag sie, einseitig (#155).
+- [[Hannah]]: Hannah hat ihr gesagt, ihr Papa ist ein Dieb. Seitdem gehen sich die zwei aus dem Weg. (Vorschlag; im Spiel über Hannahs Zeile, #163)
 
 ## Intrigen
 - **[[Die Villa]]:** Weiß nicht, was sie weiß, und vergräbt es.
@@ -79,6 +87,10 @@ im_spiel: true
 - **[[Die Erdbeertorte]]:** Sie wäre das Ziel. (Vorschlag)
 
 ## Offene Fragen
+<<<<<<< HEAD
+=======
+- **Datenänderung:** Erdbeerallergie als neuer Fact. Angenommen, aber noch nicht in den Daten.
+>>>>>>> origin/main
 - **Vorschlag für neue Zeilen:** eine Reaktion oder ein Fact „Herbert ist ein Bild", freigeschaltet über die Steinsammlung.
 - **(geteilt, übernommen)** Nici isst oft bei den Pixners im Souterrain, und Matteo erzählt ihr vom Exekutor.
 - **Vorbild:** Nici ist nach einer echten Freundin gezeichnet. Alles oben ist Fiktion im Kinderformat, echte Insider-Witze kommen nur vom Entwickler.

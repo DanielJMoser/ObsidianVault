@@ -1,6 +1,6 @@
 ---
 typ: elternteil
-familie: ["[[Markus Holzknecht]]", "[[Emil]]"]
+familie: ["[[Markus Holzknecht]]", "[[Felix]]"]
 im_spiel: false
 council: vorstand
 sitz: true
@@ -26,42 +26,58 @@ lager_wahr: gruber
 - Noch nicht im Spiel. Quelle: [[Besetzung]].
 - Keine Parent-Zeile. Sway 2 gilt nur in der Lore.
 
+## Geplant (#156)
+
+Entschieden im Grilling am 2026-10-20.
+
+- **Parent-Zeile:** id `verena_holzknecht`, Kind `felix`, Name „Mag.ᵃ Verena Holzknecht", Sway 2. Sie kommt mit Felix' Profil (#159), weil der Loader keinen Parent ohne Kind annimmt.
+- **Name:** Titel und Vorname wie bei den beiden Köpfen, denn sie sitzt im Vorstand. Nur „Mag.ᵃ", ohne „rer. soc. oec.": Sie sagt nie ein Wort zu viel.
+- **Sway folgt dem Platz im Elternrat:** die Köpfe 3, Kassierin und Schriftführer 2, die Mitglieder 1, die Familien draußen 0,5. Sway ist kein Stimmrecht.
+- **Keine Patronin**, vorerst. Sie will Macht, die keiner sieht, und ein Angebot an Lo wäre sichtbar.
+- **Nachrichten:** Mit der Zeile ist sie nach fr-012 (1b) eine mögliche Absenderin. Ob und was sie schreibt, ist ein fr-012-Strang und noch offen.
+- **Lager:** in keiner Zeile, nirgends gezeigt. Wem sie wirklich dient, schließt der Spieler aus Felix' Zeilen.
+- **Donnerstags holt die Oma ab:** Das ändert nichts an ihrer Opinion. Sie zählt den Abholzustand jeden Tag.
+
 ## Oberfläche
 
 - Tadellos. Die Belege in Klarsichthüllen, der Kassabericht auf die Minute pünktlich.
 - In der Garderobe: Laptop auf dem Schoß, Mandant am Telefon.
 - Nickt bei Susanne an den richtigen Stellen. Sagt „Frauen in Führung", ohne zu lachen.
 - Freundlich zu Lo und knapp. Sie fragt nie etwas Persönliches.
-- Donnerstags holt die Oma Emil ab.
+- Donnerstags holt die Oma Felix ab.
 
 ## Entdeckbar
 
-- **„Onkel Timo":** Emil erzählt es im Talk (Wochenende, Essen). „Der Onkel Timo war da. Der Papa war am Berg."
-- **Die „Steuern":** Emil sagt: „Die Mama und der Onkel Timo machen Steuern. Da muss die Tür zu, weil Steuern geheim sind."
-- **Die Donnerstage:** An jedem Donnerstag holt die Oma Emil ab, nie Verena. Lo kann das merken.
+- **„Onkel Timo":** Felix erzählt es im Talk (Wochenende, Essen). „Der Onkel Timo war da. Der Papa war am Berg."
+- **Die „Steuern":** Felix sagt: „Die Mama und der Onkel Timo machen Steuern. Da muss die Tür zu, weil Steuern geheim sind."
+  - **Im Spiel (#159):** über Felix' Topic „Der Onkel Timo"; die Steuern sind dort sein Anvertrauen. Siehe [[Felix]], Kid-Profile.
+- **Die Donnerstage:** An jedem Donnerstag holt die Oma Felix ab, nie Verena. Lo kann das merken.
+  - **Nicht im Spiel (#159):** Beim Abholen gibt es im Spiel keine Person, also nichts zu merken. Offen auf der Map #152.
 - **Ihr Auto vor der Villa:** Monika Pixner sieht es, und Matteo erzählt, was die Mama sieht.
 - **Die Spende:** Im Kassabericht an den Council stehen 18.000 € „Spende Klettergerüst, Fam. Haidacher", ohne Zweck und ohne Gegenleistung. Wer ihn liest, kann rechnen.
 
 ## Verborgen
 
 - **Die Affäre:** Sie hat Timotheus seit der Adventfeier im Dezember 2025. Sie treffen sich in der Villa, wenn Amelie in Meran ist, und im Penthouse, wenn Markus am Berg ist.
+  - **Donnerstags (#160)** nach der [[Die Runde|Runde]] im Besprechungszimmer des Notariats Lichtenau, „noch für die Zahlen", hinter versperrter Tür. Ferdinand weiß es und schweigt. Leopold hört sie oben und hält es für Steuerberatung.
 - **Seine Bücher:** Sie ist seit 2023 seine Steuerberaterin und kennt seine Zahlen besser als er selbst. Er ist pleite. Sie hat es nie jemandem gesagt, auch nicht der Runde.
 - **Onkel Timo als Tarnung:** Den Namen hat sie selbst erfunden. „Onkel" klingt harmlos. Dass ein Fünfjähriger ihn laut und überall sagt, hat sie nicht bedacht.
 - **Die Belege:** Im Juli hat sie die Haidacher-Spende gebucht und die Belege für Timotheus kopiert. Vom Umschlag weiß sie nichts Sicheres. Sie ahnt ihn: 18.000 € für einen Platz, der offiziell nichts kostet, sind zu viel für reine Nächstenliebe.
 - **Liebe oder Plan:** Sie liebt ihn nicht ganz, sie rechnet mit ihm. Der Freiherr hat den Namen, sie hat den Kopf. Nach Susannes Sturz, so hofft sie, führt sie den Council und er darf davor sitzen.
 - **Markus:** Die Ehe ist nicht kaputt, nur leer. Sie hat einen Mann geheiratet, der immer woanders ist, und genau das war der Plan.
+- **Die Bilanz 2025:** grau, nicht gefälscht. Sie hat die offene Kirchmair-Rechnung später gebucht, laufende Projekte als fast sichere Einnahmen ausgewiesen und eine Verbindlichkeit ins Jahr 2026 geschoben. Das reicht, damit die Bank bei der Hypothek ein Jahr stillhält. Es bindet sie an ihn: Bricht er zusammen, schaut die Bank genauer hin, und ihre Zulassung als Steuerberaterin ist in Gefahr. Darum braucht sie, dass er den Vorsitz gewinnt, und nicht nur ihn. Das Geld des Vereins hält ihn über Wasser. (Vorschlag)
 
 ## Motive
 
 - **Will:** Macht, die keiner sieht. Die Kassa, die Belege, das Wissen, wer wem was schuldet. Nach der Hauptversammlung einen Platz ganz vorne.
-- **Fürchtet:** dass Emil alles ausplaudert, bevor die Stimmen gezählt sind. Und dass Markus es merkt, weil er dann nicht leise bleibt.
+- **Fürchtet:** dass Felix alles ausplaudert, bevor die Stimmen gezählt sind. Und dass Markus es merkt, weil er dann nicht leise bleibt.
 - **Würde nie:** eine Buchung fälschen, die man ihr nachweisen kann. Vor Susanne weinen.
 
 ## Beziehungen
 
 - [[Timotheus von Gruber]]: Mandant, Liebhaber, Plan. Die Reihenfolge wechselt.
 - [[Markus Holzknecht]]: ihr Mann. Nett, verlässlich, selten da.
-- [[Emil]]: ihr Sohn, ihr einziger blinder Fleck.
+- [[Felix]]: ihr Sohn, ihr einziger blinder Fleck.
 - [[Susanne Pichler]]: Hat sie geholt. Verena lächelt und zählt mit.
 - [[Ferdinand Lichtenau]]: sitzt mit ihr in der Runde. Sie misstrauen einander höflich.
 - [[Thomas Eder]]: neu in der Runde. Sie hält ihn für das schwächste Glied.
@@ -80,6 +96,6 @@ lager_wahr: gruber
 
 - **(geteilt, übernommen)** Seit wann ist sie Kassierin? Vorschlag: seit November 2024. Susanne holte sie als Nachfolgerin des geschassten Plattner.
 - **(geteilt, übernommen)** Hat sie in Timotheus' Büchern die 8.000 € hinaus und im Februar 2025 wieder hinein gesehen? Dann weiß sie vom [[Das Loch in der Kassa|Loch in der Kassa]], seit sie Kassierin ist.
-- **(geteilt)** Hat sie Timotheus' Bilanz für 2025 geschönt, damit die Bank bei der Hypothek stillhält?
+- **(geteilt, entschieden: ja, grau, siehe Verborgen)** Hat sie Timotheus' Bilanz für 2025 geschönt, damit die Bank bei der Hypothek stillhält?
 - **(geteilt, übernommen)** Was hat Timotheus ihr für die Zeit nach Susannes Sturz versprochen? Vorschlag: das Amt der Vizepräsidentin.
 - Wer ist die Oma, die donnerstags abholt? Vorschlag: Markus' Mutter aus dem Zillertal.

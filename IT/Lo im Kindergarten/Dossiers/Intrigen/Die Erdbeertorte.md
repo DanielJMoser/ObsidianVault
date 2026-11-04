@@ -1,6 +1,6 @@
 ---
 typ: intrige
-beteiligte: ["[[Susanne Pichler]]", "[[Nici]]", "[[Timotheus von Gruber]]", "[[Amelie von Gruber]]", "[[Florian Pichler]]", "[[Lo]]"]
+beteiligte: ["[[Susanne Pichler]]", "[[Nici]]", "[[Timotheus von Gruber]]", "[[Amelie von Gruber]]", "[[Fabian Pichler]]", "[[Lo]]"]
 zeit: geplant
 stand: 2026-09-30
 ---
@@ -9,7 +9,11 @@ stand: 2026-09-30
 
 > Das Muster der Nusstorte, diesmal mit Absicht. Servieren soll es Lo.
 
+<<<<<<< HEAD
 Nicis Erdbeerallergie ist Kanon (Fact `erdbeeren`, seit 5.10.).
+=======
+Nicis Erdbeerallergie ist als Datenänderung angenommen, aber noch nicht in den Daten.
+>>>>>>> origin/main
 
 ## Der Plan
 
@@ -26,7 +30,7 @@ Nicis Erdbeerallergie ist Kanon (Fact `erdbeeren`, seit 5.10.).
 |---|---|---|---|
 | [[Susanne Pichler]] | den Plan | alles | Timotheus blamiert sehen |
 | [[Lo]] | den Auftrag, wenn Susanne ihn schickt | — | offen, das ist die Entscheidung des Spielers |
-| [[Florian Pichler]] | ahnt es, wenn er die Bestellung sieht | — | Hier kippt er: Eine Allergie reicht ihm, zwei nicht mehr. |
+| [[Fabian Pichler]] | ahnt es, wenn er die Bestellung sieht | — | Hier kippt er: Eine Allergie reicht ihm, zwei nicht mehr. |
 | [[Timotheus von Gruber]] | nichts | — | ein Fest, das ihn gut aussehen lässt |
 | [[Amelie von Gruber]] | nichts | — | Erfährt sie es, ist sie Susannes Feindin, auf der Stelle. |
 | [[Nici]] | dass sie Erdbeeren nicht darf | — | — |
@@ -35,7 +39,7 @@ Nicis Erdbeerallergie ist Kanon (Fact `erdbeeren`, seit 5.10.).
 
 - **Ablehnen:** Das kostet Geduld bei Susanne.
 - **Servieren:** Das ist die korrupte Seite. Ein Kind wird verletzt. Wird ernst gespielt, ohne Witz.
-- **Warnen:** Timotheus, Amelie oder Florian.
+- **Warnen:** Timotheus, Amelie oder Fabian.
 - **Die Torte tauschen.**
 - **Das Muster erkennen:** Wer von der [[Die Nusstorte|Nusstorte]] weiß, sieht, dass Susanne das schon einmal gemacht hat.
 

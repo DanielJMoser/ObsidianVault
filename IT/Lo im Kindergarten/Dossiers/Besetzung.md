@@ -15,9 +15,15 @@ Kanon aus dem Spiel (`content.de.json`) gilt. Wo die Lore Daten ändern will, st
 - **Träger:** ein Elternverein. Er stellt Lo an und zahlt sie. Sein Vorstand und seine Mitglieder sind der Council of Parents®.
 - **Aufsicht:** das Land Tirol. „Die Frau Inspektor Hofer isch vom Land Tirol."
 - **Kalender:** Kindergartenjahr 2026/27. Tag 1 = Montag, 14. September 2026. Gespielt werden nur Werktage. Tag 30 = Freitag, 23. Oktober.
-- **Gruppe:** zwölf Plätze. An Tag 1 sind es elf Kinder. Max kommt von der Warteliste nach.
+- **Gruppe:** zwölf Plätze, der zwölfte ist der Notfallplatz. An Tag 1 sind es elf Kinder. Max kommt von der Warteliste nach, seine Aufnahme ist an Tag 11, Mo 28.9. (#157).
 - **Council:** sieben Familien. Eine Familie, eine Stimme, einfache Mehrheit. Hinein kommt nur, wen einer der beiden Köpfe holt. Ein Sitz ist eine Schuld.
 - **Draußen:** fünf Familien. Sie haben keine Stimme, aber Hoffnung, und jede hängt an einem Lager.
+  - **Im Spiel (#156):** Jede Familie draußen bekommt eine Parent-Zeile mit Sway 0,5. Der Council hört sie, Gutes wie Schlechtes bei ihren Kindern, gewichtet es aber schwächer als bei den eigenen Mitgliedern. Welcher Elternteil die Zeile bekommt und wie der Name lautet, entscheidet das Profil-Ticket des Kindes (#161–#165). Standard ist „Frau/Herr X".
+    - **Pixner (#162):** `frau_pixner`, „Frau Pixner". Monika holt Matteo ab.
+    - **Plattner (#163):** `herr_plattner`, „Herr Plattner". Manni holt Hannah ab.
+    - **Behrens (#161):** `frau_behrens`, „Frau Dr. Behrens". Ida holen Au-pairs ab; Friederike meldet sich und wartet am meisten auf den Sitz. „Frau Dr." trennt sie von den Council-Zeilen mit Vornamen.
+    - **Kirchmair (#164):** `herr_kirchmair`, „Herr Kirchmair", ohne Titel. Sepp holt Valentina ab.
+    - **Haidacher (#165):** `frau_haidacher`, „Frau Haidacher", ohne Titel. Evelyn holt Max ab, immer zu früh. Die Zeile gibt es ab Tag 1; bis zu Max' Aufnahme an Tag 11 sieht sie nichts (#157).
 - **Kreislauf:** Jeden Sommer gehen die Vorschulkinder, ihre Sitze werden frei. Um diese Sitze wird gekämpft.
 - **Abwahl:** nur in der Hauptversammlung.
 
@@ -51,6 +57,7 @@ Kanon aus dem Spiel (`content.de.json`) gilt. Wo die Lore Daten ändern will, st
   - Thomas Eder verdankt Susanne zwar den Sitz, aber Timotheus seinen Job.
 - **Wie Timotheus zählt:** Er kennt Verena und Thomas und traut Brunner nicht. Also rechnet er mit 4:3. Das ist ihm zu knapp für eine geheime Wahl, und beide Stimmen sind verdeckt und zerbrechlich. Er braucht noch eine sichere Stimme: Aigner, über die Wahrheit zur Nusstorte, oder Brunner, über den Mietvertrag.
 - **Wer entscheidet:** wer Aigner, Brunner, Eder oder Holzknecht dreht.
+- **Sway im Spiel (#156):** Sway folgt dem Platz im Elternrat: die Köpfe 3, Kassierin und Schriftführer 2, die Mitglieder 1, die Familien draußen 0,5. Zusammen 15,5. Sway ist kein Stimmrecht. Die neuen Parent-Zeilen heißen „Mag.ᵃ Verena Holzknecht" und „Dr. Ferdinand Lichtenau". Keiner der beiden ist Patron, vorerst. Das Lager steht in keiner Zeile.
 
 Susanne hat Thomas Eder den Sitz gegeben, um Timotheus einen Mann abzuwerben. Timotheus hat ihn über das Büro zurückgeholt, und davon weiß sie nichts.
 
@@ -63,8 +70,8 @@ Susanne hat Thomas Eder den Sitz gegeben, um Timotheus einen Mann abzuwerben. Ti
 | [[Leni]]       | 3, am 16.10. vier    | Brunner    | Wien                            | Neu und die Jüngste. Verhandelt wie über einen Mietvertrag, weil die Mama daheim mit dem Vermieter streitet. Der Vermieter ist Nicis Papa. Mit Nici spielen ist verboten.                            |
 | [[Jassi]]      | 5, Vorschuljahr      | Pichler    | Tirol                           | Stellt jede, die schummelt, zur Rede. Die größte Schummlerin sitzt daheim am Frühstückstisch. Hat die Nusstorte mitgebacken und weiß nicht, was danach war.                                          |
 | [[Nici]]       | 5, Vorschuljahr      | v. Gruber  | Tirol; Mama aus Meran           | Gibt ihren Steinen die Namen der Ahnen, deren Bilder aus der Villa verschwinden. Vergräbt ihre Schätze unter der Rutsche, damit sie keiner abholt.                                                   |
-| [[Emil]]       | 5                    | Holzknecht | Tirol                           | Sagt „Onkel Timo" zu Nicis Papa. Der kommt, wenn der eigene Papa am Berg ist.                                                                                                                        |
-| [[Konstantin]] | 5, im November sechs | Lichtenau  | Tirol, früher Adel              | Redet wie ein Notariatsakt: Weltkrieg, Habsburg, Adelsaufhebungsgesetz 1919. Wollte schon in die Schule und durfte nicht. Weiß, dass „Freiherr" verboten ist, weil es der Papa beim Abendessen sagt. |
+| [[Felix]]       | 5                    | Holzknecht | Tirol                           | Sagt „Onkel Timo" zu Nicis Papa. Der kommt, wenn der eigene Papa am Berg ist.                                                                                                                        |
+| [[Leopold]] | 5, im November sechs | Lichtenau  | Tirol, früher Adel              | Redet wie ein Notariatsakt: Weltkrieg, Habsburg, Adelsaufhebungsgesetz 1919. Wollte schon in die Schule und durfte nicht. Weiß, dass „Freiherr" verboten ist, weil es der Papa beim Abendessen sagt. |
 | [[Ida]]        | 5                    | Behrens    | Hamburg                         | Sagt Mücken, Tüte, lecker. Wird jeden Tag als Letzte abgeholt, jede Woche von einem anderen Au-pair. ⚠ schwer                                                                                        |
 | [[Matteo]]     | 4                    | Pixner     | Südtirol; Papa aus dem Trentino | Wohnt im Souterrain der Gruber-Villa. Weiß, wann der Exekutor kommt, und nennt ihn „den Mann mit den Pickerln".                                                                                      |
 | [[Hannah]]     | 5                    | Plattner   | Tirol                           | Erzählt Lo Wort für Wort, was der Papa beim Abendessen über den „Herrn Baron" gesagt hat. Wort für Wort.                                                                                             |
@@ -79,9 +86,9 @@ Jassi und Nici sind beste Freundinnen. Ihre Eltern führen die beiden Lager.
 
 | Name                  | Wer                                                                  | Lager gezeigt / wahr | Aufhänger                                                                                                                |
 | --------------------- | -------------------------------------------------------------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [[Florian Pichler]]   | Susannes Mann, geboren Hauser. Hat ihren Namen angenommen. Hausmann. | Pichler / Pichler    | Hat den Umschlag der Haidachers gesehen. Schweigt. Noch.                                                                 |
+| [[Fabian Pichler]]   | Susannes Mann, geboren Hauser. Hat ihren Namen angenommen. Hausmann. | Pichler / Pichler    | Hat den Umschlag der Haidachers gesehen. Schweigt. Noch.                                                                 |
 | [[Amelie von Gruber]] | Nicis Mama, aus Meran, halb dort.                                    | Gruber / **Pichler** | Weiß von Verena. Würde Timotheus gern fallen sehen. Die Villa aber nicht.                                                |
-| [[Markus Holzknecht]] | Emils Papa. Bergretter, Skilehrer.                                   | Pichler / Pichler    | Ahnt nichts.                                                                                                             |
+| [[Markus Holzknecht]] | Felix' Papa. Bergretter, Skilehrer.                                   | Pichler / Pichler    | Ahnt nichts.                                                                                                             |
 | [[Birgit Eder]]       | Jonas' Mama, aus dem Mühlviertel.                                    | Pichler / Pichler    | Pflegt an den Wochenenden den Opa am Hof. Die Ehe kriselt. Sie hasst den Chef ihres Mannes, weil der Lohn zu spät kommt. |
 
 Die übrigen Partner (Herr Aigner, Frau Lichtenau) bleiben ohne eigene Notiz, bis eine Intrige sie braucht.
@@ -110,27 +117,37 @@ Die übrigen Partner (Herr Aigner, Frau Lichtenau) bleiben ohne eigene Notiz, bi
 
 Jede wird ein Dossier in `Intrigen/`.
 
-1. **[[Die Nusstorte]]:** Beim Frühlingsfest 2026 bekam Mira einen anaphylaktischen Schock, der Notarzt musste kommen. Die Torte kam aus der Pichler-Küche, Jassi hat mitgebacken. Susanne: „Die Pädagogin hat die Allergieliste nicht geprüft." Der Council kündigte Maria, Barbara Aigner bekam einen Sitz. Susanne und Florian wissen Bescheid. Mira erinnert sich, Maria ahnt es. Kommt es heraus, kippt Aigner.
-2. **[[Der zwölfte Platz]]:** Die Haidachers haben Susanne bezahlt: einen Umschlag, dazu das Klettergerüst als „Spende". Verena hat die Spende verbucht und die Belege für Timotheus kopiert. Florian hat den Umschlag gesehen. Max plaudert.
-3. **[[Onkel Timo]]:** Timotheus und Verena haben seit dem Winter eine Affäre. Sie ist sein Maulwurf im Pichler-Lager. Emil plaudert. Amelie weiß es, Markus nicht. Monika Pixner sieht Verena kommen.
+1. **[[Die Nusstorte]]:** Beim Frühlingsfest 2026 bekam Mira einen anaphylaktischen Schock, der Notarzt musste kommen. Die Torte kam aus der Pichler-Küche, Jassi hat mitgebacken. Susanne: „Die Pädagogin hat die Allergieliste nicht geprüft." Der Council kündigte Maria, Barbara Aigner bekam einen Sitz. Susanne und Fabian wissen Bescheid. Mira erinnert sich, Maria ahnt es. Kommt es heraus, kippt Aigner.
+2. **[[Der zwölfte Platz]]:** Die Haidachers haben Susanne bezahlt: einen Umschlag, dazu das Klettergerüst als „Spende". Verena hat die Spende verbucht und die Belege für Timotheus kopiert. Fabian hat den Umschlag gesehen. Max plaudert.
+3. **[[Onkel Timo]]:** Timotheus und Verena haben seit dem Winter eine Affäre. Sie ist sein Maulwurf im Pichler-Lager. Felix plaudert. Amelie weiß es, Markus nicht. Monika Pixner sieht Verena kommen. Donnerstags nach der Runde sperren sich die beiden im Notariat Lichtenau ein; Ferdinand schweigt, Leopold hört es und hält es für Steuerberatung (#160).
 4. **[[Die Villa]]:** Timotheus ist pleite. Die Ahnenbilder sind verkauft, der Exekutor war im Haus, die Villa hängt an der Hypothek. Er will Katharinas Wohnung (Eigenbedarf) oder mehr Miete. Sein Büro zahlt Thomas Eder seit zwei Monaten zu spät, und Sepp Kirchmair wartet auf sein Geld. Drei Kinder wohnen im selben Haus: Nici, Leni, Matteo.
 5. **[[Das Loch in der Kassa]]:** 2024 nahm Timotheus 8.000 € aus der Vereinskassa. Plattner hatte als Kassier unterschrieben und flog raus. Timotheus zahlte still zurück, und Lichtenaus Protokoll sagt „Buchungsfehler". Lichtenau weiß es.
 6. **[[Samstage]]:** Thomas Eder und Katharina Brunner. Noch keine Affäre, bald eine. Birgit ist am Hof, Jonas und Leni sind die Tarnung. Zwei Swing-Stimmen kommen sich näher.
 7. **[[Der versprochene Sitz]]:** Susanne hat den nächsten freien Sitz dreimal versprochen: den Behrens, den Plattners, den Haidachers. Frei wird er nächsten Sommer.
-8. **[[Freiherr von]]:** Das Adelsaufhebungsgesetz von 1919. Die Lichtenaus waren Grafen und haben es gelassen. Sie verachten den Freiherrn, der es nicht lässt, stehen aber zu ihm, weil man die eigenen Leute nicht fallen lässt. Konstantin erzählt es Lo irgendwo zwischen Sarajevo und dem Isonzo. Lo kann es Susanne stecken, oder Frau Hofer.
+8. **[[Freiherr von]]:** Das Adelsaufhebungsgesetz von 1919. Die Lichtenaus waren Grafen und haben es gelassen. Sie verachten den Freiherrn, der es nicht lässt, stehen aber zu ihm, weil man die eigenen Leute nicht fallen lässt. Leopold erzählt es Lo irgendwo zwischen Sarajevo und dem Isonzo. Lo kann es Susanne stecken, oder Frau Hofer. Timotheus bricht das Gesetz mit Absicht und aus Stolz: Er hält es für falsch und den Titel für verdient (#160).
 9. **[[Die Erdbeertorte]]:** Nici verträgt keine Erdbeeren. Timotheus richtet das Herbstfest aus. Susannes „Gefallen": Lo serviert eine Erdbeertorte. Nici landet im Krankenhaus, Timotheus steht blamiert da. Das Muster der Nusstorte, diesmal mit Absicht.
 10. **[[Das WG-Jahr]]:** 2003 in Wilten wohnten Susanne und Notburga zusammen. Papa Pichler zahlte die Miete, Susanne erzählt es als ihr Arbeiterinnen-Jahr. Notburga weiß es. Beide wissen, dass die andere es weiß.
-11. **[[Hochbegabt]]:** Susanne will für Jassi eine Förderung, „vielleicht hochbegabt". Der Einzige, der es wirklich ist, ist Konstantin, und er kommt aus dem anderen Lager.
+11. **[[Hochbegabt]]:** Susanne will für Jassi eine Förderung, „vielleicht hochbegabt". Der Einzige, der es wirklich ist, ist Leopold, und er kommt aus dem anderen Lager.
 12. **[[Die Hauptversammlung]]:** Abgewählt wird nur hier. Susanne hält sie für eine Formalität. Der Stand steht unter *Der Council*.
 13. **[[Die Runde]]:** Donnerstags nach Dienstschluss im Notariat Lichtenau. Timotheus, Ferdinand, Verena, seit Kurzem Thomas. Protokoll wird keines geführt. Hier wird der Sturz der Vorständin vorbereitet.
 14. **Wenn die drei es erfahren:** Die Behrens, die Plattners und die Haidachers haben keine Stimme. Aber sobald sie merken, dass Susanne ihnen allen denselben Sitz versprochen hat, haben sie Geld, Zungen und Kinder im Kindergarten.
 
 ## Offene Fragen
 
+<<<<<<< HEAD
 - **Datenänderungen:**
   - Erledigt am 5.10.2026 (Merge `docs/elternrat-lore`): Lenis Geburtstag am 16. Oktober (Tag 25), Nicis Erdbeerallergie (Fact `erdbeeren`), Timotheus' Sway 3 (#117, Sway-Summe 9), Jassis Muggen.
   - Erledigt mit fr-066: Miras Satz zur Nusstorte ist der Fact `stueck`, ihr Anvertrauen beim Thema Essen.
 - **Hauptversammlung:** Wann ist sie? Vorschlag: Tag 30, Freitag, 23. Oktober. Dann endet der Lauf mit der Abwahl.
+=======
+- **Datenänderungen, angenommen am 2026-10-05, noch nicht im Spiel:**
+  - Lenis Geburtstag vom 21. Jänner auf den 16. Oktober (Tag 25), damit er zu ihrer Geburtstags-Aufgabe (Tage 23–26) passt.
+  - Nici bekommt eine Erdbeerallergie als neuen Fact.
+  - Mira bekommt den Satz über die „Jassi-Mama" als neuen Fact, zu entdecken über `essen` bei hohem Vertrauen.
+  - Timotheus hat Sway 3, das ist entschieden. Im Spiel steht noch 2: in der Parent-Zeile in `content.de.json`, in fr-052 (Sway-Summe 8 → 9) und in `ShippedDataTests.cs:1611`. Das wird ein eigenes Ticket.
+    - **Erledigt (#156 geprüft):** Im Spiel steht seit #117 Sway 3, die Summe ist 9.
+- **Hauptversammlung:** entschieden. Sie ist an Tag 30 und beendet das Spiel. Lo ist dabei, und das Ende hat Versionen, je nach ihren Entscheidungen. Siehe [[Die Hauptversammlung]].
+>>>>>>> origin/main
 - **Gewalt:** noch nirgends gesetzt, nur wenn die Geschichte es verlangt. Idas Vernachlässigung ist der einzige schwere Faden bisher.
 - **Namen:** Lichtenau, Holzknecht, Haidacher, Plattner, Kirchmair, Pixner und Behrens sind erfunden. Maria Kofler grüßt die Maria aus dem Vorgänger-Projekt.
 - **Vornamen für Frau Aigner, Frau Brunner und Herrn Eder:** Die gelten nur in der Lore. Im Spiel bleiben sie „Frau Aigner", „Frau Brunner" und „Herr Eder".

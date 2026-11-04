@@ -29,7 +29,7 @@ stand: 2026-09-30
 - **Das Büro zahlt** Thomas Eder seit zwei Monaten zu spät. Dafür hat Timotheus ihm eine Juniorpartnerschaft versprochen.
 - **Amelies Familie** in Meran zahlt nicht. Das regelt der Ehevertrag.
 - **Amelies Plan:** Kommt es zur Zwangsversteigerung, kauft sie die Villa über die Weingut-Firma ihres Bruders. Dann gehört ihr das Haus, und er nicht mehr dazu.
-- **Monika Pixner** ist 2015 mit Amelie aus dem Passeier gekommen und ist ihre Vertraute. Nici isst oft unten bei den Pixners.
+- **Monika Pixner** ist 2015 mit Amelie aus dem Passeier gekommen und ist ihre Vertraute. Nici isst oft unten bei den Pixners. Monikas Lohn zahlt seit dem Frühjahr Amelie, privat und bar.
 - **Der Plan:** Die Villa parifizieren und die Etagen einzeln verkaufen. Dafür sind die Brunners im Weg.
 - **Katharinas Hebel** (Vorschlag): Die Villa ist ein Gründerzeitbau, also gilt der Richtwertmietzins. Katharinas Miete liegt weit darüber. Eine Mietzinsüberprüfung bei der Schlichtungsstelle würde Timotheus die Überzahlung kosten und die Sache öffentlich machen.
 - **Timotheus' Hebel:** der Council-Sitz, den er ihr gegeben hat, und die Laune des Vermieters.
@@ -52,8 +52,10 @@ stand: 2026-09-30
 
 - **Nici:** Ihre Steine tragen die Namen der verschwundenen Ahnen. Herbert ist der älteste. Die Schätze vergräbt sie unter der Rutsche, „damit sie keiner abholt".
 - **Matteo:** „Heut war wieder der Mann mit den Pickerln beim Herrn Baron."
+  - **Im Spiel (#162):** über Matteos eigenes Topic Villa, das Talk Monster freischaltet (Fact `pickerl`). Die Bilder erwähnt er bei Talk Wetter, ohne Fact: „Da hängen jetzt keine Bilder mehr, nur die Nägel."
 - **Leni:** Sie verhandelt wie über einen Mietvertrag. „Die Mama sagt, der Herr Gruber ist ein Wucherer." (Vorschlag)
 - **Valentina:** „Mei Papa sagt, der Baron zahlt nia." (Vorschlag)
+  - **Im Spiel (#164):** über Valentinas eigenes Topic `werkstatt`, das Talk Wochenende freischaltet. Die gewöhnliche Zeile erzählt die Heizung beim Herrn Baron, „und jetzt wart ma" (Fact `heizung`); ab `confideThreshold` das Anvertrauen „Mei Papa sagt, der Baron zahlt nia." (Fact `zahlt_nie`). Hinter Vertrauen, weil es der Hebel unter „Was es kippt" ist: ein pleiter Vizepräsident.
 
 ## Was es kippt
 

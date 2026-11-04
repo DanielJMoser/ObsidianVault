@@ -6,7 +6,7 @@ council: vorstand
 sitz: false
 lager: pichler
 ---
-# Florian Pichler
+# Fabian Pichler
 > Susannes Mann, geboren Hauser. Hat ihren Namen angenommen und damit mehr abgegeben als einen Namen.
 
 ## Eckdaten
@@ -52,6 +52,8 @@ lager: pichler
 - **Walter Pichler:** der Schwiegervater. Zahlt alles und lässt es ihn spüren.
 - **Evelyn Haidacher:** die Frau mit dem Umschlag. Sie grüßt ihn seitdem zu freundlich.
 
+- [[Barbara Aigner]]: Seit Mai holt er bei ihr in der Apotheke Schlafmittel. Der Vater der Torte kauft bei der Mutter des Kindes. Sie fragt nicht.
+
 ## Intrigen
 - [[Der zwölfte Platz]]: hat den Umschlag gesehen. Schweigt. Will nicht, dass Jassi einmal fragt, woher das Geld kam.
 - [[Die Nusstorte]]: hat die Nüsse gekauft. Weiß alles. Verbirgt es aus Angst. Will eigentlich reinen Tisch.
@@ -59,6 +61,6 @@ lager: pichler
 - [[Hochbegabt]]: dagegen. Verliert jede Diskussion darüber.
 
 ## Offene Fragen
-- (geteilt) Hat Florian Maria nach der Kündigung geschrieben oder sich bei ihr entschuldigt? Das Kofler-Dossier müsste es wissen.
+- (geteilt, entschieden) Hat Fabian Maria nach der Kündigung geschrieben? Nein. Dafür steht er zu sehr unter Susannes Fuchtel.
 - In welchem Museum? Bleibt besser ungenannt.
 - Wann kippt er? Vorschlag: sobald die Erdbeertorte geplant wird. Eine Allergie reicht ihm, zwei nicht mehr.

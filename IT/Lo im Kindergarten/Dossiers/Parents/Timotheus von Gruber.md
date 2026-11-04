@@ -17,6 +17,7 @@ lager: gruber
 - **Herkunft:**
   - Alte Tiroler Linie, Freiherren von Gruber.
   - Der Titel ist seit 1919 abgeschafft. Er schreibt das „v." trotzdem, auf jedes Briefpapier.
+  - **Mit Absicht (#160):** Er weiß, dass er das Gesetz bricht. Er hält es für falsch und den Titel für verdient, und er ist stolz darauf.
 - **Allergien:** keine.
 - **Stimme:** förmlich, Sie, Genitiv, lange Sätze. Nie ein Dialektwort, außer wenn er wütend wird. Dann kommt der Innsbrucker durch.
   - „Ich darf Sie ersuchen, diese Angelegenheit mit der gebotenen Diskretion zu behandeln."
@@ -40,12 +41,12 @@ lager: gruber
 - An Tag 3 schreibt er Lo: Anerkennung gegen Loyalität.
 
 ## Entdeckbar
-- **Der Titel ist verboten.** Konstantin erzählt es Lo im Talk, irgendwo zwischen Weltkrieg und Habsburg. Lo kann es Susanne stecken, oder Frau Hofer.
+- **Der Titel ist verboten.** Leopold erzählt es Lo im Talk, irgendwo zwischen Weltkrieg und Habsburg. Lo kann es Susanne stecken, oder Frau Hofer.
 - **Er ist pleite.**
   - Nicis Steine heißen wie die Ahnen, deren Bilder verschwinden (Talk: Steinsammlung).
   - Matteo weiß, wann „der Mann mit den Pickerln" kommt.
-- **Affäre mit Verena.** Emil sagt „Onkel Timo" zu ihm, weil er so oft da ist.
-- **Die Kassa.** Hannah wiederholt Wort für Wort, was Martin Plattner über den „Herrn Baron" sagt.
+- **Affäre mit Verena.** Felix sagt „Onkel Timo" zu ihm, weil er so oft da ist.
+- **Die Kassa.** Hannah wiederholt Wort für Wort, was Manni Plattner über den „Herrn Baron" sagt.
 - **Schulden beim Installateur.** Valentina: „Der Baron zahlt nit." (Vorschlag)
 - **Die Runde.** Donnerstags brennt im Notariat Lichtenau lang Licht. Der Weg ins Spiel ist offen.
 
@@ -77,7 +78,7 @@ lager: gruber
 - **[[Thomas Eder]]:** Sein Bauleiter, zu spät bezahlt, mit einem Versprechen gehalten.
 - **[[Katharina Brunner]]:** Mieterin im zweiten Stock. Er hat ihr den Sitz gegeben und traut ihr nicht.
 - **[[Susanne Pichler]]:** Die Gegnerin. Er hält sie für eine Aufsteigerin mit Doppelmoral (und das stimmt ja auch zur Hälfte).
-- **Martin Plattner:** Sein Sündenbock von 2024.
+- **Manni Plattner:** Sein Sündenbock von 2024.
 - **Sepp Kirchmair:** Sein Gläubiger, 14.000 €.
 - **Monika Pixner:** Hausbetreuerin. Er merkt nicht, dass sie alles sieht.
 
@@ -86,6 +87,7 @@ lager: gruber
 - **[[Onkel Timo]]:** Verbirgt die Affäre vor Amelie (vergeblich) und vor Markus. Will Verenas Belege und ihre Stimme.
 - **[[Das Loch in der Kassa]]:** Weiß es und verbirgt es. Will, dass es beim „Buchungsfehler" bleibt.
 - **[[Freiherr von]]:** Weiß, dass es verboten ist, und hält es für eine Formsache. Will nie darauf angesprochen werden.
+  - **Geändert (#160):** Keine Formsache. Er führt den Titel mit Absicht und aus Stolz, weil er das Gesetz für falsch und den Titel für verdient hält. Will als Freiherr gelten, und dass ihm keiner öffentlich das Gesetz vorhält.
 - **[[Der zwölfte Platz]]:** Weiß von Susannes Umschlag, verbirgt, dass er die Belege hat. Will sie in der Hauptversammlung auf den Tisch legen.
 - **[[Die Nusstorte]]:** Ahnt, dass die Torte von den Pichlers kam, hat aber keinen Beweis. Kommt es heraus, hat er Aigner, und damit seine fünfte Stimme.
 - **[[Die Runde]]:** Sein Kriegsrat, donnerstags.

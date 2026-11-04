@@ -1,25 +1,26 @@
 ---
 typ: intrige
-beteiligte: ["[[Susanne Pichler]]", "[[Verena Holzknecht]]", "[[Timotheus von Gruber]]", "[[Florian Pichler]]", "[[Max]]"]
+beteiligte: ["[[Susanne Pichler]]", "[[Verena Holzknecht]]", "[[Timotheus von Gruber]]", "[[Fabian Pichler]]", "[[Max]]"]
 zeit: läuft
 stand: 2026-09-30
 ---
 
 # Der zwölfte Platz
 
-> Ein Härtefallplatz, gekauft von einer Hoteliersfamilie.
+> Ein Notfallplatz, gekauft von einer Hoteliersfamilie (#157).
 
 ## Was war
 
-- **Die Gruppe:** Sie hat elf Plätze plus einen Reserveplatz „für Härtefälle". Laut Satzung vergibt der Vorstand ihn.
+- **Vorgeschichte:** Es ist nicht der erste gekaufte Platz. 2025 hat Maria Kofler Susanne unter vier Augen auf einen merkwürdig frei gewordenen Platz angesprochen. Siehe [[Die Nusstorte]]. (Vorschlag)
+- **Die Gruppe:** Sie hat elf Plätze plus einen Notfallplatz, freigehalten für den dringendsten Fall auf der Warteliste. Laut Satzung vergibt der Vorstand ihn (#157).
 - **Die Haidachers:** Hotel im Zillertal, seit dem Frühjahr 2026 in einer frisch renovierten Villa im Saggen. Max ist 4.
-- **Die andere Bewerbung:** eine alleinerziehende Mutter aus Pradl, ein echter Härtefall. Abgelehnt. (Vorschlag: ohne eigene Notiz)
+- **Die andere Bewerbung:** eine alleinerziehende Mutter aus Pradl, ein echter Notfall (#157). Abgelehnt. (Vorschlag: ohne eigene Notiz)
 - **Juli 2026, die Zahlung:**
   - 5.000 € bar im Kuvert für Susanne, „für die Stiftung". Evelyn Haidacher bringt es persönlich in die Maisonette. In der Stiftung verbucht wurde das Geld nie.
   - 18.000 € als „Spende" fürs Klettergerüst, überwiesen an den Verein, zwei Tage vor der Vorstandssitzung.
 - **Die Vorstandssitzung:** Susanne und Verena stimmen dafür. Timotheus lässt es durchgehen, weil er den Beweis will, nicht die Blockade. Lichtenau enthält sich.
 - **August:** Das Klettergerüst steht.
-- **Tag 11 (Mo 28.9.):** Max kommt (Vorschlag).
+- **Tag 11 (Mo 28.9.):** Max wird aufgenommen. Der Morgenbericht kündigt ihn an. Vorher ist er nirgends im Spiel, nur sein Garderobenzeichen und der leere `tisch_12` stehen schon da (#157).
 - **Obendrauf:** Susanne hat den Haidachers auch den nächsten Council-Sitz versprochen. Siehe [[Der versprochene Sitz]].
 
 ## Wer weiß was
@@ -29,17 +30,20 @@ stand: 2026-09-30
 | [[Susanne Pichler]] | alles | das Kuvert | dass das Klettergerüst als ihr Erfolg gilt |
 | [[Verena Holzknecht]] | die Überweisung und das Datum. Hat Beleg und Protokoll kopiert. | die Kopien, vor Susanne | sie Timotheus geben, wenn es zählt |
 | [[Timotheus von Gruber]] | die Überweisung. Das Kuvert ahnt er nur. | die Kopien, bis zur Hauptversammlung | Susanne damit stürzen |
-| [[Florian Pichler]] | das Kuvert. Er hat es auf dem Küchentisch liegen sehen. | es, noch | Ruhe |
+| [[Fabian Pichler]] | das Kuvert. Er hat es auf dem Küchentisch liegen sehen. | es, noch | Ruhe |
 | [[Max]] | „Mei Papa hat's Klettergerüst kauft" | nichts | klettern |
 | Hannes und Evelyn Haidacher | alles | die Summe | den Sitz |
 
 ## Wie es herauskommen kann
 
 - **Max:** „Mei Papa hat's Klettergerüst kauft, damit i einidarf." Bei höherem Vertrauen: „Und d'Mama hat der Jassi-Mama a Kuvert brocht." (Vorschlag)
+  - **Im Spiel (#165):** Das Klettergerüst ist ein gewöhnliches Reveal auf `wetter` (Fact `klettergeruest`), ohne Hürde, denn er sagt es jedem. Die Spenderplakette (fr-051) sagt nur „Gespendet von Familie Haidacher"; erst „damit i einidarf" macht aus der Spende einen gekauften Platz. Das Kuvert ist das Anvertrauen auf demselben Topic (Fact `kuvert`): ab `confideThreshold`, wenn Lo `klettergeruest` kennt, sagt er: „Des Klettergerüst hat mei Papa kauft. Und d'Mama hat der Jassi-Mama a Kuvert brocht, a ganz a dicks. I war dabei, an der Tür. […] Die Jassi war am Fenster." (Platzhalter) Max fängt an Tag 11 frisch an; kümmert sich Lo um ihn, kommt das Kuvert frühestens um Tag 13 oder 14.
+  - **Jassis Satz** unten bringt kein Ticket ins Spiel; im Spiel ist Max der einzige Weg zum Kuvert (offen auf der Map #152).
 - **Jassi:** „Eine Frau hat der Mama ein Kuvert gebracht. Dann hat der Papa ganz lang nix geredet."
 - **Verenas Kopien:** wenn Lo an sie herankommt, oder wenn Timotheus sie Lo als Patron zeigt.
-- **Florian:** wenn er bricht.
+- **Fabian:** wenn er bricht.
 - **Die Stiftung:** Eine Spende der Haidachers taucht in den Büchern der Stiftung nicht auf.
+- **Der Morgenbericht an Tag 11:** „Der Council of Parents®: Ab heute besucht Max den Notfallplatz Ihrer Gruppe." (Platzhalter) Die Zeile erklärt nichts. Wer später hört, dass Max' Papa das Klettergerüst gekauft hat, merkt, wer den Platz für den dringendsten Fall bekommen hat (#157).
 
 ## Was es kippt
 
@@ -48,5 +52,5 @@ stand: 2026-09-30
 
 ## Offene Fragen
 
-- An welchem Tag kommt Max? Vorschlag: Tag 11.
+- ~~An welchem Tag kommt Max?~~ Entschieden: Tag 11, seine Aufnahme (#157).
 - Stimmt Lichtenau dafür oder enthält er sich? Hier steht Enthaltung, damit er sauber bleibt.
