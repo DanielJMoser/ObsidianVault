@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Areas/Computer-Science/Algorithmen-Datenstrukturen/_Algorithmus.md",
+                "file": "CLAUDE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_Algorithmus"
+              "title": "CLAUDE"
             }
           }
         ]
@@ -194,6 +194,8 @@
   },
   "active": "3a3e95275d10e7fb",
   "lastOpenFiles": [
+    "Disruptive Innovation.md",
+    "02-Areas/Computer-Science/Algorithmen-Datenstrukturen/_Algorithmus.md",
     "02-Areas/Computer-Science/Algorithmen-Datenstrukturen/Suchalgorithmen/Breadth-First Search.md",
     "02-Areas/Computer-Science/Daten/Datenbanken/Big Data/_Big Data.md",
     "02-Areas/Computer-Science/Daten/Datenbanken/Big Data/Handling Data.md",
@@ -222,8 +224,6 @@
     "02-Areas/Computer-Science/Der Computer/Prozessor/NUMA.md",
     "IT/Lo im Kindergarten/Dossiers/Parents/Fabian Pichler.md",
     "IT/Lo im Kindergarten/Dossiers/Kids/Leopold.md",
-    "CLAUDE.md",
-    "Design Thinking.md",
     "Assets/Excalidraw/Scripts/Downloaded/Concatenate lines.svg",
     "CLAUDE.md.tmp.21533.c4ffd44c21c8"
   ]
