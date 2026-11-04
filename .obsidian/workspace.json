@@ -25,14 +25,12 @@
             "id": "8e460748978a852f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "ITCS/Hello.md",
-                "mode": "source",
-                "source": false
+                "file": "2026-07-27_17-49.png"
               },
-              "icon": "lucide-file",
-              "title": "Hello"
+              "icon": "lucide-image",
+              "title": "2026-07-27_17-49"
             }
           }
         ],
@@ -209,8 +207,10 @@
   },
   "active": "8e460748978a852f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Screenshot at 2026-10-30 16-17-30.png",
+    "Screenshot 2026-10-08 at 09-37-53 PowerPoint-Präsentation - Innovation Design Change_26_2.pdf.png",
     "ITCS/Hello.md",
+    "conflict-files-obsidian-git.md",
     "ITCS/Keynotes -- Stichworte.md",
     "02-Areas/Computer-Science/Machine Learning/Clustering/Cluster.md",
     "ITCS",
@@ -235,8 +235,6 @@
     "02-Areas/Computer-Science/Systeme/ERP-Systeme/Technische Grundlagen/_Technische Grundlagen.md",
     "02-Areas/Computer-Science/Systeme/ERP-Systeme/Marktführer und -entwicklungen.md",
     "02-Areas/Computer-Science/Systeme/Sonstige Systeme/IoT-Systeme.md",
-    "Screenshot 2026-10-08 at 09-37-53 PowerPoint-Präsentation - Innovation Design Change_26_2.pdf.png",
-    "Wicked Problems.md",
     "Assets/Excalidraw/Scripts/Downloaded/Concatenate lines.svg",
     "CLAUDE.md.tmp.21533.c4ffd44c21c8"
   ]
