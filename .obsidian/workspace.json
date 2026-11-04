@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "Design Thinking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "Design Thinking"
             }
           }
         ]
@@ -169,13 +169,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "21dd48e0a06ef1f7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,6 +204,7 @@
   },
   "active": "3a3e95275d10e7fb",
   "lastOpenFiles": [
+    "CLAUDE.md",
     "Disruptive Innovation.md",
     "02-Areas/Computer-Science/Algorithmen-Datenstrukturen/_Algorithmus.md",
     "02-Areas/Computer-Science/Algorithmen-Datenstrukturen/Suchalgorithmen/Breadth-First Search.md",
@@ -223,7 +234,6 @@
     "02-Areas/Computer-Science/Systeme/Architektur von Informationssystemen/Parallele vs. Verteilte Systeme.md",
     "02-Areas/Computer-Science/Der Computer/Prozessor/NUMA.md",
     "IT/Lo im Kindergarten/Dossiers/Parents/Fabian Pichler.md",
-    "IT/Lo im Kindergarten/Dossiers/Kids/Leopold.md",
     "Assets/Excalidraw/Scripts/Downloaded/Concatenate lines.svg",
     "CLAUDE.md.tmp.21533.c4ffd44c21c8"
   ]
