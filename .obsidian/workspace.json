@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Keynotes -- Stichworte"
             }
-          },
-          {
-            "id": "8e460748978a852f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "2026-07-27_17-49.png"
-              },
-              "icon": "lucide-image",
-              "title": "2026-07-27_17-49"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,8 +192,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8e460748978a852f",
+  "active": "d67eb179f40148bb",
   "lastOpenFiles": [
+    "2026-07-27_17-49.png",
     "Screenshot at 2026-10-30 16-17-30.png",
     "Screenshot 2026-10-08 at 09-37-53 PowerPoint-Präsentation - Innovation Design Change_26_2.pdf.png",
     "ITCS/Hello.md",
