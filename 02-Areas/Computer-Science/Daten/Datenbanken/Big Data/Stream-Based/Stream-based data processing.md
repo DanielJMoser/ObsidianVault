@@ -24,7 +24,6 @@ Es gibt verschiedene Techniken, die in Stream-based Data Processing eingesetzt w
 -   **[[In-Memory Computing]]**: Eine Technik, bei der Daten im Arbeitsspeicher verarbeitet werden, um schnelle Antwortzeiten zu ermöglichen.
     
 -   **[[Stream Analytics]]**: Eine Technik, bei der Datenströme in Echtzeit analysiert werden, um Muster zu erkennen und Vorhersagen zu treffen.
-    
 
 ## Anwendungen
 

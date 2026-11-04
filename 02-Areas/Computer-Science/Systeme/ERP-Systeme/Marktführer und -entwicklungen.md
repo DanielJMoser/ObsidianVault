@@ -39,6 +39,7 @@ Der ERP-Markt ist dynamisch und wettbewerbsintensiv, geprägt von globalen und r
 - **Epicor**
 - **Workday** (stark im Personalwesen)
 
+
 ## Markttrends
 
 Die ERP-Branche befindet sich im Wandel, getrieben von technologischen Innovationen und veränderten Geschäftsanforderungen.
