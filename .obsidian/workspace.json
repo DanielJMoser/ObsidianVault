@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Areas/Computer-Science/Daten/Datenbanken/Big Data/Batch-based data processing.md",
+                "file": "02-Areas/Computer-Science/Daten/Datenbanken/Big Data/Handling Data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Batch-based data processing"
+              "title": "Handling Data"
             }
           }
         ]
@@ -194,6 +194,8 @@
   },
   "active": "5fda88bbf9a47ecb",
   "lastOpenFiles": [
+    "02-Areas/Computer-Science/Daten/Datenbanken/Big Data/ETL und ELT.md",
+    "02-Areas/Computer-Science/Daten/Datenbanken/Big Data/Batch-based data processing.md",
     "02-Areas/Computer-Science/Daten/Datenbanken/Big Data/Stream-Based/Stream-based data processing.md",
     "02-Areas/Computer-Science/Daten/Datenbanken/Big Data/Stream-Based/Stream Operations.md",
     "02-Areas/Computer-Science/Daten/Datenbanken/Big Data/Stream-Based/Stream Analytics.md",
@@ -222,8 +224,6 @@
     "Expanding-Root-Partition-Guide.md",
     "02-Areas/Computer-Science/Betriebssysteme/Prozesssynchronisation/_Prozesssynchronisation.md",
     "02-Areas/Computer-Science/Daten/Datenbanken/NoSQL Databases/Neo4j/Neo4j.md",
-    "02-Areas/Academia/Bachelor DiBSE/Digital Business/Bachelorprüfung/Stichwortlisten/Architektur von Informationssystemen.md",
-    "02-Areas/Computer-Science/Systeme/Architektur von Informationssystemen/Memory-Systeme/Shared-Memory Computer/_Shared-Memory Computer.md",
     "Assets/Excalidraw/Scripts/Downloaded/Concatenate lines.svg",
     "CLAUDE.md.tmp.21533.c4ffd44c21c8"
   ]
