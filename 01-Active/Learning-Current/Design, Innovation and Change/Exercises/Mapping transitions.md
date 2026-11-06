@@ -5,12 +5,9 @@ Machmas in Englisch
 ## What I had to let go of
 - Major changes at work -> Reduced hours extensively, has an effect on my position
 
-
 ## What felt disorienting in between
-Starting the MCIT Master's Progrm
-Machmas in Englisch
-- Somehow I find myself not having enough time for sports (once a week of MMA/BJJ down from at least three times)
-  -> DOES affect my mood
-- 
+- Not a lot of time for myself (usually 16h of noise cancelling)
 
-# 
+##  What helped me feel settled?
+- I don't yet, but the people being as lovely as they are certainly helps
+
