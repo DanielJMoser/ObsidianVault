@@ -3,6 +3,16 @@
 For each employee, discuss:
 1. **What might explain their resistance?**
    - Maria: Pride! Doesn't want to share credit, maybe :)
-   - 
+   - Thomas: Concerned about security
+   - Anna: No time at all.
+   - Ben: scared about lay-offs
 1. Is their resistance primarily related to their personal Diagnose the Resistance disposition, the situation, or an interaction between the two?
-2. Which of the four change personas best describes their behavior? What might this label overlook?
+   - Maria: Personal
+   - Thomas: disposition
+   - Anna: No time at all.
+   - Ben: scared about lay-offs
+1. Which of the four change personas best describes their behavior? What might this label overlook
+   - Maria: Traditionalist
+   - Thomas: Sceptic
+   - Anna: Overwhelmed
+   - Ben: Blocker
