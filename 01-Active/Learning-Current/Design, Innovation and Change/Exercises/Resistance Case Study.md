@@ -7,8 +7,8 @@ For each employee, discuss:
    - Anna: No time at all.
    - Ben: scared about lay-offs
 1. Is their resistance primarily related to their personal Diagnose the Resistance disposition, the situation, or an interaction between the two?
-   - Maria: Personal
-   - Thomas: disposition
+   - Maria: 
+   - Thomas: Personal disposition
    - Anna: 
    - Ben: scared about lay-offs
 1. Which of the four change personas best describes their behavior? What might this label overlook
