@@ -8,4 +8,4 @@
 - Kontext, Kultur
 - Was wird geändert? Wie weitreichend?
 - Was erwarte ich an benefits und downsides von dieser Änderung
-- 
+
