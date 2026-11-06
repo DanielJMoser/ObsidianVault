@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "490ea16e6ad25efb",
+        "id": "88d976198994aa70",
         "type": "tabs",
         "children": [
           {
-            "id": "3a3e95275d10e7fb",
+            "id": "74d587025f9666cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Active/Learning-Current/Design, Innovation and Change/Appraisal.md",
+                "file": "01-Active/Learning-Current/Design, Innovation and Change/Exercises/Mapping transitions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Appraisal"
+              "title": "Mapping transitions"
             }
           }
         ]
@@ -203,13 +203,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3a3e95275d10e7fb",
+  "active": "74d587025f9666cf",
   "lastOpenFiles": [
-    "01-Active/Learning-Current/Design, Innovation and Change/Disruptive Innovation.md",
-    "01-Active/Learning-Current/Design, Innovation and Change/Job-to-Be-Done Theory.md",
     "01-Active/Learning-Current/Design, Innovation and Change/Appraisal.md",
-    "01-Active/Learning-Current/Design, Innovation and Change/An Individual Perspective on Change.md",
     "01-Active/Learning-Current/Design, Innovation and Change/Design Thinking.md",
+    "01-Active/Learning-Current/Design, Innovation and Change/Job-to-Be-Done Theory.md",
+    "01-Active/Learning-Current/Design, Innovation and Change/An Individual Perspective on Change.md",
+    "2026-07-27_17-49.png",
+    "01-Active/Learning-Current/Design, Innovation and Change/Exercises/Mapping transitions.md",
+    "Assets/Images/Screenshot 2026-11-06 at 13-43-28 PowerPoint-Präsentation - Change02.pdf.png",
+    "01-Active/Learning-Current/Design, Innovation and Change/Exercises",
+    "Untitled",
+    "01-Active/Learning-Current/Design, Innovation and Change/Disruptive Innovation.md",
     "Assets/Images/Screenshot 2026-11-06 at 13-27-09 PowerPoint-Präsentation - Change02.pdf.png",
     "Assets/Images/Screenshot 2026-11-06 at 13-27-24 PowerPoint-Präsentation - Change02.pdf.png",
     "Assets/Images/Screenshot 2026-11-06 at 13-18-09 PowerPoint-Präsentation - Change02.pdf.png",
@@ -227,18 +232,15 @@
     "02-Areas/Computer-Science/Daten/Datenbanken/Big Data/Stream-Based/Stream Analytics.md",
     "02-Areas/Academia/Bachelor DiBSE/Digital Business/Bachelorprüfung/Stichwortlisten/Verteilte Systeme.md",
     "02-Areas/Computer-Science/Systeme/ERP-Systeme/Marktführer und -entwicklungen.md",
-    "ITCS/Keynotes -- Stichworte.md",
-    "2026-07-27_17-49.png",
+    "01-Active/Learning-Current/Design, Innovation and Change/ITCS/Keynotes -- Stichworte.md",
     "01-Active/Learning-Current/Design, Innovation and Change/Screenshot at 2026-10-30 16-17-30.png",
     "01-Active/Learning-Current/Design, Innovation and Change/Screenshot 2026-10-08 at 09-37-53 PowerPoint-Präsentation - Innovation Design Change_26_2.pdf.png",
-    "ITCS/Hello.md",
+    "01-Active/Learning-Current/Design, Innovation and Change/ITCS/Hello.md",
     "conflict-files-obsidian-git.md",
     "02-Areas/Computer-Science/Machine Learning/Clustering/Cluster.md",
-    "ITCS",
+    "01-Active/Learning-Current/Design, Innovation and Change/ITCS",
     "02-Areas/Computer-Science/Machine Learning/Learning/Unsupervised Learning.md",
     "02-Areas/Computer-Science/Machine Learning/Learning/Supervised Learning.md",
-    "02-Areas/Computer-Science/Daten/Datenbanken/NoSQL Databases/Neo4j/Patterns/Nodes.md",
-    "02-Areas/Computer-Science/Systeme/Architektur von Informationssystemen/Flynn'sche Taxonomie.md",
     "Assets/Excalidraw/Scripts/Downloaded/Concatenate lines.svg",
     "CLAUDE.md.tmp.21533.c4ffd44c21c8"
   ]
