@@ -6,4 +6,6 @@
 # Was beeinflusst die individuelle Reaktion?
 - Individuelle Charakteristiken
 - Kontext, Kultur
-- Was wird geändert?
+- Was wird geändert? Wie weitreichend?
+- Was erwarte ich an benefits und downsides von dieser Änderung
+- 
