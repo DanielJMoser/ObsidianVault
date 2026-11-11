@@ -1,4 +1,6 @@
 
+![[force-field-analysis.png]]
+
 | Driving Forces                        | Restraining Forces                |
 | ------------------------------------- | --------------------------------- |
 | employer becomes more attractive *+4* | concern for team culture *-2*     |
