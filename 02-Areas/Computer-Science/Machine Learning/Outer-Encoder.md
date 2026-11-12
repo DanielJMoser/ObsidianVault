@@ -1,1 +1,0 @@
-![[Large-Langstrumpf-Model.png]]
