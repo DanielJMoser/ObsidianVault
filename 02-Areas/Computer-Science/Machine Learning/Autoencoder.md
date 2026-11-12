@@ -56,13 +56,3 @@ Die Gewichte werden wie gewohnt über [[Forward Propagation]] und [[Backpropagat
 
 Der **Encoder** lernt, die Eingabe auf ihre **wesentlichen Merkmale** zu reduzieren, der **Decoder** lernt, daraus wieder die Eingabe herzustellen.
 Ist der Bottleneck **zu groß**, lernt das Netz nur eine Kopie der Eingabe und nichts Nützliches (vgl. [[Overfitting und Underfitting]]). Ist er **zu klein**, geht zu viel Information verloren.
-
-## Gibt es auch einen „Inner Encoder“?
-
-Im Machine Learning **nicht**, dort gibt es nur **Encoder** und **Decoder** (z.B. auch im Transformer).
-Die Begriffe **Outer Encoder** und **Inner Encoder** gibt es aber in der **Kanalcodierung** (Nachrichtentechnik), bei sogenannten **verketteten Codes** (*Concatenated Codes*):
-
-- **Outer Encoder** -> codiert die Daten **zuerst** (z.B. mit einem Reed-Solomon-Code)
-- **Inner Encoder** -> codiert das Ergebnis **nochmals** direkt vor dem Kanal (z.B. mit einem Faltungscode)
-
-Damit werden Übertragungsfehler zuverlässiger korrigiert, z.B. bei Raumsonden, DVB oder CDs. Mit Autoencodern hat das nichts zu tun.
