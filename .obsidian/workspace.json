@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gradient descent",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +79,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -204,7 +203,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c97fc64c914a6d36",
+  "active": "e589802cb46484ca",
   "lastOpenFiles": [
     "02-Areas/Computer-Science/Machine Learning/Outer-Encoder.md",
     "02-Areas/Computer-Science/Machine Learning/Artificial Neural Networks/Forward Propagation.md",
