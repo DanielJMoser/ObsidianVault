@@ -3,5 +3,6 @@
   "theme": "obsidian",
   "monospaceFontFamily": "Source Code Pro",
   "baseFontSize": 20,
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [],
+  "showRibbon": true
 }
