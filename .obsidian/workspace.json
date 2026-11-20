@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aes",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +79,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -206,6 +205,8 @@
   },
   "active": "10b89881f5bdbb6e",
   "lastOpenFiles": [
+    "02-Areas/Computer-Science/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen/DES.md",
+    "02-Areas/Computer-Science/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen/_Symmetrische Verschlüsselung.md",
     "02-Areas/Computer-Science/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Diffie-Hellman Key Exchange.md",
     "Untitled.canvas",
     "02-Areas/Computer-Science/IT Security/Theoretical Security/Kryptografie/Asymmetrische Algorithmen/_Asymmetrische Verschlüsselung.md",
@@ -231,7 +232,6 @@
     "02-Areas/Computer-Science/Daten/Datenbanken/Big Data/Data Products.md",
     "02-Areas/Computer-Science/Daten/Datenbanken/Big Data/ETL und ELT.md",
     "02-Areas/Academia/Bachelor DiBSE/Digital Business/Bachelorprüfung/Stichwortlisten/Datenbanken 2 & Big Data.md",
-    "01-Active/BOATSBOATSBOATS.md",
     "Assets/Documents/searle.minds.brains.programs.bbs.1980.pdf",
     "02-Areas/Computer-Science/Machine Learning/Overfitting und Underfitting.md.tmp.17693.dfc9dcf02fa5",
     "02-Areas/Computer-Science/Machine Learning/Outer-Encoder.md.tmp.17693.194c1d2ba2fa",
