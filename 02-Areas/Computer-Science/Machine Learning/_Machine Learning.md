@@ -11,7 +11,7 @@ Man unterscheidet zwischen **überwachten** ([[Supervised Learning]]) und **unü
 Wir nehmen an, dass alle Trainingssamples, Testsamples und alle Daten, die wir jemals klassifizieren wollen, **der selben** (unbekannten) Verteilungsfunktion folgen. 
 **Beispiel**: Aufgrund der abendlichen Kälte fährt in Sibirien nach 6 Uhr kein Bus mehr. Nehmen wir die nordischen Busfahrpläne als Input-Data an, so können wir etwaige Schlüsse daraus nicht in ein wärmeres Land wie Italien extrapolieren.
 
-# Daten Set-Up
+# Daten-Setup
 
 Es werden **drei** verschiedene Datensätze benötigt:
 
