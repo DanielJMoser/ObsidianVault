@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Areas/Computer-Science/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen/_Symmetrische Verschlüsselung.md",
+                "file": "02-Areas/Computer-Science/IT Security/Theoretical Security/Kryptografie/Asymmetrische Algorithmen/_Asymmetrische Verschlüsselung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_Symmetrische Verschlüsselung"
+              "title": "_Asymmetrische Verschlüsselung"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "RSA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,12 +79,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6797ab178ec4778b",
@@ -206,8 +206,8 @@
   },
   "active": "10b89881f5bdbb6e",
   "lastOpenFiles": [
-    "02-Areas/Computer-Science/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen/DES.md",
     "02-Areas/Computer-Science/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen/_Symmetrische Verschlüsselung.md",
+    "02-Areas/Computer-Science/IT Security/Theoretical Security/Kryptografie/Symmetrische Algorithmen/DES.md",
     "02-Areas/Computer-Science/IT Security/Theoretical Security/Kryptografie/Hybride Algorithmen/Diffie-Hellman Key Exchange.md",
     "Untitled.canvas",
     "02-Areas/Computer-Science/IT Security/Theoretical Security/Kryptografie/Asymmetrische Algorithmen/_Asymmetrische Verschlüsselung.md",
