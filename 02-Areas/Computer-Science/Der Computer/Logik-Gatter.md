@@ -48,12 +48,12 @@ Logikgatter verknüpfen logische Zustände (typischerweise 0 oder 1) und liefern
 - **Funktion**: Liefert 0 am Ausgang, **nur wenn alle Eingänge 1** sind. In allen anderen Fällen ergibt es 1. (Negation des AND)
 - **Wahrheitstabelle**:
 
-| A | B | A NAND B |
-|---|---|----------|
-| 0 | 0 |    1     |
-| 0 | 1 |    1     |
-| 1 | 0 |    1     |
-| 1 | 1 |    0     |
+| A   | B   | A NAND B |     |
+| --- | --- | -------- | --- |
+| 0   | 0   | 1        |     |
+| 0   | 1   | 1        |     |
+| 1   | 0   | 1        |     |
+| 1   | 1   | 0        |     |
 
 ### XOR-Gatter (Exklusives ODER)
 - **Funktion**: Liefert 1, wenn **genau einer** der Eingänge 1 ist, sonst 0.
